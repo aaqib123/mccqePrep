@@ -1,0 +1,474 @@
+{
+ "chapter": {
+  "code": "OP",
+  "name": "Ophthalmology"
+ },
+ "document": {
+  "id": "toronto-notes-2025",
+  "title": "Toronto Notes 2025",
+  "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
+ },
+ "count": 10,
+ "questions": [
+  {
+   "id": "TN-OP-001",
+   "type": "single-best-answer",
+   "question": "A 7-year-old boy is brought to the emergency department with a 2-day history of fever and progressive swelling of the right eyelid that began after several days of nasal congestion. The lid is severely swollen, the conjunctiva is injected with marked chemosis, and the globe is proptosed. He resists eye movement because of pain, ocular motility is reduced, and vision in that eye is diminished with intermittent double vision. Which of the following is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Preseptal cellulitis"
+    },
+    {
+     "id": "b",
+     "text": "Acute dacryocystitis"
+    },
+    {
+     "id": "c",
+     "text": "Orbital cellulitis"
+    },
+    {
+     "id": "d",
+     "text": "Internal hordeolum of the upper lid"
+    },
+    {
+     "id": "e",
+     "text": "Allergic conjunctivitis with periorbital edema"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "Toronto Notes contrasts preseptal and orbital cellulitis: proptosis, conjunctival injection, marked chemosis, pain on eye movement, decreased ocular mobility, and diminished vision with diplopia are features of orbital cellulitis, while all of these are absent or only mild in preseptal disease. This child has fever plus the full orbital constellation, and sinusitis is a listed associated finding, so infection has extended posterior to the orbital septum.",
+   "optionExplanations": {
+    "a": "In preseptal cellulitis proptosis, chemosis, pain on eye movement and reduced vision are absent and ocular motility is normal.",
+    "b": "Dacryocystitis produces a tender swelling over the lacrimal sac medially, not proptosis with restricted painful motility.",
+    "d": "A hordeolum is a localized lid lesion and does not cause proptosis, decreased motility or diminished vision.",
+    "e": "Allergic disease causes itch and lid edema without fever, proptosis, painful motility or vision loss."
+   },
+   "topic": "Orbital vs Preseptal Cellulitis",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "OP",
+    "name": "Ophthalmology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1050,
+    "reference": "OP10 — Clinical Features of Preseptal and Orbital Cellulitis"
+   }
+  },
+  {
+   "id": "TN-OP-002",
+   "type": "single-best-answer",
+   "question": "A 24-year-old teacher has a 3-day history of a red, watery right eye with lid swelling and a gritty sensation; the left eye became involved yesterday. She had a sore throat last week. Visual acuity is 20/20 in each eye, the cornea is clear, there are follicles on the tarsal conjunctiva, and a tender preauricular node is palpable. What is the best initial management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Topical corticosteroid drops four times daily"
+    },
+    {
+     "id": "b",
+     "text": "Cool compresses, topical lubrication, and strict hand hygiene advice"
+    },
+    {
+     "id": "c",
+     "text": "Topical mast cell stabilizer such as olopatadine"
+    },
+    {
+     "id": "d",
+     "text": "Intramuscular ceftriaxone"
+    },
+    {
+     "id": "e",
+     "text": "Oral azithromycin"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Serous (watery) discharge, follicles, a tender preauricular node, an associated sore throat, and spread to the fellow eye within a few days describe adenoviral conjunctivitis. Toronto Notes states it is usually self-limiting over 7-12 days and is treated with cool compresses and topical lubrication, with proper hygiene to prevent transmission since it is highly contagious for up to 12 days.",
+   "optionExplanations": {
+    "a": "Topical steroids are listed for allergic, atopic and giant papillary conjunctivitis, not for routine viral conjunctivitis.",
+    "c": "Mast cell stabilizers treat allergic conjunctivitis, which causes pruritus with mucoid discharge and papillae rather than follicles and a tender node.",
+    "d": "Intramuscular ceftriaxone is the treatment for gonococcal conjunctivitis, which produces hyperpurulent discharge.",
+    "e": "Oral azithromycin is used for chlamydial and inclusion conjunctivitis, which is chronic with mucopurulent discharge."
+   },
+   "topic": "Viral Conjunctivitis",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "OP",
+    "name": "Ophthalmology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1055,
+    "reference": "OP15 — Conjunctivitis"
+   }
+  },
+  {
+   "id": "TN-OP-003",
+   "type": "single-best-answer",
+   "question": "A 52-year-old woman with long-standing rheumatoid arthritis reports 5 days of severe deep, boring pain in the left eye that wakes her at night and radiates across her face. She has photophobia and her vision has dropped to 20/60. The globe is diffusely red with a violaceous hue best appreciated in daylight, and the injected vessels do not blanch 15 minutes after a drop of phenylephrine. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Episcleritis"
+    },
+    {
+     "id": "b",
+     "text": "Acute anterior uveitis"
+    },
+    {
+     "id": "c",
+     "text": "Bacterial conjunctivitis"
+    },
+    {
+     "id": "d",
+     "text": "Anterior scleritis"
+    },
+    {
+     "id": "e",
+     "text": "Herpes simplex epithelial keratitis"
+    }
+   ],
+   "correctAnswer": "d",
+   "explanation": "Toronto Notes describes scleritis as severe deep or boring pain that may awaken the patient at night, with photophobia, red eye and decreased vision, a purple or violaceous hue from scleral thinning exposing the uvea, and failure to blanch with topical phenylephrine. Collagen vascular disease such as rheumatoid arthritis is a listed etiology, and anterior scleritis characteristically radiates to the face.",
+   "optionExplanations": {
+    "a": "Episcleral vessels blanch with topical phenylephrine and episcleritis causes discomfort rather than boring night pain with vision loss.",
+    "b": "Anterior uveitis produces ciliary flush, miosis, and anterior chamber cells and flare rather than a violaceous non-blanching scleral hue.",
+    "c": "Bacterial conjunctivitis causes purulent discharge, papillae and chemosis without deep boring pain or reduced acuity.",
+    "e": "Herpes simplex keratitis gives a fluorescein-staining dendritic epithelial lesion with corneal hypoesthesia, not diffuse violaceous scleral injection."
+   },
+   "topic": "Scleritis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "OP",
+    "name": "Ophthalmology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1057,
+    "reference": "OP17 — Scleritis"
+   }
+  },
+  {
+   "id": "TN-OP-004",
+   "type": "single-best-answer",
+   "question": "A 22-year-old student who regularly sleeps in her soft contact lenses has 2 days of increasing pain, photophobia, tearing and blurred vision in the left eye. Visual acuity is 20/200. The cornea shows a white, necrotic-appearing excavated lesion with an infiltrative base and an overlying epithelial defect that stains with fluorescein. There is marked conjunctival injection and a small hypopyon. What is the best initial management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Urgent ophthalmology referral, corneal culture before treatment, then intense fortified topical antibiotics hourly"
+    },
+    {
+     "id": "b",
+     "text": "Pressure patch the eye and provide topical anesthetic drops for pain"
+    },
+    {
+     "id": "c",
+     "text": "Topical corticosteroid drops to reduce the infiltrate"
+    },
+    {
+     "id": "d",
+     "text": "Oral acyclovir and corneal debridement"
+    },
+    {
+     "id": "e",
+     "text": "Preservative-free artificial tears and review in one week"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "An excavated corneal opacity with an infiltrative base, epithelial defect, injection and hypopyon in a contact lens wearer is a corneal ulcer; contact lens use accounts for about half of ulcers. Toronto Notes directs urgent referral to ophthalmology, culture prior to treatment, and intense fortified topical antibiotics hourly, treating vigorously to avoid perforation, iritis and endophthalmitis.",
+   "optionExplanations": {
+    "b": "Patching is contraindicated in contact lens wearers because it can precipitate infection, and topical anesthetics must never be prescribed for treatment.",
+    "c": "Topical steroids impair corneal healing and are not the initial management of an infectious ulcer.",
+    "d": "Antivirals and debridement are for herpes simplex dendritic keratitis, which shows a branching lesion with terminal end bulbs, not a necrotic excavated ulcer.",
+    "e": "Lubrication alone risks corneal perforation and endophthalmitis in a suspected infectious ulcer."
+   },
+   "topic": "Corneal Ulcer",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "OP",
+    "name": "Ophthalmology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1058,
+    "reference": "OP18 — Corneal Ulcer"
+   }
+  },
+  {
+   "id": "TN-OP-005",
+   "type": "single-best-answer",
+   "question": "A 72-year-old man reports 2 years of gradual, painless blurring of vision in both eyes. He is bothered by glare and by halos around oncoming headlights at night, and he occasionally sees two overlapping images even with one eye covered. He has noticed he can now read small print without his usual glasses. The eyes are white and painless, and the view of the retina on fundoscopy is hazy. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Primary open-angle glaucoma"
+    },
+    {
+     "id": "b",
+     "text": "Non-exudative age-related macular degeneration"
+    },
+    {
+     "id": "c",
+     "text": "Nuclear sclerotic cataract"
+    },
+    {
+     "id": "d",
+     "text": "Presbyopia"
+    },
+    {
+     "id": "e",
+     "text": "Diabetic macular edema"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "Toronto Notes lists the features of cataract as a gradual, painless, progressive decrease in visual acuity with glare, dimness, halos around lights at night and monocular diplopia, and notes the 'second sight' myopic shift seen with nuclear sclerosis, in which increased lens refractive power makes the patient more myopic so near vision improves. A cataract may also impair the view of the retina during fundoscopy.",
+   "optionExplanations": {
+    "a": "Open-angle glaucoma causes painless loss of peripheral vision and does not produce a myopic shift or a hazy fundus view.",
+    "b": "Dry macular degeneration causes progressive central vision loss without glare, halos, monocular diplopia or an obscured fundus view.",
+    "d": "Presbyopia worsens near vision requiring reading glasses; it does not improve unaided near vision or blur the retinal view.",
+    "e": "Macular edema from diabetes reduces central acuity but does not cause monocular diplopia, halos or an opacified media with second sight."
+   },
+   "topic": "Cataract",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "OP",
+    "name": "Ophthalmology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1061,
+    "reference": "OP21 — Cataracts"
+   }
+  },
+  {
+   "id": "TN-OP-006",
+   "type": "single-best-answer",
+   "question": "A 70-year-old man with atrial fibrillation presents 45 minutes after sudden, painless, complete loss of vision in the right eye. He recalls a similar episode lasting a few minutes last month. Visual acuity is light perception only, there is a right relative afferent pupillary defect, and fundoscopy shows a pale edematous retina with a cherry-red spot at the macula and a glistening plaque at an arteriolar bifurcation. What is the most appropriate immediate management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Intravitreal anti-VEGF injection"
+    },
+    {
+     "id": "b",
+     "text": "Pan-retinal laser photocoagulation"
+    },
+    {
+     "id": "c",
+     "text": "Topical prostaglandin analogue and review in 48 hours"
+    },
+    {
+     "id": "d",
+     "text": "Observation, since the deficit is likely to recover spontaneously"
+    },
+    {
+     "id": "e",
+     "text": "Digital ocular massage with measures to lower intraocular pressure while arranging emergency ophthalmology assessment"
+    }
+   ],
+   "correctAnswer": "e",
+   "explanation": "A cherry-red spot with retinal edema, a relative afferent pupillary defect, prior amaurosis fugax and a Hollenhorst plaque indicate central retinal artery occlusion. Toronto Notes calls this an ocular emergency in which blood flow must be restored within 2 hours, since complete occlusion beyond about 90 minutes causes irreversible retinal damage. Immediate measures are globe massage to dislodge the embolus and lowering intraocular pressure with a topical beta-blocker, IV acetazolamide, IV mannitol or anterior chamber paracentesis.",
+   "optionExplanations": {
+    "a": "Anti-VEGF injection is used for neovascular macular disease and macular edema, not to reperfuse an occluded retinal artery.",
+    "b": "Pan-retinal photocoagulation treats proliferative retinal neovascularization and does nothing for acute arterial occlusion.",
+    "c": "A single topical agent with delayed review wastes the narrow 2-hour window for restoring retinal perfusion.",
+    "d": "Observation guarantees irreversible damage; this presentation is an ocular emergency requiring immediate treatment."
+   },
+   "topic": "Central Retinal Artery Occlusion",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "OP",
+    "name": "Ophthalmology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1063,
+    "reference": "OP23 — Central/Branch Retinal Artery Occlusion"
+   }
+  },
+  {
+   "id": "TN-OP-007",
+   "type": "single-best-answer",
+   "question": "A 64-year-old highly myopic woman describes 1 day of flashing lights and a shower of new floaters in the right eye, followed by a curtain of blackness spreading across her temporal field. Central acuity is still 20/25. Intraocular pressure is 5 mmHg lower than in the fellow eye, there is a subtle relative afferent pupillary defect, and fundoscopy shows an elevated grey-white area of retina with loss of the red reflex in that sector. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Vitreous hemorrhage without retinal break"
+    },
+    {
+     "id": "b",
+     "text": "Rhegmatogenous retinal detachment"
+    },
+    {
+     "id": "c",
+     "text": "Central retinal vein occlusion"
+    },
+    {
+     "id": "d",
+     "text": "Exudative retinal detachment from a choroidal tumour"
+    },
+    {
+     "id": "e",
+     "text": "Posterior uveitis"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Toronto Notes describes retinal detachment as sudden onset of flashes from mechanical stimulation of photoreceptors, floaters from blood released by torn vessels, and a curtain of blackness corresponding to the detached retina, with intraocular pressure usually 4-5 mmHg lower than the fellow eye, a possible relative afferent pupillary defect, and a grey-white detached retina with loss of red reflex. The rhegmatogenous type is the most common and its incidence rises with advancing age and in high myopes.",
+   "optionExplanations": {
+    "a": "Isolated vitreous hemorrhage obscures the fundus diffusely rather than producing a discrete elevated grey-white retina with a sectoral field curtain.",
+    "c": "Vein occlusion causes painless vision loss with diffuse retinal hemorrhages, cotton wool spots, venous engorgement and a swollen disc.",
+    "d": "Exudative detachment arises from intraocular tumour, posterior uveitis or central serous retinopathy and is not preceded by flashes and floaters from a retinal tear.",
+    "e": "Posterior uveitis is painless with vitreous cells and opacities, not an acute peripheral field curtain with lowered intraocular pressure."
+   },
+   "topic": "Retinal Detachment",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "OP",
+    "name": "Ophthalmology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1064,
+    "reference": "OP24 — Retinal Detachment"
+   }
+  },
+  {
+   "id": "TN-OP-008",
+   "type": "single-best-answer",
+   "question": "A 78-year-old woman who smokes reports 3 weeks of worsening central vision in the right eye; straight door frames now appear wavy. Acuity is 20/80 on the right and 20/25 on the left, and Amsler grid testing confirms central distortion. Fluorescein angiography shows pathologic new vessels leaking dye beneath the macula, and OCT demonstrates intraretinal and subretinal exudation. What is the most appropriate treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Antioxidant supplementation with monitoring using an Amsler grid"
+    },
+    {
+     "id": "b",
+     "text": "Low vision aids such as magnifiers and closed-circuit television"
+    },
+    {
+     "id": "c",
+     "text": "Fundus autofluorescence surveillance every 6 months"
+    },
+    {
+     "id": "d",
+     "text": "Intravitreal injection of an anti-VEGF agent"
+    },
+    {
+     "id": "e",
+     "text": "Sunglasses and increased dietary green leafy vegetables"
+    }
+   ],
+   "correctAnswer": "d",
+   "explanation": "Metamorphopsia with central vision loss plus angiographic leakage from choroidal neovascularization indicates neovascular ('wet') age-related macular degeneration; smoking, female sex and increasing age are listed risk factors. Toronto Notes gives intravitreal anti-VEGF injection (ranibizumab, bevacizumab, aflibercept, brolucizumab, faricimab) as the treatment for neovascular AMD, with photodynamic therapy as an alternative option.",
+   "optionExplanations": {
+    "a": "Antioxidants and Amsler grid monitoring are the management of non-neovascular 'dry' AMD, not of active choroidal neovascularization.",
+    "b": "Low vision aids are supportive measures for dry AMD and do not treat leaking new vessels.",
+    "c": "Fundus autofluorescence is an imaging tool used to monitor progression of dry AMD, not a treatment.",
+    "e": "Sunglasses and dietary measures are listed under dry AMD management and will not halt exudative disease."
+   },
+   "topic": "Neovascular Age-Related Macular Degeneration",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "OP",
+    "name": "Ophthalmology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1066,
+    "reference": "OP26 — Age-Related Macular Degeneration"
+   }
+  },
+  {
+   "id": "TN-OP-009",
+   "type": "single-best-answer",
+   "question": "A 68-year-old hyperopic woman develops severe right eye pain, frontal headache, nausea and vomiting after sitting for 2 hours in a dark cinema. She sees halos around lights and her vision is acutely blurred. The eye is red, the cornea is hazy, the pupil is fixed and mid-dilated, the anterior chamber is shallow, and the globe feels hard on palpation. After medical therapy lowers the pressure, which is the definitive treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Laser peripheral iridotomy"
+    },
+    {
+     "id": "b",
+     "text": "Long-term topical prostaglandin analogue"
+    },
+    {
+     "id": "c",
+     "text": "Trabeculectomy with a filtering bleb"
+    },
+    {
+     "id": "d",
+     "text": "Pan-retinal laser photocoagulation"
+    },
+    {
+     "id": "e",
+     "text": "Serial intraocular pressure checks with no further intervention"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes describes acute angle-closure glaucoma as a red painful eye with decreased vision blurred by corneal edema, halos, nausea and vomiting, a fixed mid-dilated pupil, shallow anterior chamber and marked pressure rise palpable as a hard globe; hyperopia, age over 70, female sex and pupil dilation in darkness are risk factors. Medical therapy uses aqueous suppressants, hyperosmotic agents and pilocarpine to reverse pupillary block, but laser iridotomy is the definitive treatment.",
+   "optionExplanations": {
+    "b": "Prostaglandin analogues are chronic open-angle glaucoma therapy and do not relieve pupillary block.",
+    "c": "Trabeculectomy is a filtering procedure for glaucoma refractory to other measures, not the definitive treatment of acute angle closure.",
+    "d": "Pan-retinal photocoagulation treats retinal ischemia and neovascularization, a different mechanism of secondary glaucoma.",
+    "e": "Observation risks irreversible vision loss within hours to days and permanent peripheral anterior synechiae."
+   },
+   "topic": "Acute Angle-Closure Glaucoma",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "OP",
+    "name": "Ophthalmology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1069,
+    "reference": "OP29 — Primary Angle-Closure Glaucoma"
+   }
+  },
+  {
+   "id": "TN-OP-010",
+   "type": "single-best-answer",
+   "question": "A 55-year-old man with a 15-year history of type 2 diabetes undergoes a dilated retinal examination. Acuity is 20/25 in each eye. There are microaneurysms with dot and blot hemorrhages in all four quadrants, scattered hard exudates, several cotton-wool spots, and dilated non-leaking intraretinal collateral vessels in the superotemporal quadrant. No new vessels are seen on the disc, retina or iris, and there is no vitreous hemorrhage. How is this retinopathy best classified?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Mild non-proliferative diabetic retinopathy"
+    },
+    {
+     "id": "b",
+     "text": "Proliferative diabetic retinopathy"
+    },
+    {
+     "id": "c",
+     "text": "Advanced (pre-proliferative) non-proliferative diabetic retinopathy"
+    },
+    {
+     "id": "d",
+     "text": "Clinically significant diabetic macular edema"
+    },
+    {
+     "id": "e",
+     "text": "Grade 3 hypertensive retinopathy"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "Toronto Notes classifies non-proliferative diabetic retinopathy by hard exudates, dot and blot hemorrhages, microaneurysms and retinal edema, and defines advanced or pre-proliferative disease as these findings plus intraretinal microvascular abnormalities (dilated, non-leaky collateral vessels) in one of four quadrants, hemorrhages with microvascular anomalies in all four quadrants, and nerve fibre layer infarcts (cotton-wool spots). This patient has exactly those additional features without any neovascularization.",
+   "optionExplanations": {
+    "a": "Mild non-proliferative disease lacks intraretinal microvascular abnormalities, four-quadrant hemorrhages and cotton-wool spots.",
+    "b": "Proliferative disease requires neovascularization of the iris, disc or retina, which is explicitly absent here.",
+    "d": "Macular edema is defined by retinal thickening at or within 500 micrometres of the macular centre; acuity is preserved and no macular thickening is described.",
+    "e": "The findings and the diabetic history fit diabetic retinopathy; grade 3 hypertensive change requires obvious arterial narrowing with focal irregularities plus hemorrhages or exudate."
+   },
+   "topic": "Diabetic Retinopathy Classification",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "OP",
+    "name": "Ophthalmology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1074,
+    "reference": "OP34 — Diabetic Retinopathy"
+   }
+  }
+ ]
+}

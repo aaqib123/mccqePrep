@@ -1,0 +1,658 @@
+{
+ "chapter": {
+  "code": "D",
+  "name": "Dermatology"
+ },
+ "document": {
+  "id": "toronto-notes-2025",
+  "title": "Toronto Notes 2025",
+  "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
+ },
+ "count": 14,
+ "questions": [
+  {
+   "id": "TN-D-001",
+   "type": "single-best-answer",
+   "question": "A 42-year-old fair-skinned woman describes 2 years of episodic facial flushing triggered by hot drinks, alcohol, and spicy food. Examination shows persistent non-transient erythema with fine telangiectasia and scattered dome-shaped inflammatory papules and pustules over the cheeks, nose, chin, and forehead. No comedones are present. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Rosacea"
+    },
+    {
+     "id": "b",
+     "text": "Acne vulgaris"
+    },
+    {
+     "id": "c",
+     "text": "Perioral dermatitis"
+    },
+    {
+     "id": "d",
+     "text": "Seborrheic dermatitis"
+    },
+    {
+     "id": "e",
+     "text": "Allergic contact dermatitis"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes describes rosacea as dome-shaped inflammatory papules with or without pustules, accompanied by flushing, non-transient erythema, and telangiectasia, distributed typically over the central face including forehead, nose, cheeks, and chin, with exacerbating factors including heat, sun, stress, hot liquids, alcohol, and spices. It is most prevalent in fair-skinned people aged 30-50 and is more common in women.",
+   "optionExplanations": {
+    "b": "Acne vulgaris is characterised by comedones and involves the neck, upper chest, and back as well as the face.",
+    "c": "Perioral dermatitis produces papulopustules confined to perioral, perinasal, or periorbital skin with a rim of sparing around the vermillion border.",
+    "d": "Seborrheic dermatitis produces greasy scale rather than flushing with telangiectasia and inflammatory papules.",
+    "e": "Contact dermatitis presents as poorly demarcated erythematous eczematous plaques, not flushing with telangiectasia."
+   },
+   "topic": "Acneiform Eruptions",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "D",
+    "name": "Dermatology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 203,
+    "reference": "D15 — Rosacea"
+   }
+  },
+  {
+   "id": "TN-D-002",
+   "type": "single-best-answer",
+   "question": "A 71-year-old man reports 4 days of burning pain and paresthesia across his right mid-back, followed 3 days ago by an eruption. Examination shows grouped vesicles, bullae, and pustules on an erythematous, edematous base confined to a single thoracic dermatome on the right, not crossing the midline. What is the most appropriate initial treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Oral valacyclovir for 7 days plus analgesia"
+    },
+    {
+     "id": "b",
+     "text": "Oral cephalexin for 10 days"
+    },
+    {
+     "id": "c",
+     "text": "Potent topical corticosteroid applied twice daily"
+    },
+    {
+     "id": "d",
+     "text": "Recombinant zoster vaccine given now"
+    },
+    {
+     "id": "e",
+     "text": "Oral terbinafine for 4 weeks"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes describes herpes zoster as a unilateral dermatomal eruption occurring 3-5 days after pain and paresthesia of that dermatome, with vesicles, bullae, and pustules on an erythematous edematous base, and notes that lesions rarely cross the midline. Management is oral antivirals (famciclovir, valacyclovir, or acyclovir) for 7 days, which must be initiated within 72 hours to be of benefit, together with analgesia and saline or Burow's compresses.",
+   "optionExplanations": {
+    "b": "Antibacterials do not treat reactivation of varicella zoster virus.",
+    "c": "Topical corticosteroids are not the treatment for an acute dermatomal zoster eruption.",
+    "d": "Shingrix is used for prevention in people over 50, not as treatment of an active eruption.",
+    "e": "Terbinafine is an antifungal used for dermatophyte infections such as tinea capitis and onychomycosis."
+   },
+   "topic": "Viral Skin Infections",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "D",
+    "name": "Dermatology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 223,
+    "reference": "D35 — Herpes Zoster Virus (Shingles)"
+   }
+  },
+  {
+   "id": "TN-D-003",
+   "type": "single-best-answer",
+   "question": "A 4-year-old girl has an 18-month history of intensely pruritic rash. Examination shows poorly demarcated erythematous plaques with scaling and excoriations in the antecubital and popliteal flexures, with lichenification of the wrists and generalized xerosis. Her palms show marked hyperlinearity. She has asthma and her mother has allergic rhinitis. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Atopic dermatitis"
+    },
+    {
+     "id": "b",
+     "text": "Asteatotic dermatitis"
+    },
+    {
+     "id": "c",
+     "text": "Plaque psoriasis"
+    },
+    {
+     "id": "d",
+     "text": "Tinea corporis"
+    },
+    {
+     "id": "e",
+     "text": "Pityriasis rosea"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes defines atopic dermatitis as a subacute and chronic eczematous reaction with prolonged severe pruritus, in which inflammation, lichenification, and excoriations are secondary to relentless scratching, and describes atopic palms with hyperlinearity, associated xerosis and keratosis pilaris, and an age-dependent distribution. It affects 10-20% of children under 5 in developed countries and is associated with a personal or family history of atopy such as asthma or allergic rhinitis.",
+   "optionExplanations": {
+    "b": "Asteatotic dermatitis is a mild pruritic dermatitis of dry skin that is very common in the elderly, predominating on the shins with a dried river bed appearance.",
+    "c": "Psoriasis produces well-circumscribed plaques with silvery-white scale on extensor surfaces, the opposite distribution to flexural atopic dermatitis.",
+    "d": "Tinea corporis is a scaly round or oval plaque with an active erythematous margin and central clearing.",
+    "e": "Pityriasis rosea is an acute self-limiting eruption of oval plaques with central scale following skin tension lines after a herald patch."
+   },
+   "topic": "Eczema",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "D",
+    "name": "Dermatology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 204,
+    "reference": "D16 — Dermatitis (Eczema) / Atopic Dermatitis"
+   }
+  },
+  {
+   "id": "TN-D-004",
+   "type": "single-best-answer",
+   "question": "A 9-year-old boy with known atopic dermatitis has a 1-week flare with intensely itchy, poorly demarcated erythematous scaling plaques on both antecubital fossae. There is no crusting, purulence, or fever. He uses a fragrance-free emollient daily and avoids known irritants. What is the most appropriate initial pharmacologic therapy for this flare?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Topical corticosteroid of appropriate potency applied twice daily for at least 2 weeks"
+    },
+    {
+     "id": "b",
+     "text": "Oral prednisone tapered over 3 weeks"
+    },
+    {
+     "id": "c",
+     "text": "Oral cephalexin for 10 days"
+    },
+    {
+     "id": "d",
+     "text": "Subcutaneous dupilumab"
+    },
+    {
+     "id": "e",
+     "text": "Narrowband UVB phototherapy"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes places acute control of an atopic dermatitis flare with topical corticosteroids or a topical calcineurin inhibitor, layered on top of daily emollients and trigger avoidance. Topical corticosteroids are effective in reducing acute flares, with potency chosen according to age, body site, and duration of use, applied as one adult fingertip unit per two adult palms of skin twice daily for at least 2 weeks.",
+   "optionExplanations": {
+    "b": "Oral steroids sit at the severe refractory end of the treatment algorithm, not first line for a localized flare.",
+    "c": "Oral antibiotics such as cephalexin are for widespread S. aureus superinfection, and there is no crusting or purulence here.",
+    "d": "Dupilumab is a biologic reserved for severe refractory disease.",
+    "e": "Phototherapy is also reserved for severe refractory disease rather than an initial localized flare."
+   },
+   "topic": "Eczema",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "D",
+    "name": "Dermatology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 205,
+    "reference": "D17 — Atopic Dermatitis / Management"
+   }
+  },
+  {
+   "id": "TN-D-005",
+   "type": "single-best-answer",
+   "question": "A 46-year-old woman has 3 months of an itchy eruption. Examination shows symmetrical, bilateral, well-demarcated violaceous, polygonal, flat-topped papules and plaques on the flexor wrists and shins. Inside the mouth there is a lacy whitish reticular network on the buccal mucosa. Some lesions have appeared along a recent scratch. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Lichen planus"
+    },
+    {
+     "id": "b",
+     "text": "Plaque psoriasis"
+    },
+    {
+     "id": "c",
+     "text": "Pityriasis rosea"
+    },
+    {
+     "id": "d",
+     "text": "Nummular dermatitis"
+    },
+    {
+     "id": "e",
+     "text": "Secondary syphilis"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes describes lichen planus as pruritic, well-demarcated, violaceous, polygonal, flat-topped papules and plaques distributed symmetrically and bilaterally, with common sites at the wrists, nails, scalp, and mucous membranes in 60% of cases. Wickham's striae, a lacy whitish reticular network mostly on oral mucosa, are pathognomonic, and the Koebner phenomenon accounts for lesions arising along a scratch.",
+   "optionExplanations": {
+    "b": "Psoriasis produces erythematous plaques with silvery-white scale on extensor surfaces, with Auspitz sign rather than Wickham's striae.",
+    "c": "Pityriasis rosea consists of oval plaques with central scale along skin tension lines preceded by a herald patch.",
+    "d": "Nummular dermatitis produces coin-shaped eczematous plaques without violaceous polygonal papules or oral striae.",
+    "e": "Secondary syphilis is in the differential of papulosquamous disease but does not produce Wickham's striae or the 6P morphology."
+   },
+   "topic": "Papulosquamous Disease",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "D",
+    "name": "Dermatology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 208,
+    "reference": "D20 — Papulosquamous Diseases / Lichen Planus"
+   }
+  },
+  {
+   "id": "TN-D-006",
+   "type": "single-best-answer",
+   "question": "A 22-year-old man reports that a single 3 cm oval scaly plaque appeared on his flank 10 days ago. Over the past 3 days multiple smaller red oval plaques with central scale that does not extend to the edge of the lesion have erupted on his trunk and proximal arms, with their long axes running parallel to the ribs. He feels well and is mildly itchy. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Pityriasis rosea"
+    },
+    {
+     "id": "b",
+     "text": "Guttate psoriasis"
+    },
+    {
+     "id": "c",
+     "text": "Tinea corporis"
+    },
+    {
+     "id": "d",
+     "text": "Lichen planus"
+    },
+    {
+     "id": "e",
+     "text": "Nummular dermatitis"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes characterises pityriasis rosea as an acute, self-limiting eruption of red or flesh-coloured oval plaques with central scale that does not extend to the edge of the lesion, whose long axes follow skin tension lines parallel to the ribs, producing the Christmas tree pattern on the back. Most cases begin with a herald patch preceding other lesions by 1-2 weeks, and the trunk and proximal arms and legs are the usual sites.",
+   "optionExplanations": {
+    "b": "Guttate psoriasis produces droplet-like plaques with silvery scale and is not preceded by a herald patch.",
+    "c": "Tinea corporis is a pruritic scaly plaque with an active erythematous margin and central clearing, usually solitary or few in number.",
+    "d": "Lichen planus consists of violaceous polygonal flat-topped papules, characteristically on the wrists and mucous membranes.",
+    "e": "Nummular dermatitis produces coin-shaped eczematous plaques that do not follow Langer lines or begin with a herald patch."
+   },
+   "topic": "Papulosquamous Disease",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "D",
+    "name": "Dermatology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 208,
+    "reference": "D20 — Papulosquamous Diseases / Pityriasis Rosea"
+   }
+  },
+  {
+   "id": "TN-D-007",
+   "type": "single-best-answer",
+   "question": "A 31-year-old man has well-circumscribed erythematous plaques with silvery-white scale on both elbows, both knees, and the scalp. Removing the scale produces pinpoint bleeding. The plaques involve about 2% of his body surface area and worsen each winter. He has no joint symptoms. What is the most appropriate first-line treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Topical corticosteroid with or without a topical vitamin D analogue"
+    },
+    {
+     "id": "b",
+     "text": "Oral methotrexate"
+    },
+    {
+     "id": "c",
+     "text": "Oral acitretin"
+    },
+    {
+     "id": "d",
+     "text": "PUVA phototherapy"
+    },
+    {
+     "id": "e",
+     "text": "Oral cyclosporine"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes describes plaque psoriasis as well-circumscribed erythematous papules and plaques with silvery-white scales on the scalp, extensor elbows and knees, and trunk, with the Auspitz sign of pinpoint bleeding when scale is removed and worsening in winter. Management depends on severity: for mild disease with body surface area under 3%, first line treatment is a topical corticosteroid with or without a topical vitamin D analogue combination.",
+   "optionExplanations": {
+    "b": "Methotrexate is a systemic option for moderate to severe disease, not for 2% body surface area involvement.",
+    "c": "Acitretin is a systemic retinoid used for severe psoriasis and is teratogenic and hepatotoxic.",
+    "d": "PUVA is reserved for more extensive disease and carries lifetime session limits because of skin cancer risk.",
+    "e": "Cyclosporine is a systemic agent used for intermittent control in more severe disease and carries renal toxicity."
+   },
+   "topic": "Psoriasis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "D",
+    "name": "Dermatology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 209,
+    "reference": "D21 — Psoriasis / Plaque Psoriasis"
+   }
+  },
+  {
+   "id": "TN-D-008",
+   "type": "single-best-answer",
+   "question": "A 76-year-old woman has 6 weeks of intense pruritus followed by blistering. Examination shows large tense bullae on an erythematous base over the flexor forearms, axillae, medial thighs, and lower abdomen, with some urticarial plaques and no bullae in between. The oral mucosa is clear and shear stress on normal skin does not produce detachment. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Bullous pemphigoid"
+    },
+    {
+     "id": "b",
+     "text": "Pemphigus vulgaris"
+    },
+    {
+     "id": "c",
+     "text": "Toxic epidermal necrolysis"
+    },
+    {
+     "id": "d",
+     "text": "Bullous impetigo"
+    },
+    {
+     "id": "e",
+     "text": "Dermatitis herpetiformis"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes defines bullous pemphigoid as a chronic autoimmune bullous eruption of pruritic, tense, subepidermal bullae on an erythematous or normal skin base, which may also present as urticarial plaques without bullae, at the flexor forearms, axillae, medial thighs, groin, and abdomen, with a mean age of onset of 60-80 years. The memory aid is that pemphigoiD lesions are Deeper and tense at the dermal-epidermal junction.",
+   "optionExplanations": {
+    "b": "Pemphigus vulgaris produces flaccid, non-pruritic intraepidermal bullae with mouth involvement in 90% and a positive Nikolsky sign.",
+    "c": "Toxic epidermal necrolysis follows a culprit drug with dusky tender skin, mucosal erosions, and epidermal detachment over more than 30% of body surface area.",
+    "d": "Bullous impetigo is an infectious eruption in children with superficial bullae and honey-coloured crusting.",
+    "e": "Dermatitis herpetiformis produces grouped intensely pruritic vesicles rather than large tense bullae in these flexural sites."
+   },
+   "topic": "Bullous Disease",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "D",
+    "name": "Dermatology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 211,
+    "reference": "D23 — Vesiculobullous Diseases / Bullous Pemphigoid"
+   }
+  },
+  {
+   "id": "TN-D-009",
+   "type": "single-best-answer",
+   "question": "A 48-year-old man has 2 months of painful oral erosions and now flaccid, non-pruritic blisters on the scalp, chest, and axillae that rupture easily leaving raw erosions. Lateral pressure on intact skin adjacent to a blister causes the epidermis to shear away. Which investigation finding would best confirm the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Intraepidermal IgG and C3 deposition on immunofluorescence"
+    },
+    {
+     "id": "b",
+     "text": "Linear deposition of IgG and C3 along the basement membrane"
+    },
+    {
+     "id": "c",
+     "text": "Granular IgA deposits in the dermal papillae"
+    },
+    {
+     "id": "d",
+     "text": "Multinucleated giant epithelial cells on Tzanck smear"
+    },
+    {
+     "id": "e",
+     "text": "Septate hyphae on potassium hydroxide preparation"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes describes pemphigus vulgaris as an autoimmune blistering disease of flaccid, non-pruritic intraepidermal bullae on mucous membranes and skin, with the mouth involved in 90% of cases and a positive Nikolsky sign of epidermal detachment with shear stress. Its pathogenesis is IgG directed against epidermal desmoglein-1 and -3, and investigations show intraepidermal IgG and C3 deposition on immunofluorescence plus circulating anti-desmoglein IgG.",
+   "optionExplanations": {
+    "b": "Linear IgG and C3 along the basement membrane is the immunofluorescence pattern of bullous pemphigoid, which produces tense subepidermal bullae.",
+    "c": "Granular IgA in dermal papillae characterises dermatitis herpetiformis, not pemphigus vulgaris.",
+    "d": "A Tzanck smear with multinucleated giant epithelial cells indicates herpes simplex infection.",
+    "e": "Hyphae on KOH preparation indicate a dermatophyte infection."
+   },
+   "topic": "Bullous Disease",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "D",
+    "name": "Dermatology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 211,
+    "reference": "D23 — Vesiculobullous Diseases / Pemphigus Vulgaris"
+   }
+  },
+  {
+   "id": "TN-D-010",
+   "type": "single-best-answer",
+   "question": "A 34-year-old woman started allopurinol 2 weeks ago. She now has fever, malaise, and a dusky, tender morbilliform eruption on the face and extremities that has coalesced into flaccid blisters with sheets of skin sloughing over roughly 40% of her body surface area. Her lips, oral mucosa, and conjunctivae are eroded, and shear stress detaches the epidermis. What is the most appropriate management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Stop allopurinol and admit to a burn or intensive care unit for supportive care"
+    },
+    {
+     "id": "b",
+     "text": "Continue allopurinol and start a potent topical corticosteroid"
+    },
+    {
+     "id": "c",
+     "text": "Start intravenous cloxacillin and manage on a general medical ward"
+    },
+    {
+     "id": "d",
+     "text": "Start oral acyclovir and discharge with follow-up in 48 hours"
+    },
+    {
+     "id": "e",
+     "text": "Start oral doxycycline and daily saline compresses at home"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes classifies toxic epidermal necrolysis as epidermal detachment over more than 30% of body surface area, appearing 1-3 weeks after drug initiation, with allopurinol among the common culprits and mortality of about 30% from fluid loss and infection. Management is to discontinue the offending drug and admit to an intermediate care, intensive care, or burn unit for supportive care including IV fluids, electrolyte replacement, nutritional support, pain control, sterile wound care, and monitoring for infection.",
+   "optionExplanations": {
+    "b": "Continuing the culprit drug perpetuates the reaction; withdrawal of the offending drug is the essential first step.",
+    "c": "Antistaphylococcal antibiotics do not treat this drug reaction, and the SCORTEN framework directs patients with a score of 2 or more to intensive care or a burn unit.",
+    "d": "This is a drug reaction rather than a herpetic infection, and outpatient management is unsafe with 40% epidermal detachment.",
+    "e": "Home management with compresses cannot address the fluid loss and infection risk that drive mortality."
+   },
+   "topic": "Drug Eruptions",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "D",
+    "name": "Dermatology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 214,
+    "reference": "D26 — Stevens-Johnson Syndrome / Toxic Epidermal Necrolysis"
+   }
+  },
+  {
+   "id": "TN-D-011",
+   "type": "single-best-answer",
+   "question": "A 62-year-old woman presents with 2 days of fever, chills, and a painful facial rash. Examination shows a confluent, bright erythematous, warm plaque over the left cheek that is well demarcated with a sharply raised edge against the surrounding normal skin. She describes the area as burning. There is no fluctuance or necrosis. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Erysipelas"
+    },
+    {
+     "id": "b",
+     "text": "Cellulitis"
+    },
+    {
+     "id": "c",
+     "text": "Allergic contact dermatitis"
+    },
+    {
+     "id": "d",
+     "text": "Superficial folliculitis"
+    },
+    {
+     "id": "e",
+     "text": "Carbuncle"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes contrasts erysipelas, which involves the upper dermis and presents as a confluent, erythematous, warm plaque that is well demarcated with a sharp raised edge, is very painful (St. Anthony's fire), favours the face and legs, and is caused by group A streptococcus with systemic symptoms of fever, chills, headache and weakness, with cellulitis, which involves the lower dermis and subcutaneous fat and is poorly demarcated and not uniformly raised.",
+   "optionExplanations": {
+    "b": "Cellulitis is a poorly demarcated, not uniformly raised, flat erythematous lesion most commonly on the legs.",
+    "c": "Contact dermatitis is listed in the differential of cellulitis but is pruritic and eczematous rather than febrile with a sharply raised border.",
+    "d": "Superficial folliculitis presents as dome-shaped pustules at the mouths of hair follicles.",
+    "e": "A carbuncle is a deep-seated abscess formed by multiple coalescing furuncles draining through several openings."
+   },
+   "topic": "Bacterial Skin Infections",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "D",
+    "name": "Dermatology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 218,
+    "reference": "D30 — Bacterial Infections: Dermis / Comparison of Erysipelas and Cellulitis"
+   }
+  },
+  {
+   "id": "TN-D-012",
+   "type": "single-best-answer",
+   "question": "A 7-year-old boy has 6 weeks of an itchy scalp with several round scaly patches of alopecia containing broken-off hairs. There is tender occipital lymphadenopathy. KOH preparation of scale and hair shafts shows hyphae, and culture confirms a dermatophyte. What is the most appropriate treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Oral terbinafine for 4 weeks"
+    },
+    {
+     "id": "b",
+     "text": "Topical clotrimazole cream twice daily for 4 weeks"
+    },
+    {
+     "id": "c",
+     "text": "Topical mupirocin ointment three times daily for 10 days"
+    },
+    {
+     "id": "d",
+     "text": "Intralesional triamcinolone injections"
+    },
+    {
+     "id": "e",
+     "text": "Topical minoxidil solution twice daily"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes describes tinea capitis as round scaly patches of alopecia with broken-off hairs, pruritus, and possible occipital lymphadenopathy, most often in children, and states that oral therapy is indicated for onychomycosis and tinea capitis with terbinafine for 4 weeks. The text explicitly notes that oral agents are required to penetrate the hair root where the dermatophyte resides, with adjunctive antifungal shampoos to limit spread.",
+   "optionExplanations": {
+    "b": "Topical azoles are first line for tinea corporis, cruris, and interdigital tinea pedis but cannot reach the dermatophyte in the hair root.",
+    "c": "Mupirocin is an antibacterial used for impetigo and superficial folliculitis, not for a dermatophyte.",
+    "d": "Intralesional steroids are used for alopecia areata, a non-infectious cause of patchy hair loss.",
+    "e": "Minoxidil treats androgenetic alopecia and does not eradicate a fungal infection."
+   },
+   "topic": "Fungal Skin Infections",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "D",
+    "name": "Dermatology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 220,
+    "reference": "D32 — Dermatophytoses / Tinea Capitis"
+   }
+  },
+  {
+   "id": "TN-D-013",
+   "type": "single-best-answer",
+   "question": "A 68-year-old man who worked outdoors for 40 years has a lesion beside his nose that has slowly enlarged over 2 years and occasionally bleeds. Examination shows a 9 mm skin-coloured papule with a rolled, translucent pearly border, fine telangiectasia crossing the surface, and a depressed, eroded centre. There is no lymphadenopathy. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Nodular basal cell carcinoma"
+    },
+    {
+     "id": "b",
+     "text": "Squamous cell carcinoma"
+    },
+    {
+     "id": "c",
+     "text": "Keratoacanthoma"
+    },
+    {
+     "id": "d",
+     "text": "Bowen's disease"
+    },
+    {
+     "id": "e",
+     "text": "Amelanotic nodular melanoma"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes describes nodular basal cell carcinoma, the most common subtype, as a skin-coloured papule or nodule with a rolled, translucent (pearly) telangiectatic border and a depressed, eroded, or ulcerated centre. Basal cell carcinoma is the most common malignancy in humans, is usually due to UVB exposure with over 80% on sun-exposed sites, and has a latency of 20-50 years between UV damage and onset, which fits this patient's occupational exposure and slow growth.",
+   "optionExplanations": {
+    "b": "Squamous cell carcinoma is a hyperkeratotic indurated papule, plaque, or nodule with surface scale or crust that enlarges more rapidly than a basal cell carcinoma.",
+    "c": "Keratoacanthoma is a rapidly growing dome-shaped volcano-like nodule with a central keratin-filled crater.",
+    "d": "Bowen's disease is a sharply demarcated erythematous patch or thin plaque with scale or crusting, typically 1-3 cm.",
+    "e": "Amelanotic melanoma presents as pink or red macules, papules, or nodules without the pearly rolled telangiectatic border."
+   },
+   "topic": "Skin Cancer",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "D",
+    "name": "Dermatology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 228,
+    "reference": "D40 — Nonmelanoma Skin Cancers / Basal Cell Carcinoma"
+   }
+  },
+  {
+   "id": "TN-D-014",
+   "type": "single-best-answer",
+   "question": "A 47-year-old fair-skinned woman with red hair and multiple dysplastic nevi presents with a lesion on her upper back that her partner noticed changing. It is an 11 mm asymmetric plaque with an irregular indistinct border and mixed red, white, and blue-black colouration, and it has become slightly raised over 4 months. What is the most appropriate next step?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Excisional biopsy of the lesion"
+    },
+    {
+     "id": "b",
+     "text": "Shave biopsy of the most raised portion"
+    },
+    {
+     "id": "c",
+     "text": "Cryotherapy of the lesion"
+    },
+    {
+     "id": "d",
+     "text": "Topical imiquimod 5% cream three times weekly"
+    },
+    {
+     "id": "e",
+     "text": "Photographic surveillance with review in 6 months"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes applies the ABCDE checklist (asymmetry, irregular border, varied colour, diameter over 6 mm, and enlargement or evolution) to identify malignant features of a mole, and describes superficial spreading melanoma as irregular, indurated, enlarging plaques with red, white, and blue discolouration. For management, excisional biopsy is preferable, with the definitive margin determined by Breslow depth and wider excision performed only after histologic diagnosis.",
+   "optionExplanations": {
+    "b": "A shave biopsy risks transecting the lesion and losing the depth measurement on which staging and margins depend.",
+    "c": "Cryotherapy destroys tissue and leaves no specimen for the histologic diagnosis and Breslow depth.",
+    "d": "Imiquimod is indicated for superficial basal cell carcinoma, Bowen's disease, actinic keratoses, and warts.",
+    "e": "Deferring diagnosis in a lesion with several ABCDE features risks progression, and lesions that regress are often deeper than anticipated."
+   },
+   "topic": "Skin Cancer",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "D",
+    "name": "Dermatology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 230,
+    "reference": "D42 — Malignant Melanoma"
+   }
+  }
+ ]
+}

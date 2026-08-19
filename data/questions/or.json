@@ -1,0 +1,566 @@
+{
+ "chapter": {
+  "code": "OR",
+  "name": "Orthopedic Surgery"
+ },
+ "document": {
+  "id": "toronto-notes-2025",
+  "title": "Toronto Notes 2025",
+  "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
+ },
+ "count": 12,
+ "questions": [
+  {
+   "id": "TN-OR-001",
+   "type": "single-best-answer",
+   "question": "A 27-year-old motorcyclist is brought to the emergency department after skidding on gravel. His right lower leg is deformed and there is a 4 cm wound over the anterior shin, heavily contaminated with dirt, through which bone is visible. He is hemodynamically stable, distal pulses are palpable and sensation is intact. Radiographs confirm a mid-shaft tibial fracture communicating with the wound. Which of the following is the best initial management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Give IV antibiotics immediately, cover the wound with a sterile dressing, splint the limb, give tetanus prophylaxis, and prepare for operative irrigation and debridement"
+    },
+    {
+     "id": "b",
+     "text": "Irrigate and suture the wound closed in the emergency department and discharge on oral antibiotics"
+    },
+    {
+     "id": "c",
+     "text": "Withhold antibiotics until intraoperative cultures have been obtained in the operating room"
+    },
+    {
+     "id": "d",
+     "text": "Apply a circumferential below-knee cast and arrange repeat radiographs in one week"
+    },
+    {
+     "id": "e",
+     "text": "Obtain an MRI of the leg before any wound intervention"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "An open fracture is a fractured bone and hematoma in communication with the external or contaminated environment. Emergency measures are ABCs and resuscitation, removal of obvious foreign material, irrigation with normal saline if grossly contaminated, sterile dressings and splinting, immediate IV antibiotics, tetanus toxoid or immunoglobulin as needed, and NPO with preparation for the OR. Operative irrigation and debridement should follow within 6-8 h to decrease the risk of infection.",
+   "optionExplanations": {
+    "b": "Contaminated traumatic wounds are debrided in the OR and may be left open to drain, not sutured closed in the emergency department.",
+    "c": "Antibiotics are given immediately on arrival; delaying them until cultures are taken increases infection risk.",
+    "d": "A circumferential cast does not address the contaminated wound and risks compartment syndrome from a constrictive dressing.",
+    "e": "MRI has no role in the emergency management of an open fracture and would delay antibiotics and debridement."
+   },
+   "topic": "Open Fracture",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "OR",
+    "name": "Orthopedic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1098,
+    "reference": "OR10 — Open Fractures"
+   }
+  },
+  {
+   "id": "TN-OR-002",
+   "type": "single-best-answer",
+   "question": "A 22-year-old man sustained a closed tibial shaft fracture 8 hours ago and was placed in a below-knee backslab. He now reports severe escalating calf pain that is unrelieved by repeated doses of morphine. The splint has been removed, the limb placed at the level of the heart, and he was re-examined 15 minutes later without improvement. The calf is swollen and tense, passive extension of the toes reproduces severe pain, and the dorsalis pedis pulse is palpable. What is the most appropriate next step?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Urgent fasciotomy of the leg compartments"
+    },
+    {
+     "id": "b",
+     "text": "Measure intracompartmental pressures and observe the limb if the reading is below 30 mmHg"
+    },
+    {
+     "id": "c",
+     "text": "Elevate the limb well above the level of the heart and reassess in 4 hours"
+    },
+    {
+     "id": "d",
+     "text": "Urgent CT angiography of the lower limb"
+    },
+    {
+     "id": "e",
+     "text": "MRI of the leg to look for muscle necrosis"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Compartment syndrome is a clinical diagnosis: pain out of proportion to the injury is typically the first and most significant symptom, and pain with passive stretch is the most sensitive sign, with a swollen tense compartment. The 5 Ps, including pulselessness, are late signs and must not be awaited. Non-operative measures (removing constrictive dressings, elevating to heart level, re-evaluating every 15 min) have failed here, so urgent fasciotomy is required before irreversible muscle necrosis occurs in 4-6 h.",
+   "optionExplanations": {
+    "b": "Pressure monitoring is reserved for children, unconscious patients, or where clinical exam is unreliable; here the clinical picture is diagnostic and measurement would only delay surgery.",
+    "c": "Elevation to the level of the heart has already been tried without improvement, and elevating above the heart further reduces perfusion pressure.",
+    "d": "A palpable pulse does not exclude compartment syndrome, and angiography delays definitive fasciotomy.",
+    "e": "Investigations are usually unnecessary; MRI would waste time within the 4-6 h window before irreversible necrosis."
+   },
+   "topic": "Compartment Syndrome",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "OR",
+    "name": "Orthopedic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1099,
+    "reference": "OR11 — Compartment Syndrome"
+   }
+  },
+  {
+   "id": "TN-OR-003",
+   "type": "single-best-answer",
+   "question": "A 58-year-old house painter describes 6 months of right shoulder pain that wakes him at night and prevents him from sleeping on that side. The pain is worst when he reaches overhead, and he has weakness and loss of motion especially between 90 and 130 degrees of abduction. There is tenderness over the greater tuberosity, and passive movement is largely preserved. Radiographs show sclerosis of the undersurface of the acromion. What is the best initial management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Physiotherapy with activity modification and non-narcotic analgesia"
+    },
+    {
+     "id": "b",
+     "text": "Immediate arthroscopic acromioplasty and rotator cuff repair"
+    },
+    {
+     "id": "c",
+     "text": "Sling immobilization of the shoulder for 6 weeks"
+    },
+    {
+     "id": "d",
+     "text": "Referral for total shoulder arthroplasty"
+    },
+    {
+     "id": "e",
+     "text": "Aspiration of the subacromial bursa for culture"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "This is rotator cuff disease with subacromial impingement: insidious onset, night pain, pain worse with active overhead motion with passive movement generally permitted, weakness and loss of ROM especially between 90-130 degrees, and greater tuberosity tenderness. Rotator cuff injury treatment begins with physiotherapy regardless of severity on MRI, together with activity modification and non-narcotic analgesia with or without steroid injection; mild and moderate cases frequently improve.",
+   "optionExplanations": {
+    "b": "Surgery is indicated only for severe tear or impingement refractory to 2-3 mo of physiotherapy and 1-2 corticosteroid injections.",
+    "c": "Prolonged immobilization is not the treatment and predisposes to secondary adhesive capsulitis.",
+    "d": "Arthroplasty is a treatment for advanced glenohumeral arthritis, not for impingement or cuff tendinopathy.",
+    "e": "There is no fever or acute inflammatory picture to suggest infection requiring aspiration."
+   },
+   "topic": "Rotator Cuff Disease",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "OR",
+    "name": "Orthopedic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1102,
+    "reference": "OR14 — Rotator Cuff Disease"
+   }
+  },
+  {
+   "id": "TN-OR-004",
+   "type": "single-best-answer",
+   "question": "A 24-year-old man falls onto his outstretched hand while playing basketball. He has pain on the radial side of the wrist, tenderness in the anatomical snuffbox and over the scaphoid tubercle, and pain with long axis compression into the scaphoid. There is no visible deformity and the wrist is neurovascularly intact. AP, lateral and dedicated scaphoid radiographs taken today are reported as normal. What is the most appropriate next step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Immobilize in a thumb spica cast, treat as a scaphoid fracture, and repeat radiographs in 2 weeks"
+    },
+    {
+     "id": "b",
+     "text": "Diagnose a wrist sprain, apply a tensor bandage, and arrange no follow-up"
+    },
+    {
+     "id": "c",
+     "text": "Proceed directly to ORIF with a headless compression screw"
+    },
+    {
+     "id": "d",
+     "text": "Volar wrist splint for 3 days and return to sport when comfortable"
+    },
+    {
+     "id": "e",
+     "text": "Nuclear medicine bone scan today"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "A scaphoid fracture may not be radiologically evident for up to 2 weeks after acute injury. If a patient has wrist pain and anatomical snuffbox tenderness but a negative x-ray, treat as if positive for a scaphoid fracture and repeat the x-ray 2 weeks later; if the x-ray is still negative, order CT or MRI. Early treatment is critical to outcome given the risk of nonunion and AVN of the proximal pole.",
+   "optionExplanations": {
+    "b": "Snuffbox tenderness is 100% sensitive for scaphoid injury; discharging without immobilization risks a missed fracture with nonunion and AVN.",
+    "c": "Operative fixation is indicated for displaced, comminuted or humpback deformity fractures or associated perilunate injury, none of which is demonstrated here.",
+    "d": "A brief volar splint and early return to sport do not protect an occult scaphoid fracture.",
+    "e": "Bone scan is rarely used; the standard pathway is immobilization with repeat x-ray, then CT or MRI if still negative."
+   },
+   "topic": "Scaphoid Fracture",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "OR",
+    "name": "Orthopedic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1112,
+    "reference": "OR24 — Scaphoid Fracture"
+   }
+  },
+  {
+   "id": "TN-OR-005",
+   "type": "single-best-answer",
+   "question": "A 45-year-old warehouse worker develops severe low back pain radiating down both legs after lifting a crate. Over the past 12 hours he has developed numbness of the perineum and buttocks, difficulty initiating urination, and new weakness of ankle dorsiflexion bilaterally. Straight leg raise is positive on both sides and ankle reflexes are diminished. A bladder scan shows a post-void residual volume of 350 mL. Which of the following is the most appropriate next step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Urgent MRI of the lumbosacral spine with immediate surgical consultation"
+    },
+    {
+     "id": "b",
+     "text": "Six weeks of extension protocol physiotherapy and NSAIDs"
+    },
+    {
+     "id": "c",
+     "text": "Lumbosacral radiographs with outpatient follow-up in 4 weeks"
+    },
+    {
+     "id": "d",
+     "text": "Epidural corticosteroid injection"
+    },
+    {
+     "id": "e",
+     "text": "Bed rest with opioid analgesia and reassessment in 72 hours"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Cauda equina syndrome complicates 1-10% of disc herniations and is a surgical emergency. Investigation of disc herniation includes x-ray and MRI, and a post-void residual greater than 100 mL should heighten suspicion for cauda equina syndrome. Saddle anesthesia, bladder dysfunction and progressive neuromotor deficit are back pain red flags; central disc herniation causing cauda equina syndrome is an indication for operative decompression, so urgent MRI and surgical referral are required.",
+   "optionExplanations": {
+    "b": "Non-operative symptomatic care applies to uncomplicated disc herniation, not to a patient with saddle anesthesia and urinary retention.",
+    "c": "Radiographs alone cannot exclude cauda equina compression and a 4-week delay risks permanent deficit.",
+    "d": "Injection does not decompress the cauda equina and delays definitive surgical treatment.",
+    "e": "Observation is unsafe: progressive neurological deficit and cauda equina syndrome are indications for surgery."
+   },
+   "topic": "Cauda Equina Syndrome and Back Pain Red Flags",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "OR",
+    "name": "Orthopedic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1116,
+    "reference": "OR28 — Disc Herniation / Low Back Pain Red Flags"
+   }
+  },
+  {
+   "id": "TN-OR-006",
+   "type": "single-best-answer",
+   "question": "A 32-year-old restrained driver strikes his flexed right knee on the dashboard in a high-speed collision. Primary and secondary surveys are otherwise unremarkable and he is hemodynamically stable. The right lower limb is shortened, adducted and internally rotated, and any hip movement is exquisitely painful. Distal pulses and sciatic and femoral nerve function are documented as intact. Radiographs show the right femoral head appearing smaller than the left, with no femoral neck fracture. What is the most appropriate next step?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Urgent closed reduction under conscious sedation or general anesthesia, followed by post-reduction CT"
+    },
+    {
+     "id": "b",
+     "text": "Skeletal traction for 6 weeks with delayed reduction"
+    },
+    {
+     "id": "c",
+     "text": "MRI of the hip before any reduction attempt"
+    },
+    {
+     "id": "d",
+     "text": "Immediate total hip arthroplasty"
+    },
+    {
+     "id": "e",
+     "text": "Analgesia now with reduction on the next elective operating list"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Posterior hip dislocation is the most frequent type (90%) and is caused by a severe axial load to the knee with the hip flexed and adducted, such as a knee striking the dashboard; the limb is shortened, adducted and internally rotated and the affected femoral head appears smaller on x-ray. Neurovascular status must be examined before reduction, hip dislocations should be reduced within 6 h to decrease the risk of AVN of the femoral head, and post-reduction CT is obtained to assess joint congruity.",
+   "optionExplanations": {
+    "b": "Traction with delayed reduction leaves the head dislocated well beyond 6 h and markedly increases AVN risk.",
+    "c": "MRI is not required to diagnose the dislocation and would delay urgent reduction; CT is obtained after reduction.",
+    "d": "Arthroplasty is not the acute treatment of a simple dislocation without femoral neck fracture.",
+    "e": "Delaying reduction to an elective list forfeits the 6 h window that reduces the risk of avascular necrosis."
+   },
+   "topic": "Posterior Hip Dislocation",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "OR",
+    "name": "Orthopedic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1118,
+    "reference": "OR30 — Hip Dislocation"
+   }
+  },
+  {
+   "id": "TN-OR-007",
+   "type": "single-best-answer",
+   "question": "An 82-year-old woman with osteoporosis falls from standing height onto her left side. She has acute left hip pain, is unable to weight-bear, and the left leg is shortened and externally rotated with painful range of motion. Radiographs of the hip and pelvis, including a cross table lateral view, show a displaced intracapsular subcapital fracture of the femoral neck with disruption of Shenton's line. Which complication is she at greatest risk of as a direct consequence of this fracture location?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Avascular necrosis of the femoral head"
+    },
+    {
+     "id": "b",
+     "text": "Varus displacement of the proximal fragment typical of extracapsular fractures"
+    },
+    {
+     "id": "c",
+     "text": "Volkmann ischemic contracture"
+    },
+    {
+     "id": "d",
+     "text": "Sciatic nerve palsy"
+    },
+    {
+     "id": "e",
+     "text": "Compartment syndrome of the thigh"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "A subcapital femoral neck fracture is intracapsular, and complications listed for this fracture type are DVT, nonunion and AVN. The blood supply runs distal to proximal along the femoral neck to the head via the medial and lateral femoral circumflex arteries, so it is susceptible to AVN when disrupted; femoral neck fracture is a listed cause of AVN of the femoral head, along with chronic steroid use, SCFE and Legg-Calve-Perthes disease.",
+   "optionExplanations": {
+    "b": "Varus displacement of the proximal fragment is a complication of extracapsular intertrochanteric fractures, not intracapsular subcapital fractures.",
+    "c": "Volkmann ischemic contracture follows compartment syndrome of the forearm, especially after supracondylar humerus and both bone forearm fractures.",
+    "d": "Sciatic nerve palsy is characteristically associated with hip dislocation rather than with a femoral neck fracture.",
+    "e": "Compartment syndrome typically involves fibro-osseous compartments such as the calf or forearm, not an intracapsular hip fracture."
+   },
+   "topic": "Femoral Neck Fracture",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "OR",
+    "name": "Orthopedic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1119,
+    "reference": "OR31 — Hip Fracture"
+   }
+  },
+  {
+   "id": "TN-OR-008",
+   "type": "single-best-answer",
+   "question": "A 20-year-old university soccer player plants her foot and pivots sharply to change direction. She feels and hears a pop in her right knee, is unable to continue playing, and the knee swells within an hour. She reports the knee giving way when she tries to walk. On examination there is a tense effusion, and with the knee flexed to 90 degrees and the foot immobilized the tibia can be subluxed anteriorly on the femur. Which structure has most likely been injured?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Anterior cruciate ligament"
+    },
+    {
+     "id": "b",
+     "text": "Posterior cruciate ligament"
+    },
+    {
+     "id": "c",
+     "text": "Medial collateral ligament"
+    },
+    {
+     "id": "d",
+     "text": "Medial meniscus"
+    },
+    {
+     "id": "e",
+     "text": "Patellar tendon"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The most common ACL mechanism is non-contact sudden deceleration with a change of direction or landing manoeuvre, producing anterior tibial translation with valgus knee stress. The history of an audible pop, immediate swelling, the knee giving way and inability to continue activity, with effusion (hemarthrosis) and a positive anterior drawer, fits ACL rupture; ACL tears are much more common than PCL tears.",
+   "optionExplanations": {
+    "b": "PCL injury follows hyperflexion, hyperextension, or a posteriorly directed blow to the flexed knee such as a dashboard injury, and produces a positive posterior drawer.",
+    "c": "MCL tears result from a valgus force with laxity on valgus stress testing rather than anterior tibial subluxation.",
+    "d": "Meniscal tears typically follow a twisting force on the partially flexed knee, with effusion of insidious onset over 24-48 h and joint line tenderness.",
+    "e": "Patellar tendon rupture presents with inability to extend the knee, a palpable gap, and a high riding patella, not anterior tibial subluxation."
+   },
+   "topic": "Anterior Cruciate Ligament Tear",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "OR",
+    "name": "Orthopedic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1123,
+    "reference": "OR35 — Cruciate Ligament Tears"
+   }
+  },
+  {
+   "id": "TN-OR-009",
+   "type": "single-best-answer",
+   "question": "A 28-year-old man twists his left knee while stepping down from a truck and turning. Swelling developed gradually over the following 36 hours. He describes clicking and increased pain with squatting and twisting. Examination reveals a moderate effusion and medial joint line tenderness, and pain with a palpable click when the joint line is palpated during knee flexion and extension. He cannot fully extend the knee and there is a firm mechanical block to passive extension. Radiographs show no fracture. What is the most appropriate next step?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Arrange urgent arthroscopy for repair or partial meniscectomy"
+    },
+    {
+     "id": "b",
+     "text": "NSAIDs with a range of motion and strengthening program"
+    },
+    {
+     "id": "c",
+     "text": "Knee immobilizer for 4 weeks and then reassess"
+    },
+    {
+     "id": "d",
+     "text": "Outpatient MRI in 6 weeks with interim activity modification"
+    },
+    {
+     "id": "e",
+     "text": "Aspiration of the effusion and intra-articular corticosteroid injection"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The mechanism (twisting force on a partially flexed knee such as stepping down and turning), effusion of insidious onset 24-48 h after injury, joint line tenderness and locking indicate a meniscal tear. A locked knee, in which the patient cannot fully extend the knee because of a mechanical block, is a surgical emergency; arthroscopic repair or partial meniscectomy is indicated, and repair is generally preferred in younger patients with traumatic, non-degenerative tears.",
+   "optionExplanations": {
+    "b": "Non-operative range of motion and strengthening is indicated when the knee is not locked or for degenerative tears with osteoarthritis.",
+    "c": "Immobilization does not relieve a mechanical block and delays urgent surgical treatment of a locked knee.",
+    "d": "A locked knee cannot wait 6 weeks for imaging; operative treatment is indicated urgently.",
+    "e": "Aspiration and steroid injection do not remove the displaced meniscal fragment obstructing extension."
+   },
+   "topic": "Meniscal Tear with Locked Knee",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "OR",
+    "name": "Orthopedic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1124,
+    "reference": "OR36 — Meniscal Tears"
+   }
+  },
+  {
+   "id": "TN-OR-010",
+   "type": "single-best-answer",
+   "question": "A 30-year-old woman inverts her right ankle stepping off a curb and is seen 2 hours later. She has pain in the malleolar zone and has been able to limp four steps in the emergency department. On palpation there is bony tenderness over the posterior edge and tip of the lateral malleolus. The medial malleolus is not tender, and there is no midfoot pain and no tenderness over the navicular or the base of the fifth metatarsal. What is the most appropriate imaging?",
+   "options": [
+    {
+     "id": "a",
+     "text": "AP, mortise and lateral radiographs of the ankle"
+    },
+    {
+     "id": "b",
+     "text": "No imaging; manage as a lateral ligament sprain"
+    },
+    {
+     "id": "c",
+     "text": "MRI of the ankle"
+    },
+    {
+     "id": "d",
+     "text": "Ultrasound of the lateral collateral ligaments"
+    },
+    {
+     "id": "e",
+     "text": "Radiographs of the foot only"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The Ottawa Ankle and Foot Rules, which have nearly 100% sensitivity, should guide x-ray use: ankle films are required for pain in the malleolar zone plus bony tenderness over the posterior edge or tip of either malleolus, or inability to weight bear both immediately and in the emergency department. This patient has malleolar zone pain with tenderness at the tip of the lateral malleolus, so ankle radiographs are indicated: AP, mortise and lateral views, the mortise view being taken at 15 degrees of internal rotation to give a true view of the joint.",
+   "optionExplanations": {
+    "b": "The Ottawa ankle rule is positive because of bony tenderness at the lateral malleolus, so radiographs cannot be omitted.",
+    "c": "MRI is not the initial imaging modality for a suspected ankle fracture.",
+    "d": "Ultrasound is not used to guide initial imaging decisions in acute ankle trauma.",
+    "e": "Foot films are indicated for midfoot zone pain with navicular or fifth metatarsal base tenderness, which she does not have."
+   },
+   "topic": "Ottawa Ankle Rules and Ankle Injury Imaging",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "OR",
+    "name": "Orthopedic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1129,
+    "reference": "OR41 — Evaluation of Ankle and Foot Complaints"
+   }
+  },
+  {
+   "id": "TN-OR-011",
+   "type": "single-best-answer",
+   "question": "A 13-year-old boy with obesity presents with 6 weeks of dull right knee and anterior thigh pain and a limp. There is no history of trauma. The knee has no effusion, no joint line tenderness and full painless motion. Examination of the right hip shows restricted internal rotation, abduction and flexion, with obligatory external rotation of the hip during passive flexion. There is a positive Trendelenburg sign on the right. He is afebrile and able to walk with crutches. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Slipped capital femoral epiphysis"
+    },
+    {
+     "id": "b",
+     "text": "Legg-Calve-Perthes disease"
+    },
+    {
+     "id": "c",
+     "text": "Transient synovitis of the hip"
+    },
+    {
+     "id": "d",
+     "text": "Septic arthritis of the hip"
+    },
+    {
+     "id": "e",
+     "text": "Osgood-Schlatter disease"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "SCFE is the most common adolescent hip disorder, peaking at the pubertal growth spurt, with obesity as the number one risk factor and male sex a further risk. Chronic presentations give groin and anterior thigh pain that may present as knee pain through activation of the medial obturator nerve, with a positive Trendelenburg sign, restricted internal rotation, abduction and flexion, and the Drehmann sign of obligatory external rotation during passive hip flexion. Ability to bear weight with crutches makes this a stable slip.",
+   "optionExplanations": {
+    "b": "Legg-Calve-Perthes disease presents at 4-8 years of age, much younger than this patient.",
+    "c": "Transient synovitis does not produce a 6-week history with the Drehmann sign, and the Kocher criteria are used to distinguish it from a septic joint.",
+    "d": "Septic arthritis progresses over hours with fever and inability to weight bear, not a 6-week afebrile course.",
+    "e": "Osgood-Schlatter disease causes a tender lump over the tibial tuberosity with pain on resisted leg extension, and does not restrict hip motion."
+   },
+   "topic": "Slipped Capital Femoral Epiphysis",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "OR",
+    "name": "Orthopedic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1134,
+    "reference": "OR46 — Slipped Capital Femoral Epiphysis (SCFE)"
+   }
+  },
+  {
+   "id": "TN-OR-012",
+   "type": "single-best-answer",
+   "question": "A 3-month-old girl born in frank breech presentation is assessed because her mother noticed asymmetry of the legs. She is a first-born child and there is a family history of childhood hip problems. Examination shows limited abduction of the flexed left hip, asymmetric thigh skin folds, and a palpable clunk felt with the fingertips as the left hip is abducted. Ultrasound confirms a shallow acetabulum with a reducible dislocated left femoral head. What is the most appropriate initial management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Pavlik harness to maintain hip abduction and flexion"
+    },
+    {
+     "id": "b",
+     "text": "Closed reduction under general anesthesia with hip spica casting"
+    },
+    {
+     "id": "c",
+     "text": "Open reduction with spica casting"
+    },
+    {
+     "id": "d",
+     "text": "Pelvic and femoral osteotomy"
+    },
+    {
+     "id": "e",
+     "text": "Observation with repeat clinical examination at 2 years of age"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Developmental dysplasia of the hip is the most common orthopedic disorder in newborns; risk factors include family history, female sex, frank breech, first born and left hip involvement. Diagnosis is clinical, with limited abduction of the flexed hip, skin fold asymmetry, and a palpable clunk on Ortolani's test indicating a reducible hip. From 0-6 months the treatment is to reduce the hip using a Pavlik harness to maintain abduction and flexion.",
+   "optionExplanations": {
+    "b": "Reduction under general anesthesia with a hip spica cast is used from 6-18 months, or earlier only if the Pavlik harness fails.",
+    "c": "Open reduction with spica casting is reserved for children aged 18 months to 2 years.",
+    "d": "Pelvic and/or femoral osteotomy is used after 2 years of age.",
+    "e": "Untreated dysplasia does not correct itself, and delaying to age 2 commits the child to osteotomy."
+   },
+   "topic": "Developmental Dysplasia of the Hip",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "OR",
+    "name": "Orthopedic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1135,
+    "reference": "OR47 — Developmental Dysplasia of the Hip"
+   }
+  }
+ ]
+}

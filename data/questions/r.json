@@ -1,0 +1,750 @@
+{
+ "chapter": {
+  "code": "R",
+  "name": "Respirology"
+ },
+ "document": {
+  "id": "toronto-notes-2025",
+  "title": "Toronto Notes 2025",
+  "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
+ },
+ "count": 16,
+ "questions": [
+  {
+   "id": "TN-R-001",
+   "type": "single-best-answer",
+   "question": "A 63-year-old man reports two years of progressive exertional dyspnea and a dry cough. Spirometry with plethysmography shows a markedly reduced total lung capacity, a reduced residual volume, an FEV1/FVC ratio above the predicted value, and a reduced diffusing capacity for carbon monoxide. There is no significant change in FEV1 after bronchodilator. Which of the following best explains this pattern of lung function?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Interstitial lung disease"
+    },
+    {
+     "id": "b",
+     "text": "Asthma"
+    },
+    {
+     "id": "c",
+     "text": "Emphysema"
+    },
+    {
+     "id": "d",
+     "text": "Bronchiectasis"
+    },
+    {
+     "id": "e",
+     "text": "Bronchiolitis"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes contrasts obstructive and restrictive patterns: restriction is characterised by reduced lung volumes (reduced TLC), decreased lung compliance, and an FEV1/FVC that is elevated or normal, with interstitial lung disease, pleural disease, neuromuscular disease and chest wall disease as the differential. A reduced DLCO indicates parenchymal rather than extraparenchymal restriction, which points to interstitial lung disease.",
+   "optionExplanations": {
+    "b": "Asthma is an obstructive disease with a reduced FEV1/FVC and normal or elevated TLC, not a reduced TLC.",
+    "c": "Emphysema gives obstruction with hyperinflation (increased TLC and RV), the opposite of the volumes described.",
+    "d": "Bronchiectasis produces an obstructive or mixed pattern, not pure restriction with low TLC and low RV.",
+    "e": "Bronchiolitis is listed among the obstructive diseases, so a reduced FEV1/FVC would be expected."
+   },
+   "topic": "Pulmonary function test interpretation",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "R",
+    "name": "Respirology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1458,
+    "reference": "R4 — Pulmonary Function Tests, Table 5"
+   }
+  },
+  {
+   "id": "TN-R-002",
+   "type": "single-best-answer",
+   "question": "A 24-year-old non-smoking woman describes two years of episodic wheeze, chest tightness and nocturnal cough that worsen with cold air and after upper respiratory infections. She has eczema and a family history of allergic rhinitis. Today she is asymptomatic, chest examination is normal, and spirometry shows an FEV1/FVC ratio within the normal range with no significant bronchodilator response. What is the most appropriate next investigation to confirm the diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Methacholine challenge test"
+    },
+    {
+     "id": "b",
+     "text": "High-resolution CT of the chest"
+    },
+    {
+     "id": "c",
+     "text": "Measurement of diffusing capacity for carbon monoxide"
+    },
+    {
+     "id": "d",
+     "text": "Arterial blood gas on room air"
+    },
+    {
+     "id": "e",
+     "text": "Posteroanterior and lateral chest radiograph"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The pulmonary function criteria for diagnosing asthma list spirometry showing reversible airway obstruction as the preferred measurement, but when spirometry is non-diagnostic a positive challenge test may be used: a methacholine challenge is positive if FEV1 falls by at least 20% at an inhaled dose below 4 mg/mL. This patient has a classic history with normal interval spirometry, the situation in which bronchoprovocation testing is required.",
+   "optionExplanations": {
+    "b": "High-resolution CT is the diagnostic test for bronchiectasis and is used in interstitial lung disease, not to confirm asthma.",
+    "c": "DLCO is used to characterise parenchymal and vascular disease; it is not part of the diagnostic criteria for asthma.",
+    "d": "Arterial blood gas is used to assess gas exchange in severe attacks and respiratory failure, not to make the diagnosis.",
+    "e": "A chest radiograph may exclude alternative disease but cannot confirm reversible airflow limitation or hyper-responsiveness."
+   },
+   "topic": "Asthma diagnosis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "R",
+    "name": "Respirology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1461,
+    "reference": "R7 — Asthma, Table 12 Pulmonary Function Criteria for Diagnosis of Asthma"
+   }
+  },
+  {
+   "id": "TN-R-003",
+   "type": "single-best-answer",
+   "question": "A 29-year-old woman with known asthma comes to the emergency department with two hours of worsening dyspnea and wheeze following a viral illness. She speaks in short phrases, respiratory rate is 28/min, and there is widespread expiratory wheeze with accessory muscle use. She is alert, air entry is adequate throughout, and she has taken no medication before arrival. Which of the following is the most appropriate initial treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Inhaled short-acting beta2-agonist given by metered dose inhaler with a spacer"
+    },
+    {
+     "id": "b",
+     "text": "Intravenous magnesium sulfate"
+    },
+    {
+     "id": "c",
+     "text": "Subcutaneous adrenaline"
+    },
+    {
+     "id": "d",
+     "text": "Oral montelukast"
+    },
+    {
+     "id": "e",
+     "text": "Rapid sequence intubation"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "In the emergency management of asthma the first-line agent is an inhaled beta2-agonist, and the metered dose inhaler route with a spacer device is the recommended method of delivery. Systemic steroids follow, with anticholinergic therapy and magnesium sulfate reserved for severe attacks. This patient is in distress but alert with adequate air entry, so bronchodilation is the immediate priority.",
+   "optionExplanations": {
+    "b": "Magnesium sulfate is added only if the attack is severe, after first-line bronchodilator and systemic steroid therapy.",
+    "c": "Subcutaneous or IV adrenaline is reserved for anaphylaxis or for patients unresponsive to inhaled beta2-agonists.",
+    "d": "Leukotriene receptor antagonists are a step in chronic maintenance therapy, not an acute rescue treatment.",
+    "e": "Rapid sequence intubation is reserved for life-threatening cases with features such as silent chest, cyanosis or decreased level of consciousness."
+   },
+   "topic": "Acute asthma",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "R",
+    "name": "Respirology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1462,
+    "reference": "R8 — Emergency Management of Asthma"
+   }
+  },
+  {
+   "id": "TN-R-004",
+   "type": "single-best-answer",
+   "question": "A 68-year-old man with a 50 pack-year smoking history reports progressive exertional dyspnea with minimal cough. He is thin and cachectic, breathes through pursed lips and uses accessory muscles at rest. The chest is barrel-shaped and hyperresonant with quiet breath sounds and reduced diaphragmatic excursion. Lung function shows reduced FEV1 and FEV1/FVC, increased total lung capacity and residual volume, and reduced diffusing capacity. Which of the following best describes his disease?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Emphysema"
+    },
+    {
+     "id": "b",
+     "text": "Chronic bronchitis"
+    },
+    {
+     "id": "c",
+     "text": "Bronchiectasis"
+    },
+    {
+     "id": "d",
+     "text": "Idiopathic pulmonary fibrosis"
+    },
+    {
+     "id": "e",
+     "text": "Asthma"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes describes the emphysema phenotype as minimal cough, tachypnea, cachexia from the increased work of breathing, pursed-lip breathing, hyperinflation with a barrel chest, hyperresonant percussion, decreased breath sounds and decreased diaphragmatic excursion. The corresponding pulmonary function findings are a reduced FEV1 and FEV1/FVC with increased TLC (hyperinflation), increased RV (gas trapping) and a reduced DLCO, exactly as described here.",
+   "optionExplanations": {
+    "b": "Chronic bronchitis is defined clinically by a productive cough on most days for at least three consecutive months in two successive years, and typically shows a normal TLC and normal or increased DLCO.",
+    "c": "Bronchiectasis presents with copious purulent sputum and localised crackles rather than a quiet hyperinflated chest.",
+    "d": "Idiopathic pulmonary fibrosis produces restriction with reduced lung volumes and fine basal crackles, not hyperinflation.",
+    "e": "Asthma causes episodic reversible obstruction rather than fixed obstruction with cachexia and a reduced DLCO."
+   },
+   "topic": "COPD phenotypes",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "R",
+    "name": "Respirology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1463,
+    "reference": "R9 — Table 14 Clinical Features and Investigations for Emphysema and Chronic Bronchitis"
+   }
+  },
+  {
+   "id": "TN-R-005",
+   "type": "single-best-answer",
+   "question": "A 71-year-old woman with severe COPD has stopped smoking, receives annual influenza vaccination and is stable on inhaled long-acting bronchodilators. She has had no exacerbation for a year. Arterial blood gas on room air, repeated on two occasions while she is clinically stable, shows a PaO2 of 52 mmHg. There is no peripheral edema and her hematocrit is normal. Which additional intervention is most likely to prolong her survival?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Long-term home oxygen used for more than 15 hours per day"
+    },
+    {
+     "id": "b",
+     "text": "Oral theophylline"
+    },
+    {
+     "id": "c",
+     "text": "Inhaled corticosteroid monotherapy"
+    },
+    {
+     "id": "d",
+     "text": "Roflumilast"
+    },
+    {
+     "id": "e",
+     "text": "Lung volume reduction surgery"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "In the table of treatments for stable COPD, home oxygen is listed among the interventions that prolong survival: it prevents cor pulmonale and decreases mortality if used more than 15 hours per day, and is indicated when the PaO2 is below 55 mmHg, or 56-59 mmHg with cor pulmonale or polycythemia. Her PaO2 of 52 mmHg meets the first criterion.",
+   "optionExplanations": {
+    "b": "Evidence for oral theophylline in stable COPD is insufficient or equivocal and it carries a high-risk toxicity profile.",
+    "c": "Inhaled corticosteroid monotherapy increases the incidence of pneumonia in COPD and should only be used within a combination inhaler.",
+    "d": "Roflumilast reduces exacerbations in a chronic bronchitic phenotype with frequent exacerbations despite triple therapy; it is not indicated here and is not listed as prolonging survival.",
+    "e": "Lung volume reduction surgery is a selective option for emphysematous lung and is not indicated for isolated hypoxemia."
+   },
+   "topic": "Stable COPD management",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "R",
+    "name": "Respirology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1464,
+    "reference": "R10 — Table 15 Treatment of Stable COPD"
+   }
+  },
+  {
+   "id": "TN-R-006",
+   "type": "single-best-answer",
+   "question": "A 74-year-old man with known COPD presents with three days of increasing dyspnea, cough and purulent sputum. He is drowsy and using accessory muscles, and his respiratory rate is 30/min. Arterial blood gas shows a markedly elevated PaCO2 with a reduced pH. He has already received nebulized salbutamol and ipratropium, systemic corticosteroid and antibiotics, with oxygen titrated to a saturation of 90%. What is the most appropriate next step?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Non-invasive positive pressure ventilation (BiPAP)"
+    },
+    {
+     "id": "b",
+     "text": "Increase inspired oxygen to achieve a saturation of 98-100%"
+    },
+    {
+     "id": "c",
+     "text": "Intravenous theophylline"
+    },
+    {
+     "id": "d",
+     "text": "Intravenous furosemide"
+    },
+    {
+     "id": "e",
+     "text": "Begin long-term macrolide therapy"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "In the management of an acute exacerbation of COPD, Toronto Notes directs the clinician to secure the ABCs and to consider non-invasive ventilation early if the CO2 is high and/or the pH is reduced, alongside bronchodilators, systemic corticosteroids and antibiotics for purulent exacerbations. This patient has hypercapnia with acidemia and a depressed level of consciousness despite maximal medical therapy, so NIPPV is the next step.",
+   "optionExplanations": {
+    "b": "For CO2 retainers the oxygen saturation target during an exacerbation is 88-92%; driving saturation higher risks worsening hypercapnia.",
+    "c": "Theophylline is not part of the acute exacerbation algorithm and has a high-risk toxicity profile.",
+    "d": "Diuresis treats volume overload; it does not address hypercapnic respiratory failure from an exacerbation.",
+    "e": "Macrolide maintenance is a preventive strategy for patients with frequent exacerbations despite triple inhaled therapy, not an acute intervention."
+   },
+   "topic": "Acute exacerbation of COPD",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "R",
+    "name": "Respirology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1465,
+    "reference": "R11 — Acute Exacerbations of COPD"
+   }
+  },
+  {
+   "id": "TN-R-007",
+   "type": "single-best-answer",
+   "question": "A 44-year-old woman has had a daily cough productive of large volumes of purulent sputum for several years, with three chest infections requiring antibiotics in the past year and one episode of hemoptysis. Examination reveals coarse inspiratory and expiratory crackles at both bases and scattered rhonchi. Chest radiograph shows increased markings and linear atelectasis. Which investigation is most likely to establish the diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "High-resolution CT of the thorax"
+    },
+    {
+     "id": "b",
+     "text": "Spirometry before and after bronchodilator"
+    },
+    {
+     "id": "c",
+     "text": "Bronchoscopy with bronchoalveolar lavage"
+    },
+    {
+     "id": "d",
+     "text": "Serum immunoglobulin panel"
+    },
+    {
+     "id": "e",
+     "text": "Sputum culture for acid-fast bacilli"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "This presentation of chronic copious purulent sputum, recurrent infections, hemoptysis and crackles with nonspecific radiographic changes is typical of bronchiectasis. High-resolution thoracic CT is the diagnostic gold standard, with 87-97% sensitivity and 93-100% specificity, and shows the signet ring sign of dilated thick-walled bronchi larger than the accompanying artery.",
+   "optionExplanations": {
+    "b": "Pulmonary function tests often show an obstructive pattern in bronchiectasis but may be normal, so they cannot establish the diagnosis.",
+    "c": "Bronchoscopy is not the diagnostic test for bronchiectasis; it is used for airway visualisation, lavage and biopsy in other settings.",
+    "d": "An immunoglobulin panel searches for an underlying cause such as hypogammaglobulinemia once bronchiectasis is confirmed.",
+    "e": "Acid-fast sputum culture is part of the workup for underlying or complicating infection, not for demonstrating airway dilatation."
+   },
+   "topic": "Bronchiectasis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "R",
+    "name": "Respirology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1466,
+    "reference": "R12 — Bronchiectasis, Investigations"
+   }
+  },
+  {
+   "id": "TN-R-008",
+   "type": "single-best-answer",
+   "question": "A 19-year-old man has had recurrent sinusitis and a chronic productive cough since early childhood, and sputum has repeatedly grown Pseudomonas aeruginosa. He is underweight and describes bulky greasy stools. Chest radiograph shows hyperinflation with increased pulmonary markings that are most prominent in the upper lobes. Spirometry demonstrates airflow obstruction. Which investigation would best confirm the suspected diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Sweat chloride testing on two separate occasions"
+    },
+    {
+     "id": "b",
+     "text": "Serum alpha-1 antitrypsin level"
+    },
+    {
+     "id": "c",
+     "text": "Serum immunoglobulin panel"
+    },
+    {
+     "id": "d",
+     "text": "Bronchoalveolar lavage differential cell count"
+    },
+    {
+     "id": "e",
+     "text": "Arterial blood gas measurement"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Chronic sinopulmonary disease with Pseudomonas colonisation plus pancreatic insufficiency and malnutrition is the multisystem picture of cystic fibrosis, which reflects chloride transport dysfunction. Toronto Notes states that increased sweat chloride concentration on two occasions supports the diagnosis, and notes that single mutation carriers have normal sweat tests.",
+   "optionExplanations": {
+    "b": "Alpha-1 antitrypsin deficiency causes lower lobe panacinar emphysema in adults and does not explain pancreatic insufficiency or childhood-onset infection.",
+    "c": "Hypogammaglobulinemia is one cause of impaired defences leading to bronchiectasis, but it does not account for the pancreatic and nutritional features.",
+    "d": "Lavage cell counts help characterise interstitial disease such as hypersensitivity pneumonitis, not cystic fibrosis.",
+    "e": "Blood gases show hypoxemia and later hypercapnia in advancing cystic fibrosis but are not diagnostic."
+   },
+   "topic": "Cystic fibrosis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "R",
+    "name": "Respirology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1467,
+    "reference": "R13 — Cystic Fibrosis, Investigations"
+   }
+  },
+  {
+   "id": "TN-R-009",
+   "type": "single-best-answer",
+   "question": "A 68-year-old former smoker has 18 months of progressive exertional dyspnea and a nonproductive cough. He has fine late inspiratory crackles at both lung bases and finger clubbing. Autoimmune serology is negative. High-resolution CT shows subpleural, basal-predominant reticulation with honeycombing and traction bronchiectasis, without prominent ground-glass opacity, consolidation or nodules. Which of the following is the most appropriate ongoing treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Antifibrotic therapy with pirfenidone or nintedanib"
+    },
+    {
+     "id": "b",
+     "text": "Long-term high-dose oral prednisone"
+    },
+    {
+     "id": "c",
+     "text": "Combination inhaled corticosteroid and long-acting beta2-agonist"
+    },
+    {
+     "id": "d",
+     "text": "Prolonged broad-spectrum antibiotic therapy"
+    },
+    {
+     "id": "e",
+     "text": "Cyclophosphamide with plasma exchange"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Pulmonary fibrosis of unknown cause with a usual interstitial pneumonia pattern inferred from CT defines idiopathic pulmonary fibrosis, and the CT features described (subpleural basal reticulation with honeycombing and traction bronchiectasis, without prominent ground-glass or nodules) are the typical UIP pattern. Ongoing management is antifibrotic therapy with pirfenidone or nintedanib, along with smoking cessation, pulmonary rehabilitation with oxygen, and transplant assessment in advanced disease.",
+   "optionExplanations": {
+    "b": "Prednisone is used with minimal evidence for acute exacerbations of IPF; it is not the ongoing disease-modifying therapy.",
+    "c": "Inhaled corticosteroid and long-acting beta2-agonist therapy is for obstructive airway disease and has no role in IPF.",
+    "d": "Antibiotics are considered on an individualised basis during an acute exacerbation, not as chronic management.",
+    "e": "Cyclophosphamide with plasma exchange is used in pulmonary vasculitis and anti-GBM disease, not IPF."
+   },
+   "topic": "Idiopathic pulmonary fibrosis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "R",
+    "name": "Respirology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1469,
+    "reference": "R15 — Idiopathic Pulmonary Fibrosis"
+   }
+  },
+  {
+   "id": "TN-R-010",
+   "type": "single-best-answer",
+   "question": "A 32-year-old woman has a pre-employment chest radiograph showing bilateral hilar lymphadenopathy with no pulmonary infiltration. She is entirely well, and chest examination is normal. Pulmonary function tests, serum calcium, creatinine, liver enzymes, ECG and slit-lamp eye examination are all normal. Transbronchial biopsy demonstrates non-necrotizing granulomas. Which of the following is the most appropriate management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Observation with clinical and radiographic follow-up"
+    },
+    {
+     "id": "b",
+     "text": "Oral prednisone"
+    },
+    {
+     "id": "c",
+     "text": "Methotrexate"
+    },
+    {
+     "id": "d",
+     "text": "Inhaled corticosteroid"
+    },
+    {
+     "id": "e",
+     "text": "Referral for lung transplant assessment"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Bilateral hilar lymphadenopathy without pulmonary infiltration and non-necrotizing granulomas on biopsy is stage I sarcoidosis. Toronto Notes advises observation if the patient is asymptomatic, since 85% of stage I disease resolves spontaneously within two years, and specifies that treatment is reserved for symptoms, declining lung function, hypercalcemia, or eye, CNS, kidney or cardiac involvement — not for an abnormal chest radiograph alone.",
+   "optionExplanations": {
+    "b": "Prednisone is first-line treatment but only once a treatment indication exists; this patient has none.",
+    "c": "Methotrexate is an adjunct or steroid-sparing agent when the steroid response is unsatisfactory or steroids are not tolerated.",
+    "d": "Inhaled corticosteroids are not the recommended therapy for pulmonary sarcoidosis.",
+    "e": "Lung transplantation is reserved for end-stage disease."
+   },
+   "topic": "Sarcoidosis",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "R",
+    "name": "Respirology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1471,
+    "reference": "R17 — Sarcoidosis, Staging and Treatment"
+   }
+  },
+  {
+   "id": "TN-R-011",
+   "type": "single-best-answer",
+   "question": "A 58-year-old man worked for 25 years as a sandblaster in a stone-cutting yard. He describes several years of dyspnea, cough and wheeze, and has lost weight recently. There is no finger clubbing. Chest radiograph shows small nodular opacities predominantly in the upper lung zones, with enlarged hilar lymph nodes demonstrating peripheral eggshell calcification. Which of the following is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Silicosis"
+    },
+    {
+     "id": "b",
+     "text": "Asbestosis"
+    },
+    {
+     "id": "c",
+     "text": "Coal workers' pneumoconiosis"
+    },
+    {
+     "id": "d",
+     "text": "Hypersensitivity pneumonitis"
+    },
+    {
+     "id": "e",
+     "text": "Idiopathic pulmonary fibrosis"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The pneumoconiosis table identifies sandblasters, rock miners, stone cutters and quarry workers as the population at risk for silicosis, generally after more than 20 years of exposure, and describes dyspnea, cough and wheezing with constitutional symptoms after heavy exposure. The radiographic hallmarks are upper more than lower lobe nodular disease and hilar lymph node enlargement that is frequently calcified, especially with eggshell calcification.",
+   "optionExplanations": {
+    "b": "Asbestosis affects insulation, shipyard, construction and pipe-fitting workers and produces a lower more than upper lobe reticulonodular pattern with clubbing much more likely than in silicosis.",
+    "c": "Coal workers' pneumoconiosis occurs in coal and graphite workers; simple disease is usually asymptomatic with normal lung function.",
+    "d": "Hypersensitivity pneumonitis follows exposure to inhaled organic antigens such as mouldy hay or bird proteins, not silica dust.",
+    "e": "Idiopathic pulmonary fibrosis has no occupational exposure, shows lower lobe predominance with honeycombing, and is associated with clubbing."
+   },
+   "topic": "Pneumoconioses",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "R",
+    "name": "Respirology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1472,
+    "reference": "R18 — Table 18 Pneumoconioses"
+   }
+  },
+  {
+   "id": "TN-R-012",
+   "type": "single-best-answer",
+   "question": "A 62-year-old woman presents to the emergency department with pleuritic chest pain and dyspnea two weeks after ankle fracture treated in a cast at home. Heart rate is 108/min, oxygen saturation is 91% on room air, and the casted leg is swollen. Clinical probability of pulmonary embolism is high. Chest radiograph is normal, she has no airflow obstruction, and she has documented anaphylaxis to iodinated contrast. Which investigation is most appropriate?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Ventilation-perfusion scan"
+    },
+    {
+     "id": "b",
+     "text": "CT pulmonary angiogram"
+    },
+    {
+     "id": "c",
+     "text": "Quantitative D-dimer"
+    },
+    {
+     "id": "d",
+     "text": "Transthoracic echocardiography"
+    },
+    {
+     "id": "e",
+     "text": "12-lead electrocardiogram"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states that a V/Q scan should be ordered when the chest radiograph is normal and the patient has no COPD, and when there is a contraindication to CT such as contrast allergy, renal dysfunction or pregnancy. This patient meets all of those conditions, and a normal scan excludes the diagnosis while a high-probability scan rules it in when clinical suspicion is high.",
+   "optionExplanations": {
+    "b": "CT angiography is otherwise the test of choice, but her documented anaphylaxis to iodinated contrast is a contraindication.",
+    "c": "A highly sensitive D-dimer is only useful to exclude thromboembolism when pretest probability is low; it has little value when probability is high.",
+    "d": "Echocardiography assesses right ventricular strain in massive or chronic embolism but is insensitive and nonspecific for diagnosis.",
+    "e": "ECG findings are neither sensitive nor specific; sinus tachycardia is the most common abnormality."
+   },
+   "topic": "Pulmonary embolism investigation",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "R",
+    "name": "Respirology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1475,
+    "reference": "R21 — Table 21 Common Investigations for Pulmonary Embolism"
+   }
+  },
+  {
+   "id": "TN-R-013",
+   "type": "single-best-answer",
+   "question": "A 70-year-old man with a three-month history of weight loss has a moderate left pleural effusion causing dyspnea. Examination shows reduced expansion, decreased tactile fremitus, dullness to percussion and reduced breath sounds on the left. Diagnostic thoracentesis with simultaneous blood work shows a pleural fluid to serum protein ratio of 0.62 and a pleural fluid to serum lactate dehydrogenase ratio of 0.75. Which of the following is the most likely cause?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Bronchogenic carcinoma"
+    },
+    {
+     "id": "b",
+     "text": "Congestive heart failure"
+    },
+    {
+     "id": "c",
+     "text": "Cirrhosis with hepatic hydrothorax"
+    },
+    {
+     "id": "d",
+     "text": "Nephrotic syndrome"
+    },
+    {
+     "id": "e",
+     "text": "Hypoalbuminemia from protein-losing enteropathy"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Light's criteria classify a pleural effusion as exudative if any one criterion is met: a pleural to serum protein ratio of at least 0.5 or a pleural to serum LDH ratio of at least 0.6. Both ratios are exceeded here, so this is an exudate. Among the listed options only malignancy is an exudative cause, and lung carcinoma is the single most common malignant cause of exudative effusion.",
+   "optionExplanations": {
+    "b": "Congestive heart failure is listed as a transudative cause, typically bilateral and greater on the right.",
+    "c": "Hepatic hydrothorax from cirrhosis is a transudate arising from a diaphragmatic defect.",
+    "d": "Nephrotic syndrome causes a transudative effusion through altered Starling forces.",
+    "e": "Protein-losing enteropathy is grouped with nephrotic syndrome as a transudative cause."
+   },
+   "topic": "Pleural effusion — exudate vs transudate",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "R",
+    "name": "Respirology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1478,
+    "reference": "R24 — Pleural Effusions, Light's Criteria and Table 25"
+   }
+  },
+  {
+   "id": "TN-R-014",
+   "type": "single-best-answer",
+   "question": "A 55-year-old man admitted with left lower lobe pneumonia remains febrile after 48 hours of appropriate intravenous antibiotics and has a moderate left pleural effusion. Ultrasound-guided thoracentesis yields cloudy fluid. Pleural fluid pH is 7.05, glucose is 1.8 mmol/L, lactate dehydrogenase is well above 1000 IU/L, and the Gram stain shows Gram-positive cocci. Which of the following is the most appropriate next step?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Tube drainage of the pleural space"
+    },
+    {
+     "id": "b",
+     "text": "Continue the same antibiotics alone and repeat imaging in one week"
+    },
+    {
+     "id": "c",
+     "text": "Add systemic corticosteroids"
+    },
+    {
+     "id": "d",
+     "text": "Closed pleural biopsy"
+    },
+    {
+     "id": "e",
+     "text": "Chemical pleurodesis"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "A complicated parapneumonic effusion requires drainage if any of the following are present: loculation, fluid occupying more than half the hemithorax, a low pH, low glucose, an LDH at or above 1000, or a positive Gram stain or culture. This fluid meets several of those criteria, so tube drainage is indicated, with tissue plasminogen activator and DNase instillation used to improve drainage of infected effusions.",
+   "optionExplanations": {
+    "b": "Antibiotics alone are inadequate once the fluid meets criteria for a complicated parapneumonic effusion; delay allows loculation and empyema.",
+    "c": "Corticosteroids have no role in the management of an infected pleural collection.",
+    "d": "Pleural biopsy is indicated when tuberculosis, mesothelioma or another malignancy is suspected and cytology is non-diagnostic.",
+    "e": "Pleurodesis is considered for refractory chronic effusions, not for an acute infected collection that has not yet been drained."
+   },
+   "topic": "Complicated parapneumonic effusion",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "R",
+    "name": "Respirology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1479,
+    "reference": "R25 — Pleural Effusion, Analysis and Treatment"
+   }
+  },
+  {
+   "id": "TN-R-015",
+   "type": "single-best-answer",
+   "question": "A 48-year-old woman is in the intensive care unit with severe pancreatitis. On day three she develops rapidly worsening dyspnea and hypoxemia requiring intubation. Chest radiograph shows new bilateral opacities consistent with pulmonary edema. Echocardiography demonstrates normal left ventricular function and there is no evidence of fluid overload. Her PaO2 to FiO2 ratio is 140 mmHg. Which ventilation strategy is most appropriate?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Low tidal volume ventilation with an optimal level of PEEP"
+    },
+    {
+     "id": "b",
+     "text": "Traditional tidal volumes of about 12 mL/kg to correct hypercapnia"
+    },
+    {
+     "id": "c",
+     "text": "Minimal PEEP with a high inspired oxygen fraction"
+    },
+    {
+     "id": "d",
+     "text": "Immediate extracorporeal membrane oxygenation"
+    },
+    {
+     "id": "e",
+     "text": "Face mask CPAP after extubation"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Acute onset within seven days of a known insult, bilateral opacities consistent with pulmonary edema, and hypoxemia not fully explained by cardiac failure or fluid overload satisfy the Berlin criteria for ARDS, with pancreatitis as the indirect precipitant. Treatment is mechanical ventilation using low tidal volumes to prevent barotrauma, with an optimal amount of PEEP to keep airways open and allow a lower FiO2.",
+   "optionExplanations": {
+    "b": "Traditional large tidal volumes cause barotrauma; low tidal volume ventilation is the standard of care in ARDS.",
+    "c": "Relying on a high FiO2 with minimal PEEP fails to recruit alveoli; optimal PEEP is used specifically to allow a lower FiO2.",
+    "d": "Extracorporeal membrane oxygenation is considered only if conventional treatment is failing, alongside prone ventilation, inhaled nitric oxide or short-term paralytics.",
+    "e": "CPAP by face mask is inappropriate for an intubated patient with this degree of hypoxemia."
+   },
+   "topic": "Acute respiratory distress syndrome",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "R",
+    "name": "Respirology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1482,
+    "reference": "R28 — Acute Respiratory Distress Syndrome"
+   }
+  },
+  {
+   "id": "TN-R-016",
+   "type": "single-best-answer",
+   "question": "A 52-year-old obese man reports loud snoring with witnessed apneas and choking spells, nocturia, unrefreshing sleep, morning headaches and daytime somnolence. His neck circumference is 45 cm and the oropharynx is crowded with large tonsils. He has hypertension. Polysomnography shows an apnea-hypopnea index of 38 events per hour with absent airflow despite persistent respiratory effort. Which treatment is most effective for his condition?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Continuous positive airway pressure"
+    },
+    {
+     "id": "b",
+     "text": "A mandibular advancement oral appliance"
+    },
+    {
+     "id": "c",
+     "text": "Avoidance of the supine sleeping position"
+    },
+    {
+     "id": "d",
+     "text": "Treatment of nasal congestion"
+    },
+    {
+     "id": "e",
+     "text": "Nocturnal supplemental oxygen by nasal prongs"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Absent airflow despite persistent respiratory effort with these symptoms and risk factors defines obstructive sleep apnea. Toronto Notes states that CPAP is very effective for OSA, although its benefit can be limited by compliance, and it is the recommended primary therapy alongside management of modifiable factors.",
+   "optionExplanations": {
+    "b": "Oral appliances are typically less effective at reducing the apnea-hypopnea index, although some patients tolerate them better.",
+    "c": "Avoiding supine sleep is a modifiable factor that helps only if the apnea is positional.",
+    "d": "Treating nasal congestion is listed among the modifiable factors but usually has only a modest effect.",
+    "e": "Supplemental oxygen is not listed as a treatment for obstructive sleep apnea; it does not relieve the upper airway obstruction."
+   },
+   "topic": "Obstructive sleep apnea",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "R",
+    "name": "Respirology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1484,
+    "reference": "R30 — OSA, Risk Factors and Treatment"
+   }
+  }
+ ]
+}

@@ -1,0 +1,474 @@
+{
+ "chapter": {
+  "code": "OT",
+  "name": "Otolaryngology"
+ },
+ "document": {
+  "id": "toronto-notes-2025",
+  "title": "Toronto Notes 2025",
+  "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
+ },
+ "count": 10,
+ "questions": [
+  {
+   "id": "TN-OT-001",
+   "type": "single-best-answer",
+   "question": "A 58-year-old man reports six months of progressively muffled hearing in the right ear, with no pain and no discharge. Both external canals are clear of cerumen on otoscopy. A 512 Hz tuning fork placed on the vertex of the skull is heard louder in the right ear. When the same fork is held firmly on the right mastoid and then held beside the right pinna, he says it is louder on the mastoid. Which interpretation of these findings is most likely correct?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Right conductive hearing loss"
+    },
+    {
+     "id": "b",
+     "text": "Right sensorineural hearing loss"
+    },
+    {
+     "id": "c",
+     "text": "Left conductive hearing loss"
+    },
+    {
+     "id": "d",
+     "text": "Left sensorineural hearing loss"
+    },
+    {
+     "id": "e",
+     "text": "Symmetric hearing thresholds in both ears"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Weber lateralization indicates either ipsilateral conductive hearing loss or contralateral sensorineural hearing loss. Bone conduction louder than air conduction is a negative (abnormal) Rinne, which indicates conductive loss in the tested ear. Weber lateralizing to the right plus a negative Rinne on the right therefore localizes a conductive loss to the right ear; the clear canals mean the result is not an artifact of cerumen.",
+   "optionExplanations": {
+    "b": "A right sensorineural loss would make the Weber lateralize to the left, and the Rinne on the right would remain positive (AC>BC).",
+    "c": "A left conductive loss would lateralize the Weber to the left and give a negative Rinne on the left, not the right.",
+    "d": "A left sensorineural loss lateralizes the Weber to the right, but the right Rinne would be positive rather than negative.",
+    "e": "With symmetric hearing the Weber stays central and the Rinne is positive bilaterally; the Weber only lateralizes when the interaural difference exceeds about 6 dB."
+   },
+   "topic": "Tuning Fork Tests and Types of Hearing Loss",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "OT",
+    "name": "Otolaryngology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1153,
+    "reference": "OT9 — Auditory Acuity (Rinne and Weber Tests)"
+   }
+  },
+  {
+   "id": "TN-OT-002",
+   "type": "single-best-answer",
+   "question": "A 52-year-old woman describes recurrent attacks of spinning lasting less than a minute, brought on by rolling over in bed or tipping her head back to have her hair washed. She denies hearing loss, tinnitus, and aural fullness, and her neurological examination is normal. Moving her rapidly from sitting to supine with the head turned 45 degrees to the right and the neck extended reproduces vertigo with rotatory nystagmus after a short latency. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Benign paroxysmal positional vertigo"
+    },
+    {
+     "id": "b",
+     "text": "Meniere's disease"
+    },
+    {
+     "id": "c",
+     "text": "Vestibular neuronitis"
+    },
+    {
+     "id": "d",
+     "text": "Vestibular schwannoma"
+    },
+    {
+     "id": "e",
+     "text": "Cerebellar infarction"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Benign paroxysmal positional vertigo consists of acute attacks of transient rotatory vertigo lasting less than one minute, initiated by certain head positions and accompanied by torsional nystagmus. A positive Dix-Hallpike maneuver, with vertigo and rotatory nystagmus appearing after a latency of roughly 20 seconds, confirms the diagnosis on the dependent side. This patient's positional trigger, brief duration, absence of auditory symptoms, and positive Dix-Hallpike are all characteristic.",
+   "optionExplanations": {
+    "b": "Meniere's disease produces episodes lasting minutes to hours with fluctuating sensorineural hearing loss, tinnitus, and aural fullness, none of which are present.",
+    "c": "Vestibular neuronitis causes severe continuous vertigo lasting one to five days, not repeated attacks of under a minute triggered by position.",
+    "d": "Vestibular schwannoma typically presents with chronic progressive unilateral hearing loss and tinnitus; true vertigo is rare because the tumour grows slowly enough to allow compensation.",
+    "e": "Cerebellar infarction causes prolonged vertigo with neurological signs and is suspected mainly in patients with vascular risk factors; the examination here is normal."
+   },
+   "topic": "Benign Paroxysmal Positional Vertigo",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "OT",
+    "name": "Otolaryngology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1157,
+    "reference": "OT13 — Benign Paroxysmal Positional Vertigo"
+   }
+  },
+  {
+   "id": "TN-OT-003",
+   "type": "single-best-answer",
+   "question": "A 68-year-old man develops severe pain in the right pinna and right side of the face. Four days later a crop of vesicles erupts on the right pinna and in the right external auditory canal. He now has complete weakness of all muscle groups on the right side of the face, including the forehead, together with hyperacusis. Audiology demonstrates a new right-sided sensorineural hearing loss. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Ramsay Hunt syndrome"
+    },
+    {
+     "id": "b",
+     "text": "Bell's palsy"
+    },
+    {
+     "id": "c",
+     "text": "Cholesteatoma with facial nerve erosion"
+    },
+    {
+     "id": "d",
+     "text": "Vestibular schwannoma"
+    },
+    {
+     "id": "e",
+     "text": "Upper motor neuron facial weakness from a cortical stroke"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Ramsay Hunt syndrome is varicella zoster infection of the facial nerve, presenting with severe pain of the pinna, mouth, or face, vesicles on the pinna and external canal that erupt three to seven days after the onset of pain, hyperacusis, and sensorineural hearing loss. This combination of preceding severe pain, zoster vesicles in the ear, peripheral facial paralysis, and new sensorineural loss fits that picture.",
+   "optionExplanations": {
+    "b": "Bell's palsy is a diagnosis of exclusion with acute paralysis and often postauricular pain, but there are no vesicles and audiology is normal or at baseline.",
+    "c": "Cholesteatoma causes malodourous unilateral otorrhea and progressive conductive loss with a retraction pocket or perforation, not a vesicular eruption.",
+    "d": "Vestibular schwannoma produces chronic progressive hearing loss and tinnitus; facial nerve palsy is a late complication and there is no painful vesicular rash.",
+    "e": "A cortical upper motor neuron lesion spares the forehead, whereas all muscle groups on one side of the face are paralyzed here."
+   },
+   "topic": "Facial Nerve Palsy",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "OT",
+    "name": "Otolaryngology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1167,
+    "reference": "OT23 — Table 10, Bell's Palsy vs. Ramsay Hunt Syndrome"
+   }
+  },
+  {
+   "id": "TN-OT-004",
+   "type": "single-best-answer",
+   "question": "A 34-year-old man wakes with severe constant vertigo, vomiting, and marked imbalance that has now persisted for two days; he veers towards the left when he tries to walk. He had a febrile viral upper respiratory illness two weeks earlier. He reports no hearing change or tinnitus, and an audiogram performed today is normal. Examination shows unidirectional horizontal nystagmus with no other cranial nerve or long-tract findings. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Vestibular neuronitis"
+    },
+    {
+     "id": "b",
+     "text": "Labyrinthitis"
+    },
+    {
+     "id": "c",
+     "text": "Meniere's disease"
+    },
+    {
+     "id": "d",
+     "text": "Benign paroxysmal positional vertigo"
+    },
+    {
+     "id": "e",
+     "text": "Brainstem infarction"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Vestibular neuronitis is inflammation of the vestibular portion of cranial nerve VIII, thought to follow a viral infection, causing acute disabling vertigo with nausea, vomiting, and imbalance lasting one to five days without hearing loss, and leaving residual imbalance for days to weeks. Ataxia with veering towards the affected side is typical. The normal audiogram distinguishes it from labyrinthitis.",
+   "optionExplanations": {
+    "b": "Labyrinthitis involves the cochlear portion of the nerve as well, so tinnitus and hearing loss would be expected; hearing is normal here.",
+    "c": "Meniere's disease causes episodic attacks lasting minutes to hours with fluctuating low frequency sensorineural loss, tinnitus, and aural fullness.",
+    "d": "Benign paroxysmal positional vertigo produces brief positional attacks of under a minute, not continuous vertigo lasting days.",
+    "e": "A central lesion typically gives bidirectional or vertical nystagmus with accompanying neurologic symptoms and slow compensation; his nystagmus is unidirectional and the neurological exam is otherwise normal."
+   },
+   "topic": "Vestibular Neuronitis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "OT",
+    "name": "Otolaryngology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1158,
+    "reference": "OT14 — Vestibular Neuronitis (Labyrinthitis)"
+   }
+  },
+  {
+   "id": "TN-OT-005",
+   "type": "single-best-answer",
+   "question": "A 61-year-old woman reports two years of gradually worsening hearing in the right ear with constant right-sided tinnitus and vague unsteadiness, but no true spinning episodes. Otoscopy is normal bilaterally. Audiometry shows a right sensorineural hearing loss with a speech discrimination score that is disproportionately poor for the degree of pure tone loss, and the right acoustic stapedial reflex is absent. What is the most appropriate investigation?",
+   "options": [
+    {
+     "id": "a",
+     "text": "MRI of the internal auditory canal with gadolinium contrast"
+    },
+    {
+     "id": "b",
+     "text": "Non-contrast CT of the temporal bones"
+    },
+    {
+     "id": "c",
+     "text": "Repeat audiogram in six months"
+    },
+    {
+     "id": "d",
+     "text": "Caloric vestibular testing"
+    },
+    {
+     "id": "e",
+     "text": "Tympanometry with static compliance measurement"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Chronic unilateral sensorineural hearing loss and tinnitus with poor speech discrimination relative to the hearing loss and an absent stapedial reflex are the classic retrocochlear pattern of acoustic neuroma, and in older patients unilateral tinnitus or sensorineural loss is acoustic neuroma until proven otherwise. Gadolinium-enhanced MRI of the internal auditory canal is the gold standard diagnostic test.",
+   "optionExplanations": {
+    "b": "Non-contrast CT of the temporal bones is used for cholesteatoma and bony pathology and will not reliably demonstrate a small intracanalicular schwannoma.",
+    "c": "Deferring imaging for six months delays diagnosis of a tumour that expands into the cerebellopontine angle and compresses the brainstem.",
+    "d": "Vestibular testing may show asymmetric caloric weakness as an early sign but is normal in many cases and is not the definitive test.",
+    "e": "Tympanometry assesses the middle ear, which is already known to be normal on otoscopy and does not explain a retrocochlear pattern."
+   },
+   "topic": "Acoustic Neuroma",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "OT",
+    "name": "Otolaryngology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1159,
+    "reference": "OT15 — Acoustic Neuroma (Vestibular Schwannoma)"
+   }
+  },
+  {
+   "id": "TN-OT-006",
+   "type": "single-best-answer",
+   "question": "A 41-year-old woman has nine days of nasal obstruction, thick discoloured nasal discharge, facial pain and pressure over both cheeks, and reduced sense of smell. Symptoms are severe, disturbing her sleep and preventing her from working. There is no periorbital swelling, visual change, or neurological deficit. She has no drug allergies. Which is the most appropriate initial management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Intranasal corticosteroid plus amoxicillin"
+    },
+    {
+     "id": "b",
+     "text": "Intranasal corticosteroid alone, reassessing at 72 hours"
+    },
+    {
+     "id": "c",
+     "text": "Amoxicillin-clavulanic acid alone"
+    },
+    {
+     "id": "d",
+     "text": "CT of the paranasal sinuses before any treatment"
+    },
+    {
+     "id": "e",
+     "text": "Topical decongestant spray alone for ten days"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Acute bacterial rhinosinusitis is diagnosed clinically when at least two PODS major symptoms are present with at least one being obstruction or purulent discharge; she has all four. Management follows symptom severity: mild to moderate disease is treated with intranasal corticosteroids alone, while severe disease is treated with intranasal corticosteroids plus antibiotics, with amoxicillin as the first-line agent.",
+   "optionExplanations": {
+    "b": "Intranasal corticosteroid alone with reassessment at 72 hours is the pathway for mild to moderate symptoms, not for severe disease with major functional impact.",
+    "c": "Amoxicillin-clavulanic acid is a second-line option reserved for failure to respond to first-line therapy within 72 hours.",
+    "d": "CT is indicated only when complications are suspected, and there are no orbital or intracranial warning signs here.",
+    "e": "Decongestants are adjuvant therapy for symptomatic relief only, and prolonged topical use risks rhinitis medicamentosa."
+   },
+   "topic": "Acute Bacterial Rhinosinusitis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "OT",
+    "name": "Otolaryngology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1170,
+    "reference": "OT26 — Acute Bacterial Rhinosinusitis: Diagnosis and Management"
+   }
+  },
+  {
+   "id": "TN-OT-007",
+   "type": "single-best-answer",
+   "question": "A 24-year-old man arrives with brisk bleeding from the right nostril that began 20 minutes ago after he picked his nose. He takes no anticoagulants and his vital signs are normal. He is seated leaning forward and firm pressure has been applied to the cartilaginous part of the nose. After a cotton pledget with topical lidocaine and decongestant, speculum examination clearly shows an oozing vessel on the anterior right septum, and bleeding continues. What is the next best step?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Cauterize the visualized bleeding point on the right septum with silver nitrate"
+    },
+    {
+     "id": "b",
+     "text": "Cauterize matching areas on both sides of the septum with silver nitrate"
+    },
+    {
+     "id": "c",
+     "text": "Place an expandable anterior nasal tampon in the right nostril"
+    },
+    {
+     "id": "d",
+     "text": "Insert a posterior balloon pack and admit for three days"
+    },
+    {
+     "id": "e",
+     "text": "Arrange transnasal endoscopic sphenopalatine artery ligation"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "In epistaxis, after pressure and a first-line topical decongestant fail, the next step is cauterization with silver nitrate provided the bleeding source is adequately visualized. His bleeding point on the anterior septum is clearly seen, so chemical cautery of that single site is appropriate; both sides of the septum must not be cauterized at once because of the risk of septal perforation from loss of blood supply.",
+   "optionExplanations": {
+    "b": "Cauterizing both sides of the septum at one sitting risks septal perforation from loss of septal blood supply and should be avoided.",
+    "c": "Anterior packing with an expandable tampon is reserved for failure to achieve hemostasis with cauterization.",
+    "d": "Posterior packing is used when the bleeding source cannot be visualized and is likely posterior, which is not the case here.",
+    "e": "Arterial ligation or embolization is reserved for bleeding that persists after anterior and posterior packing have failed."
+   },
+   "topic": "Epistaxis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "OT",
+    "name": "Otolaryngology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1171,
+    "reference": "OT27 — Epistaxis: Treatment"
+   }
+  },
+  {
+   "id": "TN-OT-008",
+   "type": "single-best-answer",
+   "question": "An 18-month-old boy is brought in with two days of ear tugging, irritability, and poor sleeping. His temperature is 39.4 degrees Celsius and he is difficult to console. Otoscopy of the left ear shows a bulging tympanic membrane with marked yellow discolouration and loss of the handle of the malleus, and the membrane is immobile on pneumatic otoscopy. He has no drug allergies and no craniofacial abnormality. What is the most appropriate management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "High-dose amoxicillin 80-90 mg/kg/d divided twice daily for 10 days"
+    },
+    {
+     "id": "b",
+     "text": "Analgesia and watchful waiting with reassessment in 24-48 hours"
+    },
+    {
+     "id": "c",
+     "text": "High-dose amoxicillin for a 5-day course"
+    },
+    {
+     "id": "d",
+     "text": "Amoxicillin-clavulanate as the initial antimicrobial"
+    },
+    {
+     "id": "e",
+     "text": "Referral for immediate myringotomy and tympanostomy tubes"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Antimicrobials are indicated in a child over 6 months with suspected acute otitis media who is moderately or severely ill, or has fever of 39 degrees Celsius or higher, or more than 48 hours of symptoms. First-line therapy without penicillin allergy is high-dose amoxicillin 80-90 mg/kg/d divided twice daily, and a 10-day course is used for children aged 6-24 months. This 18-month-old is markedly febrile and unsettled with a bulging, immobile, discoloured tympanic membrane.",
+   "optionExplanations": {
+    "b": "Watchful waiting applies to a generally healthy child over 6 months who is only mildly ill with unilateral non-severe disease and fever below 39 degrees Celsius.",
+    "c": "A 5-day course is recommended for most children over 2 years with uncomplicated disease; children aged 6-24 months require 10 days.",
+    "d": "Amoxicillin-clavulanate is used when initial therapy fails, meaning no symptomatic improvement after 2-3 days.",
+    "e": "Myringotomy and tubes are considered for recurrent acute otitis media with effusion at reassessment, not for a first presentation."
+   },
+   "topic": "Acute Otitis Media",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "OT",
+    "name": "Otolaryngology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1184,
+    "reference": "OT40 — Acute Otitis Media: Management and Treatment"
+   }
+  },
+  {
+   "id": "TN-OT-009",
+   "type": "single-best-answer",
+   "question": "A 5-year-old girl is seen six weeks after a treated episode of acute otitis media. Her parents note she turns the television up and often asks them to repeat themselves. She has no ear pain, fever, or discharge. Otoscopy shows a dull amber right tympanic membrane with a visible meniscus fluid level and air bubbles, immobile on pneumatic otoscopy. Tympanometry gives a flat tracing with no pressure peak. What is the most appropriate management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Observe with an audiogram to document hearing, reassessing at three months from diagnosis"
+    },
+    {
+     "id": "b",
+     "text": "A further course of oral antibiotics"
+    },
+    {
+     "id": "c",
+     "text": "An intranasal corticosteroid spray"
+    },
+    {
+     "id": "d",
+     "text": "An oral antihistamine with a decongestant"
+    },
+    {
+     "id": "e",
+     "text": "Immediate myringotomy with ventilation tube insertion"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Otitis media with effusion is fluid in the middle ear without signs or symptoms of infection, and it frequently follows acute otitis media; about 90% of children clear the fluid within three months. Management is expectant, with watchful waiting for three months from onset or from diagnosis if onset is unknown, and documentation of hearing loss with an audiogram.",
+   "optionExplanations": {
+    "b": "Systemic antibiotics are specifically recommended against for otitis media with effusion.",
+    "c": "Intranasal and systemic steroids are recommended against in this condition.",
+    "d": "Antihistamines and decongestants are also among the therapies recommended against for otitis media with effusion.",
+    "e": "Surgery is considered after the effusion and associated hearing difficulty persist beyond three months, not at six weeks."
+   },
+   "topic": "Otitis Media with Effusion",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "OT",
+    "name": "Otolaryngology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1185,
+    "reference": "OT41 — Otitis Media with Effusion"
+   }
+  },
+  {
+   "id": "TN-OT-010",
+   "type": "single-best-answer",
+   "question": "A 3-year-old with incomplete immunizations is brought to the emergency department after six hours of fever to 39.5 degrees Celsius, refusal to swallow, and drooling. He looks toxic and pale, sits upright leaning forward with his mouth open and tongue protruding, and has soft inspiratory stridor with slow breathing. There is no barking cough. He becomes distressed when approached. What is the next best step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Take him to the operating room with anesthesia and otolaryngology present to secure the airway"
+    },
+    {
+     "id": "b",
+     "text": "Use a tongue depressor to inspect the oropharynx and epiglottis"
+    },
+    {
+     "id": "c",
+     "text": "Send him to radiology for a lateral neck radiograph"
+    },
+    {
+     "id": "d",
+     "text": "Give nebulized epinephrine and dexamethasone and observe for four hours"
+    },
+    {
+     "id": "e",
+     "text": "Start intravenous ceftriaxone and observe on the ward"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Acute epiglottitis is a medical emergency; the toxic appearance, rapid onset, drooling, tripod posture, and inspiratory stridor without a barking cough point to supraglottic swelling. Examining the throat may precipitate laryngospasm and airway compromise, so an anesthesiologist and otolaryngologist must be present with preparations for intubation or tracheotomy before any manipulation. Securing the airway comes first, with blood and pharyngeal cultures taken after intubation.",
+   "optionExplanations": {
+    "b": "Instrumenting the pharynx before the airway is secured can provoke laryngospasm and complete obstruction.",
+    "c": "A lateral neck radiograph showing the thumb sign is only obtained if the patient is stable, and the worst place to lose an airway is during imaging.",
+    "d": "Nebulized epinephrine and dexamethasone treat croup, which is preceded by an upper respiratory illness with a seal-bark cough and a less toxic child.",
+    "e": "Antibiotics are essential but follow airway control; observing an unprotected airway in epiglottitis risks fatal obstruction."
+   },
+   "topic": "Acute Epiglottitis and Pediatric Stridor",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "OT",
+    "name": "Otolaryngology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1190,
+    "reference": "OT46 — Acute Epiglottitis"
+   }
+  }
+ ]
+}

@@ -1,0 +1,566 @@
+{
+ "chapter": {
+  "code": "RH",
+  "name": "Rheumatology"
+ },
+ "document": {
+  "id": "toronto-notes-2025",
+  "title": "Toronto Notes 2025",
+  "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
+ },
+ "count": 12,
+ "questions": [
+  {
+   "id": "TN-RH-001",
+   "type": "single-best-answer",
+   "question": "A 58-year-old man presents with two days of a painful, hot, swollen right knee. His temperature is 38.4 C, he cannot bear weight, and he holds the knee flexed. There is no history of trauma, previous joint disease, or gout, and the skin overlying the joint is intact with no cellulitis. Which investigation is most useful at this point?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Arthrocentesis for synovial fluid cell count and differential, Gram stain and culture, and crystal examination"
+    },
+    {
+     "id": "b",
+     "text": "Serum uric acid level"
+    },
+    {
+     "id": "c",
+     "text": "ESR and CRP"
+    },
+    {
+     "id": "d",
+     "text": "Plain radiograph of the knee"
+    },
+    {
+     "id": "e",
+     "text": "MRI of the knee"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Synovial fluid analysis is done diagnostically to clarify the cause of inflammation and to differentiate inflammatory, degenerative, septic, crystal-induced, and hemorrhagic effusions. The three most important tests are the 3 Cs: culture and Gram stain, cell count and differential, and crystal examination. In an acute hot monoarthritis with fever and intact overlying skin (no absolute contraindication to aspiration), arthrocentesis is the single most informative test.",
+   "optionExplanations": {
+    "b": "Serum urate does not distinguish crystal arthritis from infection and cannot exclude a septic joint.",
+    "c": "Acute phase reactants are non-specific markers of inflammation and do not identify organisms or crystals.",
+    "d": "Plain films establish a baseline but do not differentiate septic, crystal, or inflammatory effusions.",
+    "e": "MRI is not required to characterize the joint fluid and delays the definitive test, aspiration."
+   },
+   "topic": "Approach to Acute Monoarthritis and Synovial Fluid Analysis",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "RH",
+    "name": "Rheumatology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1498,
+    "reference": "RH4 — Synovial Fluid Analysis"
+   }
+  },
+  {
+   "id": "TN-RH-002",
+   "type": "single-best-answer",
+   "question": "A 74-year-old woman with long-standing rheumatoid arthritis on immunosuppressive therapy develops three days of fever with a hot, swollen, exquisitely tender left knee that she is unable to move. Aspiration yields turbid fluid with a white cell count of 78,000/mm3, predominantly neutrophils, and a Gram stain showing Gram-positive cocci in clusters. No crystals are seen. What is the best initial management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Intra-articular corticosteroid injection"
+    },
+    {
+     "id": "b",
+     "text": "Empiric intravenous antibiotics together with joint drainage and decompression"
+    },
+    {
+     "id": "c",
+     "text": "Oral antibiotics as an outpatient with review in one week"
+    },
+    {
+     "id": "d",
+     "text": "High-dose NSAIDs and observation pending final culture results"
+    },
+    {
+     "id": "e",
+     "text": "Colchicine with repeat aspiration in 48 hours"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Septic arthritis is a medical emergency that can cause rapid joint destruction and carries a 10-15% risk of mortality; the knee is the most commonly affected joint. Management is empiric IV antibiotic therapy (narrowed once cultures return) plus source control with joint decompression. Rheumatoid arthritis with immunosuppression and prior joint damage is a recognized risk factor, and this purulent aspirate with Gram-positive cocci confirms the diagnosis.",
+   "optionExplanations": {
+    "a": "Corticosteroid injection is contraindicated when sepsis is present and would worsen infection.",
+    "c": "Outpatient oral therapy is inadequate for a medical emergency with a 10-15% mortality risk and no source control.",
+    "d": "NSAIDs do not treat infection, and delaying antibiotics permits rapid joint destruction.",
+    "e": "Crystals were absent and colchicine does not address bacterial infection of the joint."
+   },
+   "topic": "Septic Arthritis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "RH",
+    "name": "Rheumatology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1499,
+    "reference": "RH5 — Septic Arthritis"
+   }
+  },
+  {
+   "id": "TN-RH-003",
+   "type": "single-best-answer",
+   "question": "A 64-year-old woman reports two years of gradually worsening pain in both hands and the right knee. The pain occurs with motion and is relieved by rest, morning stiffness lasts about 15 minutes, and the knee gels after prolonged sitting. Examination shows bony enlargement of several distal and proximal interphalangeal joints, squaring of the thumb base, and crepitus on passive knee movement without warmth or erythema. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Rheumatoid arthritis"
+    },
+    {
+     "id": "b",
+     "text": "Psoriatic arthritis"
+    },
+    {
+     "id": "c",
+     "text": "Osteoarthritis"
+    },
+    {
+     "id": "d",
+     "text": "Chronic tophaceous gout"
+    },
+    {
+     "id": "e",
+     "text": "Systemic lupus erythematosus"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "Osteoarthritis presents with insidious joint pain with motion that is relieved with rest, gelling, bony enlargement, limited range of motion, and crepitus on passive movement, with at most mild inflammation. Hand involvement characteristically affects the DIP joints (Heberden's nodes), PIP joints (Bouchard's nodes), and the carpometacarpal joint with thumb squaring, and the knee is a common site.",
+   "optionExplanations": {
+    "a": "Rheumatoid disease produces inflammatory synovitis with warmth and swelling, not bony enlargement with brief stiffness relieved by rest.",
+    "b": "Radiographic new bone formation and inflammatory features characterize psoriatic disease; there is no psoriasis or inflammatory arthritis here.",
+    "d": "Tophaceous gout causes episodic severely inflamed joints with urate deposits, not slowly progressive bony enlargement with crepitus.",
+    "e": "Lupus is a multisystem inflammatory disease; the presentation here is purely mechanical and localized to overused joints."
+   },
+   "topic": "Osteoarthritis",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "RH",
+    "name": "Rheumatology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1500,
+    "reference": "RH6 — Signs and Symptoms of OA / Joint Involvement"
+   }
+  },
+  {
+   "id": "TN-RH-004",
+   "type": "single-best-answer",
+   "question": "A 44-year-old woman has three months of pain and swelling affecting both wrists, the metacarpophalangeal and proximal interphalangeal joints of both hands, and the metatarsophalangeal joints. Morning stiffness lasts about two hours and improves with use. She reports fatigue and weight loss. Examination shows soft tissue swelling and tenosynovitis of the affected joints, sparing of the distal interphalangeal joints, and firm subcutaneous nodules over both olecranons. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Osteoarthritis of the hands"
+    },
+    {
+     "id": "b",
+     "text": "Rheumatoid arthritis"
+    },
+    {
+     "id": "c",
+     "text": "Systemic lupus erythematosus"
+    },
+    {
+     "id": "d",
+     "text": "Psoriatic arthritis"
+    },
+    {
+     "id": "e",
+     "text": "Polyarticular gout"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Rheumatoid arthritis is a chronic symmetric erosive synovitis of peripheral joints (wrists, MCPs, MTPs) presenting with symmetrical small-joint polyarthritis and morning stiffness lasting more than one hour. Early physical findings include effused joints, tenosynovitis, and subcutaneous nodules as an extra-articular manifestation, exactly the pattern described here.",
+   "optionExplanations": {
+    "a": "Degenerative disease causes bony enlargement with brief stiffness rather than symmetric small-joint synovitis with nodules and constitutional symptoms.",
+    "c": "Lupus is a multisystem disease with rash, mouth ulcers, photosensitivity, serositis, or renal involvement, none of which is present.",
+    "d": "Psoriatic disease is usually asymmetrical, may involve the DIP joints, and is accompanied by psoriasis or nail changes.",
+    "e": "Gout presents with recurrent acute inflammatory attacks rather than three months of persistent symmetric synovitis with rheumatoid nodules."
+   },
+   "topic": "Rheumatoid Arthritis",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "RH",
+    "name": "Rheumatology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1502,
+    "reference": "RH8 — Rheumatoid Arthritis / Features of Seropositive Arthropathies"
+   }
+  },
+  {
+   "id": "TN-RH-005",
+   "type": "single-best-answer",
+   "question": "A 46-year-old woman is diagnosed with rheumatoid arthritis after 10 weeks of symmetric synovitis of the small joints of the hands and feet with morning stiffness lasting more than one hour. Rheumatoid factor and anti-CCP are positive. She drinks no alcohol, is not pregnant, and has normal liver enzymes, creatinine, chest radiograph, and hepatitis serology. Which is the best initial disease-modifying treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Naproxen alone"
+    },
+    {
+     "id": "b",
+     "text": "Low-dose prednisone alone"
+    },
+    {
+     "id": "c",
+     "text": "Methotrexate"
+    },
+    {
+     "id": "d",
+     "text": "Adalimumab monotherapy"
+    },
+    {
+     "id": "e",
+     "text": "Hydroxychloroquine"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "The key to rheumatoid arthritis management is early diagnosis and early intervention with DMARDs, started as soon as the diagnosis is made and aimed at sustained remission. Methotrexate is the gold standard and first-line agent unless contraindicated; baseline CBC, ALT, creatinine, hepatitis serology, and CXR should be checked, all of which are normal here. Response is reassessed at 3-6 months, with combination or switching if inadequate.",
+   "optionExplanations": {
+    "a": "NSAIDs and analgesics relieve symptoms but do not alter the course of rheumatoid arthritis.",
+    "b": "Low-dose prednisone is useful short-term to bridge the gap until DMARDs take effect, not as the initial disease-modifying agent.",
+    "d": "Biologics are indicated after an inadequate response to DMARDs and should be combined with DMARD therapy.",
+    "e": "Hydroxychloroquine is a weaker agent, considered when methotrexate is contraindicated."
+   },
+   "topic": "Rheumatoid Arthritis Treatment",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "RH",
+    "name": "Rheumatology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1504,
+    "reference": "RH10 — Rheumatoid Arthritis: Investigations and Treatment"
+   }
+  },
+  {
+   "id": "TN-RH-006",
+   "type": "single-best-answer",
+   "question": "A 26-year-old woman has two months of fatigue, low-grade fever, and weight loss. She describes a facial rash that flares after sun exposure, painless mouth ulcers, patchy hair loss, symmetric pain in the small joints of both hands, and pleuritic chest pain. Urinalysis shows proteinuria and red blood cells. ANA is positive. Which investigation is most useful to confirm the diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Rheumatoid factor"
+    },
+    {
+     "id": "b",
+     "text": "Anti-dsDNA antibodies"
+    },
+    {
+     "id": "c",
+     "text": "Anti-CCP antibodies"
+    },
+    {
+     "id": "d",
+     "text": "Anti-centromere antibodies"
+    },
+    {
+     "id": "e",
+     "text": "Anti-Jo-1 antibodies"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "This multisystem picture of photosensitive rash, oral ulcers, alopecia, polyarthralgia, pleuritis, and glomerular urinary findings should prompt consideration of SLE, which should be suspected when two or more organ systems are involved. ANA has 98% sensitivity but poor specificity and is used only as a screening test; anti-dsDNA and anti-Sm are the specific antibodies (95-99%), and anti-dsDNA titre with C3 and C4 is also useful for monitoring disease activity.",
+   "optionExplanations": {
+    "a": "Rheumatoid factor is not specific for lupus and would not confirm this multisystem presentation.",
+    "c": "Anti-CCP is not one of the lupus-specific antibodies; the SLE-specific serologies are anti-dsDNA and anti-Sm.",
+    "d": "Anti-centromere is not a lupus-specific antibody and would not confirm the diagnosis here.",
+    "e": "Anti-Jo-1 is not a lupus-specific antibody and does not confirm the diagnosis in this patient."
+   },
+   "topic": "Systemic Lupus Erythematosus",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "RH",
+    "name": "Rheumatology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1506,
+    "reference": "RH12 — SLE: Clinical Presentation and Investigations"
+   }
+  },
+  {
+   "id": "TN-RH-007",
+   "type": "single-best-answer",
+   "question": "A 52-year-old woman with diffuse skin thickening of the fingers, forearms, and trunk, Raynaud phenomenon, and reflux was started on prednisone 30 mg daily three weeks ago. She now presents with severe headache and blurred vision. Blood pressure is 215/125 mmHg, urine output has fallen, creatinine has doubled, and the blood film shows fragmented red cells. What is the best initial treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Intravenous methylprednisolone"
+    },
+    {
+     "id": "b",
+     "text": "Oral ACE inhibitor"
+    },
+    {
+     "id": "c",
+     "text": "Intravenous cyclophosphamide"
+    },
+    {
+     "id": "d",
+     "text": "Nifedipine"
+    },
+    {
+     "id": "e",
+     "text": "Plasma exchange"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Scleroderma renal crisis occurs in 10-15% of patients with systemic sclerosis and produces malignant arterial hypertension, oliguria, rising creatinine, and microangiopathic hemolytic anemia. An ACE inhibitor is the treatment for this hypertensive crisis. Prednisone above about 20 mg daily may provoke renal crisis in susceptible patients, which fits the recent steroid exposure in this woman with diffuse cutaneous disease.",
+   "optionExplanations": {
+    "a": "Higher-dose steroids may themselves provoke renal crisis and would worsen this presentation.",
+    "c": "Cyclophosphamide is used for scleroderma-associated interstitial lung disease, not for renal crisis.",
+    "d": "Calcium channel blockers are vasodilators used for Raynaud phenomenon; they do not target the renin-driven renal crisis.",
+    "e": "Plasma exchange is not the treatment for scleroderma renal crisis; blood pressure control with an ACE inhibitor addresses the underlying process."
+   },
+   "topic": "Systemic Sclerosis and Scleroderma Renal Crisis",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "RH",
+    "name": "Rheumatology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1509,
+    "reference": "RH15 — Scleroderma: Clinical Manifestations and Treatment"
+   }
+  },
+  {
+   "id": "TN-RH-008",
+   "type": "single-best-answer",
+   "question": "A 55-year-old woman describes three months of progressive difficulty climbing stairs, rising from a chair, and lifting her arms to comb her hair; the weakness is painless. Examination shows a violaceous rash with oedema over both eyelids, pink-violaceous flat-topped papules over the knuckles and finger joints, and an erythematous rash across the neck, upper chest, and shoulders. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Polymyalgia rheumatica"
+    },
+    {
+     "id": "b",
+     "text": "Fibromyalgia"
+    },
+    {
+     "id": "c",
+     "text": "Inclusion body myositis"
+    },
+    {
+     "id": "d",
+     "text": "Dermatomyositis"
+    },
+    {
+     "id": "e",
+     "text": "Systemic sclerosis"
+    }
+   ],
+   "correctAnswer": "d",
+   "explanation": "Idiopathic inflammatory myopathies cause progressive symmetrical proximal muscle weakness of the shoulder and hip girdles developing over weeks to months, with difficulty arising from a chair and climbing stairs. Dermatomyositis adds characteristic skin findings: a heliotrope rash over the eyelids with oedema, Gottron's papules over the MCP and IP joints (pathognomonic, present in about 70%), and the shawl sign over neck, upper chest, and shoulders.",
+   "optionExplanations": {
+    "a": "Polymyalgia rheumatica causes girdle pain and stiffness rather than painless objective proximal weakness with these pathognomonic rashes.",
+    "b": "Fibromyalgia causes diffuse pain without true muscle weakness or characteristic cutaneous findings.",
+    "c": "Inclusion body myositis is slowly progressive with predominantly distal rather than proximal weakness and lacks these rashes.",
+    "e": "Systemic sclerosis causes skin tightening and Raynaud phenomenon, not heliotrope rash with Gottron's papules."
+   },
+   "topic": "Idiopathic Inflammatory Myopathies",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "RH",
+    "name": "Rheumatology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1510,
+    "reference": "RH16 — Idiopathic Inflammatory Myopathies: Polymyositis/Dermatomyositis"
+   }
+  },
+  {
+   "id": "TN-RH-009",
+   "type": "single-best-answer",
+   "question": "A 58-year-old man has four months of nasal crusting, bloody nasal discharge, and recurrent sinusitis, followed by cough with hemoptysis. CT of the chest shows bilateral pulmonary nodules with cavitation. Creatinine has risen over two weeks, urinalysis shows proteinuria with red cell casts, and PR3-ANCA is positive. Which is the most appropriate induction treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Oral prednisone alone"
+    },
+    {
+     "id": "b",
+     "text": "Intravenous glucocorticoids plus either cyclophosphamide or rituximab"
+    },
+    {
+     "id": "c",
+     "text": "Rituximab alone without glucocorticoids"
+    },
+    {
+     "id": "d",
+     "text": "Hydroxychloroquine plus prednisone"
+    },
+    {
+     "id": "e",
+     "text": "Trimethoprim/sulfamethoxazole alone"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "This is granulomatosis with polyangiitis: granulomatous inflammation affecting the upper airway (rhinitis, sinusitis, nasal crusting), lungs (nodules, hemorrhage), and kidneys (glomerulonephritis), highly associated with c-ANCA/PR3-ANCA. Pulmonary hemorrhage with rapidly rising creatinine is organ-threatening disease, for which induction therapy is IV glucocorticoids plus either IV or oral cyclophosphamide or rituximab.",
+   "optionExplanations": {
+    "a": "Glucocorticoid monotherapy is inadequate induction for organ-threatening disease, which requires an added cytotoxic or biologic agent.",
+    "c": "Rituximab is used as part of induction but in combination with glucocorticoids, not alone.",
+    "d": "Hydroxychloroquine has no role in inducing remission in ANCA-associated vasculitis.",
+    "e": "Antibiotics do not treat the underlying vasculitis causing the pulmonary and renal involvement."
+   },
+   "topic": "ANCA-Associated Vasculitis (Granulomatosis with Polyangiitis)",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "RH",
+    "name": "Rheumatology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1514,
+    "reference": "RH20 — Small Vessel ANCA-Associated Vasculitis: Granulomatosis with Polyangiitis"
+   }
+  },
+  {
+   "id": "TN-RH-010",
+   "type": "single-best-answer",
+   "question": "A 27-year-old man has eight months of insidious low back and alternating buttock pain. Morning stiffness lasts more than an hour, pain wakes him during the second half of the night, symptoms improve with exercise and worsen with rest, and NSAIDs taken occasionally have helped. Chest wall expansion and the modified Schober test are reduced. He had an episode of acute anterior uveitis last year. What is the best initial pharmacological treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Regular NSAID therapy"
+    },
+    {
+     "id": "b",
+     "text": "Methotrexate"
+    },
+    {
+     "id": "c",
+     "text": "Sulfasalazine"
+    },
+    {
+     "id": "d",
+     "text": "Adalimumab"
+    },
+    {
+     "id": "e",
+     "text": "Long-term systemic prednisone"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Inflammatory back pain with insidious onset before age 45, morning stiffness of an hour or more, night pain worse in the second half of the night, improvement with exercise, alternating buttock pain, reduced Schober and chest expansion, and anterior uveitis indicates ankylosing spondylitis. NSAIDs are the first line of treatment for both axial and peripheral disease, alongside exercise, postural work, and physiotherapy.",
+   "optionExplanations": {
+    "b": "Conventional DMARDs are used only for peripheral arthritis and are not effective for axial disease.",
+    "c": "Sulfasalazine, like methotrexate, is reserved for peripheral joint involvement and does not treat axial disease.",
+    "d": "Anti-TNF or anti-IL-17 agents are considered after an inadequate response to two NSAIDs.",
+    "e": "Systemic steroids are only occasionally required before other effective therapy; glucocorticoids are mainly used topically or as local injections."
+   },
+   "topic": "Ankylosing Spondylitis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "RH",
+    "name": "Rheumatology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1518,
+    "reference": "RH24 — Ankylosing Spondylitis: Clinical Presentation and Treatment"
+   }
+  },
+  {
+   "id": "TN-RH-011",
+   "type": "single-best-answer",
+   "question": "A 58-year-old man has had four attacks of acute arthritis of the first metatarsophalangeal joint over the past 12 months, each with severe pain, erythema, and swelling resolving over about a week. A firm nodule is present over the left olecranon, and a foot radiograph shows an erosion with an overhanging edge. He is currently asymptomatic and renal function is normal. What is the best long-term management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Intermittent NSAID courses for flares only, with no urate-lowering therapy"
+    },
+    {
+     "id": "b",
+     "text": "Dietary purine restriction alone"
+    },
+    {
+     "id": "c",
+     "text": "Allopurinol titrated to target, with low-dose colchicine prophylaxis for the first 3-6 months"
+    },
+    {
+     "id": "d",
+     "text": "Febuxostat as the first-line urate-lowering agent"
+    },
+    {
+     "id": "e",
+     "text": "Probenecid monotherapy"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "Recurrent podagra with a tophus over the olecranon bursa and a punched-out erosion with an overhanging edge meets the indications for urate-lowering therapy: more than two attacks per year, tophi, and bone erosions. Allopurinol is the first-line antihyperuricemic agent, started low and titrated up, and a low-dose NSAID or colchicine should be given with urate-lowering therapy for 3-6 months to avoid precipitating an acute flare.",
+   "optionExplanations": {
+    "a": "Treating flares alone ignores clear indications for urate-lowering therapy: frequent attacks, tophi, and erosions.",
+    "b": "Dietary measures are useful adjuncts but are insufficient once tophi and erosive damage are present.",
+    "d": "Febuxostat is second-line; allopurinol is preferred first-line and is not nephrotoxic.",
+    "e": "Uricosurics are used very rarely, and only in combination when a xanthine oxidase inhibitor fails to control hyperuricemia."
+   },
+   "topic": "Gout: Chronic Management",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "RH",
+    "name": "Rheumatology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1522,
+    "reference": "RH28 — Crystal-Induced Arthropathies: Gout Treatment"
+   }
+  },
+  {
+   "id": "TN-RH-012",
+   "type": "single-best-answer",
+   "question": "A 38-year-old woman reports eight months of widespread aching and stiffness, easy fatigability, and non-restorative sleep with frequent waking. She also has tension headaches and irritable bowel symptoms, and states her pain worsens with physical activity and emotional stress. There is no joint swelling and no muscle weakness; examination reveals only tenderness on palpation of soft tissues. CBC, TSH, ESR, and CRP are normal. What is the most appropriate initial management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Low-dose prednisone"
+    },
+    {
+     "id": "b",
+     "text": "A graded exercise programme with counselling on self-management strategies"
+    },
+    {
+     "id": "c",
+     "text": "Long-acting opioid analgesia"
+    },
+    {
+     "id": "d",
+     "text": "Hydroxychloroquine"
+    },
+    {
+     "id": "e",
+     "text": "Scheduled daily NSAID therapy"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Widespread pain and stiffness with fatigue, non-restorative sleep, headaches, and irritable bowel symptoms, a soft-tissue tender examination, and normal blood work indicate fibromyalgia. Initial management is non-pharmacological: counselling on self-management strategies and graded exercise programmes including aerobic and resistance training. Pharmacological options such as low-dose amitriptyline, duloxetine, or pregabalin help symptoms but are not curative.",
+   "optionExplanations": {
+    "a": "There is no inflammatory disease here, as reflected by the normal ESR and CRP, so steroids are not indicated.",
+    "c": "Opioids are not encouraged for analgesia in fibromyalgia.",
+    "d": "DMARD therapy treats inflammatory arthritis, which this patient does not have.",
+    "e": "NSAIDs are no longer encouraged in fibromyalgia and do not address sleep, fatigue, or deconditioning."
+   },
+   "topic": "Fibromyalgia",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "RH",
+    "name": "Rheumatology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1524,
+    "reference": "RH30 — Fibromyalgia: Clinical Presentation and Treatment"
+   }
+  }
+ ]
+}

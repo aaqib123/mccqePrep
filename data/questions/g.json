@@ -1,0 +1,842 @@
+{
+ "chapter": {
+  "code": "G",
+  "name": "Gastroenterology"
+ },
+ "document": {
+  "id": "toronto-notes-2025",
+  "title": "Toronto Notes 2025",
+  "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
+ },
+ "count": 18,
+ "questions": [
+  {
+   "id": "TN-G-001",
+   "type": "single-best-answer",
+   "question": "A 58-year-old man has had heartburn and acid regurgitation for four years, controlled with intermittent antacids. Over the past three months he has lost 7 kg unintentionally and feels increasingly tired. He denies dysphagia or vomiting. Hemoglobin is 96 g/L with a low ferritin. Which of the following is the most appropriate investigation?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Gastroscopy (upper endoscopy)"
+    },
+    {
+     "id": "b",
+     "text": "Barium swallow"
+    },
+    {
+     "id": "c",
+     "text": "24 h esophageal pH monitoring"
+    },
+    {
+     "id": "d",
+     "text": "Esophageal manometry"
+    },
+    {
+     "id": "e",
+     "text": "Abdominal ultrasound"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Absolute indications for gastroscopy in reflux disease include heartburn accompanied by red flags (bleeding, weight loss, dysphagia, persistent vomiting, family history of GI cancer), persistent symptoms after a therapeutic trial of PPI BID, suspected stricture, or high risk of Barrett's esophagus. This man has unintentional weight loss plus iron deficiency anemia indicating occult bleeding, so endoscopy, which gives the best mucosal visualization and allows biopsy and therapy, is required rather than empiric management.",
+   "optionExplanations": {
+    "b": "Barium swallow is considered first mainly when dysphagia, reduced level of consciousness, inability to cooperate, or possible fistula makes endoscopic intubation hazardous; it does not allow biopsy.",
+    "c": "24 h pH monitoring is the most accurate test for reflux but is not required in most cases and is most useful when PPIs fail to improve symptoms, not for red-flag evaluation.",
+    "d": "Manometry is indicated for non-cardiac chest pain or dysphagia with a normal gastroscopy, and before fundoplication; it cannot detect reflux or mucosal lesions.",
+    "e": "Abdominal ultrasound does not assess the esophageal or gastric mucosa and would not explain occult bleeding."
+   },
+   "topic": "Gastroesophageal Reflux Disease",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "G",
+    "name": "Gastroenterology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 440,
+    "reference": "G6 — Gastroesophageal Reflux Disease (Investigations)"
+   }
+  },
+  {
+   "id": "TN-G-002",
+   "type": "single-best-answer",
+   "question": "A 55-year-old man with 15 years of heartburn undergoes gastroscopy, which shows salmon-pink mucosa extending 3 cm above the gastroesophageal junction. Biopsies confirm specialized intestinal columnar epithelium with no dysplasia. He is otherwise well. Which of the following is the most appropriate management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "High-dose PPI indefinitely with surveillance gastroscopy every 3-5 yr"
+    },
+    {
+     "id": "b",
+     "text": "Endoscopic radiofrequency ablation of the segment now"
+    },
+    {
+     "id": "c",
+     "text": "Esophagectomy"
+    },
+    {
+     "id": "d",
+     "text": "PPI for 8 wk, then stop therapy with no further endoscopy"
+    },
+    {
+     "id": "e",
+     "text": "Surveillance gastroscopy every 6 mo for 1 yr, then annually"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Barrett's esophagus is metaplasia of squamous to intestinal columnar epithelium, diagnosed on biopsy. Acid suppressive therapy with high-dose PPI indefinitely (or surgical fundoplication) may reduce transformation to dysplasia, and surveillance gastroscopy every 3-5 yr is recommended when no dysplasia is present. Malignant transformation before dysplasia develops is only about 0.12% per year, so ablative or surgical therapy is not warranted here.",
+   "optionExplanations": {
+    "b": "Endoscopic ablation with mucosal resection or radiofrequency ablation is favoured for high-grade dysplasia, and is an option in low-grade dysplasia, not for non-dysplastic Barrett's.",
+    "c": "Esophagectomy is reserved for high-grade dysplasia (where outcomes are similar to endoscopic therapy) or cancer, not non-dysplastic metaplasia.",
+    "d": "PPIs should not be discontinued after 8 wk in patients with Barrett's esophagus or erosive esophagitis, and surveillance is still required.",
+    "e": "Surveillance every 6 mo for 1 yr then annually is the schedule described for low-grade dysplasia, not for Barrett's without dysplasia."
+   },
+   "topic": "Barrett's Esophagus",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "G",
+    "name": "Gastroenterology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 441,
+    "reference": "G7 — Barrett's Esophagus"
+   }
+  },
+  {
+   "id": "TN-G-003",
+   "type": "single-best-answer",
+   "question": "A 42-year-old woman has 12 months of progressive difficulty swallowing both solids and liquids, regurgitation of undigested food, and 5 kg weight loss. Barium study shows a dilated esophagus terminating in a narrow beak at the lower esophageal sphincter. Gastroscopy shows normal mucosa, retained food debris, and a tight sphincter. Which investigation is most appropriate to establish the diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Esophageal manometry"
+    },
+    {
+     "id": "b",
+     "text": "24 h esophageal pH monitoring"
+    },
+    {
+     "id": "c",
+     "text": "CT of the chest"
+    },
+    {
+     "id": "d",
+     "text": "Gastric emptying scintigraphy"
+    },
+    {
+     "id": "e",
+     "text": "Wireless endoscopy capsule study"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Dysphagia to both solids and liquids indicates a motility disorder. In achalasia, barium shows the classic bird's beak narrowing at the LES and endoscopy shows normal mucosa with a tight sphincter and retained debris, but manometry provides the definitive diagnosis by demonstrating incomplete LES relaxation with raised LES pressure and aperistalsis.",
+   "optionExplanations": {
+    "b": "pH monitoring assesses acid reflux and cannot diagnose failure of LES relaxation or aperistalsis.",
+    "c": "CT of the chest is not the diagnostic test for esophageal motor disorders, although malignancy can cause pseudo-achalasia.",
+    "d": "Gastric emptying studies assess gastroparesis, not esophageal peristalsis or LES function.",
+    "e": "Capsule endoscopy images small bowel mucosa, provides no motility data, and is contraindicated where obstruction or stricture is suspected."
+   },
+   "topic": "Esophageal Motor Disorders",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "G",
+    "name": "Gastroenterology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 442,
+    "reference": "G8 — Esophageal Motor Disorders (Table 3, Achalasia)"
+   }
+  },
+  {
+   "id": "TN-G-004",
+   "type": "single-best-answer",
+   "question": "A 46-year-old man with 3 months of epigastric pain undergoes gastroscopy, which shows a 1 cm duodenal ulcer. A rapid urease test on antral biopsy is positive. He takes no NSAIDs or Aspirin and has no drug allergies. Which of the following is the most appropriate treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Lansoprazole 30 mg BID + bismuth + metronidazole + tetracycline for 14 d"
+    },
+    {
+     "id": "b",
+     "text": "Omeprazole 20 mg daily alone for 8 wk"
+    },
+    {
+     "id": "c",
+     "text": "Omeprazole + clarithromycin for 7 d"
+    },
+    {
+     "id": "d",
+     "text": "Famotidine + metronidazole for 10 d"
+    },
+    {
+     "id": "e",
+     "text": "Bismuth alone for 4 wk"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "A positive rapid urease test on biopsy confirms Helicobacter pylori infection in this man with active peptic ulcer disease. Recommended eradication is bismuth quadruple therapy for 14 d (PPI, e.g. lansoprazole 30 mg BID, plus bismuth 525 mg QID, metronidazole 500 mg QID and tetracycline 500 mg QID); the alternative is 14 d of concomitant non-bismuth quadruple therapy (PPI + amoxicillin + metronidazole + clarithromycin).",
+   "optionExplanations": {
+    "b": "Acid suppression alone heals the ulcer but leaves the infection untreated, so ulcer recurrence and the long-term risk of gastric malignancy persist.",
+    "c": "A 7 d PPI plus single-antibiotic regimen is not a recommended eradication regimen; quadruple therapy for 14 d is advised.",
+    "d": "An H2 blocker with a single antibiotic is not an accepted eradication regimen.",
+    "e": "Bismuth monotherapy does not eradicate H. pylori."
+   },
+   "topic": "Helicobacter Pylori-Induced Peptic Ulcer",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "G",
+    "name": "Gastroenterology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 447,
+    "reference": "G13 — Treatment: H. pylori Eradication"
+   }
+  },
+  {
+   "id": "TN-G-005",
+   "type": "single-best-answer",
+   "question": "A 52-year-old woman completed 14 d of bismuth quadruple therapy for a Helicobacter pylori-associated gastric ulcer six weeks ago. She continues to take pantoprazole 40 mg daily and now feels well. Her physician wants to confirm that the organism has been eradicated. Which of the following is the most appropriate test?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Serum H. pylori IgG serology now"
+    },
+    {
+     "id": "b",
+     "text": "Urea breath test after holding the PPI for at least 2 wk"
+    },
+    {
+     "id": "c",
+     "text": "Urea breath test performed this week while continuing the PPI"
+    },
+    {
+     "id": "d",
+     "text": "Gastroscopy with rapid urease test performed this week while on the PPI"
+    },
+    {
+     "id": "e",
+     "text": "Repeat serology in 6 mo"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "A test of cure should be offered to all patients treated for H. pylori, using a urea breath test or stool antigen test. PPIs must be stopped for more than 2 wk (and antibiotics or bismuth for more than 4 wk) beforehand because acid suppression causes false negative results. Serology cannot distinguish active from past infection and may remain positive after successful treatment, so it must not be used to assess eradication.",
+   "optionExplanations": {
+    "a": "Serology does not distinguish active from past infection and can remain positive after treatment, so it should not be used post-eradication.",
+    "c": "Continuing the PPI risks a false negative urea breath test; the drug must be held for at least 2 wk.",
+    "d": "Endoscopy is invasive and unnecessary for a test of cure, and biopsy-based tests are also affected by ongoing PPI therapy.",
+    "e": "Delayed serology has the same limitation: it cannot separate active infection from previous exposure."
+   },
+   "topic": "Helicobacter Pylori Diagnosis",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "G",
+    "name": "Gastroenterology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 447,
+    "reference": "G13 — Table 7. Diagnosis of H. pylori Infection / Test of Cure"
+   }
+  },
+  {
+   "id": "TN-G-006",
+   "type": "single-best-answer",
+   "question": "A 78-year-old nursing home resident has had six watery stools per day for 5 d with lower abdominal cramping and a temperature of 38.0 C. She completed a 7 d course of ciprofloxacin for a urinary tract infection 10 d ago. She is mildly volume depleted but hemodynamically stable, with a soft, mildly tender abdomen. Which investigation is most appropriate?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Stool C. difficile toxin assay"
+    },
+    {
+     "id": "b",
+     "text": "Stool ova and parasites"
+    },
+    {
+     "id": "c",
+     "text": "Colonoscopy"
+    },
+    {
+     "id": "d",
+     "text": "CT of the abdomen"
+    },
+    {
+     "id": "e",
+     "text": "Abdominal x-ray"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "C. difficile toxin testing is indicated in acute diarrhea when there has been recent or remote antibiotic use, hospitalization, nursing home residence, or recent chemotherapy. This patient has two of those risk factors (recent ciprofloxacin and institutional living), making C. difficile the priority diagnosis to confirm or exclude.",
+   "optionExplanations": {
+    "b": "Ova and parasite testing takes up to three weeks to return and is reserved for suspected parasitic causes such as travel or high-risk exposures.",
+    "c": "Colonoscopy is contraindicated in severe colitis because of perforation risk; flexible sigmoidoscopy without preparation is the endoscopic test used if inflammatory diarrhea needs assessment.",
+    "d": "CT is not the initial test for uncomplicated acute diarrhea and would not identify the organism.",
+    "e": "Abdominal x-ray is used to look for complications such as megacolon, not to diagnose the cause of the diarrhea."
+   },
+   "topic": "Acute Diarrhea",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "G",
+    "name": "Gastroenterology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 449,
+    "reference": "G15 — Acute Diarrhea (Investigations)"
+   }
+  },
+  {
+   "id": "TN-G-007",
+   "type": "single-best-answer",
+   "question": "A 40-year-old woman describes 8 months of bulky, pale, foul-smelling stools that are difficult to flush, with 7 kg of weight loss and fatigue. She drinks no alcohol, takes no medications, and has had no abdominal surgery. Examination shows only pallor. Which of the following is the most appropriate initial investigation?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Anti-tTG IgA antibody with serum immunoglobulin A quantitation"
+    },
+    {
+     "id": "b",
+     "text": "72 h quantitative stool fat collection"
+    },
+    {
+     "id": "c",
+     "text": "Hydrogen breath test"
+    },
+    {
+     "id": "d",
+     "text": "D-xylose test"
+    },
+    {
+     "id": "e",
+     "text": "Serum carotene level"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "In suspected malabsorption with steatorrhea, tTG-IgA antibody serology with immunoglobulin A quantitation plus abdominal imaging are the most useful first tests, because celiac disease and chronic pancreatitis are the two most common causes of steatorrhea. A 72 h stool collection is the gold standard for documenting steatorrhea but does not identify the underlying cause.",
+   "optionExplanations": {
+    "b": "Quantitative fecal fat confirms that steatorrhea exists but gives no etiologic information, and the clinical picture already indicates fat malabsorption.",
+    "c": "The hydrogen breath test is used for carbohydrate malabsorption such as lactose intolerance, which does not cause steatorrhea.",
+    "d": "The D-xylose test assesses carbohydrate absorption and is not the first-line test for steatorrhea.",
+    "e": "Serum carotene is one of the supportive nutritional markers ordered in malabsorption workup, but it does not establish a cause."
+   },
+   "topic": "Malabsorption",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "G",
+    "name": "Gastroenterology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 454,
+    "reference": "G20 — Malabsorption (Investigations)"
+   }
+  },
+  {
+   "id": "TN-G-008",
+   "type": "single-best-answer",
+   "question": "A 29-year-old woman with iron deficiency anemia, bloating, and intermittent diarrhea has a positive serum anti-tTG IgA antibody; her serum IgA level is normal. She continues to eat a normal gluten-containing diet and feels reasonably well. Which of the following is the most appropriate next step?",
+   "options": [
+    {
+     "id": "a",
+     "text": "HLA-DQ2/DQ8 genotyping"
+    },
+    {
+     "id": "b",
+     "text": "Small bowel (duodenal) mucosal biopsy at gastroscopy"
+    },
+    {
+     "id": "c",
+     "text": "Start a gluten-free diet and reassess in 3 mo"
+    },
+    {
+     "id": "d",
+     "text": "CT enterography"
+    },
+    {
+     "id": "e",
+     "text": "Repeat anti-tTG IgA in 6 mo"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Anti-tTG IgA is 90-98% sensitive and 94-97% specific for celiac disease, but small bowel mucosal biopsy, usually of the duodenum, is the diagnostic test, showing increased intraepithelial lymphocytes, crypt hyperplasia, and villous atrophy. A gluten-free diet should not be started before serology and biopsy are completed, since it can normalize the histology and obscure the diagnosis.",
+   "optionExplanations": {
+    "a": "HLA-DQ2/DQ8 are necessary permissive genes but up to 40% of White individuals carry them without ever developing celiac disease, so their presence does not confer a diagnosis.",
+    "c": "Starting the diet before biopsy compromises diagnostic accuracy; dietary improvement is supportive but should follow serology and biopsy.",
+    "d": "CT enterography is considered to look for complications such as lymphoma or ulcerative jejunoileitis, not to make the initial diagnosis.",
+    "e": "Delaying with repeat serology leaves an already positive test unconfirmed and prolongs untreated malabsorption."
+   },
+   "topic": "Celiac Disease",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "G",
+    "name": "Gastroenterology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 455,
+    "reference": "G21 — Celiac Disease (Investigations)"
+   }
+  },
+  {
+   "id": "TN-G-009",
+   "type": "single-best-answer",
+   "question": "A 24-year-old man has 6 months of crampy abdominal pain, non-bloody diarrhea, fatigue, and 8 kg of weight loss. He smokes. Examination shows right lower quadrant tenderness, an oral aphthous ulcer, perianal skin tags, and a draining perianal fistula. Which of the following is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Ulcerative colitis"
+    },
+    {
+     "id": "b",
+     "text": "Celiac disease"
+    },
+    {
+     "id": "c",
+     "text": "Crohn's disease"
+    },
+    {
+     "id": "d",
+     "text": "Irritable bowel syndrome"
+    },
+    {
+     "id": "e",
+     "text": "Ischemic colitis"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "Crohn's disease is a chronic transmural inflammatory disorder that can affect the gut from mouth to perianal region and commonly presents with recurrent abdominal cramps, diarrhea with or without bleeding, fatigue, and weight loss. Ileitis produces right lower quadrant pain, and fistulae, fissures, and abscesses are common. Perianal skin tags occur in 75-80% of Crohn's patients and oral mucosal lesions are common, whereas both are rare in ulcerative colitis; smoking is also more prevalent in Crohn's disease.",
+   "optionExplanations": {
+    "a": "Ulcerative colitis is limited to colonic mucosa with rectal bleeding as the hallmark; perianal skin tags and fistulae are rare and smoking is associated with reduced risk.",
+    "b": "Celiac disease causes diarrhea, weight loss, and iron deficiency but not perianal fistulae or transmural inflammation.",
+    "d": "Irritable bowel syndrome is a disorder of gut-brain interaction; weight loss, fever, blood, and fistulae are red flags that make it unlikely.",
+    "e": "Ischemic colitis presents acutely with crampy left-sided pain and rectal bleeding in patients with vascular risk factors, not with chronic perianal disease."
+   },
+   "topic": "Crohn's Disease",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "G",
+    "name": "Gastroenterology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 457,
+    "reference": "G23 — Crohn's Disease / Table 14 Extraintestinal Manifestations of IBD"
+   }
+  },
+  {
+   "id": "TN-G-010",
+   "type": "single-best-answer",
+   "question": "A 27-year-old woman with known Crohn's disease has a flare with four loose stools daily and right lower quadrant pain. She is afebrile with a mildly elevated CRP and normal albumin. Enterography shows active inflammation confined to the terminal ileum, without abscess, fistula, or stricture. Which of the following is the most appropriate initial treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "IV methylprednisolone"
+    },
+    {
+     "id": "b",
+     "text": "Infliximab infusion"
+    },
+    {
+     "id": "c",
+     "text": "Oral metronidazole"
+    },
+    {
+     "id": "d",
+     "text": "Oral budesonide 9 mg once daily"
+    },
+    {
+     "id": "e",
+     "text": "Loperamide"
+    }
+   ],
+   "correctAnswer": "d",
+   "explanation": "Budesonide is a first-pass metabolism corticosteroid given at 9 mg once daily for acute mild to moderate exacerbations of terminal ileum with or without right colon Crohn's disease, which is exactly this presentation. Prednisone 40 mg daily is reserved for Crohn's colitis and moderate to severe ileitis, and IV methylprednisolone for severe disease.",
+   "optionExplanations": {
+    "a": "IV methylprednisolone is reserved for severe disease; this patient is systemically well with a mild to moderate flare.",
+    "b": "Anti-TNF biologics are used for fistulizing or medically refractory disease, not as the first step in a mild to moderate ileal flare.",
+    "c": "Metronidazole or ciprofloxacin is best described for perianal Crohn's disease, and relapse is characteristic when they are stopped.",
+    "e": "Loperamide only provides symptomatic relief by slowing motility and does not treat inflammation; it must be avoided if colitis is severe."
+   },
+   "topic": "Crohn's Disease Management",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "G",
+    "name": "Gastroenterology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 458,
+    "reference": "G24 — Table 15. Management of Crohn's Disease"
+   }
+  },
+  {
+   "id": "TN-G-011",
+   "type": "single-best-answer",
+   "question": "A 32-year-old man is admitted with severe ulcerative colitis: nine bloody stools daily, fever, tachycardia, and CRP 90 mg/L. Stool culture and C. difficile toxin are negative. He is given IV methylprednisolone, but after 3 d he is unchanged. Abdominal x-ray shows no colonic dilatation. Which of the following is the most appropriate next treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Oral mesalamine 4 g/d"
+    },
+    {
+     "id": "b",
+     "text": "IV infliximab"
+    },
+    {
+     "id": "c",
+     "text": "Oral azathioprine"
+    },
+    {
+     "id": "d",
+     "text": "Loperamide"
+    },
+    {
+     "id": "e",
+     "text": "Doubling the IV corticosteroid dose"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "In hospitalized patients with severe ulcerative colitis, IV infliximab should be added if there is no response to IV methylprednisolone within 3 d, with colectomy considered if the response remains inadequate. This patient has failed 3 d of IV steroids with infection excluded, so rescue therapy with infliximab is the next step.",
+   "optionExplanations": {
+    "a": "Oral 5-ASA is effective for mild to moderate colitis but not for severe disease.",
+    "c": "Azathioprine has an onset of efficacy measured in months and is too slow to resolve an acute severe relapse; it is used to maintain remission.",
+    "d": "Antidiarrheal medications are generally not indicated in ulcerative colitis and risk precipitating toxic megacolon in severe colitis.",
+    "e": "Escalating the steroid dose is not the described strategy after 3 d of non-response; rescue therapy or colectomy is considered."
+   },
+   "topic": "Ulcerative Colitis Management",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "G",
+    "name": "Gastroenterology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 459,
+    "reference": "G25 — Ulcerative Colitis (Treatment)"
+   }
+  },
+  {
+   "id": "TN-G-012",
+   "type": "single-best-answer",
+   "question": "A 45-year-old woman has had ulcerative colitis with pancolitis for 9 yr and is currently in clinical remission on mesalamine. She has no primary sclerosing cholangitis and no family history of colorectal cancer, and she has never had a surveillance colonoscopy. She asks how her bowel cancer risk should be monitored. Which of the following is most appropriate?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Annual fecal immunochemical testing instead of endoscopy"
+    },
+    {
+     "id": "b",
+     "text": "CT colonography every 5 yr"
+    },
+    {
+     "id": "c",
+     "text": "Begin regular colonoscopy with surveillance biopsies and/or chromoendoscopy now"
+    },
+    {
+     "id": "d",
+     "text": "Begin surveillance colonoscopy at age 50"
+    },
+    {
+     "id": "e",
+     "text": "No surveillance is needed while the disease is in remission"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "Ulcerative colitis carries a greater risk of colorectal cancer that rises with duration and extent of disease (about 5% at 10 yr and 15% at 20 yr for pancolitis). Regular colonoscopy with surveillance biopsies and/or chromoendoscopy is therefore indicated once pancolitis has been present for 8 yr or more, which applies to this patient at 9 yr.",
+   "optionExplanations": {
+    "a": "Stool-based screening is not the recommended strategy for dysplasia surveillance in longstanding colitis, which requires tissue sampling.",
+    "b": "CT colonography is used occasionally when colonoscopy cannot be completed and is contraindicated in severe disease; it does not permit surveillance biopsies.",
+    "d": "Surveillance timing in colitis is driven by disease duration and extent, not by reaching an average-risk screening age.",
+    "e": "Clinical remission does not remove the risk; patients with chronic active mucosal inflammation are at particular risk, and only those with proctitis alone have general population risk."
+   },
+   "topic": "Ulcerative Colitis Complications",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "G",
+    "name": "Gastroenterology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 460,
+    "reference": "G26 — Ulcerative Colitis (Complications)"
+   }
+  },
+  {
+   "id": "TN-G-013",
+   "type": "single-best-answer",
+   "question": "A 28-year-old woman reports 8 months of recurrent lower abdominal pain occurring several days per week, relieved by defecation and associated with a change in stool frequency and form. She has no weight loss, rectal bleeding, fever, or nocturnal defecation, and no family history of IBD or colorectal cancer. Physical examination is normal. Which of the following investigations is most appropriate?",
+   "options": [
+    {
+     "id": "a",
+     "text": "CBC and celiac serology"
+    },
+    {
+     "id": "b",
+     "text": "Colonoscopy with random colonic biopsies"
+    },
+    {
+     "id": "c",
+     "text": "CT of the abdomen and pelvis"
+    },
+    {
+     "id": "d",
+     "text": "72 h stool fat collection"
+    },
+    {
+     "id": "e",
+     "text": "Abdominal ultrasound"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Her history meets Rome IV criteria for irritable bowel syndrome with no alarm features and no relevant family history, so limited investigation is required. The aim is to exclude mimics, particularly celiac disease and IBD, and in many patients this can be limited to CBC and celiac serology, with fecal calprotectin if available being a more reliable way to rule out IBD.",
+   "optionExplanations": {
+    "b": "Colonoscopy is considered when alarm features are present, there is a family history of IBD, or the patient is over 50.",
+    "c": "Cross-sectional imaging is not part of the routine assessment of typical IBS without alarm features.",
+    "d": "Stool fat testing is used when steatorrhea is suspected, which this patient does not have.",
+    "e": "Abdominal ultrasound does not help diagnose IBS or reliably exclude its mimics."
+   },
+   "topic": "Irritable Bowel Syndrome",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "G",
+    "name": "Gastroenterology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 461,
+    "reference": "G27 — Irritable Bowel Syndrome (Rome IV Criteria, Investigations)"
+   }
+  },
+  {
+   "id": "TN-G-014",
+   "type": "single-best-answer",
+   "question": "A 54-year-old man with known alcohol-related cirrhosis presents with large-volume hematemesis and melena. BP is 92/58 mmHg and heart rate 116 bpm. Two large-bore IVs are inserted, crystalloid and blood products are started, and urgent gastroscopy is being arranged. Which of the following pharmacologic measures is most appropriate?",
+   "options": [
+    {
+     "id": "a",
+     "text": "IV H2-receptor antagonist"
+    },
+    {
+     "id": "b",
+     "text": "Oral non-selective beta-blocker"
+    },
+    {
+     "id": "c",
+     "text": "IV octreotide bolus followed by infusion, plus antibiotics"
+    },
+    {
+     "id": "d",
+     "text": "IV erythromycin as the sole pharmacologic therapy"
+    },
+    {
+     "id": "e",
+     "text": "Oral lactulose"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "For a suspected variceal bleed, octreotide is given as a 50 microgram loading dose followed by a 50 microgram/h infusion, and antibiotics are given to patients with cirrhosis because they reduce the risk of infection. This is added to resuscitation and urgent endoscopy, which establishes the bleeding site and allows band ligation or sclerotherapy.",
+   "optionExplanations": {
+    "a": "H2-antagonists should not be used in upper GI bleeding as they have minimal impact on rebleeding rates or the need for surgery.",
+    "b": "Non-selective beta-blockers reduce the risk of first or recurrent variceal bleeding but have no role during active hemorrhage with hypotension.",
+    "d": "IV erythromycin (or metoclopramide) is only an adjunct to accelerate gastric emptying and improve endoscopic visualization, not primary therapy for variceal bleeding.",
+    "e": "Lactulose treats hepatic encephalopathy, which a GI bleed may precipitate, but it does not control the bleeding."
+   },
+   "topic": "Upper Gastrointestinal Bleeding",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "G",
+    "name": "Gastroenterology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 463,
+    "reference": "G29 — Upper Gastrointestinal Bleeding (Treatment) / Esophageal Varices"
+   }
+  },
+  {
+   "id": "TN-G-015",
+   "type": "single-best-answer",
+   "question": "A 58-year-old man with cirrhosis and known ascites presents with 2 d of fever, diffuse abdominal discomfort, and increasing drowsiness. Temperature is 38.2 C and BP 100/60 mmHg. The abdomen is distended with shifting dullness and mild diffuse tenderness. Creatinine has risen from 80 to 130 micromol/L. Which of the following is the most appropriate next step?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Abdominal ultrasound"
+    },
+    {
+     "id": "b",
+     "text": "Diagnostic paracentesis for cell count, chemistry, and culture"
+    },
+    {
+     "id": "c",
+     "text": "CT of the abdomen with contrast"
+    },
+    {
+     "id": "d",
+     "text": "Blood cultures alone with observation"
+    },
+    {
+     "id": "e",
+     "text": "Gastroscopy"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Spontaneous bacterial peritonitis complicates about 10% of cirrhotic ascites and presents with fever, chills, abdominal pain, ileus, hypotension, worsening encephalopathy, or acute kidney injury, though one third of patients are asymptomatic. Diagnostic paracentesis is therefore the key step, sending aliquots for cell count and differential, chemistry including albumin, culture and Gram stain, and cytology.",
+   "optionExplanations": {
+    "a": "Ultrasound confirms and localizes ascites but cannot diagnose infection of the fluid.",
+    "c": "CT delays the diagnostic tap and does not provide the ascitic cell count or culture needed.",
+    "d": "Blood cultures are useful adjuncts, but the diagnosis rests on analysis of the ascitic fluid.",
+    "e": "Gastroscopy assesses varices or portal hypertensive gastropathy and is not indicated for fever and abdominal pain in ascites."
+   },
+   "topic": "Ascites and Spontaneous Bacterial Peritonitis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "G",
+    "name": "Gastroenterology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 478,
+    "reference": "G44 — Ascites / Complication: Spontaneous Bacterial Peritonitis"
+   }
+  },
+  {
+   "id": "TN-G-016",
+   "type": "single-best-answer",
+   "question": "A 61-year-old woman with cirrhosis is brought to hospital confused and drowsy. She has not had a bowel movement in 4 d. She is afebrile, has asterixis and no focal neurologic deficits, and CT head is normal. Glucose, electrolytes, urinalysis, and chest x-ray are unremarkable. Which of the following is the most appropriate initial treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "IV albumin"
+    },
+    {
+     "id": "b",
+     "text": "IV furosemide"
+    },
+    {
+     "id": "c",
+     "text": "Lactulose titrated to 2-3 soft stools per day"
+    },
+    {
+     "id": "d",
+     "text": "Oral vancomycin"
+    },
+    {
+     "id": "e",
+     "text": "IV mannitol"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "Hepatic encephalopathy is a clinical diagnosis made after excluding other neuropsychiatric and metabolic causes; constipation is a recognized precipitant through increased nitrogen load. Treatment is to correct precipitating factors and reduce generation of nitrogenous compounds with lactulose or lactitol titrated to 2-3 soft stools daily, with oral rifaximin having high-level evidence for both acute treatment and maintenance.",
+   "optionExplanations": {
+    "a": "IV albumin is used with therapeutic paracentesis in refractory ascites, not as treatment for encephalopathy.",
+    "b": "Diuretics treat ascites, and overdiuresis can precipitate renal failure and worsen encephalopathy.",
+    "d": "Oral vancomycin treats C. difficile infection; the antibiotic with evidence in hepatic encephalopathy is rifaximin.",
+    "e": "Mannitol is used for raised intracranial pressure and is not part of the described management of hepatic encephalopathy."
+   },
+   "topic": "Hepatic Encephalopathy",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "G",
+    "name": "Gastroenterology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 477,
+    "reference": "G43 — Hepatic Encephalopathy (Treatment)"
+   }
+  },
+  {
+   "id": "TN-G-017",
+   "type": "single-best-answer",
+   "question": "A 48-year-old man presents with 12 h of severe, constant epigastric pain radiating to the back, which improves slightly when he leans forward, accompanied by vomiting. He drinks alcohol heavily. He is tachycardic, with a tender, rigid upper abdomen, guarding, and reduced bowel sounds. Which of the following blood tests is most useful in confirming the suspected diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Serum amylase"
+    },
+    {
+     "id": "b",
+     "text": "Serum lipase"
+    },
+    {
+     "id": "c",
+     "text": "Serum ALT"
+    },
+    {
+     "id": "d",
+     "text": "Serum ALP"
+    },
+    {
+     "id": "e",
+     "text": "Serum calcium"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "This is a classic presentation of acute pancreatitis: constant non-colicky epigastric pain radiating to the back that may improve on leaning forward, with vomiting and a tender rigid abdomen. Serum pancreatic enzymes rise; lipase is the more specific test, has higher sensitivity and specificity than amylase, and stays elevated longer.",
+   "optionExplanations": {
+    "a": "Amylase is sensitive but not specific for acute pancreatitis and normalizes earlier than lipase.",
+    "c": "ALT above 150 U/L points toward a biliary cause of pancreatitis but does not confirm the diagnosis itself.",
+    "d": "ALP reflects cholestasis and is not the confirmatory test for pancreatic inflammation.",
+    "e": "Calcium is often low in acute pancreatitis and may cause tetany, but it is a marker of severity rather than a diagnostic test."
+   },
+   "topic": "Acute Pancreatitis",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "G",
+    "name": "Gastroenterology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 483,
+    "reference": "G49 — Acute Pancreatitis (Signs and Symptoms, Investigations)"
+   }
+  },
+  {
+   "id": "TN-G-018",
+   "type": "single-best-answer",
+   "question": "A 52-year-old man of Northern European descent has 1 yr of fatigue and arthralgia, worst in the metacarpophalangeal joints. He was recently diagnosed with type 2 diabetes, and his wife notes his skin looks bronze-grey. AST and ALT are mildly elevated. He drinks minimal alcohol and viral hepatitis serology is negative. Which of the following is the most appropriate initial investigation?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Serum ceruloplasmin"
+    },
+    {
+     "id": "b",
+     "text": "Liver biopsy"
+    },
+    {
+     "id": "c",
+     "text": "Transferrin saturation and serum ferritin"
+    },
+    {
+     "id": "d",
+     "text": "Anti-mitochondrial antibody"
+    },
+    {
+     "id": "e",
+     "text": "Alpha-1-antitrypsin level"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "Arthralgia (especially of the metacarpophalangeal joints), diabetes from pancreatic damage, bronze or grey skin, and a trivial transaminase elevation in a man of Northern European descent describe hereditary hemochromatosis. Screening of individuals with clinical features or a family history uses transferrin saturation above 45% and serum ferritin above 400 ng/mL, with HFE gene analysis following abnormal iron studies.",
+   "optionExplanations": {
+    "a": "Reduced ceruloplasmin screens for Wilson's disease, which is suspected with liver disease at a young age (under 40) combined with dystonia or psychiatric symptoms.",
+    "b": "Liver biopsy is generally used to detect cirrhosis or when other causes of liver injury are possible, and is often not needed if iron studies and HFE testing are diagnostic.",
+    "d": "Anti-mitochondrial antibody is the serologic test for primary biliary cholangitis, which typically affects middle-aged women with a cholestatic pattern.",
+    "e": "Alpha-1-antitrypsin deficiency is a rare cause of cirrhosis and does not explain bronze skin, diabetes, and arthralgia."
+   },
+   "topic": "Hemochromatosis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "G",
+    "name": "Gastroenterology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 472,
+    "reference": "G38 — Hemochromatosis (Clinical Features, Investigations)"
+   }
+  }
+ ]
+}

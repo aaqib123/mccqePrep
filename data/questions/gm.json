@@ -1,0 +1,382 @@
+{
+ "chapter": {
+  "code": "GM",
+  "name": "Geriatric Medicine"
+ },
+ "document": {
+  "id": "toronto-notes-2025",
+  "title": "Toronto Notes 2025",
+  "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
+ },
+ "count": 8,
+ "questions": [
+  {
+   "id": "TN-GM-001",
+   "type": "single-best-answer",
+   "question": "An 82-year-old woman is 2 d post hip fracture repair. Nurses report that she was lucid at breakfast but by evening is drowsy, rambling, and unable to sustain attention through a sentence; overnight she pulled at her IV. Her daughter states her memory and independence were normal before admission. Which of the following is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Delirium"
+    },
+    {
+     "id": "b",
+     "text": "Alzheimer's dementia"
+    },
+    {
+     "id": "c",
+     "text": "Vascular dementia"
+    },
+    {
+     "id": "d",
+     "text": "Major depressive disorder"
+    },
+    {
+     "id": "e",
+     "text": "Normal age-related cognitive change"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Delirium is an acute, potentially reversible disturbance in cognition, attention, or level of consciousness. Using the Confusion Assessment Method, delirium is likely when there is acute onset with a fluctuating course plus inattention, together with either disorganized thinking or altered level of consciousness. Delirium occurs in about 50% of patients after high-risk procedures such as hip fracture repair, and this woman fluctuated within a day with inattention, disorganized speech, and drowsiness on a normal cognitive baseline.",
+   "optionExplanations": {
+    "b": "Dementia develops gradually over months to years with a normal level of consciousness and attention intact initially; her baseline was normal 2 d ago.",
+    "c": "Vascular dementia also follows a gradual or step-wise course over months to years, not hours, and does not fluctuate with a depressed level of consciousness.",
+    "d": "Depression is subacute over weeks to months with a normal level of consciousness, intact orientation, and reduced concentration rather than fluctuating inattention.",
+    "e": "Normal aging causes only mild changes in working memory and processing speed, not acute fluctuating confusion."
+   },
+   "topic": "Delirium",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "GM",
+    "name": "Geriatric Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 577,
+    "reference": "GM5 — Delirium (Definition, Epidemiology, Screening/Diagnostic Tools)"
+   }
+  },
+  {
+   "id": "TN-GM-002",
+   "type": "single-best-answer",
+   "question": "An 80-year-old man with mild cognitive impairment is admitted to a general medical ward with pneumonia. His glasses and hearing aids were left at home, he is on continuous IV fluids with a urinary catheter, and he has been kept in bed. The team wants to reduce his risk of developing delirium. Which of the following is the most appropriate strategy?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Prophylactic haloperidol"
+    },
+    {
+     "id": "b",
+     "text": "Scheduled nightly lorazepam to consolidate sleep"
+    },
+    {
+     "id": "c",
+     "text": "A multicomponent non-pharmacologic program (reorientation, cognitive stimulation, sleep hygiene, early mobilization, hydration, sensory aids)"
+    },
+    {
+     "id": "d",
+     "text": "Diphenhydramine at bedtime"
+    },
+    {
+     "id": "e",
+     "text": "Bed rest with side rails and restraints to prevent wandering"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "Delirium prevention in older adults is built on multicomponent non-pharmacologic measures: orientation with visible clocks and calendars, cognitive stimulation and family involvement, sleep enhancement, early and safe mobilization, adequate nutrition and hydration, correction of sensory deficits with glasses and hearing aids, and prompt removal of catheters. Pooled trial data show that such multicomponent interventions probably reduce the incidence of delirium compared with usual care.",
+   "optionExplanations": {
+    "a": "Optimal prescribing means avoiding precipitating medications including antipsychotics; evidence does not support routine antipsychotics for delirium management.",
+    "b": "Sedatives should be avoided as they are recognized precipitants; sleep aids are specifically discouraged as part of sleep enhancement.",
+    "d": "Diphenhydramine is an anticholinergic sedating antihistamine, exactly the class that should be avoided to prevent delirium.",
+    "e": "Restraints and immobility are counterproductive; early safe mobilization and removal of restraints are recommended."
+   },
+   "topic": "Delirium Prevention",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "GM",
+    "name": "Geriatric Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 578,
+    "reference": "GM6 — Delirium Prevention in Older Adults"
+   }
+  },
+  {
+   "id": "TN-GM-003",
+   "type": "single-best-answer",
+   "question": "A 78-year-old woman has fallen twice in 3 mo, both times at night while walking to the bathroom. She takes lorazepam 1 mg nightly for insomnia. Orthostatic blood pressures are normal, her gait is slow but steady with a properly fitted cane, her vision has been corrected, and a home hazard assessment has already been completed. Which intervention is most appropriate?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Gradual tapering and discontinuation of the lorazepam"
+    },
+    {
+     "id": "b",
+     "text": "Substitution of a different sedative-hypnotic at bedtime"
+    },
+    {
+     "id": "c",
+     "text": "Advising bed rest and restricted ambulation"
+    },
+    {
+     "id": "d",
+     "text": "Application of a night-time physical restraint"
+    },
+    {
+     "id": "e",
+     "text": "Prescription of a wheelchair for all mobility"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Fall interventions are directed at the identified intrinsic and extrinsic risk factors. Medication side effects and polypharmacy are extrinsic contributors, and taper or gradual discontinuation of psychotropic medication is a specific recommended intervention. With gait aid, vision, orthostatic vitals, and home hazards already addressed, her nightly benzodiazepine is the remaining modifiable risk factor.",
+   "optionExplanations": {
+    "b": "Swapping one sedative-hypnotic for another leaves the psychotropic exposure that contributes to falls in place.",
+    "c": "Immobility worsens deconditioning; muscle strengthening, balance retraining, and group exercise programs are recommended instead.",
+    "d": "Restraints are not a falls intervention and their removal is recommended in hospitalized older adults.",
+    "e": "A wheelchair for all mobility promotes immobility and does not address the medication-related risk; a fitted gait aid is already in place."
+   },
+   "topic": "Falls",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "GM",
+    "name": "Geriatric Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 580,
+    "reference": "GM8 — Falls (Interventions)"
+   }
+  },
+  {
+   "id": "TN-GM-004",
+   "type": "single-best-answer",
+   "question": "An 80-year-old man has unintentionally lost 6 kg (about 5% of his body weight) over the past year. He reports feeling exhausted most days. His grip strength and his walking time over 15 feet both fall in the lowest 20% for his sex and body size, and his weekly energy expenditure is well below 383 kcal/wk. How should he be classified using the Fried physical frailty phenotype?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Pre-frail (1 or 2 criteria met)"
+    },
+    {
+     "id": "b",
+     "text": "Frail (3 or more criteria met)"
+    },
+    {
+     "id": "c",
+     "text": "Not frail"
+    },
+    {
+     "id": "d",
+     "text": "Frail only if cognitive impairment is also documented"
+    },
+    {
+     "id": "e",
+     "text": "Unclassifiable without a cumulative deficit frailty index"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "The Fried physical frailty phenotype comprises five criteria: shrinking (unintentional loss of at least 10 lbs or 5% of body weight in the prior year), weakness (grip strength in the lowest 20%), poor endurance (self-reported exhaustion), slowness (walking time over 15 feet in the slowest 20%), and low activity (lowest 20% of kcal/wk). A patient is frail with 3 or more criteria and at-risk or pre-frail with 1 or 2. This man meets all five.",
+   "optionExplanations": {
+    "a": "Pre-frail applies to only 1 or 2 criteria; he meets all five.",
+    "c": "Meeting several phenotype criteria excludes a non-frail classification.",
+    "d": "Cognitive impairment is not one of the five Fried phenotype criteria.",
+    "e": "The cumulative deficit (Rockwood) frailty index is a separate model; the Fried phenotype can be applied on its own."
+   },
+   "topic": "Frailty",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "GM",
+    "name": "Geriatric Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 581,
+    "reference": "GM9 — Models of Frailty: Physical Frailty Phenotype (Fried et al.)"
+   }
+  },
+  {
+   "id": "TN-GM-005",
+   "type": "single-best-answer",
+   "question": "A 72-year-old woman describes involuntary loss of small amounts of urine when she coughs, laughs, or lifts her grandchild. She has no urgency or nocturia, denies dysuria, and mobilizes independently without cognitive impairment. Post-void residual is 20 mL, and urinalysis and urine culture are normal. Which of the following is the most likely type of incontinence?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Urge incontinence"
+    },
+    {
+     "id": "b",
+     "text": "Overflow incontinence"
+    },
+    {
+     "id": "c",
+     "text": "Functional incontinence"
+    },
+    {
+     "id": "d",
+     "text": "Stress incontinence"
+    },
+    {
+     "id": "e",
+     "text": "Transient incontinence secondary to urinary tract infection"
+    }
+   ],
+   "correctAnswer": "d",
+   "explanation": "Urinary incontinence is any involuntary loss of urine and has four subtypes: stress incontinence, which is leakage associated with physical strain; urge incontinence; overflow incontinence; and functional incontinence. Leakage triggered specifically by coughing, laughing, and lifting, with no urgency, a low post-void residual, and preserved mobility and cognition, is stress incontinence.",
+   "optionExplanations": {
+    "a": "Urge incontinence is leakage associated with an oversensitive bladder and a strong urge to urinate, which she denies.",
+    "b": "Overflow incontinence reflects poor bladder emptying; her post-void residual is normal at 20 mL.",
+    "c": "Functional incontinence is leakage due to illness or disability unrelated to the urinary tract, but she is independent and cognitively intact.",
+    "e": "Infection is a transient cause of incontinence, but her urinalysis and culture are normal and she has no dysuria."
+   },
+   "topic": "Urinary Incontinence",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "GM",
+    "name": "Geriatric Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 583,
+    "reference": "GM11 — Urinary Incontinence (Definition, Investigations)"
+   }
+  },
+  {
+   "id": "TN-GM-006",
+   "type": "single-best-answer",
+   "question": "An 84-year-old bedbound man in long-term care has a sacral wound. On examination there is full-thickness loss of skin with visible adipose tissue, rolled wound edges, and a small amount of slough that does not obscure the base. No fascia, muscle, tendon, ligament, or bone is visible or palpable. How should this pressure injury be staged?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Stage 2"
+    },
+    {
+     "id": "b",
+     "text": "Stage 3"
+    },
+    {
+     "id": "c",
+     "text": "Stage 4"
+    },
+    {
+     "id": "d",
+     "text": "Unstageable pressure injury"
+    },
+    {
+     "id": "e",
+     "text": "Deep tissue pressure injury"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "In the NPIAP staging system, stage 3 is full-thickness loss of skin with adipose tissue visible, where slough or eschar may be present and granulation tissue and epibole (rolled wound edges) are often seen. Because deeper structures are not exposed and the wound base can be assessed, this is stage 3.",
+   "optionExplanations": {
+    "a": "Stage 2 is partial-thickness loss with exposed dermis and a viable pink or red moist wound bed, without visible adipose tissue.",
+    "c": "Stage 4 requires exposed or directly palpable fascia, muscle, tendon, ligament, cartilage, or bone.",
+    "d": "An injury is unstageable only when slough or eschar obscures the extent of tissue damage; here the base is visible.",
+    "e": "Deep tissue pressure injury describes intact or non-intact skin with localized non-blanchable maroon or purple discolouration or a blood-filled blister."
+   },
+   "topic": "Pressure Injuries",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "GM",
+    "name": "Geriatric Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 585,
+    "reference": "GM13 — Table 5. NPIAP Staging System for Pressure Injuries"
+   }
+  },
+  {
+   "id": "TN-GM-007",
+   "type": "single-best-answer",
+   "question": "A 79-year-old man with dementia attends with his daughter, who reports that over the past year he has become unable to manage his finances or his medications independently, and last month he became lost driving to a familiar store. His MMSE is 22/30. He insists he is a safe driver and wants to keep his licence. Which of the following is the most appropriate advice?",
+   "options": [
+    {
+     "id": "a",
+     "text": "He may continue driving and be re-evaluated in 6-12 mo"
+    },
+    {
+     "id": "b",
+     "text": "He may continue driving because his MMSE score is above 20"
+    },
+    {
+     "id": "c",
+     "text": "He may continue driving in daylight hours and on familiar routes only"
+    },
+    {
+     "id": "d",
+     "text": "He should stop driving, as inability to independently perform 2 or more IADLs indicates at least moderate dementia"
+    },
+    {
+     "id": "e",
+     "text": "He may continue driving while awaiting an on-road test at a specialized centre"
+    }
+   ],
+   "correctAnswer": "d",
+   "explanation": "Moderate to severe dementia is a contraindication to driving, defined as the inability to independently perform 2 or more IADLs or any basic ADL. This man can no longer manage finances or medications, which are two IADLs, so he should be advised to stop driving. Physician reporting to the Ministry of Transportation is mandatory in all Canadian provinces and territories except Quebec, Nova Scotia, and Alberta, where it is discretionary.",
+   "optionExplanations": {
+    "a": "Assessment and re-evaluation every 6-12 mo applies to patients with mild dementia who are deemed fit to drive, not to moderate dementia.",
+    "b": "The MMSE score alone, whether normal or low, is insufficient to determine fitness to drive.",
+    "c": "Time-of-day or route restrictions are not offered as an alternative when moderate dementia contraindicates driving.",
+    "e": "Referral to a specialized driving centre is used for patients with mild dementia; it does not justify continued driving in moderate dementia."
+   },
+   "topic": "Driving Competency",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "GM",
+    "name": "Geriatric Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 586,
+    "reference": "GM14 — Driving Competency / Table 6. Conditions That Impair Driving"
+   }
+  },
+  {
+   "id": "TN-GM-008",
+   "type": "single-best-answer",
+   "question": "An 82-year-old woman was started on a drug for nausea. Weeks later she developed a resting tremor and rigidity, which were treated as new Parkinson's disease with levodopa. She then became orthostatic and was given fludrocortisone. She now takes 11 medications, and no one has questioned the original prescription. Which of the following best describes what has occurred?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Non-adherence"
+    },
+    {
+     "id": "b",
+     "text": "Prescribing cascade"
+    },
+    {
+     "id": "c",
+     "text": "Drug-drug interaction"
+    },
+    {
+     "id": "d",
+     "text": "Therapeutic duplication"
+    },
+    {
+     "id": "e",
+     "text": "Pharmacodynamic tolerance"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "A prescribing cascade is the process whereby an adverse drug reaction is misinterpreted as a new medical condition and a further drug is prescribed to treat the drug-induced event. Prescribers should ask whether the new drug is being used to address an adverse effect of an earlier drug, whether the original drug is really needed, and whether its benefits outweigh the harms; avoiding treatment of an adverse drug reaction with another medication is a key way to prevent polypharmacy.",
+   "optionExplanations": {
+    "a": "Non-adherence refers to failure to take medications as prescribed, and compliance falls with increasing numbers of drugs; it does not describe this sequence.",
+    "c": "A drug-drug interaction is one drug altering the effect of another; here each new drug was added to treat the previous drug's adverse effect.",
+    "d": "Therapeutic duplication means two agents with the same action; these drugs have different indications.",
+    "e": "Tolerance is a reduced response to a drug over time and does not explain the sequential additions."
+   },
+   "topic": "Polypharmacy and Prescribing Cascade",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "GM",
+    "name": "Geriatric Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 589,
+    "reference": "GM17 — Prescribing Cascade / Preventing Polypharmacy"
+   }
+  }
+ ]
+}

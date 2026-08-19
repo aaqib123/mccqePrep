@@ -1,0 +1,842 @@
+{
+ "chapter": {
+  "code": "N",
+  "name": "Neurology"
+ },
+ "document": {
+  "id": "toronto-notes-2025",
+  "title": "Toronto Notes 2025",
+  "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
+ },
+ "count": 18,
+ "questions": [
+  {
+   "id": "TN-N-001",
+   "type": "single-best-answer",
+   "question": "A 68-year-old right-handed man is brought in after the sudden onset of difficulty speaking. He has weakness and sensory loss of the right face and arm, with the leg much less affected. He cannot name objects and speech is non-fluent. There is cortical sensory loss in the right hand, a right homonymous hemianopsia, and his eyes are deviated to the left. Which vascular territory is most likely involved?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Left middle cerebral artery"
+    },
+    {
+     "id": "b",
+     "text": "Left anterior cerebral artery"
+    },
+    {
+     "id": "c",
+     "text": "Left posterior cerebral artery"
+    },
+    {
+     "id": "d",
+     "text": "Right middle cerebral artery"
+    },
+    {
+     "id": "e",
+     "text": "Basilar artery"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes lists the middle cerebral artery syndrome as contralateral weakness and/or sensory deficit of the face and arm, cortical sensory loss, possible contralateral homonymous hemianopsia or quadrantanopia, aphasia if the dominant (usually left) hemisphere is involved, and eye deviation towards the side of the lesion. This man has right face-and-arm predominant deficits, cortical sensory loss, aphasia and leftward gaze deviation, localising to the left MCA.",
+   "optionExplanations": {
+    "b": "Anterior cerebral artery infarction causes contralateral leg weakness and/or sensory deficit with neurocognitive features such as abulia, not face-and-arm predominant deficits with aphasia.",
+    "c": "Posterior cerebral artery infarction causes contralateral homonymous hemianopsia or quadrantanopia with midbrain or thalamic findings, not aphasia with face-and-arm weakness.",
+    "d": "A right MCA infarct would produce left-sided deficits with neglect and anosognosia rather than right-sided deficits and aphasia.",
+    "e": "Basilar territory disease produces brainstem findings such as crossed deficits, diplopia and dysarthria rather than an isolated dominant-hemisphere cortical syndrome."
+   },
+   "topic": "Ischemic Stroke — Vascular Territories",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "N",
+    "name": "Neurology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 921,
+    "reference": "N51 — Stroke Syndromes According to Vascular Territory"
+   }
+  },
+  {
+   "id": "TN-N-002",
+   "type": "single-best-answer",
+   "question": "A 74-year-old man with long-standing hypertension and type 2 diabetes develops sudden weakness of the left face, arm and leg, all affected to an equal degree. Sensation to light touch, pinprick, vibration and proprioception is intact. There is no aphasia, no hemineglect, no visual field defect and no loss of graphesthesia or stereognosis. Where is the lesion most likely located?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Right cerebral cortex"
+    },
+    {
+     "id": "b",
+     "text": "Right internal capsule"
+    },
+    {
+     "id": "c",
+     "text": "Right thalamus"
+    },
+    {
+     "id": "d",
+     "text": "Left cerebellar hemisphere"
+    },
+    {
+     "id": "e",
+     "text": "Right medulla"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Toronto Notes describes an internal capsule lesion as producing contralateral hemiparesis with equal face, arm and leg involvement and without sensory or cortical deficits (a pure motor presentation). The absence of aphasia, neglect, visual field loss and cortical sensory signs excludes a cortical lesion, and the intact sensation excludes thalamic involvement.",
+   "optionExplanations": {
+    "a": "Cortical lesions cause a differential effect on face and arm versus leg together with cortical signs such as aphasia, hemineglect or loss of graphesthesia and stereognosis.",
+    "c": "Thalamic lesions cause dense sensory loss, contralateral severe pain, visual field defects and altered level of consciousness, none of which are present.",
+    "d": "Cerebellar lesions cause symptoms ipsilateral to the lesion with limb or truncal ataxia and nystagmus, not a contralateral pure motor hemiparesis.",
+    "e": "Medullary (brainstem) lesions typically cause crossed findings, dysphagia, dysarthria, vertigo or an ipsilateral Horner's syndrome."
+   },
+   "topic": "Lesion Localization — Subcortical",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "N",
+    "name": "Neurology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 872,
+    "reference": "N2 — Lesion Localization"
+   }
+  },
+  {
+   "id": "TN-N-003",
+   "type": "single-best-answer",
+   "question": "A 63-year-old woman is brought to the emergency department 90 minutes after the abrupt onset of right arm weakness and slurred speech, witnessed by her husband. She is alert, blood pressure is 168/92 mmHg, and capillary glucose is 6.2 mmol/L. She takes no anticoagulants. Airway, breathing and circulation are stable and a code stroke has been activated. Which investigation should be obtained first?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Non-contrast CT head"
+    },
+    {
+     "id": "b",
+     "text": "Carotid Doppler ultrasound"
+    },
+    {
+     "id": "c",
+     "text": "Transthoracic echocardiogram"
+    },
+    {
+     "id": "d",
+     "text": "Electroencephalogram"
+    },
+    {
+     "id": "e",
+     "text": "Holter monitor"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "In the assessment of acute ischemic stroke, Toronto Notes lists STAT non-contrast CT head as the neuroimaging step to rule out hemorrhage, alongside a code stroke if the patient is within 4.5 h of symptom onset. Excluding hemorrhage is required before thrombolysis can be considered, so it precedes all other investigations.",
+   "optionExplanations": {
+    "b": "Carotid Doppler is part of vascular imaging for secondary prevention workup, not the first study in the hyperacute phase.",
+    "c": "Echocardiography is used to look for cardioembolic sources after the acute phase, not to guide immediate management.",
+    "d": "EEG is used when seizure is suspected; it does not exclude hemorrhage and would delay reperfusion decisions.",
+    "e": "Holter monitoring detects paroxysmal atrial fibrillation for secondary prevention and has no role in the hyperacute assessment."
+   },
+   "topic": "Acute Ischemic Stroke — Assessment",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "N",
+    "name": "Neurology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 923,
+    "reference": "N53 — Assessment of Acute Ischemic Stroke"
+   }
+  },
+  {
+   "id": "TN-N-004",
+   "type": "single-best-answer",
+   "question": "A 58-year-old man is last known well 2 hours ago and now has left hemiparesis and dysarthria. Non-contrast CT head shows no hemorrhage and no early signs of extensive infarction. Blood pressure is 156/88 mmHg, INR is 1.0, platelets are 250 x 10^9/L and glucose is 6.8 mmol/L. He has had no recent surgery, trauma or intracranial hemorrhage. What is the best initial treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Intravenous thrombolysis with tPA"
+    },
+    {
+     "id": "b",
+     "text": "Chewed acetylsalicylic acid 160 mg"
+    },
+    {
+     "id": "c",
+     "text": "Intravenous unfractionated heparin infusion"
+    },
+    {
+     "id": "d",
+     "text": "Clopidogrel 300 mg loading dose"
+    },
+    {
+     "id": "e",
+     "text": "Oral warfarin titrated to an INR of 2-3"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states that tPA or tenecteplase should be given within 4.5 h of acute ischemic stroke onset provided there are clinical indications and no contraindications. This patient is at 2 hours with no hemorrhage on CT, an acceptable blood pressure, normal coagulation parameters and no listed contraindication, so intravenous thrombolysis is the treatment of choice.",
+   "optionExplanations": {
+    "b": "A loading dose of ASA 160 mg chewed is recommended at presentation of TIA or stroke only if tPA is not received.",
+    "c": "Acute anticoagulation is not first-line therapy; initiation is actually delayed depending on infarct size and hemorrhagic change.",
+    "d": "Clopidogrel 300 mg is an alternative antiplatelet loading dose for patients intolerant of ASA who are not receiving tPA.",
+    "e": "Warfarin is used for secondary prevention in atrial fibrillation and has no role as acute treatment of ischemic stroke."
+   },
+   "topic": "Acute Ischemic Stroke — Thrombolysis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "N",
+    "name": "Neurology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 923,
+    "reference": "N53 — Treatment of Acute Ischemic Stroke"
+   }
+  },
+  {
+   "id": "TN-N-005",
+   "type": "single-best-answer",
+   "question": "A 70-year-old man had a 20-minute episode of right hand weakness and expressive dysphasia four days ago that resolved completely. Imaging shows a small left hemispheric infarct. Carotid Doppler demonstrates 80% stenosis of the left internal carotid artery, and the right side is normal. He is already taking acetylsalicylic acid and a statin, and his blood pressure is controlled. What is the most appropriate next step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Carotid endarterectomy"
+    },
+    {
+     "id": "b",
+     "text": "Long-term dual antiplatelet therapy with ASA and clopidogrel alone"
+    },
+    {
+     "id": "c",
+     "text": "Long-term warfarin anticoagulation alone"
+    },
+    {
+     "id": "d",
+     "text": "Repeat carotid Doppler ultrasound in 12 months"
+    },
+    {
+     "id": "e",
+     "text": "Addition of a second antihypertensive agent alone"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states that for secondary prevention after stroke or TIA in the carotid territory, carotid endarterectomy clearly benefits patients with symptomatic severe stenosis of 70-99%, and that endarterectomy should be performed within 2 weeks of the ischemic event for maximal benefit. This man has a symptomatic 80% ipsilateral stenosis four days after the event.",
+   "optionExplanations": {
+    "b": "Longer-term combined ASA and clopidogrel is not recommended for secondary prevention because of increased bleeding and mortality risk, and it does not address the severe stenosis.",
+    "c": "Anticoagulation is indicated for cardioembolic sources such as atrial fibrillation, not for symptomatic carotid atherosclerosis.",
+    "d": "Deferring imaging for a year forfeits the benefit of revascularisation, which is greatest within 2 weeks of the event.",
+    "e": "Blood pressure control is important but his blood pressure is already controlled and it does not treat the symptomatic severe stenosis."
+   },
+   "topic": "Secondary Stroke Prevention — Carotid Stenosis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "N",
+    "name": "Neurology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 924,
+    "reference": "N54 — Primary and Secondary Prevention of Ischemic Stroke: Carotid Stenosis"
+   }
+  },
+  {
+   "id": "TN-N-006",
+   "type": "single-best-answer",
+   "question": "A 26-year-old woman has recurrent stereotyped spells. Each begins with an intense feeling of fear and a sensation of deja vu, sometimes with an unpleasant smell. She then stares blankly and performs repetitive lip-smacking and fumbling movements of her hands for about a minute. She does not fall or stiffen. Afterwards she is confused for several minutes and has no memory of the spell. What is the most likely seizure type?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Focal seizure with impaired awareness"
+    },
+    {
+     "id": "b",
+     "text": "Typical absence seizure"
+    },
+    {
+     "id": "c",
+     "text": "Generalized tonic-clonic seizure"
+    },
+    {
+     "id": "d",
+     "text": "Myoclonic seizure"
+    },
+    {
+     "id": "e",
+     "text": "Atonic seizure"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes describes focal impaired awareness seizures (formerly complex partial) as characterised by automatisms such as chewing, swallowing, lip-smacking, scratching and fumbling, with other forms including dysmnesic (deja vu), affective (fear) and olfactory phenomena. Temporal lobe seizures are specifically suggested by an aura of fear, olfactory or gustatory hallucinations and deja vu sensations.",
+   "optionExplanations": {
+    "b": "Absence seizures are usually seen in children, last 5-10 seconds with staring and eye blinking, and characteristically produce no post-ictal confusion.",
+    "c": "Generalized tonic-clonic seizures involve a tonic phase of muscle rigidity followed by violent repetitive jerking with tongue biting and incontinence.",
+    "d": "Myoclonic seizures are sporadic contractions localised to muscle groups of one or more limbs, without automatisms or a preceding aura.",
+    "e": "Atonic seizures cause a loss of muscle tone leading to a drop attack, which does not occur here."
+   },
+   "topic": "Seizure Disorders — Classification",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "N",
+    "name": "Neurology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 889,
+    "reference": "N19 — Seizure: Clinical Features"
+   }
+  },
+  {
+   "id": "TN-N-007",
+   "type": "single-best-answer",
+   "question": "A 22-year-old woman collapsed while standing during a long wedding ceremony. Witnesses report she became pale and sweaty and complained of lightheadedness and tunnel vision before slumping to the floor. There were a few seconds of tonic stiffening. She recovered fully within 30 seconds, was immediately oriented, and had no confusion, no incontinence and no tongue biting. She sustained no injury. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Syncope"
+    },
+    {
+     "id": "b",
+     "text": "Generalized tonic-clonic seizure"
+    },
+    {
+     "id": "c",
+     "text": "Dissociative functional seizure"
+    },
+    {
+     "id": "d",
+     "text": "Focal seizure with impaired awareness"
+    },
+    {
+     "id": "e",
+     "text": "Transient ischemic attack"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes contrasts seizure, syncope and dissociative functional seizures. Syncope occurs during the day in the upright position with a gradual onset preceded by lightheadedness, pallor, diaphoresis and tunnel vision, is brief, has no post-ictal phase, rarely causes injury or incontinence, and may include occasional brief tonic stiffening (convulsive syncope). This description matches that pattern exactly.",
+   "optionExplanations": {
+    "b": "Seizures start suddenly in any position, may occur from sleep, commonly cause incontinence, lateral tongue biting and injury, and are followed by post-ictal confusion.",
+    "c": "Dissociative functional seizures are typically prolonged, provoked by emotional disturbance or suggestion, and feature eye closure, irregular limb movements, pelvic thrusting and tongue biting at the tip.",
+    "d": "Focal impaired awareness seizures feature stereotypic automatisms and post-ictal confusion rather than presyncopal warning symptoms with immediate recovery.",
+    "e": "A TIA causes focal neurological deficits in a vascular distribution rather than a brief loss of consciousness with prodromal pallor and diaphoresis."
+   },
+   "topic": "Seizure vs. Syncope",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "N",
+    "name": "Neurology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 890,
+    "reference": "N20 — Table 12: Classic Factors Differentiating Seizure, Syncope and Pseudoseizure"
+   }
+  },
+  {
+   "id": "TN-N-008",
+   "type": "single-best-answer",
+   "question": "A 34-year-old man with known epilepsy is brought in convulsing. Paramedics report continuous generalized convulsive activity for the past 8 minutes with no return to baseline. In the department his airway is secured, he is on 100% oxygen by non-rebreather, two peripheral intravenous lines are in place, and point-of-care glucose is 6.5 mmol/L. Blood work has been drawn. What is the best initial pharmacologic treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Intravenous lorazepam 0.1 mg/kg"
+    },
+    {
+     "id": "b",
+     "text": "Intravenous phenytoin 20 mg/kg"
+    },
+    {
+     "id": "c",
+     "text": "Intravenous valproic acid 40 mg/kg"
+    },
+    {
+     "id": "d",
+     "text": "Intravenous levetiracetam 60 mg/kg"
+    },
+    {
+     "id": "e",
+     "text": "Continuous intravenous propofol infusion"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Status epilepticus is defined as a seizure lasting 5 minutes or more, or two seizures without return to neurological baseline in between. Toronto Notes states that early abortive treatment with benzodiazepines is the mainstay of treatment, giving lorazepam 0.1 mg/kg IV at 2 mg/min, with maintenance therapy added afterwards.",
+   "optionExplanations": {
+    "b": "Phenytoin 20 mg/kg is maintenance therapy given after the benzodiazepine, not the initial abortive agent.",
+    "c": "Valproic acid 40 mg/kg is listed as a maintenance option, again after abortive benzodiazepine therapy.",
+    "d": "Levetiracetam 60 mg/kg is also a maintenance option rather than the first abortive drug.",
+    "e": "Continuous midazolam, propofol or ketamine infusion is reserved for refractory status epilepticus when benzodiazepines and maintenance agents have failed."
+   },
+   "topic": "Status Epilepticus",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "N",
+    "name": "Neurology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 891,
+    "reference": "N21 — Status Epilepticus: Antiseizure Medications"
+   }
+  },
+  {
+   "id": "TN-N-009",
+   "type": "single-best-answer",
+   "question": "A 34-year-old man reports attacks of severe constant stabbing retro-orbital and supra-orbital pain lasting about 45 minutes. The attacks have occurred daily for three weeks, typically waking him in the early morning. During an attack his right eye becomes red and watery, the eyelid and forehead swell, and he has nasal congestion. He paces the room rather than lying down, and alcohol reliably provokes an attack. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Cluster headache"
+    },
+    {
+     "id": "b",
+     "text": "Migraine"
+    },
+    {
+     "id": "c",
+     "text": "Tension-type headache"
+    },
+    {
+     "id": "d",
+     "text": "Temporal arteritis"
+    },
+    {
+     "id": "e",
+     "text": "Acute angle-closure glaucoma"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes characterises cluster headache as retro-orbital and supra-orbital, severe enough to wake the patient from sleep, lasting 10 minutes to 2 hours, occurring as daily attacks for weeks to months, most commonly in the early morning or late evening, triggered by alcohol, palliated by walking around, and associated with a red watery eye, eyelid and forehead swelling, nasal congestion or rhinorrhea, and a unilateral Horner's syndrome.",
+   "optionExplanations": {
+    "b": "Migraine lasts hours to days, is pulsating and throbbing, and is associated with nausea, vomiting and photophobia with rest as a palliating factor.",
+    "c": "Tension-type headache is bilateral, band-like and mild to moderate, and characteristically does not wake the patient from sleep.",
+    "d": "Temporal arteritis is a secondary headache of older patients with scalp tenderness, jaw claudication and systemic symptoms rather than stereotyped short autonomic attacks.",
+    "e": "Acute angle-closure glaucoma causes a painful red eye with visual disturbance as a single sustained emergency, not recurrent brief nocturnal attacks over weeks."
+   },
+   "topic": "Headache — Cluster Headache",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "N",
+    "name": "Neurology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 916,
+    "reference": "N46 — Table 22: Headaches, Selected Primary Types"
+   }
+  },
+  {
+   "id": "TN-N-010",
+   "type": "single-best-answer",
+   "question": "A 29-year-old woman has two to three attacks per month of unilateral fronto-temporal throbbing headache lasting most of a day, with nausea, photophobia and phonophobia. She rates the attacks as moderate to severe and cannot work through them. Full doses of ibuprofen and naproxen taken early have not helped. She has no hemiplegic or basilar features, no ischemic heart disease and no uncontrolled hypertension. What is the best acute treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Oral sumatriptan"
+    },
+    {
+     "id": "b",
+     "text": "Oral acetaminophen"
+    },
+    {
+     "id": "c",
+     "text": "A higher dose of oral ibuprofen"
+    },
+    {
+     "id": "d",
+     "text": "Oral codeine"
+    },
+    {
+     "id": "e",
+     "text": "Oral propranolol at the onset of each attack"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes recommends NSAIDs such as ibuprofen or naproxen as first line for mild to moderate migraine, and triptans (described as most effective) or ergots for moderate to severe migraine. This patient has moderate to severe attacks that have failed adequate NSAID therapy, so a triptan is the appropriate abortive agent, and she has none of the listed triptan contraindications.",
+   "optionExplanations": {
+    "b": "Simple analgesics are appropriate for mild attacks; they are unlikely to help when full-dose NSAIDs have already failed.",
+    "c": "NSAIDs have already failed at full dose, and frequent NSAID use also risks medication-overuse headache.",
+    "d": "Opioids are not listed as migraine abortive therapy and their frequent use is a recognised cause of medication-overuse headache.",
+    "e": "Propranolol is a prophylactic agent for chronic migraine, not an abortive treatment for an individual attack."
+   },
+   "topic": "Migraine — Acute Treatment",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "N",
+    "name": "Neurology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 918,
+    "reference": "N48 — Migraine: Treatment"
+   }
+  },
+  {
+   "id": "TN-N-011",
+   "type": "single-best-answer",
+   "question": "A 28-year-old woman had painful monocular vision loss 14 months ago that resolved over several weeks. She now has five days of numbness and weakness of the right leg with a sensory level over the trunk; flexing her neck produces an electric shock sensation down her back. She is afebrile with no infection. MRI shows T2 hyperintense lesions in the periventricular and juxtacortical white matter and in the cervical cord. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Multiple sclerosis"
+    },
+    {
+     "id": "b",
+     "text": "Neuromyelitis optica"
+    },
+    {
+     "id": "c",
+     "text": "Acute disseminated encephalomyelitis"
+    },
+    {
+     "id": "d",
+     "text": "Subacute combined degeneration from vitamin B12 deficiency"
+    },
+    {
+     "id": "e",
+     "text": "Cervical cord infarction"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Diagnosis of MS requires demonstration of dissemination in both time and space by the revised McDonald criteria: at least two attacks separated in time, and lesions in at least two of the four CNS regions (periventricular, cortical/juxtacortical, infratentorial, spinal cord). This woman has an optic neuritis attack followed 14 months later by a myelopathic attack, Lhermitte's sign indicating a dorsal cervical cord lesion, and lesions in three qualifying regions.",
+   "optionExplanations": {
+    "b": "Neuromyelitis optica is defined by severe optic neuritis with longitudinally extensive transverse myelitis spanning more than three vertebral segments and aquaporin-4 antibody positivity.",
+    "c": "ADEM is a monophasic demyelinating disorder with multifocal symptoms plus encephalopathy, seen mainly in children and often following infection.",
+    "d": "B12 deficiency causes a myelopathy with sensory ataxia and peripheral neuropathy, not discrete relapsing attacks with periventricular and juxtacortical white matter lesions.",
+    "e": "Cord infarction is abrupt in onset and would not explain a separate optic neuritis attack a year earlier or the disseminated brain lesions."
+   },
+   "topic": "Multiple Sclerosis — Diagnosis",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "N",
+    "name": "Neurology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 926,
+    "reference": "N56 — Multiple Sclerosis: Clinical Features and Diagnosis"
+   }
+  },
+  {
+   "id": "TN-N-012",
+   "type": "single-best-answer",
+   "question": "A 32-year-old woman with established relapsing-remitting multiple sclerosis develops four days of progressively worsening left-sided limb weakness and unsteadiness. The symptoms are new and have lasted well beyond 24 hours. She is afebrile, has no urinary or respiratory symptoms, and urinalysis is normal. She has never been treated for a relapse before. What is the best initial treatment for this episode?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Intravenous methylprednisolone 1000 mg daily for 3-7 days"
+    },
+    {
+     "id": "b",
+     "text": "Plasma exchange"
+    },
+    {
+     "id": "c",
+     "text": "Start interferon-beta injections"
+    },
+    {
+     "id": "d",
+     "text": "Start monthly natalizumab infusions"
+    },
+    {
+     "id": "e",
+     "text": "Start oral baclofen"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes defines an MS exacerbation as new neurological symptoms lasting more than 24 hours in the absence of fever or infection, and states that acute exacerbation treatment is methylprednisolone 1000 mg IV daily for 3-7 days with no taper required (or high-dose oral prednisone). Plasma exchange is considered only if the response to corticosteroids is poor.",
+   "optionExplanations": {
+    "b": "Plasma exchange is reserved for exacerbations that respond poorly to corticosteroids.",
+    "c": "Interferon-beta is a first-line disease modifying therapy aimed at reducing future relapses, not at treating the current attack.",
+    "d": "Natalizumab is a second-line disease modifying therapy and carries a risk of progressive multifocal leukoencephalopathy; it is not acute relapse therapy.",
+    "e": "Baclofen is symptomatic treatment for spasticity and does not shorten an acute relapse."
+   },
+   "topic": "Multiple Sclerosis — Acute Relapse",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "N",
+    "name": "Neurology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 926,
+    "reference": "N56 — Multiple Sclerosis: Treatment"
+   }
+  },
+  {
+   "id": "TN-N-013",
+   "type": "single-best-answer",
+   "question": "A 64-year-old man reports 18 months of progressive slowness. His wife says his handwriting has become small, his face less expressive and his speech monotonous. On examination there is a 4-6 Hz pill-rolling tremor of the right hand at rest, cogwheel rigidity at the right wrist, and decrementing amplitude with repetitive finger tapping on the right. His gait is shuffling with reduced right arm swing. Postural reflexes are intact. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Parkinson's disease"
+    },
+    {
+     "id": "b",
+     "text": "Essential tremor"
+    },
+    {
+     "id": "c",
+     "text": "Progressive supranuclear palsy"
+    },
+    {
+     "id": "d",
+     "text": "Multiple system atrophy"
+    },
+    {
+     "id": "e",
+     "text": "Vascular parkinsonism"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes bases the clinical diagnosis of Parkinson's disease on bradykinesia (slow, small amplitude decrementing movements) plus resting tremor or rigidity, with asymmetric onset and a progressive course. Supporting features include hypomimia, hypophonia, aprosodia, micrographia and a shuffling gait with decreased arm swing, and postural instability is a late finding.",
+   "optionExplanations": {
+    "b": "Essential tremor is an action-postural tremor of 6-12 Hz worsened by sustained posture, often with an autosomal dominant family history, and does not cause bradykinesia or rigidity.",
+    "c": "Progressive supranuclear palsy features limited vertical gaze, early postural instability with frequent falls and axial rigidity, with little or no response to levodopa.",
+    "d": "Multiple system atrophy is characterised by early autonomic dysfunction such as urinary incontinence or orthostatic hypotension, often with cerebellar features.",
+    "e": "Vascular parkinsonism presents with gait instability and lower body parkinsonism with stepwise decline and is less likely to involve tremor."
+   },
+   "topic": "Parkinson's Disease",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "N",
+    "name": "Neurology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 903,
+    "reference": "N33 — Parkinson's Disease: Clinical Features"
+   }
+  },
+  {
+   "id": "TN-N-014",
+   "type": "single-best-answer",
+   "question": "A 68-year-old woman has 12 months of frequent backward falls that began early in her illness, a wide-based unsteady gait, marked axial rigidity, akinesia, dysarthria and dysphagia. On examination voluntary downgaze is severely limited, but full downward ocular excursion is achieved with the oculocephalic manoeuvre. She has had no meaningful benefit from an adequate trial of levodopa. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Progressive supranuclear palsy"
+    },
+    {
+     "id": "b",
+     "text": "Parkinson's disease"
+    },
+    {
+     "id": "c",
+     "text": "Multiple system atrophy"
+    },
+    {
+     "id": "d",
+     "text": "Corticobasal syndrome"
+    },
+    {
+     "id": "e",
+     "text": "Dementia with Lewy bodies"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes describes progressive supranuclear palsy as a tauopathy with limited vertical gaze (downgaze being more specific and able to be overcome by the oculocephalic reflex), early postural instability with frequent falls and a wide-based unsteady gait, axial rigidity, akinesia, dysarthria and dysphagia, with little or no response to levodopa. Every element of this presentation matches.",
+   "optionExplanations": {
+    "b": "Parkinson's disease has asymmetric onset with rest tremor, a clear response to dopaminergic therapy, and postural instability only as a late finding.",
+    "c": "Multiple system atrophy is a synucleinopathy defined by early autonomic dysfunction such as urinary incontinence or orthostatic hypotension, with cerebellar or parkinsonian predominance.",
+    "d": "Corticobasal syndrome causes unilateral parkinsonism with dystonia, myoclonus, apraxia and an alien limb phenomenon rather than a supranuclear downgaze palsy.",
+    "e": "Dementia with Lewy bodies is defined by fluctuating cognition, recurrent well-formed visual hallucinations and REM sleep behaviour disorder."
+   },
+   "topic": "Atypical Parkinsonism",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "N",
+    "name": "Neurology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 904,
+    "reference": "N34 — Other Parkinsonian Disorders"
+   }
+  },
+  {
+   "id": "TN-N-015",
+   "type": "single-best-answer",
+   "question": "A 73-year-old man has 18 months of progressive cognitive decline with pronounced day-to-day variation in attention and alertness. He repeatedly describes seeing well-formed, detailed images of small children in the house. Bradykinesia and rigidity developed after the cognitive symptoms began. His wife reports he shouts and thrashes while dreaming. A low-dose antipsychotic given for the hallucinations caused severe rigidity. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Major neurocognitive disorder with Lewy bodies"
+    },
+    {
+     "id": "b",
+     "text": "Major neurocognitive disorder due to Alzheimer's disease"
+    },
+    {
+     "id": "c",
+     "text": "Behavioural variant frontotemporal neurocognitive disorder"
+    },
+    {
+     "id": "d",
+     "text": "Vascular cognitive impairment"
+    },
+    {
+     "id": "e",
+     "text": "Creutzfeldt-Jakob disease"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes lists the core features of dementia with Lewy bodies as fluctuating cognition with pronounced variations in attention and alertness, recurrent well-formed and detailed visual hallucinations, one or more features of parkinsonism with onset subsequent to the cognitive decline, and REM sleep behaviour disorder. Severe sensitivity to neuroleptic medication is a supportive feature, and this man has all of them.",
+   "optionExplanations": {
+    "b": "Alzheimer's disease presents with insidious memory impairment for newly acquired information and gradual progression, without early fluctuating attention or neuroleptic sensitivity.",
+    "c": "Behavioural variant frontotemporal disorder presents with disinhibition, apathy, loss of empathy, compulsive behaviour and hyperorality, with memory relatively spared.",
+    "d": "Vascular cognitive impairment features bradyphrenia and a dysexecutive syndrome, often with abrupt onset or stepwise deterioration.",
+    "e": "Creutzfeldt-Jakob disease is rapidly progressive with myoclonus and akinetic mutism rather than an 18-month course with visual hallucinations."
+   },
+   "topic": "Dementia with Lewy Bodies",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "N",
+    "name": "Neurology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 895,
+    "reference": "N25 — Major or Mild Neurocognitive Dementia with Lewy Bodies"
+   }
+  },
+  {
+   "id": "TN-N-016",
+   "type": "single-best-answer",
+   "question": "A 42-year-old man develops symmetric tingling in both feet followed by weakness that began in the distal legs and has ascended proximally over six days. Two weeks earlier he had a diarrheal illness. Examination shows symmetric limb weakness, areflexia throughout, and reduced vibration and proprioception distally. His blood pressure has been fluctuating widely. Which investigation would best support the suspected diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Lumbar puncture for CSF protein and cell count"
+    },
+    {
+     "id": "b",
+     "text": "Serum acetylcholine receptor antibody assay"
+    },
+    {
+     "id": "c",
+     "text": "Muscle biopsy"
+    },
+    {
+     "id": "d",
+     "text": "MRI brain with gadolinium"
+    },
+    {
+     "id": "e",
+     "text": "Serum creatine kinase"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "This is Guillain-Barre syndrome: an acute, rapidly evolving demyelinating inflammatory polyradiculoneuropathy that starts in the distal lower limbs and ascends, with distal symmetric paresthesias, loss of proprioception and vibration, areflexia and autonomic blood pressure dysregulation, usually preceded by infection. Toronto Notes lists CSF albuminocytologic dissociation (high protein with normal WBC count) as the characteristic finding.",
+   "optionExplanations": {
+    "b": "Acetylcholine receptor antibodies are used to diagnose myasthenia gravis, which causes fatigable weakness with preserved reflexes and no sensory loss.",
+    "c": "Muscle biopsy is used when a myopathy is suspected; myopathies cause proximal weakness without sensory or autonomic features.",
+    "d": "Brain MRI would not demonstrate a peripheral polyradiculoneuropathy and does not explain areflexia with distal sensory loss.",
+    "e": "Creatine kinase is a marker of muscle disease and is normal in peripheral neuropathy."
+   },
+   "topic": "Guillain-Barre Syndrome",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "N",
+    "name": "Neurology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 910,
+    "reference": "N40 — Guillain-Barre Syndrome"
+   }
+  },
+  {
+   "id": "TN-N-017",
+   "type": "single-best-answer",
+   "question": "A 62-year-old man with a 45 pack-year smoking history reports four months of difficulty rising from a chair and climbing stairs. He also has a dry mouth, constipation and erectile dysfunction. Examination shows proximal lower limb weakness without sensory loss or incoordination. Knee reflexes are absent at rest but become detectable immediately after sustained quadriceps contraction. Extraocular movements and eyelids are normal. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Lambert-Eaton myasthenic syndrome"
+    },
+    {
+     "id": "b",
+     "text": "Myasthenia gravis"
+    },
+    {
+     "id": "c",
+     "text": "Botulism"
+    },
+    {
+     "id": "d",
+     "text": "Guillain-Barre syndrome"
+    },
+    {
+     "id": "e",
+     "text": "Amyotrophic lateral sclerosis"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes describes Lambert-Eaton myasthenic syndrome as weakness of skeletal muscles without sensory or coordination abnormalities, with proximal and lower muscles most affected, reflexes diminished or absent but increasing after active muscle contraction, prominent anticholinergic autonomic symptoms (dry mouth, impotence, constipation, blurred vision), and bulbar or extraocular involvement in only 25%. It is associated with small cell carcinoma of the lung in 50-66% of cases.",
+   "optionExplanations": {
+    "b": "Myasthenia gravis causes fatigable weakness with ocular and bulbar involvement in most patients, normal reflexes and no autonomic symptoms.",
+    "c": "Botulism presents acutely 6-48 hours after exposure with bilateral cranial neuropathies and symmetric descending paralysis.",
+    "d": "Guillain-Barre syndrome evolves over 4 weeks or less with ascending weakness, sensory symptoms and areflexia that does not improve with contraction.",
+    "e": "ALS causes mixed upper and lower motor neuron findings with fasciculations and atrophy, and no autonomic symptoms."
+   },
+   "topic": "Lambert-Eaton Myasthenic Syndrome",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "N",
+    "name": "Neurology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 911,
+    "reference": "N41 — Lambert-Eaton Myasthenic Syndrome"
+   }
+  },
+  {
+   "id": "TN-N-018",
+   "type": "single-best-answer",
+   "question": "A 57-year-old man has 10 months of progressive weakness that began asymmetrically in the right hand and now involves both arms. His speech has become slurred and strained and he chokes on liquids. Examination shows wasting, cramps and fasciculations of the tongue and intrinsic hand muscles, brisk reflexes in all four limbs with extensor plantar responses, and a spastic gait. Sensation is normal and continence is preserved. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Amyotrophic lateral sclerosis"
+    },
+    {
+     "id": "b",
+     "text": "Cervical spondylotic myelopathy"
+    },
+    {
+     "id": "c",
+     "text": "Multifocal motor neuropathy with conduction block"
+    },
+    {
+     "id": "d",
+     "text": "Myasthenia gravis"
+    },
+    {
+     "id": "e",
+     "text": "Primary lateral sclerosis"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes describes ALS as a progressive neurodegenerative disease causing both upper motor neuron features (poor dexterity, spasticity, hyperreflexia, spastic dysarthria with a strained vocal quality) and lower motor neuron features (segmental asymmetric weakness, atrophy, fasciculations, cramps, dysphagia). Sensory symptoms are uncommon, and sensory symptoms, bowel or bladder incontinence and extraocular weakness are listed as red flags inconsistent with ALS.",
+   "optionExplanations": {
+    "b": "Cervical myelopathy would not cause tongue wasting and fasciculations, which indicate involvement of cranial nerve motor nuclei above the cervical cord.",
+    "c": "Multifocal motor neuropathy is a pure lower motor neuron disorder and is specifically ruled out with nerve conduction studies; it does not cause hyperreflexia or extensor plantars.",
+    "d": "Myasthenia gravis causes fatigable weakness with ptosis and diplopia, preserved reflexes and no atrophy or fasciculations.",
+    "e": "Primary lateral sclerosis is the isolated upper motor neuron form and would not produce wasting and fasciculations."
+   },
+   "topic": "Amyotrophic Lateral Sclerosis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "N",
+    "name": "Neurology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 907,
+    "reference": "N37 — Motor Neuron Disease: Amyotrophic Lateral Sclerosis"
+   }
+  }
+ ]
+}

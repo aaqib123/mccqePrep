@@ -1,0 +1,290 @@
+{
+ "chapter": {
+  "code": "CP",
+  "name": "Clinical Pharmacology"
+ },
+ "document": {
+  "id": "toronto-notes-2025",
+  "title": "Toronto Notes 2025",
+  "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
+ },
+ "count": 6,
+ "questions": [
+  {
+   "id": "TN-CP-001",
+   "type": "single-best-answer",
+   "question": "A 58-year-old woman is prescribed codeine after a dental extraction and reports no analgesic benefit at a standard dose. She recalls that tramadol was similarly ineffective after a previous procedure. She takes no interacting medications, has normal renal and hepatic function, and denies substance use. What is the most likely explanation for her lack of response?",
+   "options": [
+    {
+     "id": "a",
+     "text": "She carries nonfunctional CYP2D6 alleles and cannot activate the prodrug to morphine"
+    },
+    {
+     "id": "b",
+     "text": "She carries hypermorphic CYP2D6 alleles giving an ultra-rapid metabolizer phenotype"
+    },
+    {
+     "id": "c",
+     "text": "She carries CYP2C9 loss-of-function alleles"
+    },
+    {
+     "id": "d",
+     "text": "Her intestinal first-pass metabolism of codeine is reduced"
+    },
+    {
+     "id": "e",
+     "text": "Phase II glucuronidation is producing an inactive metabolite instead of an active one"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Genetic polymorphisms of metabolizing enzymes alter drug response, and tamoxifen, tramadol, and codeine are prodrugs activated by CYP2D6; nonfunctional alleles reduce effectiveness. Codeine must be biotransformed to morphine to produce analgesia, so a patient who cannot perform this activation step will get no benefit from either codeine or tramadol at normal doses.",
+   "optionExplanations": {
+    "b": "Hypermorphic CYP2D6 alleles produce an ultra-rapid metabolizer phenotype, which would accelerate conversion to morphine rather than prevent analgesia.",
+    "c": "CYP2C9 loss-of-function alleles affect warfarin, leading to higher drug concentrations, greater effect, and lower dose requirements.",
+    "d": "Reduced first-pass metabolism would increase, not decrease, systemic exposure to the drug.",
+    "e": "Phase II conjugation of morphine can itself yield biologically active metabolites such as morphine glucuronide, so this does not explain complete lack of effect."
+   },
+   "topic": "Pharmacogenetics and Drug Biotransformation",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "CP",
+    "name": "Clinical Pharmacology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 179,
+    "reference": "CP5 — Factors Affecting Drug Biotransformation"
+   }
+  },
+  {
+   "id": "TN-CP-002",
+   "type": "single-best-answer",
+   "question": "A 61-year-old man has taken simvastatin uneventfully for two years. On the advice of a friend he begins drinking a large glass of grapefruit juice every morning. Two weeks later he develops diffuse muscle aching and weakness, and his simvastatin plasma concentration is found to be markedly higher than previously. Which mechanism best explains this interaction?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Inhibition of intestinal CYP3A4, markedly reducing first-pass metabolism"
+    },
+    {
+     "id": "b",
+     "text": "Induction of hepatic CYP3A4, increasing simvastatin clearance"
+    },
+    {
+     "id": "c",
+     "text": "Induction of P-glycoprotein, increasing efflux of simvastatin"
+    },
+    {
+     "id": "d",
+     "text": "Displacement of simvastatin from albumin binding sites"
+    },
+    {
+     "id": "e",
+     "text": "Inhibition of renal tubular secretion of simvastatin"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Grapefruit juice is a potent inhibitor of intestinal CYP3A4, resulting in markedly reduced first-pass metabolism and numerous drug interactions; simvastatin AUC has been reported to increase 17-fold. CYP inhibition leads to an increased concentration and bioavailability of the substrate drug, which accounts for the rise in simvastatin exposure and the muscle symptoms in this patient.",
+   "optionExplanations": {
+    "b": "Enzyme induction increases metabolizing enzyme activity and would lower, not raise, simvastatin concentrations.",
+    "c": "P-glycoprotein inducers such as rifampin and St. John's wort increase efflux activity and decrease serum concentrations of substrates.",
+    "d": "Displacement from plasma proteins increases the free fraction, which is often cleared with no harmful effect, and is not the described grapefruit mechanism.",
+    "e": "Grapefruit juice acts on presystemic intestinal metabolism rather than on renal tubular secretion."
+   },
+   "topic": "Drug Interactions and CYP Metabolism",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "CP",
+    "name": "Clinical Pharmacology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 180,
+    "reference": "CP6 — Factors Affecting Drug Biotransformation: Enzyme Inhibition"
+   }
+  },
+  {
+   "id": "TN-CP-003",
+   "type": "single-best-answer",
+   "question": "A 52-year-old man who has consumed large amounts of alcohol daily for many years takes acetaminophen at recommended doses for several days for back pain. He presents with nausea, right upper quadrant discomfort, and markedly elevated transaminases. Which mechanism best explains his increased susceptibility to hepatocellular damage?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Chronic alcohol consumption induces CYP2E1, increasing production of the toxic metabolite NAPQI"
+    },
+    {
+     "id": "b",
+     "text": "Acute alcohol ingestion inhibits CYP2E1, causing accumulation of unchanged acetaminophen"
+    },
+    {
+     "id": "c",
+     "text": "Alcohol induces CYP1A2, accelerating conversion of acetaminophen to morphine-like metabolites"
+    },
+    {
+     "id": "d",
+     "text": "Alcohol induces P-glycoprotein, increasing hepatic uptake of acetaminophen"
+    },
+    {
+     "id": "e",
+     "text": "Alcohol saturates glomerular filtration of acetaminophen, prolonging its half-life"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Biotransformation can convert a drug to a toxic metabolite, and acetaminophen is converted to NAPQI. Alcohol has varying effects on metabolism: acute ingestion inhibits CYP2E1, whereas chronic consumption induces CYP2E1, increasing the risk of hepatocellular damage from acetaminophen by increasing production of the toxic metabolite NAPQI. This patient's chronic heavy intake places him in the enzyme-induced, higher-risk group.",
+   "optionExplanations": {
+    "b": "Inhibition of CYP2E1 occurs with acute alcohol ingestion and reduces rather than increases toxic metabolite formation.",
+    "c": "CYP1A2 induction is associated with smoking and affects drugs such as theophylline and clozapine.",
+    "d": "P-glycoprotein is a multidrug efflux pump that opposes absorption and enhances elimination of its substrates.",
+    "e": "Glomerular filtration is a passive process for free drug and is not the mechanism of acetaminophen hepatotoxicity."
+   },
+   "topic": "Drug Biotransformation and Toxic Metabolites",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "CP",
+    "name": "Clinical Pharmacology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 180,
+    "reference": "CP6 — Factors Affecting Drug Biotransformation: Alcohol and Enzyme Induction"
+   }
+  },
+  {
+   "id": "TN-CP-004",
+   "type": "single-best-answer",
+   "question": "A 70-year-old man is admitted with a symptomatic tachyarrhythmia and requires therapeutic amiodarone concentrations promptly. The drug has a long elimination half-life, and calculations show that using the ordinary maintenance dose alone would take several weeks to reach steady-state. Which dosing strategy is most appropriate?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Give a loading dose, then continue the usual maintenance dose"
+    },
+    {
+     "id": "b",
+     "text": "Give the usual maintenance dose and measure a serum level after one half-life"
+    },
+    {
+     "id": "c",
+     "text": "Double the maintenance dose indefinitely"
+    },
+    {
+     "id": "d",
+     "text": "Convert the maintenance dose to a continuous infusion"
+    },
+    {
+     "id": "e",
+     "text": "Halve the dosing interval and continue indefinitely"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Drugs with first-order kinetics require approximately four to five half-lives to reach steady-state with repeated dosing. A loading dose is used for drugs with a long half-life and/or when there is a clinical need to rapidly achieve therapeutic levels, with amiodarone, digoxin, and phenytoin given as examples; parenteral administration is the most common way of giving a large dose to fill up the volume of distribution.",
+   "optionExplanations": {
+    "b": "Therapeutic drug monitoring is of greatest utility once steady-state has been reached, which takes about four to five half-lives.",
+    "c": "Persistently doubling the maintenance dose would produce a supratherapeutic steady-state concentration rather than simply reaching target faster safely.",
+    "d": "Continuous infusion is used for drugs with a very short half-life when repeated dosing is impractical, such as nitroprusside or unfractionated heparin.",
+    "e": "Shortening the dosing interval indefinitely also raises the eventual steady-state concentration rather than providing a defined loading strategy."
+   },
+   "topic": "Pharmacokinetics: Half-Life and Loading Doses",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "CP",
+    "name": "Clinical Pharmacology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 181,
+    "reference": "CP7 — Steady-State Drug Concentration / Loading and Maintenance Doses"
+   }
+  },
+  {
+   "id": "TN-CP-005",
+   "type": "single-best-answer",
+   "question": "An 82-year-old woman with declining renal function is reviewed on the ward. Her medications include several long-standing agents that have never been adjusted for her age or renal function. Her physician wishes to use serum drug concentrations to optimize dosing for the medication most likely to require this approach. Which drug is it?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Digoxin"
+    },
+    {
+     "id": "b",
+     "text": "Amlodipine"
+    },
+    {
+     "id": "c",
+     "text": "Atorvastatin"
+    },
+    {
+     "id": "d",
+     "text": "Ramipril"
+    },
+    {
+     "id": "e",
+     "text": "Metformin"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Therapeutic drug monitoring uses serum drug concentration data to optimize therapy and is reserved for drugs with low therapeutic indices, unpredictable dose-response relationships, serious consequences of failure or toxicity, and wide interpatient pharmacokinetic variability; most drugs do not require it. Digoxin is explicitly listed among the drugs that sometimes require therapeutic drug monitoring, alongside vancomycin, aminoglycosides, phenytoin and other anticonvulsants, warfarin, and lithium.",
+   "optionExplanations": {
+    "b": "Amlodipine is not among the drugs listed as sometimes requiring therapeutic drug monitoring.",
+    "c": "Atorvastatin is not a low therapeutic index drug requiring serum concentration monitoring.",
+    "d": "Ramipril is monitored clinically and biochemically rather than by serum drug concentration.",
+    "e": "Metformin is described as a weak base handled by tubular secretion, but it is not listed as a therapeutic drug monitoring agent."
+   },
+   "topic": "Therapeutic Drug Monitoring",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "CP",
+    "name": "Clinical Pharmacology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 184,
+    "reference": "CP10 — Therapeutic Drug Monitoring"
+   }
+  },
+  {
+   "id": "TN-CP-006",
+   "type": "single-best-answer",
+   "question": "A 76-year-old man with heart failure takes ramipril and spironolactone. He develops dysuria and is prescribed a seven-day course of trimethoprim-sulfamethoxazole. Three days later he reports malaise and is found to have a new conduction abnormality on ECG. Which adverse consequence of this drug combination is most likely responsible?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Hyperkalemia"
+    },
+    {
+     "id": "b",
+     "text": "Rhabdomyolysis"
+    },
+    {
+     "id": "c",
+     "text": "Serotonin syndrome"
+    },
+    {
+     "id": "d",
+     "text": "Supratherapeutic INR with bleeding"
+    },
+    {
+     "id": "e",
+     "text": "Profound hypotension"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Sulfamethoxazole-trimethoprim combined with ACE inhibitors, ARBs, or spironolactone carries an increased risk of hyperkalemia. The mechanism is pharmacodynamic: trimethoprim reduces renal potassium excretion by inhibiting sodium channels in the distal tubule, which decreases sodium reabsorption. This patient is on two agents that already impair potassium excretion, so adding trimethoprim-sulfamethoxazole is the most likely cause.",
+   "optionExplanations": {
+    "b": "Rhabdomyolysis is described with HMG-CoA reductase inhibitors combined with niacin, gemfibrozil, erythromycin, or itraconazole.",
+    "c": "Serotonin syndrome is described with SSRIs combined with St. John's wort or with selegiline and non-selective MAO inhibitors.",
+    "d": "An increased warfarin effect occurs when warfarin is combined with agents including trimethoprim-sulfamethoxazole, but this patient is not on warfarin.",
+    "e": "Marked hypotension is the listed consequence of combining sildenafil with nitrates."
+   },
+   "topic": "Clinically Relevant Drug Interactions",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "CP",
+    "name": "Clinical Pharmacology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 185,
+    "reference": "CP11 — Examples of Clinically Relevant Drug Interactions"
+   }
+  }
+ ]
+}

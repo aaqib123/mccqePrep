@@ -1,0 +1,842 @@
+{
+ "chapter": {
+  "code": "GS",
+  "name": "General and Thoracic Surgery"
+ },
+ "document": {
+  "id": "toronto-notes-2025",
+  "title": "Toronto Notes 2025",
+  "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
+ },
+ "count": 18,
+ "questions": [
+  {
+   "id": "TN-GS-001",
+   "type": "single-best-answer",
+   "question": "A 55-year-old man with a 3-year history of peptic ulcer disease develops sudden severe generalized abdominal pain while at work. On arrival he lies motionless. Temperature is 37.8°C, heart rate 112 bpm. The abdomen is rigid with diffuse guarding and absent bowel sounds. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Perforated viscus"
+    },
+    {
+     "id": "b",
+     "text": "Mechanical bowel obstruction"
+    },
+    {
+     "id": "c",
+     "text": "Acute pancreatitis"
+    },
+    {
+     "id": "d",
+     "text": "Ischemic bowel"
+    },
+    {
+     "id": "e",
+     "text": "Acute appendicitis"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes lists the most common presentations of surgical pain: sudden onset with a rigid abdomen indicates a perforated viscus, pain out of proportion to physical findings indicates ischemic bowel, vague pain that later localizes suggests appendicitis, and waves of colicky pain suggest bowel obstruction. This man's abrupt onset of pain with board-like rigidity and diffuse guarding fits perforation, and his ulcer history provides the likely source.",
+   "optionExplanations": {
+    "b": "Bowel obstruction produces waves of colicky pain with distention rather than sudden onset rigidity.",
+    "c": "Pancreatitis can mimic a surgical abdomen but is rarely an indication for immediate surgery and characteristically radiates to the back.",
+    "d": "Ischemic bowel is characterised by pain out of proportion to physical findings, with minimal peritoneal signs early on.",
+    "e": "Appendicitis classically begins as vague periumbilical pain that subsequently localises, not instantaneous diffuse rigidity."
+   },
+   "topic": "Acute Abdomen",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "GS",
+    "name": "General and Thoracic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 497,
+    "reference": "GS5 — Differential Diagnosis of Acute Abdominal Pain / Most Common Presentations of Surgical Pain"
+   }
+  },
+  {
+   "id": "TN-GS-002",
+   "type": "single-best-answer",
+   "question": "A 54-year-old woman is booked for an elective open sigmoid colectomy for recurrent diverticulitis. She has no drug allergies. The surgical team is completing the preoperative checklist and asks about antimicrobial prophylaxis. Which of the following is the most appropriate prophylactic antibiotic strategy for this operation?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Cefazolin plus metronidazole given within 1 hour before skin incision"
+    },
+    {
+     "id": "b",
+     "text": "Cefazolin given at the time of skin closure"
+    },
+    {
+     "id": "c",
+     "text": "Oral ciprofloxacin started 24 hours before the operation"
+    },
+    {
+     "id": "d",
+     "text": "No antibiotic prophylaxis, with antibiotics reserved for postoperative fever"
+    },
+    {
+     "id": "e",
+     "text": "Vancomycin infused over 5 days postoperatively"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states that prophylactic antibiotics are chosen by wound class and given immediately or within 1 hour before incision: cefazolin for skin flora, with metronidazole added for GI flora coverage in contaminated cases. Colorectal resection entails entry into a hollow viscus, so combined skin and GI flora coverage timed to incision is appropriate; postoperative antibiotics are reserved for suspected or documented intra-abdominal infection.",
+   "optionExplanations": {
+    "b": "Prophylaxis must be in the tissues at the time of incision; giving it at closure forfeits the benefit.",
+    "c": "Prolonged preoperative oral antibiotics are not the recommended prophylactic regimen and prolonged preoperative hospitalisation and multiple antibiotics are themselves risk factors for infection.",
+    "d": "Prophylaxis is recommended for most surgeries; only low-risk clean procedures such as elective thyroidectomy or hemorrhoidectomy may omit it.",
+    "e": "Postoperative antibiotics are reserved for treatment of suspected or documented intra-abdominal infection, not routine prophylaxis."
+   },
+   "topic": "Peri-operative Care",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "GS",
+    "name": "General and Thoracic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 499,
+    "reference": "GS7 — Preoperative Preparations"
+   }
+  },
+  {
+   "id": "TN-GS-003",
+   "type": "single-best-answer",
+   "question": "A 52-year-old woman has a 1.8 cm invasive ductal carcinoma of the left breast found on screening mammography. The axilla is clinically and sonographically normal, the tumour is unifocal, and she has no contraindication to radiation. She wishes to keep her breast if oncologically safe. What is the most appropriate primary surgical management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Breast conserving surgery with sentinel lymph node biopsy, followed by radiotherapy"
+    },
+    {
+     "id": "b",
+     "text": "Modified radical mastectomy with axillary lymph node dissection"
+    },
+    {
+     "id": "c",
+     "text": "Simple mastectomy without axillary staging"
+    },
+    {
+     "id": "d",
+     "text": "Breast conserving surgery with axillary lymph node dissection and no radiotherapy"
+    },
+    {
+     "id": "e",
+     "text": "Radical mastectomy removing pectoralis muscle and axillary nodes"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states that breast conserving surgery can be offered to most women with stage I/II disease and that there is no survival benefit of mastectomy over lumpectomy plus radiation for stage I and II disease, provided lumpectomy is combined with radiation. Sentinel lymph node biopsy is performed in women with clinically node-negative invasive breast cancer. This unifocal, node-negative T1 tumour therefore fits breast conservation with sentinel node biopsy and adjuvant radiotherapy.",
+   "optionExplanations": {
+    "b": "Modified radical mastectomy with full axillary dissection is not required for a small clinically node-negative tumour and offers no survival advantage.",
+    "c": "Omitting axillary staging in invasive cancer forfeits pathologic nodal information needed for staging and adjuvant decisions.",
+    "d": "Lumpectomy must be combined with radiation for survival equivalent to mastectomy, and full axillary dissection is unnecessary when the axilla is clinically negative.",
+    "e": "Radical mastectomy is now rarely performed and is far more morbid than the disease requires here."
+   },
+   "topic": "Breast",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "GS",
+    "name": "General and Thoracic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 561,
+    "reference": "GS69 — Breast Cancer Treatment / Primary Surgical Treatment"
+   }
+  },
+  {
+   "id": "TN-GS-004",
+   "type": "single-best-answer",
+   "question": "A 52-year-old lifelong non-smoker has a CT abdomen for flank pain that incidentally shows a single 7 mm solid pulmonary nodule in the right lower lobe with smooth borders. She has no cancer history and no other risk factors for lung cancer. No prior chest imaging is available. What is the most appropriate next step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Repeat CT chest at 6-12 months, then consider CT at 18-24 months"
+    },
+    {
+     "id": "b",
+     "text": "No further imaging follow-up is required"
+    },
+    {
+     "id": "c",
+     "text": "PET/CT of the chest now"
+    },
+    {
+     "id": "d",
+     "text": "CT-guided percutaneous needle biopsy of the nodule"
+    },
+    {
+     "id": "e",
+     "text": "Video-assisted thoracoscopic wedge resection of the nodule"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes reproduces the Fleischner Society approach to solid nodules: a single solid nodule under 6 mm in a low-risk patient needs no routine follow-up, a 6-8 mm nodule warrants CT at 6-12 months then consideration of CT at 18-24 months, and a nodule larger than 8 mm prompts CT at 3 months, PET/CT, or tissue sampling. This 7 mm solid nodule in a low-risk patient therefore falls into the 6-8 mm surveillance category.",
+   "optionExplanations": {
+    "b": "No routine follow-up applies only to single solid nodules smaller than 6 mm in low-risk patients.",
+    "c": "PET/CT is reserved for nodules larger than 8 mm, where it helps narrow the differential.",
+    "d": "Biopsy is indicated when clinical and radiographic features cannot distinguish benign from malignant, or in patients at risk for lung cancer, neither of which applies here.",
+    "e": "Surgical excision is disproportionate for a small smooth-bordered nodule in a low-risk patient."
+   },
+   "topic": "Thoracic Surgery",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "GS",
+    "name": "General and Thoracic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 506,
+    "reference": "GS14 — Solitary Pulmonary Nodule / Evaluation of a Solitary Pulmonary Nodule"
+   }
+  },
+  {
+   "id": "TN-GS-005",
+   "type": "single-best-answer",
+   "question": "A 64-year-old man with a 45 pack-year smoking history presents with cough and weight loss. Serum sodium is 118 mmol/L with concentrated urine and euvolemia, consistent with SIADH. CT chest shows a large central hilar mass with bulky mediastinal adenopathy. Which malignancy is the most likely cause of his presentation?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Small cell lung cancer"
+    },
+    {
+     "id": "b",
+     "text": "Squamous cell carcinoma of the lung"
+    },
+    {
+     "id": "c",
+     "text": "Pulmonary adenocarcinoma"
+    },
+    {
+     "id": "d",
+     "text": "Bronchial carcinoid"
+    },
+    {
+     "id": "e",
+     "text": "Large cell carcinoma of the lung"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes tabulates paraneoplastic syndromes by associated malignancy: SIADH and Lambert-Eaton syndrome are linked with small cell lung cancer, hypercalcemia from osteolysis or PTHrP and hypophosphatemia with squamous cell carcinoma, Cushing's syndrome from ACTH and carcinoid syndrome with bronchial carcinoid, and clubbing with hypertrophic pulmonary osteoarthropathy with non-small cell lung cancer. Hyponatremia from SIADH in a heavy smoker with a central mass therefore points to small cell lung cancer.",
+   "optionExplanations": {
+    "b": "Squamous cell carcinoma is the classic cause of paraneoplastic hypercalcemia and hypophosphatemia rather than SIADH.",
+    "c": "Adenocarcinoma is typically peripheral and is not the lung tumour listed with SIADH.",
+    "d": "Bronchial carcinoid is associated with Cushing's syndrome from ectopic ACTH and with carcinoid syndrome.",
+    "e": "Large cell carcinoma is a non-small cell subtype and is not the tumour associated with SIADH in this table."
+   },
+   "topic": "Thoracic Surgery",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "GS",
+    "name": "General and Thoracic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 508,
+    "reference": "GS16 — Lung Cancer / Paraneoplastic Syndromes"
+   }
+  },
+  {
+   "id": "TN-GS-006",
+   "type": "single-best-answer",
+   "question": "A 45-year-old woman reports 4 months of fluctuating ptosis, diplopia, and fatigable proximal weakness that worsens through the day. A CT chest performed for dyspnea demonstrates a well-circumscribed 5 cm mass in the anterior mediastinum, anterior to the pericardium and great vessels. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Thymoma"
+    },
+    {
+     "id": "b",
+     "text": "Bronchogenic cyst"
+    },
+    {
+     "id": "c",
+     "text": "Neurogenic tumour"
+    },
+    {
+     "id": "d",
+     "text": "Pericardial cyst"
+    },
+    {
+     "id": "e",
+     "text": "Esophageal tumour"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes notes that mediastinal masses are diagnosed by compartment and age, that the anterior compartment differential is the four Ts (thymoma, thyroid enlargement, teratoma, tumours), and that paraneoplastic syndromes such as myasthenia gravis accompany thymomas. Thymomas are rare anterior mediastinal neoplasms of patients aged 40-60 with a strong association with myasthenia gravis, matching this presentation.",
+   "optionExplanations": {
+    "b": "Bronchogenic cysts are middle compartment lesions and are not associated with myasthenia gravis.",
+    "c": "Neurogenic tumours arise in the posterior compartment and are evaluated with MRI.",
+    "d": "Pericardial cysts occupy the anterior or middle compartment but do not cause fatigable weakness.",
+    "e": "Esophageal tumours are posterior compartment lesions and typically present with dysphagia."
+   },
+   "topic": "Thoracic Surgery",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "GS",
+    "name": "General and Thoracic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 512,
+    "reference": "GS20 — Mediastinal Masses / Thymoma"
+   }
+  },
+  {
+   "id": "TN-GS-007",
+   "type": "single-best-answer",
+   "question": "A 58-year-old man develops excruciating retrosternal and neck pain immediately after an episode of repeated forceful vomiting following a large meal. Temperature is 38.4°C, heart rate 118 bpm. There is crepitus in the neck, and chest x-ray shows pneumomediastinum with a small left pleural effusion. What is the most appropriate investigation to confirm the diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Water-soluble (Gastrografin) contrast esophagram"
+    },
+    {
+     "id": "b",
+     "text": "Dilute barium contrast esophagram as the initial study"
+    },
+    {
+     "id": "c",
+     "text": "Flexible upper endoscopy"
+    },
+    {
+     "id": "d",
+     "text": "Transesophageal echocardiogram"
+    },
+    {
+     "id": "e",
+     "text": "MRI of the chest"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes lists Boerhaave's syndrome as a barogenic transmural esophageal perforation caused by repeated forceful vomiting, presenting with chest or neck pain, fever, tachycardia, subcutaneous emphysema, pneumomediastinum, and pleural effusion. For confirmation, a Gastrografin (water-soluble contrast) upper GI study is the first choice, followed by a dilute barium study if the water-soluble study is negative.",
+   "optionExplanations": {
+    "b": "Dilute barium is the second-line study performed only after a negative water-soluble contrast examination.",
+    "c": "Endoscopy is itself the most common iatrogenic cause of perforation and is not the recommended confirmatory test here.",
+    "d": "Transesophageal echocardiography assesses cardiac structures and risks further esophageal injury.",
+    "e": "MRI is not among the listed investigations for suspected esophageal perforation."
+   },
+   "topic": "Esophagus",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "GS",
+    "name": "General and Thoracic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 514,
+    "reference": "GS22 — Esophageal Perforation"
+   }
+  },
+  {
+   "id": "TN-GS-008",
+   "type": "single-best-answer",
+   "question": "A 61-year-old man with long-standing duodenal ulcer disease reports 6 weeks of crampy epigastric pain and vomiting of large volumes of undigested, non-bilious food. He has lost 8 kg. On examination the epigastrium is distended and a splashing noise is heard with the stethoscope when the patient is rocked. Which complication of duodenal ulceration best explains this picture?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Gastric outlet obstruction"
+    },
+    {
+     "id": "b",
+     "text": "Perforated duodenal ulcer"
+    },
+    {
+     "id": "c",
+     "text": "Ulcer penetration into the pancreas"
+    },
+    {
+     "id": "d",
+     "text": "Hemorrhage from the gastroduodenal artery"
+    },
+    {
+     "id": "e",
+     "text": "Gastric carcinoma"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes describes gastric outlet obstruction as a complication in which ulceration produces edema and fibrosis of the pyloric channel, causing non-bilious vomiting of undigested food, a dilated stomach, crampy abdominal pain, and a succussion splash heard over the stomach when the patient is shaken. This patient's succussion splash with retained undigested food is characteristic.",
+   "optionExplanations": {
+    "b": "Perforation presents with sudden pain and a rigid, diffusely guarded abdomen with free air under the diaphragm.",
+    "c": "Penetration causes constant mid-epigastric pain burrowing into the back, unrelated to meals, with elevated amylase or lipase.",
+    "d": "Gastroduodenal artery involvement causes hemorrhage with hematemesis or melena rather than retained food.",
+    "e": "Gastric carcinoma is a separate entity that presents insidiously with anorexia and weight loss rather than a classic succussion splash from pyloric channel scarring."
+   },
+   "topic": "Peptic Ulcer Disease",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "GS",
+    "name": "General and Thoracic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 518,
+    "reference": "GS26 — Complications of Duodenal Ulceration"
+   }
+  },
+  {
+   "id": "TN-GS-009",
+   "type": "single-best-answer",
+   "question": "A 67-year-old woman with previous appendectomy and hysterectomy presents with 18 hours of colicky periumbilical pain, vomiting, abdominal distention, and inability to pass flatus. She is afebrile with a normal white cell count and lactate, and the abdomen is soft with no localized tenderness. CT shows a transition point with proximal dilated bowel and no features of ischemia. What is the best initial management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "NPO, IV isotonic fluid resuscitation, and nasogastric tube decompression with serial reassessment"
+    },
+    {
+     "id": "b",
+     "text": "Immediate laparotomy for adhesiolysis"
+    },
+    {
+     "id": "c",
+     "text": "Barium enema to define the level of obstruction"
+    },
+    {
+     "id": "d",
+     "text": "Start a clear fluid diet and oral laxatives"
+    },
+    {
+     "id": "e",
+     "text": "Urgent colonoscopy to decompress the bowel"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes advises that with no clinical features of ischemia, small bowel obstruction is managed with a short course of conservative therapy: IV isotonic fluid resuscitation with urine output monitoring, NPO, and nasogastric decompression with frequent re-examination by the surgical team. Adhesional obstruction in a patient with previous abdominal surgery resolves spontaneously with nasogastric decompression about 70% of the time; surgery follows if the obstruction fails to resolve or ischemia develops.",
+   "optionExplanations": {
+    "b": "Immediate operation is reserved for suspected ischemia, necrosis or perforation, or for a patient with no prior abdominal surgery.",
+    "c": "CT with IV contrast is first line; barium enema is not the recommended study for suspected small bowel obstruction.",
+    "d": "Oral intake worsens distention and vomiting; the patient should be kept NPO.",
+    "e": "Colonoscopy addresses colonic pathology and does not decompress a mechanical small bowel obstruction."
+   },
+   "topic": "Small Bowel Obstruction",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "GS",
+    "name": "General and Thoracic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 522,
+    "reference": "GS30 — Small Bowel Obstruction"
+   }
+  },
+  {
+   "id": "TN-GS-010",
+   "type": "single-best-answer",
+   "question": "A 74-year-old man with atrial fibrillation who stopped his anticoagulant presents with 5 hours of severe periumbilical pain, vomiting, and one episode of bloody diarrhea. He is writhing in pain yet the abdomen is soft with only minimal tenderness and no peritoneal signs. Lactate is elevated. What is the most appropriate investigation?",
+   "options": [
+    {
+     "id": "a",
+     "text": "CT angiography of the abdomen"
+    },
+    {
+     "id": "b",
+     "text": "Abdominal ultrasound with Doppler of the portal vein"
+    },
+    {
+     "id": "c",
+     "text": "Supine and upright abdominal radiographs"
+    },
+    {
+     "id": "d",
+     "text": "Urgent colonoscopy"
+    },
+    {
+     "id": "e",
+     "text": "MRCP"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states that acute intestinal ischemia presents with severe abdominal pain out of proportion to physical findings, vomiting, bloody diarrhea, and minimal early peritoneal signs, and that CT angiography is the gold standard for acute arterial mesenteric ischemia. This embolic presentation in a patient with untreated atrial fibrillation therefore warrants CT angiography.",
+   "optionExplanations": {
+    "b": "Ultrasound is not listed as the diagnostic modality for acute arterial mesenteric ischemia.",
+    "c": "Plain films may show portal venous gas, pneumatosis, or free air, but these are late findings and would delay diagnosis.",
+    "d": "Colonoscopy is not the investigation of choice in suspected acute arterial mesenteric ischemia and risks perforation of ischemic bowel.",
+    "e": "MRCP evaluates the biliary and pancreatic ducts and has no role here."
+   },
+   "topic": "Intestinal Ischemia",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "GS",
+    "name": "General and Thoracic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 523,
+    "reference": "GS31 — Intestinal Ischemia"
+   }
+  },
+  {
+   "id": "TN-GS-011",
+   "type": "single-best-answer",
+   "question": "A 38-year-old man undergoes repair of a right groin hernia that has intermittently descended into the scrotum since adolescence. At operation the hernia sac is found to originate at the deep inguinal ring and lies lateral to the inferior epigastric artery as it enters the inguinal canal. What is the most likely type of hernia?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Indirect inguinal hernia"
+    },
+    {
+     "id": "b",
+     "text": "Direct inguinal hernia"
+    },
+    {
+     "id": "c",
+     "text": "Femoral hernia"
+    },
+    {
+     "id": "d",
+     "text": "Obturator hernia"
+    },
+    {
+     "id": "e",
+     "text": "Incisional (ventral) hernia"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes uses the mnemonic MD's don't LIe: a hernia medial to the inferior epigastric artery is direct, while one lateral to the inferior epigastric artery is indirect. Indirect hernias arise from congenital persistence of the processus vaginalis, originate at the deep inguinal ring, and often descend into the scrotum, which matches this patient's long-standing scrotal hernia found lateral to the vessels.",
+   "optionExplanations": {
+    "b": "A direct hernia passes through Hesselbach's triangle medial to the inferior epigastric artery and usually does not descend into the scrotal sac.",
+    "c": "A femoral hernia enters the femoral canal below the inguinal ligament, not the deep inguinal ring.",
+    "d": "Obturator hernias are internal hernias that require CT for diagnosis and are not encountered at the deep inguinal ring.",
+    "e": "Incisional hernias arise through a previous fascial closure, not through the inguinal canal."
+   },
+   "topic": "Abdominal Hernia",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "GS",
+    "name": "General and Thoracic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 525,
+    "reference": "GS33 — Abdominal Hernia / Inguinal Hernias"
+   }
+  },
+  {
+   "id": "TN-GS-012",
+   "type": "single-best-answer",
+   "question": "A 68-year-old woman who has had four pregnancies presents with a tender 2 cm lump in the right groin. On examination the mass lies below the inguinal ligament and medial to the femoral vein, and it does not descend toward the labia. She has no prior groin surgery. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Femoral hernia"
+    },
+    {
+     "id": "b",
+     "text": "Indirect inguinal hernia"
+    },
+    {
+     "id": "c",
+     "text": "Direct inguinal hernia"
+    },
+    {
+     "id": "d",
+     "text": "Incisional hernia"
+    },
+    {
+     "id": "e",
+     "text": "Umbilical hernia"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes describes femoral hernias as affecting mostly females, arising from pregnancy-related weakness of the pelvic floor musculature and raised intra-abdominal pressure, and passing into the femoral canal below the inguinal ligament, lying medial to the femoral vein. This patient's parity and the location of the mass below the inguinal ligament and medial to the femoral vein identify a femoral hernia.",
+   "optionExplanations": {
+    "b": "An indirect inguinal hernia originates at the deep inguinal ring lateral to the inferior epigastric artery and often descends into the labia majora.",
+    "c": "A direct inguinal hernia protrudes through Hesselbach's triangle above the inguinal ligament.",
+    "d": "An incisional hernia requires a previous abdominal wall incision, which she does not have.",
+    "e": "An umbilical hernia presents at the umbilicus, not in the groin."
+   },
+   "topic": "Abdominal Hernia",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "GS",
+    "name": "General and Thoracic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 527,
+    "reference": "GS35 — Groin Hernias"
+   }
+  },
+  {
+   "id": "TN-GS-013",
+   "type": "single-best-answer",
+   "question": "A 34-year-old man has had 5 days of right lower quadrant pain and fever. He is hemodynamically stable with a tender right lower quadrant fullness. CT demonstrates a perforated appendix with a well-defined 6 cm rim-enhancing periappendiceal abscess and no free perforation. What is the most appropriate management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Image-guided percutaneous drainage plus antibiotics, with possible interval appendectomy"
+    },
+    {
+     "id": "b",
+     "text": "Immediate laparoscopic appendectomy"
+    },
+    {
+     "id": "c",
+     "text": "Intravenous antibiotics alone with no drainage"
+    },
+    {
+     "id": "d",
+     "text": "Open appendectomy with right hemicolectomy"
+    },
+    {
+     "id": "e",
+     "text": "Urgent colonoscopy followed by discharge on oral antibiotics"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states that for perforated appendicitis, usually associated with a longer 4-5 day history, an abscess should be managed with radiologic drainage and antibiotics for 14 days with possible interval appendectomy once inflammation has resolved. Upfront surgery is reserved mainly for failure of non-operative management. Antibiotics alone are appropriate for a phlegmon without an abscess, since there is nothing to drain.",
+   "optionExplanations": {
+    "b": "Upfront appendectomy in this setting is usually reserved for failure of non-operative management.",
+    "c": "Antibiotics alone are the strategy for a phlegmon without an abscess; a 6 cm collection should be drained.",
+    "d": "Hemicolectomy is not indicated for perforated appendicitis with a drainable abscess.",
+    "e": "Colonoscopy may be considered later, especially in patients over 50, to rule out a concurrent neoplasm, but it does not treat the abscess."
+   },
+   "topic": "Appendicitis",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "GS",
+    "name": "General and Thoracic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 528,
+    "reference": "GS36 — Appendicitis / Treatment"
+   }
+  },
+  {
+   "id": "TN-GS-014",
+   "type": "single-best-answer",
+   "question": "A 66-year-old man with known diverticular disease presents with generalized peritonitis. Blood pressure is 82/50 mmHg and heart rate 128 bpm despite fluids. Upright chest x-ray shows free air, and at urgent laparotomy there is feculent peritoneal contamination from a perforated sigmoid colon. Which operation is most appropriate?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Hartmann procedure with sigmoid resection, end colostomy, and closure of the rectal stump"
+    },
+    {
+     "id": "b",
+     "text": "Laparoscopic peritoneal lavage with drain placement and no resection"
+    },
+    {
+     "id": "c",
+     "text": "Sigmoid resection with primary anastomosis and no diversion"
+    },
+    {
+     "id": "d",
+     "text": "CT-guided percutaneous drainage of the pelvis"
+    },
+    {
+     "id": "e",
+     "text": "Elective sigmoid colectomy deferred for 6 weeks"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes gives Hinchey staging and treatment for diverticulitis: stage 3 is purulent peritonitis treated by resection or Hartmann procedure, and stage 4 is feculent peritonitis treated by Hartmann procedure. Surgery is indicated for an unstable patient with peritonitis or Hinchey stage 3-4 disease. The Hartmann procedure resects the diseased colon and creates a colostomy with a closed rectal stump, with colostomy reversal in 3-6 months.",
+   "optionExplanations": {
+    "b": "Laparoscopic lavage with drainage has been proposed for Hinchey stage 3, not for feculent peritonitis in an unstable patient.",
+    "c": "Resection with primary anastomosis plus a diverting loop ileostomy is an option for more stable patients, and an undiverted anastomosis in feculent contamination with shock is unsafe.",
+    "d": "Percutaneous drainage reduces the urgency of resection for abscesses but cannot treat established feculent peritonitis.",
+    "e": "Delaying operation is not an option in an unstable patient with free perforation; mortality of feculent peritonitis is about 35%."
+   },
+   "topic": "Diverticular Disease",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "GS",
+    "name": "General and Thoracic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 532,
+    "reference": "GS40 — Diverticulitis / Hinchey Staging and Treatment"
+   }
+  },
+  {
+   "id": "TN-GS-015",
+   "type": "single-best-answer",
+   "question": "A 72-year-old man presents with 3 months of fatigue and exertional dyspnea. Hemoglobin is 92 g/L with a mean corpuscular volume of 74 fL and ferritin of 8 µg/L. He reports a recent positive fecal immunochemical test and looser stools. Physical examination and abdominal imaging are unremarkable. What is the most appropriate investigation?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Colonoscopy"
+    },
+    {
+     "id": "b",
+     "text": "Flexible sigmoidoscopy"
+    },
+    {
+     "id": "c",
+     "text": "Repeat fecal immunochemical test in 12 months"
+    },
+    {
+     "id": "d",
+     "text": "Barium enema"
+    },
+    {
+     "id": "e",
+     "text": "Wireless capsule endoscopy"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states that elderly persons presenting with iron-deficiency anemia should be investigated for colon cancer, and that case-finding in patients with suspicious symptoms such as a positive FIT, anemia, or a change in bowel habits is done with colonoscopy. Colonoscopy is also required to detect synchronous lesions, since flexible sigmoidoscopy is insufficient.",
+   "optionExplanations": {
+    "b": "Flexible sigmoidoscopy is explicitly insufficient because it cannot exclude synchronous proximal lesions.",
+    "c": "Repeating a screening test that is already positive delays diagnosis in a symptomatic anemic patient.",
+    "d": "Barium enema is a historical elective study and does not permit biopsy of a suspicious lesion.",
+    "e": "Capsule endoscopy is used for obscure bleeding when colonoscopy and endoscopy have already failed to identify a source."
+   },
+   "topic": "Colorectal Carcinoma",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "GS",
+    "name": "General and Thoracic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 535,
+    "reference": "GS43 — Colorectal Carcinoma / Investigations"
+   }
+  },
+  {
+   "id": "TN-GS-016",
+   "type": "single-best-answer",
+   "question": "A 44-year-old woman has 12 hours of constant severe right upper quadrant pain with nausea, anorexia, and a temperature of 38.2°C. There is inspiratory arrest on right subcostal palpation. White cell count is elevated with a left shift; bilirubin and lipase are normal. Ultrasound shows gallstones, a 6 mm gallbladder wall, and pericholecystic fluid. What is the best initial treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Admission with hydration, analgesia, cefazolin, and early laparoscopic cholecystectomy within 72 hours"
+    },
+    {
+     "id": "b",
+     "text": "Analgesia and rehydration with elective cholecystectomy arranged in 3 months"
+    },
+    {
+     "id": "c",
+     "text": "ERCP with sphincterotomy before any operation"
+    },
+    {
+     "id": "d",
+     "text": "Percutaneous cholecystostomy tube insertion"
+    },
+    {
+     "id": "e",
+     "text": "Outpatient observation with oral analgesia alone"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes distinguishes biliary colic, treated with analgesia and elective cholecystectomy, from acute cholecystitis, treated with antibiotics and early cholecystectomy if surgical risk is appropriate. For uncomplicated cholecystitis cefazolin is recommended, and early cholecystectomy within 72 hours is preferred because it shortens hospitalisation and recovery with no benefit to delaying surgery. This woman has constant pain over 6 hours, fever, Murphy's sign, and sonographic wall thickening with pericholecystic fluid.",
+   "optionExplanations": {
+    "b": "Analgesia with elective cholecystectomy is the treatment of biliary colic, in which pain lasts less than 6 hours and there are no systemic or peritoneal findings.",
+    "c": "ERCP before surgery is indicated when common bile duct stones are present or suspected; her bilirubin is normal and the ultrasound shows no ductal stone.",
+    "d": "Percutaneous cholecystostomy is reserved for the critically ill or when general anesthetic is contraindicated.",
+    "e": "Acute cholecystitis requires admission, antibiotics, and definitive management rather than outpatient observation."
+   },
+   "topic": "Biliary Disease",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "GS",
+    "name": "General and Thoracic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 548,
+    "reference": "GS56 — Acute Cholecystitis"
+   }
+  },
+  {
+   "id": "TN-GS-017",
+   "type": "single-best-answer",
+   "question": "A 78-year-old woman presents with fever, right upper quadrant pain, and jaundice. She is confused with a blood pressure of 84/48 mmHg. Bilirubin and alkaline phosphatase are markedly elevated and lipase is normal. Ultrasound shows a dilated common bile duct with a stone. After fluid resuscitation and intravenous antibiotics, what is the next best step?",
+   "options": [
+    {
+     "id": "a",
+     "text": "ERCP with sphincterotomy for biliary decompression"
+    },
+    {
+     "id": "b",
+     "text": "Percutaneous transhepatic cholangiography with catheter drainage"
+    },
+    {
+     "id": "c",
+     "text": "Urgent laparoscopic cholecystectomy"
+    },
+    {
+     "id": "d",
+     "text": "Open common bile duct exploration with T-tube placement"
+    },
+    {
+     "id": "e",
+     "text": "MRCP to further define the biliary anatomy"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes describes acute cholangitis with Charcot's triad of fever, right upper quadrant pain, and jaundice, and Reynolds' pentad when hypotension and altered mental status are added. Treatment is NPO, fluid and electrolyte resuscitation, and IV antibiotics, followed by biliary decompression, for which ERCP with sphincterotomy is both diagnostic and therapeutic. Elective cholecystectomy follows resolution of the acute episode.",
+   "optionExplanations": {
+    "b": "Percutaneous transhepatic drainage is used if ERCP is unavailable or unsuccessful.",
+    "c": "Cholecystectomy is recommended electively after the cholangitis resolves, not as the decompressive procedure in a septic patient.",
+    "d": "Open or laparoscopic duct exploration with a T-tube is reserved for failure of endoscopic and percutaneous decompression.",
+    "e": "MRCP is used when the diagnosis is unclear; here the obstructing stone is already demonstrated and decompression should not be delayed."
+   },
+   "topic": "Biliary Disease",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "GS",
+    "name": "General and Thoracic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 550,
+    "reference": "GS58 — Acute Cholangitis"
+   }
+  },
+  {
+   "id": "TN-GS-018",
+   "type": "single-best-answer",
+   "question": "A 24-year-old woman notices a lump in her right breast. On examination there is a solitary 2 cm firm, rubbery, well-circumscribed, non-tender nodule that is freely mobile. It does not change appreciably with her menstrual cycle. Needle aspiration in clinic yields no fluid. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Fibroadenoma"
+    },
+    {
+     "id": "b",
+     "text": "Simple breast cyst from fibrocystic change"
+    },
+    {
+     "id": "c",
+     "text": "Fat necrosis"
+    },
+    {
+     "id": "d",
+     "text": "Lipoma"
+    },
+    {
+     "id": "e",
+     "text": "Intraductal papilloma"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes describes the fibroadenoma as the most common benign breast tumour in women under 30, presenting as a firm, rubbery, discrete, well-circumscribed, usually unilateral, non-tender, mobile, hormone-dependent nodule in which needle aspiration yields no fluid. All of these features are present in this young woman.",
+   "optionExplanations": {
+    "b": "Cysts of fibrocystic change vary with the menstrual cycle and yield fluid on aspiration.",
+    "c": "Fat necrosis follows trauma or breast surgery and is a firm, ill-defined mass often with skin or nipple retraction.",
+    "d": "A lipoma is a soft, mobile subcutaneous tumour rather than a firm rubbery discrete breast nodule.",
+    "e": "Intraductal papilloma most characteristically causes spontaneous unilateral bloody nipple discharge."
+   },
+   "topic": "Breast",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "GS",
+    "name": "General and Thoracic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 557,
+    "reference": "GS65 — Benign Breast Lesions / Proliferative Lesions Without Atypia"
+   }
+  }
+ ]
+}

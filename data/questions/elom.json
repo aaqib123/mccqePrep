@@ -1,0 +1,474 @@
+{
+ "chapter": {
+  "code": "ELOM",
+  "name": "Ethical, Legal, and Organizational Medicine"
+ },
+ "document": {
+  "id": "toronto-notes-2025",
+  "title": "Toronto Notes 2025",
+  "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
+ },
+ "count": 10,
+ "questions": [
+  {
+   "id": "TN-ELOM-001",
+   "type": "single-best-answer",
+   "question": "A 4-year-old girl is brought to your Ontario clinic with a spiral humeral fracture and several bruises of differing ages. The father's explanation of the mechanism changes during the visit and is inconsistent with the injuries. He asks you to keep everything discussed strictly between the two of you. You suspect physical abuse. Which of the following is the most appropriate action?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Report your suspicion to the local child welfare authority, such as the Children's Aid Society"
+    },
+    {
+     "id": "b",
+     "text": "Respect the father's request for confidentiality and arrange close clinic follow-up"
+    },
+    {
+     "id": "c",
+     "text": "Report the matter to your provincial regulatory college for direction"
+    },
+    {
+     "id": "d",
+     "text": "Obtain the father's written consent before making any external report"
+    },
+    {
+     "id": "e",
+     "text": "Wait until a repeat injury confirms the pattern before making a report"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Legislation defines specific instances where the public interest overrides the patient's right to confidentiality, and suspected child abuse or neglect must be reported to local child welfare authorities such as the Children's Aid Society. Physicians who fail to report in these situations are subject to prosecution and penalty and may be liable if a third party is harmed.",
+   "optionExplanations": {
+    "b": "Confidentiality is not absolute; statutory reporting obligations override it for suspected child abuse.",
+    "c": "The College is the reporting route for improper conduct of health professionals, not for suspected child abuse.",
+    "d": "Consent is not required for a disclosure that is mandated by law.",
+    "e": "The duty is triggered by suspicion, and delaying exposes the child to further harm and the physician to penalty."
+   },
+   "topic": "Duty to Report",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "ELOM",
+    "name": "Ethical, Legal, and Organizational Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 30,
+    "reference": "ELOM10 — Confidentiality: Statutory Reporting Obligations"
+   }
+  },
+  {
+   "id": "TN-ELOM-002",
+   "type": "single-best-answer",
+   "question": "A 34-year-old man with a psychotic illness tells you during a clinic visit that he intends to kill his former supervisor, whom he names and whose workplace he describes. He says he has obtained a weapon and plans to act this week. He is not currently detainable in your judgment on other grounds. Which of the following is the most appropriate action?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Notify the police and, in appropriate circumstances, warn the identified potential victim, disclosing no more information than is required to protect others"
+    },
+    {
+     "id": "b",
+     "text": "Maintain confidentiality, because Canadian courts have not expressly imposed a mandatory duty to report"
+    },
+    {
+     "id": "c",
+     "text": "Disclose his complete medical record to his former employer so the workplace can plan its response"
+    },
+    {
+     "id": "d",
+     "text": "Tell him you will disclose only if he repeats the threat at the next visit"
+    },
+    {
+     "id": "e",
+     "text": "Apply for a court order before contacting anyone outside the clinic"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The duty to protect applies where there is an imminent risk, to an identifiable person or group, of serious bodily harm or death. All three conditions are met here. The physician should notify the police and where appropriate the potential victim, and concerns about breaching confidentiality should not prevent this, although the disclosed information must not exceed what is required to protect others.",
+   "optionExplanations": {
+    "b": "Although courts have not expressly imposed a mandatory duty, physicians are permitted to warn, and the CMA Code and some regulators oblige reporting.",
+    "c": "Disclosure must be limited to what is required to protect others; the full record far exceeds that.",
+    "d": "The risk is already imminent and identifiable, so deferring action is not defensible.",
+    "e": "A court order is a route by which disclosure can be compelled, not a prerequisite for exercising the duty to protect."
+   },
+   "topic": "Confidentiality and Duty to Warn",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "ELOM",
+    "name": "Ethical, Legal, and Organizational Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 31,
+    "reference": "ELOM11 — Duty to Protect/Warn"
+   }
+  },
+  {
+   "id": "TN-ELOM-003",
+   "type": "single-best-answer",
+   "question": "An Ontario patient admitted to your ward asks that a specific part of her history not be shared with any other member of the treating team, although she consents to the rest of her record being used normally. A nursing colleague who is caring for her asks you to reveal the withheld information because she is curious about it. Which of the following is the most appropriate action?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Respect the patient's lock box request while explaining that the law may still require or permit certain disclosures"
+    },
+    {
+     "id": "b",
+     "text": "Share the information, because express consent is not required within the circle of care"
+    },
+    {
+     "id": "c",
+     "text": "Share the information only with nurses, since they are bound by the same duty of confidentiality"
+    },
+    {
+     "id": "d",
+     "text": "Remove the information from the medical record entirely so no one can access it"
+    },
+    {
+     "id": "e",
+     "text": "Tell the patient that she cannot restrict any part of her record once she is admitted"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Under Ontario privacy legislation express consent is not required to share information among team members in the circle of care, but the patient may withdraw consent for that sharing and place parts of the chart in a lock box. PHIPA provisions also mean patients cannot prevent disclosures permitted or required by law, so the request is respected with that caveat.",
+   "optionExplanations": {
+    "b": "Implied circle of care sharing applies only until the patient withdraws consent, which she has done for this information.",
+    "c": "A colleague's professional obligations do not create an entitlement to information the patient has restricted, particularly out of curiosity.",
+    "d": "Physicians must maintain accurate and adequate records; deleting information is not an appropriate response to a lock box request.",
+    "e": "Patients retain the right to control their health information and may restrict specific disclosures."
+   },
+   "topic": "Privacy of Medical Records",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "ELOM",
+    "name": "Ethical, Legal, and Organizational Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 31,
+    "reference": "ELOM11 — Privacy of Medical Records (Lock Boxes)"
+   }
+  },
+  {
+   "id": "TN-ELOM-004",
+   "type": "single-best-answer",
+   "question": "You are consenting a capable 58-year-old woman for an elective procedure. There is a small but real risk of death, and there is a reasonable non-operative alternative. She speaks limited English and her adult son offers to interpret informally. She says she simply wants to sign the form quickly. Which of the following best describes your obligation for valid informed consent?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Disclose common adverse events and all serious risks including death, describe alternatives and the consequences of declining, and make reasonable efforts to overcome the language barrier"
+    },
+    {
+     "id": "b",
+     "text": "Disclose only those risks that occur commonly, since remote risks are unlikely to affect her decision"
+    },
+    {
+     "id": "c",
+     "text": "Accept the signed form as the consent, since the signature is what documents the process"
+    },
+    {
+     "id": "d",
+     "text": "Withhold discussion of the non-operative alternative because you do not consider it clinically preferable"
+    },
+    {
+     "id": "e",
+     "text": "Ask the son to decide on her behalf, since she has delegated the discussion to him"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Valid consent must be voluntary, capable, specific and informed. Being informed requires the nature and expected effects of the treatment, all significant and unusual risks including common adverse events and serious risks such as death even if remote, the alternatives and their risks, and the consequences of declining. The physician is responsible for reasonable attempts to ensure understanding, including overcoming language barriers.",
+   "optionExplanations": {
+    "b": "Serious risks such as death must be disclosed even when remote.",
+    "c": "Informed consent is a process, not a transaction or a signature on a page.",
+    "d": "Physicians have a duty to inform patients of all legitimate therapeutic options.",
+    "e": "She is capable, so the decision is hers; a family member cannot substitute for a capable patient's consent."
+   },
+   "topic": "Informed Consent",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "ELOM",
+    "name": "Ethical, Legal, and Organizational Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 32,
+    "reference": "ELOM12 — Four Basic Requirements of Valid Consent"
+   }
+  },
+  {
+   "id": "TN-ELOM-005",
+   "type": "single-best-answer",
+   "question": "A 62-year-old man with a gangrenous foot refuses the amputation you have recommended, saying he would rather die than lose his leg. He explains your reasoning back to you accurately, states he understands he will likely die of sepsis, and is not delirious or delusional. His daughter demands that you proceed anyway. Which of the following is the most appropriate action?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Document a careful capacity assessment and respect his refusal if he is found capable"
+    },
+    {
+     "id": "b",
+     "text": "Conclude that he is incapable, because refusing life-saving surgery is not a reasonable decision"
+    },
+    {
+     "id": "c",
+     "text": "Proceed with surgery on the basis of the daughter's consent"
+    },
+    {
+     "id": "d",
+     "text": "Certify him under the Mental Health Act so that the amputation can be performed"
+    },
+    {
+     "id": "e",
+     "text": "Ask another surgeon to obtain consent, since a second opinion overrides his refusal"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Capable patients can refuse treatment even when refusal leads to serious harm or death, and agreement or disagreement with medical advice does not itself determine capacity. Decisions carrying a risk of serious harm do warrant careful scrutiny, so a documented capacity assessment by the treating clinician is appropriate; if he is capable, his refusal must be respected.",
+   "optionExplanations": {
+    "b": "Disagreement with medical advice does not establish incapacity; capacity turns on understanding and appreciation.",
+    "c": "A substitute decision-maker acts only for an incapable patient, and this man appears capable.",
+    "d": "The Mental Health Act covers detention and treatment for specific conditions and cannot be used to force unrelated surgery.",
+    "e": "A second opinion does not override a capable patient's refusal, and treatment without consent is battery."
+   },
+   "topic": "Capacity and Refusal of Treatment",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "ELOM",
+    "name": "Ethical, Legal, and Organizational Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 34,
+    "reference": "ELOM14 — Overview of Capacity"
+   }
+  },
+  {
+   "id": "TN-ELOM-006",
+   "type": "single-best-answer",
+   "question": "An 80-year-old Ontario woman with advanced dementia is found incapable of consenting to intubation. Her son, who is her court-appointed guardian, insists on full ventilatory support. Her daughter produces a written statement the patient made 2 years ago while capable, declining mechanical ventilation, and the son concedes he knew of it. Which of the following is the most appropriate action?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Challenge the guardian's decision, because a substitute decision-maker must act in accordance with wishes the patient expressed while capable"
+    },
+    {
+     "id": "b",
+     "text": "Proceed with intubation, since the guardian sits at the top of the substitute decision-maker hierarchy"
+    },
+    {
+     "id": "c",
+     "text": "Ask the daughter to consent instead, as she is relaying the patient's wishes"
+    },
+    {
+     "id": "d",
+     "text": "Follow your own assessment of the patient's best interests and withhold intubation without further process"
+    },
+    {
+     "id": "e",
+     "text": "Disregard the written statement, because wishes must be expressed verbally to be binding"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Substitute decision-makers must act in accordance with any wishes the person expressed when capable, and only act on best interests if those wishes are unknown. The physician may and should challenge the substitute decision-maker's final decision when the physician believes those principles are not being followed, which is the case here.",
+   "optionExplanations": {
+    "b": "Being highest in the hierarchy determines who decides, not that the decision may ignore prior capable wishes.",
+    "c": "The daughter is lower in the hierarchy; the remedy is to challenge the guardian's decision rather than substitute another relative.",
+    "d": "Unilateral action bypasses the required process; the physician challenges the decision rather than simply overriding it.",
+    "e": "Patient wishes may be expressed verbally or in written form."
+   },
+   "topic": "Substitute Decision-Making",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "ELOM",
+    "name": "Ethical, Legal, and Organizational Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 35,
+    "reference": "ELOM15 — Substitute Decision-Makers"
+   }
+  },
+  {
+   "id": "TN-ELOM-007",
+   "type": "single-best-answer",
+   "question": "A postoperative patient receives ten times the intended dose of an anticoagulant because of a transcription error on your ward. She develops a large hematoma and requires transfusion and a prolonged admission. She is alert and asks why she is still in hospital. Your resident suggests saying only that recovery is sometimes slow. Which of the following is the most appropriate action?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Disclose the adverse event to the patient, express empathic regret, and report it to the appropriate health authorities"
+    },
+    {
+     "id": "b",
+     "text": "Disclose the event and tell her that the ward pharmacist was negligent"
+    },
+    {
+     "id": "c",
+     "text": "Withhold disclosure until the hospital's internal review has assigned responsibility"
+    },
+    {
+     "id": "d",
+     "text": "Avoid any apology, because an apology would be an admission of legal liability"
+    },
+    {
+     "id": "e",
+     "text": "Disclose the event to her family but not to her, to avoid causing her distress"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Any event that harms or threatens to harm patients must be disclosed to the patient or their decision-maker and reported to the appropriate health authorities. Physicians should offer apologies or empathic expressions of regret, which Apology Acts across Canada protect from being used as evidence of liability or negligence.",
+   "optionExplanations": {
+    "b": "Physicians should not suggest that an adverse event resulted from negligence, which is a legal determination, nor attribute sole responsibility to others.",
+    "c": "Disclosure should be prompt so the injured patient can seek corrective treatment; it does not await an internal verdict.",
+    "d": "Apologies are protected by Apology Acts and are not admissions of guilt or liability.",
+    "e": "The disclosure is owed to the patient herself, who is alert and capable."
+   },
+   "topic": "Disclosure of Medical Error",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "ELOM",
+    "name": "Ethical, Legal, and Organizational Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 36,
+    "reference": "ELOM16 — Truth-Telling: Medical Error"
+   }
+  },
+  {
+   "id": "TN-ELOM-008",
+   "type": "single-best-answer",
+   "question": "A 54-year-old woman with advanced progressive multiple sclerosis requests medical assistance in dying. She is a capable adult eligible for publicly funded health services, is in an advanced state of irreversible decline, and describes suffering that is intolerable to her. Her death is not reasonably foreseeable. Which of the following best describes a required element of her assessment process?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Her eligibility assessment must take a minimum of 90 days, unless assessments are completed sooner and she is at immediate risk of losing capacity to consent"
+    },
+    {
+     "id": "b",
+     "text": "She is ineligible, because reasonable foreseeability of natural death remains a criterion"
+    },
+    {
+     "id": "c",
+     "text": "A single assessor may provide the written confirmation that criteria are met"
+    },
+    {
+     "id": "d",
+     "text": "Ten clear days must elapse between her request and provision, with no longer period required"
+    },
+    {
+     "id": "e",
+     "text": "She may waive final consent because her condition is irreversible"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Under the 2021 legislative changes a patient may request MAiD even if death is not reasonably foreseeable, and in that circumstance the eligibility assessment must be a minimum of 90 days unless the assessments are completed sooner and the patient is at immediate risk of losing the capacity to consent.",
+   "optionExplanations": {
+    "b": "A recent update eliminated the criterion of reasonable foreseeability of natural death.",
+    "c": "Two independent assessors, physician or nurse practitioner, must provide written confirmation that eligibility criteria are met.",
+    "d": "The 10 clear day period applies to the standard pathway; her situation requires the 90 day assessment period.",
+    "e": "Waiver of final consent requires that death be reasonably foreseeable along with specific advance arrangements."
+   },
+   "topic": "Medical Assistance in Dying",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "ELOM",
+    "name": "Ethical, Legal, and Organizational Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 40,
+    "reference": "ELOM20 — Medical Assistance in Dying: Bill C-14 Criteria and MAID Process"
+   }
+  },
+  {
+   "id": "TN-ELOM-009",
+   "type": "single-best-answer",
+   "question": "A capable patient with metastatic cancer under your care in Ontario asks you to assess him for medical assistance in dying. You have a sincere conscientious objection to participating in MAiD and do not wish to be an assessor or provider. He becomes distressed and says he has nowhere else to turn. Which of the following is the most appropriate action?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Provide an effective referral to a willing and available practitioner while continuing to support him"
+    },
+    {
+     "id": "b",
+     "text": "Decline to discuss MAiD at all and continue his usual oncologic care"
+    },
+    {
+     "id": "c",
+     "text": "Tell him that no physician is compelled to participate, and leave him to find his own provider"
+    },
+    {
+     "id": "d",
+     "text": "Discharge him from your practice so that another physician takes over entirely"
+    },
+    {
+     "id": "e",
+     "text": "Agree to provide MAiD despite your objection, because patient autonomy is absolute"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Although nothing in Carter v. Canada compels a physician to participate in MAiD, the College of Physicians and Surgeons of Ontario mandatory referral policy, upheld by the courts, requires physicians in Ontario to provide an effective referral when they conscientiously object. Physicians must also ensure patients can access services elsewhere and are never abandoned.",
+   "optionExplanations": {
+    "b": "Refusing to discuss a legitimate option withholds information the patient needs and does not satisfy the referral requirement.",
+    "c": "It is true that participation is not compelled, but an effective referral is still required in Ontario.",
+    "d": "Discontinuing needed services is an act of professional misconduct unless proper alternatives and notice are arranged.",
+    "e": "Conscientious objection is respected; the resolution is an effective referral rather than acting against one's moral boundaries."
+   },
+   "topic": "Conscientious Objection and Professionalism",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "ELOM",
+    "name": "Ethical, Legal, and Organizational Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 41,
+    "reference": "ELOM21 — Physician Responsibilities Regarding Death (conscientious objection and effective referral)"
+   }
+  },
+  {
+   "id": "TN-ELOM-010",
+   "type": "single-best-answer",
+   "question": "A pharmaceutical representative offers your clinic a catered lunch and learn session about a newly marketed drug, branded pens for the office, and free samples to distribute to patients. She also offers to pay your travel and registration for a conference at which you are not presenting. Which of the following is the most appropriate response?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Decline the gifts, samples and travel sponsorship, recognizing that such offers influence prescribing and that sponsorship is acceptable only when you are a presenter"
+    },
+    {
+     "id": "b",
+     "text": "Accept the pens and lunch but decline the samples and travel, since small items carry no influence"
+    },
+    {
+     "id": "c",
+     "text": "Accept the free samples so that patients can access the newest and therefore most effective drug"
+    },
+    {
+     "id": "d",
+     "text": "Accept the travel sponsorship and disclose it later, since disclosure removes the conflict of interest"
+    },
+    {
+     "id": "e",
+     "text": "Accept everything, since the pharmaceutical company shares the physician's fiduciary duty to patients"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Gifts or free products from industry are usually inappropriate, and the literature is clear that items such as branded pens and lunch and learn sessions influence physician decision-making. Sponsorship for travel and conference fees may be accepted only where the physician is a presenter, not merely an attendee.",
+   "optionExplanations": {
+    "b": "Small items such as branded pens and free lunches are exactly the offers shown to influence prescribing behaviour.",
+    "c": "Free samples increase patient preference for newer, costlier drugs, which are not always more effective and may have less robust safety evidence.",
+    "d": "Disclosure of conflicts does not eliminate the potential influence the conflict may have on physician behaviour.",
+    "e": "Unlike physicians, pharmaceutical and healthcare supply industries do not have a fiduciary duty to patients and are profit-driven."
+   },
+   "topic": "Physician-Industry Relations",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "ELOM",
+    "name": "Ethical, Legal, and Organizational Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 43,
+    "reference": "ELOM23 — Physician-Industry Relations"
+   }
+  }
+ ]
+}

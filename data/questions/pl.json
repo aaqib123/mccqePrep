@@ -1,0 +1,382 @@
+{
+ "chapter": {
+  "code": "PL",
+  "name": "Plastic Surgery"
+ },
+ "document": {
+  "id": "toronto-notes-2025",
+  "title": "Toronto Notes 2025",
+  "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
+ },
+ "count": 8,
+ "questions": [
+  {
+   "id": "TN-PL-001",
+   "type": "single-best-answer",
+   "question": "A 42-year-old man is rescued from a house fire with deep partial and full thickness burns to his trunk and both arms. Two large-bore intravenous lines are inserted, Ringer's lactate is started using the Parkland formula, and a Foley catheter is placed. He is intubated for suspected inhalation injury. Which of the following is the best parameter for monitoring the adequacy of his fluid resuscitation?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Hourly urine output maintained above 0.5 cc/kg/h"
+    },
+    {
+     "id": "b",
+     "text": "Central venous pressure measured every 4 hours"
+    },
+    {
+     "id": "c",
+     "text": "Serial hematocrit measurements"
+    },
+    {
+     "id": "d",
+     "text": "Mean arterial pressure alone, targeting a value above 90 mmHg"
+    },
+    {
+     "id": "e",
+     "text": "Serial body weights every 12 hours"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "In acute burn care, urine output is the best measure of resuscitation adequacy and should be maintained at more than 0.5 cc/kg/h in adults (1.0 cc/kg/h in children under 12 yr). This is why a Foley catheter is inserted routinely. A clear sensorium, heart rate below 120/min and mean arterial pressure above 70 mmHg are supportive but secondary endpoints.",
+   "optionExplanations": {
+    "b": "Central venous pressure is not listed as a resuscitation endpoint in burn care and is invasive and unreliable in the setting of massive capillary leak.",
+    "c": "Hematocrit rises with hemoconcentration but is not the recommended measure of resuscitation adequacy.",
+    "d": "Mean arterial pressure is an adjunctive target, and the threshold cited is above 70 mmHg, not 90 mmHg; urine output remains the best measure.",
+    "e": "Serial weights are far too slow and imprecise to guide hour-to-hour burn resuscitation."
+   },
+   "topic": "Burn Resuscitation",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "PL",
+    "name": "Plastic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1331,
+    "reference": "PL21 — Acute Care of Burn Patients"
+   }
+  },
+  {
+   "id": "TN-PL-002",
+   "type": "single-best-answer",
+   "question": "A 30-year-old woman has deep partial thickness flame burns to both legs. A topical antimicrobial that penetrates eschar well is applied widely at each dressing change, and she finds the application moderately painful. On day three she becomes tachypneic, and an arterial blood gas shows a metabolic acidosis with no other identifiable cause. Which topical agent most likely explains this finding?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Silver sulfadiazine cream"
+    },
+    {
+     "id": "b",
+     "text": "Mafenide acetate (Sulfamylon)"
+    },
+    {
+     "id": "c",
+     "text": "Silver nitrate 0.5% solution"
+    },
+    {
+     "id": "d",
+     "text": "Nanocrystalline silver-coated dressing (Acticoat)"
+    },
+    {
+     "id": "e",
+     "text": "Bacitracin-polymyxin (Polysporin) ointment"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Toronto Notes lists mafenide acetate (Sulfamylon) as moderately painful on application, penetrating eschar well, and capable of causing metabolic acidosis with wide application, along with mild inhibition of epithelialization. The combination of good eschar penetration, painful application, wide use and an otherwise unexplained metabolic acidosis points to this agent.",
+   "optionExplanations": {
+    "a": "Silver sulfadiazine causes minimal pain and is associated with leukopenia, slowed healing and pseudoeschar formation, not metabolic acidosis.",
+    "c": "Silver nitrate 0.5% is painless with minimal penetration; its characteristic adverse effects are methemoglobinemia, black staining and sodium leaching.",
+    "d": "Nanocrystalline silver-coated dressings cause none or transient pain, do not penetrate eschar, and are associated with staining and raised liver enzymes.",
+    "e": "Polysporin is used for superficial partial thickness burn dressing changes and is not associated with a systemic acid-base disturbance."
+   },
+   "topic": "Burn Wound Care and Topical Antimicrobials",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "PL",
+    "name": "Plastic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1332,
+    "reference": "PL22 — Burn Wound Healing, Table 20: Antimicrobial Dressings for Burns"
+   }
+  },
+  {
+   "id": "TN-PL-003",
+   "type": "single-best-answer",
+   "question": "A 28-year-old farm worker sustains a heavily contaminated crush laceration of the thigh with substantial devitalized tissue and presents 14 hours after the injury. In the operating room the wound is irrigated and debrided, then packed open with planned dressing changes and repeat debridement. Suture closure is planned for day five, once healthy granulation tissue has formed and the bacterial burden has fallen. Which type of wound healing does this describe?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Primary (first intention) healing"
+    },
+    {
+     "id": "b",
+     "text": "Secondary (second intention) healing"
+    },
+    {
+     "id": "c",
+     "text": "Tertiary (delayed primary) healing"
+    },
+    {
+     "id": "d",
+     "text": "Primary closure over a closed suction drain"
+    },
+    {
+     "id": "e",
+     "text": "Immediate coverage with a split thickness skin graft"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "Tertiary or delayed primary healing is the intentional interruption of the healing process with packing and sharp debridement, followed by primary closure roughly 4-10 days after injury once granulation tissue has formed and the bacterial count has fallen. It is indicated for contaminated wounds, long time lapse since injury, and severe crush with devitalized tissue, exactly this patient's situation; prolonging the inflammatory phase lowers the bacterial count and the risk of post-closure infection.",
+   "optionExplanations": {
+    "a": "Primary closure is contraindicated here: crush injury, heavy contamination and prolonged time since injury are all listed contraindications.",
+    "b": "Secondary intention means the wound is left open to heal on its own by contraction and epithelialization, whereas this wound is deliberately closed with sutures on day five.",
+    "d": "Placing a drain does not change the fact that immediate closure of a contaminated crush wound is contraindicated, and this is not a recognized category of wound healing.",
+    "e": "A graft is a reconstructive option for a granulating bed, not the healing category being described; the plan here is direct suture closure."
+   },
+   "topic": "Types of Wound Healing and Closure",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "PL",
+    "name": "Plastic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1319,
+    "reference": "PL9 — Types of Wound Healing"
+   }
+  },
+  {
+   "id": "TN-PL-004",
+   "type": "single-best-answer",
+   "question": "A 68-year-old man has had an open ulcer on his lower leg for three years, arising at the site of an old burn scar. Despite appropriate dressings, treatment of infection and correction of pressure and metabolic factors, it has never healed. Over the past few months the edges have become raised, heaped up and friable, and the wound bleeds easily on dressing changes. What is the most appropriate next step?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Biopsy of the ulcer to rule out a Marjolin's ulcer"
+    },
+    {
+     "id": "b",
+     "text": "Continue the current dressing regimen and reassess in six weeks"
+    },
+    {
+     "id": "c",
+     "text": "Start empiric oral antibiotics for presumed critical colonization"
+    },
+    {
+     "id": "d",
+     "text": "Apply negative pressure wound therapy to the ulcer"
+    },
+    {
+     "id": "e",
+     "text": "Excise the ulcer and immediately resurface it with a split thickness skin graft"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "A chronic wound is one that fails to achieve primary healing within 4-6 weeks, and Toronto Notes specifically advises considering biopsy in non-healing wounds to rule out a Marjolin's ulcer, a squamous cell carcinoma arising in a chronic wound because of the chronic inflammatory state. This man's three-year non-healing burn-scar ulcer with newly raised, friable margins is the classic setting, and tissue diagnosis must precede definitive treatment.",
+   "optionExplanations": {
+    "b": "Simply continuing an already failed regimen delays the diagnosis of a malignancy that has been developing over months.",
+    "c": "There are no described signs of infection, and antibiotics do not address the underlying reason this wound has not healed.",
+    "d": "Negative pressure wound therapy is contraindicated over malignant tissue, so malignancy must be excluded first.",
+    "e": "Definitive excision and grafting should follow, not precede, histological diagnosis, since a squamous cell carcinoma requires appropriate oncological margins."
+   },
+   "topic": "Chronic Wounds and Marjolin's Ulcer",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "PL",
+    "name": "Plastic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1320,
+    "reference": "PL10 — Chronic Wound"
+   }
+  },
+  {
+   "id": "TN-PL-005",
+   "type": "single-best-answer",
+   "question": "A 46-year-old woman is repeatedly woken at night by numbness and tingling of her right hand, which she relieves by shaking and dangling it. She also has symptoms while driving and holding her phone. Examination shows reduced light touch and two-point discrimination at the tips of the thumb, index and middle fingers, with normal sensation over the skin of the thenar eminence. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Carpal tunnel syndrome"
+    },
+    {
+     "id": "b",
+     "text": "Cubital tunnel syndrome (ulnar nerve compression at the elbow)"
+    },
+    {
+     "id": "c",
+     "text": "Neurogenic thoracic outlet syndrome"
+    },
+    {
+     "id": "d",
+     "text": "De Quervain's tenosynovitis"
+    },
+    {
+     "id": "e",
+     "text": "Cervical radiculopathy"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Carpal tunnel syndrome is median nerve compression at the wrist by the flexor retinaculum and is the most common peripheral compression neuropathy, with a female to male ratio of about 4:1. Classically the patient is awakened at night with a numb hand relieved by shaking, dangling or rubbing, with daytime symptoms during wrist flexion activities such as driving or holding a phone. Sensory loss follows the median distribution but spares the thenar eminence skin, because the palmar cutaneous branch arises proximal to the carpal tunnel.",
+   "optionExplanations": {
+    "b": "Ulnar nerve compression produces numbness of the ring and little fingers and intrinsic weakness, not thumb, index and middle fingertip symptoms.",
+    "c": "Neurogenic thoracic outlet syndrome causes paresthesia, pain and weakness of the whole upper limb, often with strenuous overhead work, rather than an isolated nocturnal median distribution pattern.",
+    "d": "De Quervain's tenosynovitis causes radial styloid pain with a positive Finkelstein's test, not numbness or loss of two-point discrimination.",
+    "e": "Radiculopathy typically produces neck and radiating arm pain in a dermatomal pattern and would not spare only the thenar skin while affecting the fingertips."
+   },
+   "topic": "Carpal Tunnel Syndrome",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "PL",
+    "name": "Plastic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1340,
+    "reference": "PL30 — Carpal Tunnel Syndrome"
+   }
+  },
+  {
+   "id": "TN-PL-006",
+   "type": "single-best-answer",
+   "question": "A 51-year-old man with diabetes presents four days after a splinter injury to the tip of his index finger. The distal pulp is tensely swollen, erythematous and exquisitely tender, and the overlying skin is blanched and clearly under pressure. The finger rests in a normal cascade, passive extension is painless, and there is no tenderness along the flexor sheath. What is the most appropriate management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Incision and drainage of the pulp with cultures and Gram stain, plus antibiotics"
+    },
+    {
+     "id": "b",
+     "text": "Warm soaks, elevation and oral antibiotics alone"
+    },
+    {
+     "id": "c",
+     "text": "Urgent operative irrigation of the flexor tendon sheath"
+    },
+    {
+     "id": "d",
+     "text": "Aspiration and irrigation of the distal interphalangeal joint"
+    },
+    {
+     "id": "e",
+     "text": "Splinting in the position of safety with NSAIDs"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "A felon is a subcutaneous abscess in the pulp of a digit, typically multiloculated because of fibrous septae, and trauma such as a puncture or splinter is the most common cause of hand infection. Initial treatment is elevation, warm soaks and antibiotics, but incision and drainage with cultures and Gram stain is indicated when there is an obvious abscess, pressure on the overlying skin, or failure of conservative measures. This patient has a tense pulp with blanching skin under pressure, so drainage is required.",
+   "optionExplanations": {
+    "b": "Conservative therapy is appropriate only before an abscess is established; here there is already pressure on the overlying skin, which is an indication for drainage.",
+    "c": "Flexor tenosynovitis would show a digit held flexed with fusiform swelling and severe pain on passive extension and sheath tenderness, none of which are present.",
+    "d": "There is no evidence of septic arthritis of the distal interphalangeal joint; the collection is in the pulp space.",
+    "e": "Splinting and analgesia do not decompress a closed pulp space abscess and risk progression to osteomyelitis of the distal phalanx."
+   },
+   "topic": "Hand Infections",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "PL",
+    "name": "Plastic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1335,
+    "reference": "PL25 — Hand Infections: Felon"
+   }
+  },
+  {
+   "id": "TN-PL-007",
+   "type": "single-best-answer",
+   "question": "A 62-year-old woman with long-standing varicose veins has a shallow ulcer with irregular margins just above the medial malleolus. Its base has yellow exudate and granulation tissue, and the surrounding skin is brown and discoloured. Distal pulses are normal. The ulcer aches moderately, worsens when her leg is dependent and improves with elevation, and she has no rest pain. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Venous stasis ulcer"
+    },
+    {
+     "id": "b",
+     "text": "Arterial (ischemic) ulcer"
+    },
+    {
+     "id": "c",
+     "text": "Diabetic neuropathic ulcer"
+    },
+    {
+     "id": "d",
+     "text": "Pressure ulcer"
+    },
+    {
+     "id": "e",
+     "text": "Acute traumatic ulcer"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Venous ulcers account for the majority of vascular ulcers and result from valvular incompetence and venous hypertension. They sit at the medial malleolus in the gaiter area, are superficial with irregular margins, show yellow exudate and granulation tissue, have brown venous stasis discolouration of surrounding skin and normal distal pulses, and are moderately painful with pain increasing on dependency and decreasing on elevation. Treatment is rest, leg elevation, compression and moist dressings, provided the ankle-brachial index is safe for compression.",
+   "optionExplanations": {
+    "b": "Arterial ulcers are deep with even punched-out margins, a pale necrotic base, thin shiny hairless skin, absent or diminished pulses, rest pain, and pain that worsens with elevation.",
+    "c": "Diabetic ulcers occur at pressure points such as the metatarsal heads, have a necrotic base and hyperkeratotic border, and are typically painless due to neuropathy.",
+    "d": "Pressure ulcers develop over bony prominences from sustained pressure reducing tissue perfusion, most often on the lower torso, and are not related to leg dependency.",
+    "e": "An acute traumatic ulcer follows an identifiable injury with a failure of the wound to heal; this three-feature picture of varicosities, gaiter location and stasis pigmentation is venous."
+   },
+   "topic": "Lower Limb Ulcers",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "PL",
+    "name": "Plastic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1327,
+    "reference": "PL17 — Lower Limb Ulcers, Table 14: Venous vs. Arterial vs. Diabetic Ulcers"
+   }
+  },
+  {
+   "id": "TN-PL-008",
+   "type": "single-best-answer",
+   "question": "A 22-year-old man is struck in the right eye by a baseball. He has periorbital ecchymosis and subconjunctival hemorrhage, the globe appears intact and visual acuity is preserved. He cannot elevate the right eye past the neutral position, has diplopia on straight gaze, and develops severe pain and vomiting when he attempts to look upward. The right cheek is numb. What is the most appropriate next step?",
+   "options": [
+    {
+     "id": "a",
+     "text": "CT of the orbits with fine slices and urgent referral for operative release of the entrapped muscle"
+    },
+    {
+     "id": "b",
+     "text": "Ice, decongestants and reassessment in 10 days for persistent diplopia"
+    },
+    {
+     "id": "c",
+     "text": "Plain facial radiographs with routine outpatient ophthalmology follow-up"
+    },
+    {
+     "id": "d",
+     "text": "Immediate lateral canthotomy and cantholysis"
+    },
+    {
+     "id": "e",
+     "text": "Bedside forced duction testing without anesthesia to confirm the diagnosis"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Blunt force to the orbit raises intraorbital pressure and can produce a blow-out fracture of the orbital floor with infraorbital nerve (CN V2) anesthesia. Orbital entrapment is a clinical diagnosis and a surgical emergency, signalled by diplopia on straight gaze with inability to look up past neutral due to inferior rectus entrapment, and severe pain or nausea and vomiting on upward globe movement. CT of the orbits with axial, coronal and sagittal fine slices is the diagnostic study, and entrapment is an indication for surgical repair.",
+   "optionExplanations": {
+    "b": "Waiting is appropriate only for diplopia without entrapment; surgical repair is indicated for persistent diplopia beyond about 10 days, but frank entrapment cannot be observed.",
+    "c": "Plain films are inadequate for the orbit, and routine follow-up would delay emergency surgical release.",
+    "d": "Canthotomy and cantholysis treat orbital compartment syndrome from retrobulbar hematoma, which would present with proptosis and loss of vision, not preserved acuity with restricted upgaze.",
+    "e": "The forced duction test is performed with forceps under general anesthesia in the operating room, not at the bedside on an awake patient."
+   },
+   "topic": "Facial Trauma: Orbital Floor Fracture",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "PL",
+    "name": "Plastic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1344,
+    "reference": "PL34 — Orbital Floor Fractures"
+   }
+  }
+ ]
+}

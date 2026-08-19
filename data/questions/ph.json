@@ -1,0 +1,382 @@
+{
+ "chapter": {
+  "code": "PH",
+  "name": "Public Health and Preventive Medicine"
+ },
+ "document": {
+  "id": "toronto-notes-2025",
+  "title": "Toronto Notes 2025",
+  "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
+ },
+ "count": 8,
+ "questions": [
+  {
+   "id": "TN-PH-001",
+   "type": "single-best-answer",
+   "question": "A family physician incorporates a validated single-question screening tool into intake visits: \"Do you ever have difficulty making ends meet at the end of the month?\" For identifying patients living below the poverty line, this question has a sensitivity of 98% and a specificity of 40%. Which statement best describes how this screening question performs?",
+   "options": [
+    {
+     "id": "a",
+     "text": "It correctly identifies almost all patients who are truly living in poverty, but many patients who are not living in poverty will also screen positive"
+    },
+    {
+     "id": "b",
+     "text": "It correctly identifies almost all patients who are not living in poverty, while missing many who are living in poverty"
+    },
+    {
+     "id": "c",
+     "text": "It performs equally well at detecting patients with and without poverty"
+    },
+    {
+     "id": "d",
+     "text": "A positive answer to this question, by itself, confirms that the patient is living in poverty"
+    },
+    {
+     "id": "e",
+     "text": "Because specificity is high, very few patients who are not living in poverty will answer yes to this question"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes reports that this poverty-screening question has a sensitivity of 98% and a specificity of 40% for identifying patients below the poverty line. Very high sensitivity means very few false negatives, so almost all true cases are detected, but a specificity of only 40% means a large share of people without the condition will still test positive (many false positives), which matches option a.",
+   "optionExplanations": {
+    "b": "This describes a test with high specificity and low sensitivity, the opposite of the 98% sensitivity/40% specificity reported for this question.",
+    "c": "Sensitivity (98%) and specificity (40%) are markedly different, so the question does not perform equally in both directions.",
+    "d": "A screening test result is not diagnostic; with only 40% specificity, many patients without poverty will still screen positive, so a positive answer alone cannot confirm the diagnosis.",
+    "e": "Specificity here is only 40%, not high, so a substantial proportion of patients who are not living in poverty will still answer yes."
+   },
+   "topic": "Screening Test Characteristics",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "PH",
+    "name": "Public Health and Preventive Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1424,
+    "reference": "PH6 — Screening for Poverty"
+   }
+  },
+  {
+   "id": "TN-PH-002",
+   "type": "single-best-answer",
+   "question": "During an investigation of a suspected outbreak of a novel respiratory pathogen, the public health unit does not wait for cases to be voluntarily reported by clinicians. Instead, staff conduct scheduled visits to hospitals and clinics to actively review medical records and test patients, in order to identify every possible case in the affected area. Which type of surveillance does this best describe?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Passive surveillance"
+    },
+    {
+     "id": "b",
+     "text": "Active surveillance"
+    },
+    {
+     "id": "c",
+     "text": "Sentinel surveillance"
+    },
+    {
+     "id": "d",
+     "text": "A case-control study"
+    },
+    {
+     "id": "e",
+     "text": "A cross-sectional survey"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "The source defines active surveillance as regular visits to health facilities to review records or actively test for a disease under surveillance, used when every possible case must be investigated, such as during outbreak investigations. Although resource-intensive, this fits the scenario because the unit is deliberately seeking out every case rather than relying on voluntary reporting.",
+   "optionExplanations": {
+    "a": "Passive surveillance relies on institutions and clinicians to report cases on their own, rather than public health staff actively seeking out cases.",
+    "c": "Sentinel surveillance uses a limited network of pre-selected reporting sites to signal trends, not comprehensive active case-finding across an affected area.",
+    "d": "A case-control study samples people based on outcome status to compare exposures; it is a research design, not an ongoing surveillance method.",
+    "e": "A cross-sectional survey collects exposure and outcome data on individuals at a single point in time; it is a research design, not an ongoing surveillance system."
+   },
+   "topic": "Public Health Surveillance",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "PH",
+    "name": "Public Health and Preventive Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1427,
+    "reference": "PH9 — Surveillance"
+   }
+  },
+  {
+   "id": "TN-PH-003",
+   "type": "single-best-answer",
+   "question": "A new screening program detects a slow-growing cancer several years earlier than it would have been diagnosed after the onset of symptoms. Because survival time is now measured starting from the earlier screening date rather than from the later date of clinical presentation, patients whose disease was found by screening appear to survive longer after diagnosis, even though screening did not actually delay the time of death. Which bias explains this apparent improvement in survival time?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Lead-time bias"
+    },
+    {
+     "id": "b",
+     "text": "Length-time bias"
+    },
+    {
+     "id": "c",
+     "text": "Selection bias"
+    },
+    {
+     "id": "d",
+     "text": "Recall bias"
+    },
+    {
+     "id": "e",
+     "text": "Confounding"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The source defines lead-time bias as overestimation of survival time from diagnosis when the estimate is made from the time of screening instead of the later time at which the disease would have been diagnosed without screening. In this scenario, the earlier diagnosis date artificially lengthens the measured survival interval without changing the actual time of death.",
+   "optionExplanations": {
+    "b": "Length-time bias results from screening being more likely to detect slow-growing, indolent cases than aggressive ones; it does not describe shifting the starting point at which survival is measured.",
+    "c": "Selection bias arises from how participants are recruited or retained in a study, not from the timing of diagnosis relative to symptom onset.",
+    "d": "Recall bias arises when individuals with disease more readily recall a past exposure than those without disease; it does not describe a shift in when survival time starts being measured.",
+    "e": "Confounding involves a third variable related to both exposure and outcome; it is unrelated to how survival time is measured."
+   },
+   "topic": "Screening Bias",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "PH",
+    "name": "Public Health and Preventive Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1428,
+    "reference": "PH10 — Screening (Secondary Prevention)"
+   }
+  },
+  {
+   "id": "TN-PH-004",
+   "type": "single-best-answer",
+   "question": "Investigators conduct a case-control study examining the association between a chronic occupational exposure and a respiratory disease. Cases are recruited from patients admitted to a tertiary hospital respirology ward. Controls are recruited from patients admitted to the same hospital for unrelated surgical procedures. Both cases and controls may have been admitted, in part, because of factors related to their overall health complexity rather than being representative of the general population. Which type of bias is most likely to affect this study?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Berkson's bias"
+    },
+    {
+     "id": "b",
+     "text": "Recall bias"
+    },
+    {
+     "id": "c",
+     "text": "Non-response bias"
+    },
+    {
+     "id": "d",
+     "text": "Loss to follow-up bias"
+    },
+    {
+     "id": "e",
+     "text": "Interviewer bias"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The source states that Berkson's bias occurs in a case-control study that uses hospitalized controls, because hospitalized patients may not be a representative sample due to the complexity of factors that led to their admission. Since both the cases and controls here are drawn from hospitalized patients whose admission itself may relate to unmeasured health factors, the study is at risk of Berkson's bias.",
+   "optionExplanations": {
+    "b": "Recall bias occurs when cases and controls differ in how accurately they remember past exposures, not when controls are drawn from a non-representative hospitalized population.",
+    "c": "Non-response bias occurs when people who agree to participate differ systematically from those who decline, which is not the issue described here.",
+    "d": "Loss to follow-up bias occurs when participants drop out differentially between groups during a study, which does not apply to this recruitment of cases and controls.",
+    "e": "Interviewer bias occurs when unblinded interviewers behave differently based on knowledge of outcome status, which is not what is described in this recruitment scenario."
+   },
+   "topic": "Bias and Confounding",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "PH",
+    "name": "Public Health and Preventive Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1432,
+    "reference": "PH14 — Bias"
+   }
+  },
+  {
+   "id": "TN-PH-005",
+   "type": "single-best-answer",
+   "question": "In a randomized trial comparing a new drug to placebo for a chronic disease, 30% of patients in the placebo (control) group died during follow-up, compared with 20% of patients who received the new drug. Using the definitions of absolute risk reduction and number needed to treat presented in this source, what is the number needed to treat (NNT) to prevent one additional death?",
+   "options": [
+    {
+     "id": "a",
+     "text": "5"
+    },
+    {
+     "id": "b",
+     "text": "10"
+    },
+    {
+     "id": "c",
+     "text": "15"
+    },
+    {
+     "id": "d",
+     "text": "20"
+    },
+    {
+     "id": "e",
+     "text": "30"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "The source defines absolute risk reduction (ARR) as CER minus EER and NNT as 1/ARR. Here, ARR = 30% − 20% = 10%, so NNT = 1/0.10 = 10, meaning 10 patients would need to be treated with the new drug to prevent one additional death compared with placebo.",
+   "optionExplanations": {
+    "a": "This would result if ARR were 20%, double the actual 10% difference between the groups.",
+    "c": "This value does not correspond to 1/ARR using the event rates given in this scenario.",
+    "d": "This equals the experimental group's event rate (20%), not 1/ARR.",
+    "e": "This equals the control group's event rate (30%), not 1/ARR."
+   },
+   "topic": "Measures of Effect (NNT)",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "PH",
+    "name": "Public Health and Preventive Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1433,
+    "reference": "PH15 — Effectiveness of Interventions"
+   }
+  },
+  {
+   "id": "TN-PH-006",
+   "type": "single-best-answer",
+   "question": "Researchers want to study whether a specific occupational chemical exposure increases the risk of a rare form of bladder cancer. They begin by identifying patients recently diagnosed with this cancer at several hospitals, along with a comparable group of patients without the cancer, and then interview both groups about their past occupational exposures. Which observational study design is being used?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Ecological study"
+    },
+    {
+     "id": "b",
+     "text": "Cross-sectional study"
+    },
+    {
+     "id": "c",
+     "text": "Case-control study"
+    },
+    {
+     "id": "d",
+     "text": "Cohort study"
+    },
+    {
+     "id": "e",
+     "text": "Randomized controlled trial"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "The source describes case-control studies as sampling a group of people who already have a particular outcome (cases) and comparing them to a similar sample without that outcome (controls), then assessing past exposures. It also notes this design is often used when the disease of interest is rare, which matches both the method and the rare-cancer context in this vignette.",
+   "optionExplanations": {
+    "a": "An ecological study analyzes populations or groups rather than individuals, and does not sample based on individual disease status as in this scenario.",
+    "b": "A cross-sectional study collects exposure and outcome data on individuals at a single point in time without first selecting groups based on outcome status.",
+    "d": "A cohort study begins by classifying individuals as exposed or unexposed and follows them forward to observe outcomes, rather than starting with people who already have or do not have the disease.",
+    "e": "A randomized controlled trial involves randomly allocating participants to an intervention or control group; there is no such allocation described here."
+   },
+   "topic": "Study Design",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "PH",
+    "name": "Public Health and Preventive Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1435,
+    "reference": "PH17 — Observational Study Designs"
+   }
+  },
+  {
+   "id": "TN-PH-007",
+   "type": "single-best-answer",
+   "question": "In a clinical trial testing a new antihypertensive medication, participants are unaware of whether they are receiving the study drug or placebo, and the researchers assessing participants' blood pressure outcomes are also unaware of each participant's group assignment. Neither the participants nor the outcome assessors know the treatment allocation. What is this method of assessment called?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Single-blind"
+    },
+    {
+     "id": "b",
+     "text": "Double-blind"
+    },
+    {
+     "id": "c",
+     "text": "Triple-blind"
+    },
+    {
+     "id": "d",
+     "text": "Open-label"
+    },
+    {
+     "id": "e",
+     "text": "Intention-to-treat analysis"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "The source defines double-blind as a method in which both the participant and the observer are unaware of group assignment, which matches this scenario where neither the patient nor the person assessing blood pressure knows whether the drug or placebo was given.",
+   "optionExplanations": {
+    "a": "Single-blind means only the participant is unaware of group assignment, whereas here both the participant and the observer are unaware.",
+    "c": "Triple-blind requires that the participant, observer, and analyst all be unaware of group assignment; the scenario does not describe the data analyst's blinding status.",
+    "d": "An open-label trial is one in which participants and researchers know the treatment assignment, the opposite of what is described here.",
+    "e": "Intention-to-treat analysis is a method of analyzing outcomes according to original group assignment regardless of adherence; it is unrelated to blinding of participants and assessors."
+   },
+   "topic": "Experimental Study Design",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "PH",
+    "name": "Public Health and Preventive Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1436,
+    "reference": "PH18 — Experimental Study Designs (Randomized Controlled Trial)"
+   }
+  },
+  {
+   "id": "TN-PH-008",
+   "type": "single-best-answer",
+   "question": "A physician diagnoses a patient with measles and is required by provincial law to report this to the local public health unit, even though the case is a single patient with no evidence yet of further spread in the community. Which of the following is a reason given for making disease reporting mandatory in this context?",
+   "options": [
+    {
+     "id": "a",
+     "text": "To identify and control an outbreak"
+    },
+    {
+     "id": "b",
+     "text": "To provide the patient with financial compensation for lost income"
+    },
+    {
+     "id": "c",
+     "text": "To determine legal liability for the source of the patient's infection"
+    },
+    {
+     "id": "d",
+     "text": "To assign the patient's case to a specific insurance category"
+    },
+    {
+     "id": "e",
+     "text": "To fulfill workplace safety inspection requirements"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The source lists reasons mandatory reporting is required, including to identify and control an outbreak, to prevent spread when a disease poses a significant threat, and for surveillance to monitor disease trends over time. Reporting an individual case of measles supports early identification and control of a potential outbreak, even before spread is confirmed.",
+   "optionExplanations": {
+    "b": "Financial compensation for lost income is unrelated to the stated purposes of mandatory disease reporting in this source.",
+    "c": "Determining legal liability is not among the reasons given for mandatory reporting in this source.",
+    "d": "Assigning an insurance category is not a purpose of mandatory disease reporting described in this source.",
+    "e": "Workplace safety inspections are a separate occupational health function, not a stated reason for mandatory infectious disease reporting."
+   },
+   "topic": "Notifiable Disease Reporting",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "PH",
+    "name": "Public Health and Preventive Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1451,
+    "reference": "PH33 — Appendix – Mandatory Reporting"
+   }
+  }
+ ]
+}

@@ -1,0 +1,198 @@
+{
+ "chapter": {
+  "code": "MG",
+  "name": "Medical Genetics"
+ },
+ "document": {
+  "id": "toronto-notes-2025",
+  "title": "Toronto Notes 2025",
+  "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
+ },
+ "count": 4,
+ "questions": [
+  {
+   "id": "TN-MG-001",
+   "type": "single-best-answer",
+   "question": "A 19-year-old woman has been diagnosed with MELAS syndrome caused by a pathogenic variant in mitochondrial DNA. Her mother has migraines and sensorineural hearing loss and carries the same variant; her father is unaffected. She asks whether her own future children would be at risk, and whether the children of her affected brother would also be at risk. Which pattern of inheritance best explains this disorder?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Maternal inheritance, with transmission by affected females to all of their offspring"
+    },
+    {
+     "id": "b",
+     "text": "Autosomal dominant inheritance"
+    },
+    {
+     "id": "c",
+     "text": "Autosomal recessive inheritance"
+    },
+    {
+     "id": "d",
+     "text": "X-linked inheritance"
+    },
+    {
+     "id": "e",
+     "text": "Imprinting with uniparental disomy"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states that disorders caused by pathogenic variants in mitochondrial DNA are maternally inherited by all offspring, because all mitochondria and their associated mitochondrial DNA in the embryo come from the maternal ovum with no paternal contribution. MELAS is given as the example of such a disorder, so she would transmit the variant to all her children while her brother would not transmit it to any of his.",
+   "optionExplanations": {
+    "b": "Autosomal dominant inheritance involves a gene on chromosomes 1-22 and would permit transmission by an affected father, which does not occur for mitochondrial DNA variants.",
+    "c": "Autosomal recessive inheritance requires pathogenic variants in both copies of an autosomal gene; mitochondrial disorders follow this pattern only when the causative gene is nuclear, such as POLG in Alpers syndrome.",
+    "d": "X-linked inheritance involves genes on the X chromosome and typically produces disease that is more common or more severe in males.",
+    "e": "Imprinting disorders such as Prader-Willi and Angelman syndromes arise from parent-of-origin gene expression on nuclear chromosomes, not from mitochondrial DNA."
+   },
+   "topic": "Mitochondrial Inheritance",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "MG",
+    "name": "Medical Genetics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 781,
+    "reference": "MG3 — Mitochondrial Disorders"
+   }
+  },
+  {
+   "id": "TN-MG-002",
+   "type": "single-best-answer",
+   "question": "A 15-year-old girl is referred for primary amenorrhoea and absent breast development. She is 142 cm tall, well below the 3rd percentile, with a short webbed neck, low posterior hairline, broad chest with widely spaced nipples, and an increased carrying angle at the elbows. Her blood pressure is elevated and a systolic murmur suggests a bicuspid aortic valve. Her school performance and intelligence are normal. Which is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Turner syndrome"
+    },
+    {
+     "id": "b",
+     "text": "Noonan syndrome"
+    },
+    {
+     "id": "c",
+     "text": "Klinefelter syndrome"
+    },
+    {
+     "id": "d",
+     "text": "Fragile X syndrome"
+    },
+    {
+     "id": "e",
+     "text": "Down syndrome"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes describes Turner syndrome (45,X in about half of cases) as presenting with short stature, short webbed neck, low posterior hairline, wide carrying angle, broad chest with widely spaced nipples, coarctation of the aorta or bicuspid aortic valve, increased risk of hypertension, and streak ovaries causing primary amenorrhoea and impaired development of secondary sexual characteristics, with typically normal intelligence. Diagnosis is made by karyotype.",
+   "optionExplanations": {
+    "b": "Noonan syndrome also causes short stature and a webbed neck, but is autosomal dominant, affects both sexes, features right-sided congenital heart disease with pulmonary stenosis, and is associated with moderate intellectual disability and delayed puberty rather than streak ovaries.",
+    "c": "Klinefelter syndrome (47,XXY) occurs in males and produces a tall, slim build with gynecomastia and hypergonadotropic hypogonadism.",
+    "d": "Fragile X syndrome causes overgrowth with macrocephaly, prominent jaw, and large ears, and females with a full mutation show intellectual impairment rather than this physical phenotype.",
+    "e": "Down syndrome presents with hypotonia, upslanting palpebral fissures, a flat nasal bridge, low IQ, and atrioventricular septal defect."
+   },
+   "topic": "Sex Chromosome Disorders",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "MG",
+    "name": "Medical Genetics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 784,
+    "reference": "MG6 — Table 3. Common Genetic Disorders Involving the Sex Chromosomes"
+   }
+  },
+  {
+   "id": "TN-MG-003",
+   "type": "single-best-answer",
+   "question": "An 18-month-old boy is referred to genetics for global developmental delay. He also has a ventricular septal defect and a cleft palate. Physical examination does not suggest a recognisable aneuploidy syndrome, and there is no family history of a known chromosomal rearrangement such as a translocation. TORCH screening and brain imaging have been arranged. Which is the most appropriate initial genetic investigation?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Chromosomal microarray analysis (SNP array)"
+    },
+    {
+     "id": "b",
+     "text": "Karyotype"
+    },
+    {
+     "id": "c",
+     "text": "FISH for trisomy 21"
+    },
+    {
+     "id": "d",
+     "text": "Sanger sequencing of a single candidate gene"
+    },
+    {
+     "id": "e",
+     "text": "Repeat-primed PCR"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "In the genetic assessment of a child with physical differences, Toronto Notes directs that chromosomal microarray analysis (SNP array) be performed if there is developmental delay or autism, or two or more congenital anomalies. This boy has developmental delay plus two major anomalies, and microarray can identify small deletions or duplications anywhere in the genome.",
+   "optionExplanations": {
+    "b": "Karyotype is advised when a known aneuploidy syndrome is recognised or when there is a family history of a chromosomal rearrangement such as a translocation, neither of which applies here.",
+    "c": "FISH is used when a specific aneuploidy syndrome such as trisomy 13, 18, or 21 is suspected, and no such syndrome is suspected on examination.",
+    "d": "Sanger sequencing is the gold standard for identifying single nucleotide variants in a gene known to cause a suspected syndrome, which requires a specific clinical hypothesis.",
+    "e": "Repeat-primed PCR determines trinucleotide repeat number and is used in diagnostic or predictive testing for repeat expansion disorders."
+   },
+   "topic": "Genetic Testing in Developmental Delay",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "MG",
+    "name": "Medical Genetics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 783,
+    "reference": "MG5 — Approach to the Patient with Physical Differences: Investigations"
+   }
+  },
+  {
+   "id": "TN-MG-004",
+   "type": "single-best-answer",
+   "question": "A 4-year-old boy is referred for delayed motor milestones. He has proximal muscle weakness, a waddling gait, and toe walking, and he uses his hands to climb up his legs when rising from the floor. His calves appear enlarged and firm while his thigh muscles look wasted, and his deep tendon reflexes are diminished. Serum creatine kinase is markedly elevated. Which is the most appropriate first-line diagnostic investigation?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Molecular genetic testing of the dystrophin (DMD) gene"
+    },
+    {
+     "id": "b",
+     "text": "Muscle biopsy"
+    },
+    {
+     "id": "c",
+     "text": "Electromyography"
+    },
+    {
+     "id": "d",
+     "text": "Karyotype"
+    },
+    {
+     "id": "e",
+     "text": "Chromosomal microarray analysis"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Proximal weakness by age 3, a positive Gowers' sign, waddling gait, toe walking, calf pseudohypertrophy with thigh wasting, diminished reflexes, and creatine kinase elevated 50-100 times normal describe Duchenne muscular dystrophy. Toronto Notes lists molecular genetic studies of the dystrophin gene (DMD) as the first-line diagnostic test, and notes that genotype-phenotype correlations distinguish Duchenne from the milder Becker muscular dystrophy.",
+   "optionExplanations": {
+    "b": "Muscle biopsy is listed among the diagnostic investigations but is not the first-line test now that molecular testing is available.",
+    "c": "Electromyography is likewise a supporting investigation rather than the first-line diagnostic test.",
+    "d": "Karyotype detects large changes in chromosome number or structure and would not identify a pathogenic variant within the dystrophin gene.",
+    "e": "Chromosomal microarray is indicated for developmental delay, autism, or two or more congenital anomalies, and his presentation is a specific X-linked muscular dystrophy phenotype."
+   },
+   "topic": "Duchenne Muscular Dystrophy",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "MG",
+    "name": "Medical Genetics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 786,
+    "reference": "MG8 — Duchenne Muscular Dystrophy: Diagnosis"
+   }
+  }
+ ]
+}

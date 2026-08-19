@@ -1,0 +1,658 @@
+{
+ "chapter": {
+  "code": "NP",
+  "name": "Nephrology"
+ },
+ "document": {
+  "id": "toronto-notes-2025",
+  "title": "Toronto Notes 2025",
+  "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
+ },
+ "count": 14,
+ "questions": [
+  {
+   "id": "TN-NP-001",
+   "type": "single-best-answer",
+   "question": "A 55-year-old man with a baseline serum creatinine of 82 umol/L is started on trimethoprim-sulfamethoxazole for a urinary tract infection. One week later his creatinine is 108 umol/L. He feels well, urine output is unchanged, blood pressure is normal, and he is euvolemic. Urinalysis is bland with no protein, blood, cells, or casts. Which of the following best explains the rise in serum creatinine?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Drug interference with tubular secretion of creatinine"
+    },
+    {
+     "id": "b",
+     "text": "Acute interstitial nephritis"
+    },
+    {
+     "id": "c",
+     "text": "Acute tubular necrosis"
+    },
+    {
+     "id": "d",
+     "text": "Prerenal azotemia from volume depletion"
+    },
+    {
+     "id": "e",
+     "text": "Obstructive uropathy"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes lists limitations of using serum creatinine to estimate GFR, noting that a portion of creatinine undergoes tubular secretion and that certain drugs, specifically cimetidine and trimethoprim, interfere with creatinine secretion, causing serum creatinine to rise without a fall in GFR. The bland urinalysis, preserved urine output, and euvolemia here argue against true parenchymal or hemodynamic kidney injury.",
+   "optionExplanations": {
+    "b": "Acute interstitial nephritis is an inflammatory process along the urinary tract that would be expected to produce an abnormal sediment rather than a bland urinalysis.",
+    "c": "Acute tubular necrosis follows an ischemic or nephrotoxic insult and is associated with an abnormal sediment, neither of which is present.",
+    "d": "The patient is euvolemic with normal blood pressure and unchanged urine output, so decreased perfusion is not supported.",
+    "e": "Obstruction would be suggested by anuria or reduced urine output, which this patient does not have."
+   },
+   "topic": "Assessment of Renal Function",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "NP",
+    "name": "Nephrology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 826,
+    "reference": "NP6 — Limitations of Using Serum Cr Measurements"
+   }
+  },
+  {
+   "id": "TN-NP-002",
+   "type": "single-best-answer",
+   "question": "A 66-year-old man with three months of back pain, fatigue, and a rising creatinine is suspected of having a plasma cell dyscrasia with light chains in the urine. Urine dipstick performed in clinic is negative for protein on two separate occasions. He is not diabetic, has no hematuria, and blood pressure is normal. What is the most appropriate investigation to quantify his urinary protein?",
+   "options": [
+    {
+     "id": "a",
+     "text": "24 hour timed urine collection for total protein"
+    },
+    {
+     "id": "b",
+     "text": "Repeat urine dipstick on a first morning specimen"
+    },
+    {
+     "id": "c",
+     "text": "Spot urine albumin to creatinine ratio"
+    },
+    {
+     "id": "d",
+     "text": "Urine microscopy for casts and crystals"
+    },
+    {
+     "id": "e",
+     "text": "Renal ultrasound"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states that the urine dipstick only detects albumin, so other proteins such as Bence-Jones monoclonal light chains, immunoglobulins, and Tamm-Horsfall protein may be missed. The gold standard for proteinuria remains a 24 hour timed urine collection for total protein, and a 24 hour urine creatinine should always be ordered as well to confirm completeness of the collection.",
+   "optionExplanations": {
+    "b": "Repeating the dipstick does not help because the dipstick methodology itself cannot detect non-albumin proteins such as light chains.",
+    "c": "The albumin to creatinine ratio measures albuminuria specifically and would also miss monoclonal light chains.",
+    "d": "Urine microscopy characterizes sediment but does not quantify protein excretion.",
+    "e": "Imaging assesses structure and obstruction and cannot measure urinary protein."
+   },
+   "topic": "Urinalysis and Proteinuria",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "NP",
+    "name": "Nephrology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 827,
+    "reference": "NP7 — Urinalysis: Protein"
+   }
+  },
+  {
+   "id": "TN-NP-003",
+   "type": "single-best-answer",
+   "question": "A 78-year-old woman is admitted after four days of vomiting and diarrhea. She is tachycardic with an orthostatic drop in blood pressure, dry mucous membranes, and reduced urine output. Creatinine has risen from 70 to 168 umol/L. Urine microscopy is bland with only hyaline casts. Urine sodium is 8 mmol/L and the fractional excretion of sodium is 0.4%. What is the most likely cause of her acute kidney injury?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Prerenal azotemia from extracellular fluid volume depletion"
+    },
+    {
+     "id": "b",
+     "text": "Acute tubular necrosis"
+    },
+    {
+     "id": "c",
+     "text": "Acute interstitial nephritis"
+    },
+    {
+     "id": "d",
+     "text": "Proliferative glomerulonephritis"
+    },
+    {
+     "id": "e",
+     "text": "Postrenal obstruction"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes explains that urine biochemistry must be interpreted in clinical context: if a patient clearly has ECF volume depletion, the kidneys should be retaining sodium and the urine sodium should be low, with a value under 20 mmol/L supporting that conclusion. A fractional excretion of sodium under 1% suggests a prerenal cause of acute kidney injury. Bland sediment with only hyaline casts is described as less likely to reflect parenchymal kidney disease.",
+   "optionExplanations": {
+    "b": "Tubular injury would be expected to raise the urine sodium above 20 mmol/L and give a fractional excretion of sodium above 1%.",
+    "c": "Interstitial inflammation is suggested by white cells or white cell casts, not a bland sediment.",
+    "d": "Glomerular disease is suggested by red cell casts and dysmorphic red cells, which are absent.",
+    "e": "Obstruction is not supported by this history of gastrointestinal losses with clear hypovolemic findings."
+   },
+   "topic": "Acute Kidney Injury",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "NP",
+    "name": "Nephrology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 828,
+    "reference": "NP8 — Urine Biochemistry and Urinary Sediment"
+   }
+  },
+  {
+   "id": "TN-NP-004",
+   "type": "single-best-answer",
+   "question": "A 62-year-old man with poorly controlled type 2 diabetes presents with polyuria, polydipsia, and weakness. He is alert. Serum glucose is 48 mmol/L and serum sodium is 126 mmol/L. Measured serum osmolality is 312 mOsm/kg. Serum lipids and total protein are normal. He is not taking diuretics and there is no history of excessive water drinking. What is the most likely explanation for his hyponatremia?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Hyperosmolar translocational hyponatremia due to hyperglycemia"
+    },
+    {
+     "id": "b",
+     "text": "Syndrome of inappropriate antidiuretic hormone secretion"
+    },
+    {
+     "id": "c",
+     "text": "Pseudohyponatremia from a laboratory artifact"
+    },
+    {
+     "id": "d",
+     "text": "Hypovolemic hyponatremia from renal sodium loss"
+    },
+    {
+     "id": "e",
+     "text": "Psychogenic polydipsia"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes divides hyponatremia by measured osmolality. Hyperosmolar (translocational) hyponatremia occurs when serum osmolality exceeds 295 mOsm/kg because extra osmoles in the extracellular fluid draw water out of cells and dilute the sodium, usually due to glucose. The text notes that every 10 mmol/L rise in blood glucose lowers sodium by about 3 mmol/L, which fits a glucose of 48 mmol/L with a sodium of 126 mmol/L.",
+   "optionExplanations": {
+    "b": "SIADH causes euvolemic hypo-osmolar hyponatremia with a serum osmolality below 280 mOsm/kg, not the measured hyperosmolality seen here.",
+    "c": "Pseudohyponatremia is an iso-osmolar laboratory artifact seen with severe hyperlipidemia or paraproteinemia, and both lipids and protein are normal.",
+    "d": "Hypovolemic hyponatremia is a hypo-osmolar state, and this patient's measured osmolality is elevated.",
+    "e": "Psychogenic polydipsia produces hypo-osmolar hyponatremia with very dilute urine, which is inconsistent with hyperosmolality."
+   },
+   "topic": "Hyponatremia",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "NP",
+    "name": "Nephrology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 829,
+    "reference": "NP9 — Hyponatremia: Approach and Classification"
+   }
+  },
+  {
+   "id": "TN-NP-005",
+   "type": "single-best-answer",
+   "question": "A 46-year-old woman is on postoperative day one following elective abdominal surgery and has received several litres of dilute intravenous fluid. Her sodium was 138 mmol/L preoperatively and is now 118 mmol/L. She has a generalized tonic-clonic seizure on the ward and remains drowsy afterwards. Her hyponatremia is therefore known to have developed over less than 48 hours. What is the most appropriate initial treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Intravenous 3% sodium chloride given as a 100-150 mL bolus"
+    },
+    {
+     "id": "b",
+     "text": "Free water restriction to 500 mL per day alone"
+    },
+    {
+     "id": "c",
+     "text": "Infusion of 0.9% sodium chloride at maintenance rate"
+    },
+    {
+     "id": "d",
+     "text": "Oral tolvaptan"
+    },
+    {
+     "id": "e",
+     "text": "Subcutaneous desmopressin"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes notes that acute hyponatremia commonly occurs in hospital from dilute IV fluid and postoperative increased ADH, and carries less risk from rapid correction because cerebral adaptation has not fully occurred. For symptomatic acute hyponatremia, correct rapidly with 3% NaCl using boluses of 100-150 cc (or 2 cc/kg) aiming for a rise of 4-6 mmol/L within one hour, which resolves symptoms in most patients, then continue at approximately 1 mmol/L/h toward 130 mmol/L.",
+   "optionExplanations": {
+    "b": "Water restriction is a general measure for all patients but is far too slow for a patient who is actively seizing.",
+    "c": "Isotonic saline does not raise the serum sodium quickly enough to treat acute symptomatic hyponatremia with seizures.",
+    "d": "Vasopressin receptor antagonists are described for promoting free water loss in asymptomatic patients, not for emergency correction.",
+    "e": "Desmopressin is used to slow or limit overcorrection, and giving it here would worsen the hyponatremia."
+   },
+   "topic": "Hyponatremia Management",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "NP",
+    "name": "Nephrology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 830,
+    "reference": "NP10 — Treatment of Hyponatremia"
+   }
+  },
+  {
+   "id": "TN-NP-006",
+   "type": "single-best-answer",
+   "question": "A 44-year-old man taking lithium for bipolar disorder reports passing large volumes of dilute urine and constant thirst. Serum sodium is 149 mmol/L and urine osmolality is 180 mOsm/kg. He is given 2 ug of DDAVP intravenously, after which the urine osmolality remains essentially unchanged at 195 mOsm/kg. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Nephrogenic diabetes insipidus"
+    },
+    {
+     "id": "b",
+     "text": "Central diabetes insipidus"
+    },
+    {
+     "id": "c",
+     "text": "Primary polydipsia"
+    },
+    {
+     "id": "d",
+     "text": "Osmotic diuresis"
+    },
+    {
+     "id": "e",
+     "text": "Syndrome of inappropriate antidiuretic hormone secretion"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states that diabetes insipidus is diagnosed when the urine osmolality is inappropriately low (under 300 mOsm/kg) in a patient with hypernatremia. After administering DDAVP, a rise in urine osmolality above 300 indicates central DI, whereas failure of the urine osmolality to rise indicates nephrogenic DI. Nephrogenic DI is usually acquired and lithium is specifically listed among the causative drugs.",
+   "optionExplanations": {
+    "b": "Central DI reflects deficient ADH release and the urine would concentrate above 300 mOsm/kg after DDAVP.",
+    "c": "Primary polydipsia is associated with excess water intake and hyponatremia rather than hypernatremia.",
+    "d": "Osmotic diuresis is characterized by a urine osmolality above 300 mOsm/kg, not the dilute urine seen here.",
+    "e": "SIADH produces water retention with hyponatremia, the opposite of this presentation."
+   },
+   "topic": "Diabetes Insipidus",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "NP",
+    "name": "Nephrology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 832,
+    "reference": "NP12 — Diabetes Insipidus"
+   }
+  },
+  {
+   "id": "TN-NP-007",
+   "type": "single-best-answer",
+   "question": "A 70-year-old man with chronic kidney disease taking an ACE inhibitor presents with weakness. Serum potassium is 7.1 mmol/L on a cleanly drawn, promptly processed specimen, and the value is confirmed on a repeat sample. The ECG shows tall peaked T waves with widening of the QRS complex. He is hemodynamically stable. What is the most appropriate first step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Intravenous calcium gluconate"
+    },
+    {
+     "id": "b",
+     "text": "Intravenous regular insulin with dextrose"
+    },
+    {
+     "id": "c",
+     "text": "Nebulized salbutamol"
+    },
+    {
+     "id": "d",
+     "text": "Oral sodium polystyrene sulfonate"
+    },
+    {
+     "id": "e",
+     "text": "Urgent hemodialysis"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes tailors treatment to the potassium level and ECG. When potassium exceeds 6.5 mmol/L or ECG changes are present, the first priority is to protect the heart by adding calcium gluconate, given as 1-2 amps (10 mL of 10% solution) IV. It antagonizes hyperkalemia-induced membrane depolarization and protects the cardiac conduction system, with onset within minutes, although it has no effect on the serum potassium itself.",
+   "optionExplanations": {
+    "b": "Insulin with dextrose shifts potassium into cells and is part of therapy, but its onset is 15-30 minutes and it does not stabilize the myocardium first.",
+    "c": "Beta-2 agonists shift potassium intracellularly with an onset of 30-90 minutes, so they do not address the immediate cardiac risk.",
+    "d": "Cation exchangers enhance gastrointestinal removal over hours and carry risks of colonic necrosis and perforation.",
+    "e": "Dialysis is reserved for renal failure or life-threatening hyperkalemia unresponsive to medical therapy, which has not yet been given."
+   },
+   "topic": "Hyperkalemia",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "NP",
+    "name": "Nephrology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 835,
+    "reference": "NP15 — Approach to Hyperkalemia and Treatment"
+   }
+  },
+  {
+   "id": "TN-NP-008",
+   "type": "single-best-answer",
+   "question": "A 29-year-old woman presents with months of fatigue and muscle weakness. Serum bicarbonate is 15 mmol/L, chloride is elevated, and the serum anion gap is normal. Serum potassium is 3.0 mmol/L. She has had no diarrhea, no vomiting, and takes no medications. Urine studies show a urine sodium plus potassium exceeding urine chloride, giving a positive urine anion gap. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Type I (distal) renal tubular acidosis"
+    },
+    {
+     "id": "b",
+     "text": "Type IV renal tubular acidosis"
+    },
+    {
+     "id": "c",
+     "text": "Bicarbonate loss from occult diarrhea"
+    },
+    {
+     "id": "d",
+     "text": "Diabetic ketoacidosis"
+    },
+    {
+     "id": "e",
+     "text": "Lactic acidosis"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes uses the urine anion gap, calculated as urine sodium plus potassium minus chloride, to separate renal from non-renal causes of a normal anion gap (hyperchloremic) metabolic acidosis. A urine anion gap below zero suggests adequate urinary ammonium excretion and a non-renal cause such as diarrhea, whereas a value above zero suggests a lack of urinary ammonium and a renal cause, specifically distal RTA, which reflects an inability to secrete H+ in the collecting duct.",
+   "optionExplanations": {
+    "b": "Type IV RTA reflects reduced ammoniagenesis driven by hyperkalemia, whereas this patient is hypokalemic.",
+    "c": "Diarrhea gives a negative urine anion gap because ammonium excretion is preserved, and she reports no diarrhea.",
+    "d": "Ketoacidosis characteristically produces an increased anion gap acidosis, not the normal gap described.",
+    "e": "Lactic acidosis is also an increased anion gap acidosis and does not fit a normal gap hyperchloremic picture."
+   },
+   "topic": "Acid-Base Disorders",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "NP",
+    "name": "Nephrology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 839,
+    "reference": "NP19 — Normal Anion Gap Metabolic Acidosis and the Urine Anion Gap"
+   }
+  },
+  {
+   "id": "TN-NP-009",
+   "type": "single-best-answer",
+   "question": "A 74-year-old man with known benign prostatic hypertrophy presents with lower abdominal discomfort and near anuria for 18 hours. Examination reveals a palpable, tender suprapubic mass. Creatinine has risen from 96 to 320 umol/L. Renal ultrasound demonstrates bilateral hydronephrosis with a markedly distended bladder. He is hemodynamically stable, and serum potassium is 4.8 mmol/L. What is the most appropriate next step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Insert an indwelling bladder catheter"
+    },
+    {
+     "id": "b",
+     "text": "Administer a rapid intravenous crystalloid fluid bolus"
+    },
+    {
+     "id": "c",
+     "text": "Start high-dose intravenous furosemide"
+    },
+    {
+     "id": "d",
+     "text": "Arrange urgent renal biopsy"
+    },
+    {
+     "id": "e",
+     "text": "Initiate hemodialysis"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes directs that in postrenal acute kidney injury the clinician should consider structural versus functional obstruction and treat with Foley catheter insertion, an indwelling bladder catheter, nephrostomy, or stenting. It also notes that abdominal ultrasound is used to assess kidney size, hydronephrosis, and postrenal obstruction. Relieving the outflow obstruction is the definitive and immediate manoeuvre in this patient.",
+   "optionExplanations": {
+    "b": "A fluid challenge is used to rule out prerenal causes, but this patient has demonstrated mechanical obstruction rather than hypoperfusion.",
+    "c": "Loop diuretics are used to treat fluid overload complicating AKI and will not relieve bladder outlet obstruction.",
+    "d": "Biopsy is indicated when the diagnosis is uncertain or significant glomerular disease is suspected, not when obstruction is demonstrated.",
+    "e": "Dialysis is a treatment for complications of AKI and is unnecessary when the potassium is normal and the obstruction is relievable."
+   },
+   "topic": "Postrenal Acute Kidney Injury",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "NP",
+    "name": "Nephrology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 842,
+    "reference": "NP22 — Acute Kidney Injury: Investigations and Treatment"
+   }
+  },
+  {
+   "id": "TN-NP-010",
+   "type": "single-best-answer",
+   "question": "A 58-year-old man reports three weeks of progressive fatigue and puffy eyes. Blood pressure is 168/98 mmHg. Creatinine has climbed from 88 to 340 umol/L over that interval. Urinalysis shows microscopic hematuria, and microscopy demonstrates red blood cell casts and dysmorphic red cells. A 24 hour urine collection shows 1.8 g of protein. Serology including ANCA, ANA, complement levels, and anti-GBM antibodies is pending. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Rapidly progressive glomerulonephritis"
+    },
+    {
+     "id": "b",
+     "text": "Nephrotic syndrome due to minimal change disease"
+    },
+    {
+     "id": "c",
+     "text": "Acute tubular necrosis"
+    },
+    {
+     "id": "d",
+     "text": "Chronic tubulointerstitial nephritis"
+    },
+    {
+     "id": "e",
+     "text": "Prerenal azotemia"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes describes rapidly progressive glomerulonephritis as a subset of nephritic syndrome in which the clinical course occurs over days to weeks, with a triad of hematuria with RBC casts and/or dysmorphic RBCs, azotemia, and hypertension from salt and water retention, plus proteinuria below the nephrotic range of 3.5 g/1.73 m2/d. The recommended workup is broad and includes ANCA, ANA, complement levels, anti-GBM, HIV, viral hepatitis, and a paraprotein screen.",
+   "optionExplanations": {
+    "b": "Minimal change disease presents with heavy proteinuria above 3.5 g/d and hypoalbuminemia rather than an active nephritic sediment.",
+    "c": "ATN follows an ischemic or nephrotoxic insult and does not produce red cell casts with dysmorphic red cells.",
+    "d": "Chronic tubulointerstitial nephritis produces slowly progressive failure with mild proteinuria, few cells, and no RBC casts.",
+    "e": "Prerenal azotemia is a hemodynamic process with bland sediment and no glomerular hematuria."
+   },
+   "topic": "Glomerular Disease",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "NP",
+    "name": "Nephrology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 845,
+    "reference": "NP25 — Rapidly Progressive GN"
+   }
+  },
+  {
+   "id": "TN-NP-011",
+   "type": "single-best-answer",
+   "question": "A 24-year-old man was diagnosed with Hodgkin lymphoma two months ago. He now develops periorbital and lower limb edema with frothy urine. A 24 hour urine collection contains 8 g of protein, serum albumin is low, and fasting lipids are elevated. Urine microscopy shows oval fat bodies. He takes no NSAIDs, gold, or penicillamine, and viral serologies are negative. What is the most likely underlying glomerular lesion?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Minimal change glomerulopathy"
+    },
+    {
+     "id": "b",
+     "text": "Membranous glomerulopathy"
+    },
+    {
+     "id": "c",
+     "text": "Focal segmental glomerulosclerosis"
+    },
+    {
+     "id": "d",
+     "text": "Membranoproliferative glomerulonephritis"
+    },
+    {
+     "id": "e",
+     "text": "Nodular glomerulosclerosis"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "This is nephrotic syndrome: proteinuria above 3.5 g/24 h with hypoalbuminemia, edema, hyperlipidemia, and lipiduria with oval fat bodies. In the Toronto Notes table of nephrotic syndrome causes, Hodgkin lymphoma (primarily) and non-Hodgkin lymphoma are listed as the secondary causes of minimal change glomerulopathy, for which the listed therapy is steroids.",
+   "optionExplanations": {
+    "b": "Membranous glomerulopathy is linked to hepatitis B, SLE, and solid tumours of lung, breast, and GI tract rather than Hodgkin lymphoma.",
+    "c": "FSGS is associated with reflux nephropathy, HIV, hepatitis B, obesity, sickle cell disease, and heroin use.",
+    "d": "Membranoproliferative GN is associated with HIV, HCV, malaria, SLE, leukemia, lymphoma, and shunt nephritis, and typically has hematuria with variable proteinuria.",
+    "e": "Nodular glomerulosclerosis is associated with diabetes mellitus and amyloidosis."
+   },
+   "topic": "Nephrotic Syndrome",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "NP",
+    "name": "Nephrology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 846,
+    "reference": "NP26 — Nephrotic Syndrome (Table 12)"
+   }
+  },
+  {
+   "id": "TN-NP-012",
+   "type": "single-best-answer",
+   "question": "A 28-year-old woman is referred for hypertension of 178/108 mmHg that remains uncontrolled on three agents. There is no family history of hypertension. An epigastric bruit is audible on examination. She does not smoke and has no dyslipidemia or diabetes. Serum potassium is 3.1 mmol/L without diuretic use, and creatinine rose noticeably after an ACE inhibitor was added. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Renal artery stenosis due to fibromuscular dysplasia"
+    },
+    {
+     "id": "b",
+     "text": "Atherosclerotic renal artery stenosis"
+    },
+    {
+     "id": "c",
+     "text": "Renal vein thrombosis"
+    },
+    {
+     "id": "d",
+     "text": "Polyarteritis nodosa"
+    },
+    {
+     "id": "e",
+     "text": "Atheroembolic renal disease"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes lists the signs and symptoms of ischemic renal disease from renal artery stenosis as severe or refractory hypertension with a negative family history, asymmetric renal size, epigastric or flank bruits, spontaneous hypokalemia from renin activation in the under-perfused kidney, rising creatinine with an ACE inhibitor or ARB, and flash pulmonary edema. Fibromuscular dysplasia accounts for 10% of cases, affects the distal two-thirds of the renal artery, and typically occurs in young females with onset under age 30.",
+   "optionExplanations": {
+    "b": "Atherosclerotic disease accounts for 90% of renal artery stenosis but typically affects male smokers over 55 with other atherosclerotic risk factors.",
+    "c": "Renal vein thrombosis presents acutely with flank pain, hematuria, elevated LDH, and a sudden rise in proteinuria.",
+    "d": "Polyarteritis nodosa is a medium vessel vasculitis causing glomerular ischemia with mild proteinuria rather than this renovascular syndrome.",
+    "e": "Atheroembolic disease typically follows renal artery manipulation and shows eosinophilia, eosinophiluria, and hypocomplementemia."
+   },
+   "topic": "Renovascular Disease",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "NP",
+    "name": "Nephrology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 851,
+    "reference": "NP31 — Ischemic Renal Disease (Renal Artery Stenosis)"
+   }
+  },
+  {
+   "id": "TN-NP-013",
+   "type": "single-best-answer",
+   "question": "A 34-year-old man presents with dull lumbar back pain and an episode of gross hematuria. Blood pressure is 152/94 mmHg and both kidneys are palpable. He reports nocturia. His father began dialysis at age 58 and an uncle died of a ruptured cerebral aneurysm. Creatinine is mildly elevated and urinalysis shows microscopic hematuria without casts. What is the most appropriate initial investigation?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Renal ultrasound"
+    },
+    {
+     "id": "b",
+     "text": "Renal biopsy"
+    },
+    {
+     "id": "c",
+     "text": "Intravenous pyelogram"
+    },
+    {
+     "id": "d",
+     "text": "Serum complement levels and ANCA"
+    },
+    {
+     "id": "e",
+     "text": "Cystoscopy"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states that ultrasound is confirmatory for adult polycystic kidney disease, showing enlarged kidneys, multiple cysts throughout the renal parenchyma, increased cortical thickness, and splaying of the renal calyces. The presentation of flank or lumbar pain, hematuria, nocturia from a urinary concentrating defect, hypertension, palpable kidneys, and an autosomal dominant family history with cerebral aneurysm fits ADPKD. Screening for cerebral aneurysms is indicated given the family history of aneurysmal hemorrhage.",
+   "optionExplanations": {
+    "b": "Biopsy is not the described diagnostic approach for cystic kidney disease and carries risk in enlarged cystic kidneys.",
+    "c": "Intravenous pyelogram is described in relation to medullary sponge kidney and papillary necrosis, not as the confirmatory test for ADPKD.",
+    "d": "Complement and ANCA testing is part of the glomerular disease workup, and this patient has no casts or nephritic features.",
+    "e": "Cystoscopy investigates lower tract bleeding and would not identify parenchymal cystic disease."
+   },
+   "topic": "Cystic Kidney Disease",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "NP",
+    "name": "Nephrology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 859,
+    "reference": "NP39 — Adult Polycystic Kidney Disease"
+   }
+  },
+  {
+   "id": "TN-NP-014",
+   "type": "single-best-answer",
+   "question": "A 63-year-old woman with chronic kidney disease has an eGFR of 8 mL/min/1.73 m2 and is not yet on renal replacement therapy. She reports pleuritic chest pain, nausea, and profound fatigue. A pericardial friction rub is audible. Serum urea is markedly elevated and she is asterixic. Potassium is 5.2 mmol/L and she is not volume overloaded. What is the most appropriate next step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Initiate dialysis"
+    },
+    {
+     "id": "b",
+     "text": "Start a loop diuretic and restrict dietary sodium"
+    },
+    {
+     "id": "c",
+     "text": "Begin oral sodium bicarbonate"
+    },
+    {
+     "id": "d",
+     "text": "Start an erythropoiesis-stimulating agent"
+    },
+    {
+     "id": "e",
+     "text": "Prescribe a low-protein diet and reassess in one month"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes lists uremic pericarditis and neurologic signs or symptoms of uremia such as encephalopathy, neuropathy, and seizures among the absolute indications for dialysis, alongside volume overload, hyperkalemia, and severe metabolic acidosis unresponsive to medications. It also states that the decision to start dialysis in ESRD should be symptom driven and that dialysis is generally started when GFR reaches approximately below 10 mL/min.",
+   "optionExplanations": {
+    "b": "Diuretics and sodium restriction address volume overload, which this patient does not have, and do not treat uremic pericarditis.",
+    "c": "Sodium bicarbonate is used for metabolic acidosis in CKD but does not resolve uremic pericarditis or encephalopathy.",
+    "d": "Erythropoiesis-stimulating agents treat the anemia of CKD and have no role in acute uremic complications.",
+    "e": "Protein restriction is a measure to slow progression and is inadequate for an absolute indication for dialysis."
+   },
+   "topic": "End Stage Renal Disease and Dialysis",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "NP",
+    "name": "Nephrology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 861,
+    "reference": "NP41 — Indications for Dialysis"
+   }
+  }
+ ]
+}

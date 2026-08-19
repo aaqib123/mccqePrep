@@ -1,0 +1,382 @@
+{
+ "chapter": {
+  "code": "A",
+  "name": "Anesthesia"
+ },
+ "document": {
+  "id": "toronto-notes-2025",
+  "title": "Toronto Notes 2025",
+  "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
+ },
+ "count": 8,
+ "questions": [
+  {
+   "id": "TN-A-001",
+   "type": "single-best-answer",
+   "question": "A 68-year-old man is assessed in the preoperative clinic before an open cholecystectomy. He has unstable coronary artery disease with angina at rest and symptomatic congestive heart failure requiring recent hospitalization. He is not moribund and is expected to survive well beyond 24 hours. Which of the following American Society of Anesthesiologists physical status classifications best describes him?",
+   "options": [
+    {
+     "id": "a",
+     "text": "ASA 1"
+    },
+    {
+     "id": "b",
+     "text": "ASA 2"
+    },
+    {
+     "id": "c",
+     "text": "ASA 3"
+    },
+    {
+     "id": "d",
+     "text": "ASA 4"
+    },
+    {
+     "id": "e",
+     "text": "ASA 5"
+    }
+   ],
+   "correctAnswer": "d",
+   "explanation": "The ASA classification describes physical status at the time of surgery. ASA 4 is a patient with severe systemic disease that is a constant threat to life, with unstable coronary artery disease and symptomatic congestive heart failure given as examples. ASA 3 describes severe systemic disease limiting activity, such as stable CAD, and ASA 5 is a moribund patient not expected to survive 24 hours without surgery.",
+   "optionExplanations": {
+    "a": "ASA 1 describes a healthy, fit patient.",
+    "b": "ASA 2 describes mild systemic disease such as controlled type 2 diabetes, controlled hypertension, obesity or smoking.",
+    "c": "ASA 3 describes severe systemic disease limiting activity, for example stable CAD, COPD or poorly controlled diabetes.",
+    "e": "ASA 5 is reserved for a moribund patient not expected to survive 24 hours without the operation, such as ruptured AAA."
+   },
+   "topic": "Preoperative Assessment and ASA Classification",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "A",
+    "name": "Anesthesia"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 58,
+    "reference": "A4 — American Society of Anesthesiology Classification"
+   }
+  },
+  {
+   "id": "TN-A-002",
+   "type": "single-best-answer",
+   "question": "A 45-year-old woman with no significant comorbidities is scheduled for an elective laparoscopic procedure. She asks the anesthesiologist how long before the operation she must stop drinking water and pulp-free apple juice. She has no condition that delays gastric emptying. According to the Canadian Anesthesiologists' Society fasting guidelines, what is the minimum fasting interval for clear fluids in an adult before an elective procedure?",
+   "options": [
+    {
+     "id": "a",
+     "text": "1 hour"
+    },
+    {
+     "id": "b",
+     "text": "2 hours"
+    },
+    {
+     "id": "c",
+     "text": "4 hours"
+    },
+    {
+     "id": "d",
+     "text": "6 hours"
+    },
+    {
+     "id": "e",
+     "text": "8 hours"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Before elective procedures the minimum fasting duration for clear fluids in adults, including water, pulp-free juice, complex carbohydrate beverages and tea or coffee without milk, is 2 hours. Solids and non-human milk or fortified expressed breast milk require 6 hours, breast milk 4 hours, and clear fluids in infants and children 1 hour.",
+   "optionExplanations": {
+    "a": "One hour is the minimum for clear fluid intake in infants and children, not adults.",
+    "c": "Four hours applies to ingestion of breast milk.",
+    "d": "Six hours applies to solid meals, infant formula, non-human milk or fortified expressed breast milk.",
+    "e": "Eight hours exceeds the recommended interval and unnecessarily prolongs fasting."
+   },
+   "topic": "Preoperative Fasting Guidelines",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "A",
+    "name": "Anesthesia"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 59,
+    "reference": "A5 — Fasting Guidelines Prior to Surgery"
+   }
+  },
+  {
+   "id": "TN-A-003",
+   "type": "single-best-answer",
+   "question": "A 66-year-old man is referred for elective inguinal hernia repair. Three weeks ago he had a myocardial infarction managed medically without coronary intervention. He is currently asymptomatic on optimal medical therapy, and the hernia is reducible and not causing obstructive symptoms. Which of the following is the most appropriate management plan?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Postpone the operation until at least 60 days have elapsed since the myocardial infarction"
+    },
+    {
+     "id": "b",
+     "text": "Proceed with the operation now under general anesthesia"
+    },
+    {
+     "id": "c",
+     "text": "Proceed with the operation now under spinal anesthesia"
+    },
+    {
+     "id": "d",
+     "text": "Postpone the operation for one week and then proceed"
+    },
+    {
+     "id": "e",
+     "text": "Proceed now with postoperative ICU monitoring"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "ACC/AHA guidelines recommend that at least 60 days elapse after a myocardial infarction before non-cardiac surgery in the absence of a coronary intervention, because this period carries an increased risk of re-infarction and death, and mortality with perioperative MI is 20-50%. Since this hernia repair is elective and can be delayed, the surgery should be deferred.",
+   "optionExplanations": {
+    "b": "Operating within the high-risk window after myocardial infarction increases re-infarction and death for an elective case that can wait.",
+    "c": "Choosing a different anesthetic technique does not remove the elevated risk associated with recent infarction.",
+    "d": "One week falls far short of the recommended 60-day interval.",
+    "e": "Invasive intra- and postoperative ICU monitoring is the strategy when a procedure is essential and cannot be delayed, which is not the case here."
+   },
+   "topic": "Perioperative Cardiac Risk",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "A",
+    "name": "Anesthesia"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 59,
+    "reference": "A5 — Coronary Artery Disease"
+   }
+  },
+  {
+   "id": "TN-A-004",
+   "type": "single-best-answer",
+   "question": "A 38-year-old woman requires an emergency appendectomy. She ate a full meal one hour before the onset of pain, has longstanding gastroesophageal reflux disease with a hiatus hernia, and has received parenteral opioid analgesia in the emergency department. Her airway examination is reassuring. Which of the following is the most appropriate airway plan for induction of general anesthesia?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Inhalational induction with a laryngeal mask airway"
+    },
+    {
+     "id": "b",
+     "text": "Routine IV induction with bag-mask ventilation followed by intubation"
+    },
+    {
+     "id": "c",
+     "text": "Rapid sequence induction with cricoid pressure and a cuffed endotracheal tube"
+    },
+    {
+     "id": "d",
+     "text": "Supraglottic airway with maintained spontaneous ventilation"
+    },
+    {
+     "id": "e",
+     "text": "Deep sedation with a simple face mask"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "This patient has multiple aspiration risk factors: inadequate fasting, delayed gastric emptying from narcotics, decreased sphincter competence from GERD and hiatus hernia, and an acute abdomen. Management is to use a protected airway with an endotracheal tube, reduce gastric volume and acidity, and employ rapid sequence induction, in which bag-mask ventilation is avoided and cricoid pressure may be applied.",
+   "optionExplanations": {
+    "a": "A laryngeal mask or any supraglottic device leaves the airway unprotected and is itself listed as an aspiration risk factor.",
+    "b": "Bag-mask ventilation is avoided in rapid sequence induction because it can increase the risk of aspiration.",
+    "d": "Spontaneous ventilation through a supraglottic airway does not protect against regurgitation of gastric contents.",
+    "e": "Deep sedation with an unprotected airway reduces the level of consciousness and increases aspiration risk."
+   },
+   "topic": "Aspiration Risk and Rapid Sequence Induction",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "A",
+    "name": "Anesthesia"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 60,
+    "reference": "A6 — Aspiration"
+   }
+  },
+  {
+   "id": "TN-A-005",
+   "type": "single-best-answer",
+   "question": "A 27-year-old man requires emergency laparotomy after a stabbing. He is hypovolemic from ongoing hemorrhage, with blood pressure 84/48 mmHg and heart rate 128 bpm despite resuscitation. He is being taken directly to the operating room and requires immediate induction of general anesthesia. Which of the following induction agents is most appropriate?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Propofol"
+    },
+    {
+     "id": "b",
+     "text": "Ketamine"
+    },
+    {
+     "id": "c",
+     "text": "Thiopental"
+    },
+    {
+     "id": "d",
+     "text": "Etomidate"
+    },
+    {
+     "id": "e",
+     "text": "Midazolam"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Ketamine is a dissociative agent that increases heart rate, blood pressure, systemic vascular resistance and coronary flow, and it is indicated for induction when sympathetic stimulation is required, such as major trauma and hypovolemia. It is also used for IM induction in children or uncooperative adults and in severe asthma because of its sympathomimetic and bronchodilating effects.",
+   "optionExplanations": {
+    "a": "Propofol decreases systemic vascular resistance, blood pressure and stroke volume, and should be used with caution in patients who cannot tolerate a sudden fall in blood pressure.",
+    "c": "Thiopental decreases cardiac output and blood pressure and is cautioned against in uncontrolled hypotension, shock and cardiac failure.",
+    "d": "Etomidate is indicated for poor cardiac function and severe valve lesions rather than as the agent of choice for hemorrhagic hypovolemia, and it causes adrenal suppression after a single dose.",
+    "e": "Midazolam is described as a sedation agent rather than one of the listed intravenous induction agents for this scenario."
+   },
+   "topic": "Intravenous Induction Agents",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "A",
+    "name": "Anesthesia"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 70,
+    "reference": "A16 — Intravenous Induction Agents"
+   }
+  },
+  {
+   "id": "TN-A-006",
+   "type": "single-best-answer",
+   "question": "An anesthesiologist is planning maintenance with sevoflurane for two patients undergoing the same operation: a fit 30-year-old and a fit 80-year-old. Both are normothermic, have received no premedication, and have no history of substance use. The anesthesiologist expects the required minimum alveolar concentration to differ between them. Which of the following factors decreases the minimum alveolar concentration requirement?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Advanced age"
+    },
+    {
+     "id": "b",
+     "text": "Chronic alcohol use"
+    },
+    {
+     "id": "c",
+     "text": "Hyperthermia"
+    },
+    {
+     "id": "d",
+     "text": "Acute amphetamine use"
+    },
+    {
+     "id": "e",
+     "text": "Hyperthyroidism"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "MAC is the minimum alveolar concentration of a volatile anesthetic that prevents movement in 50% of patients in response to a surgical stimulus, and it is the measure used to compare potency. MAC of halogenated volatile anesthetics decreases by approximately 6% per additional decade of age in adults, so the older patient requires a lower concentration.",
+   "optionExplanations": {
+    "b": "Chronic alcohol use is listed among the factors that increase MAC.",
+    "c": "Hyperthermia increases MAC, whereas hypothermia decreases it.",
+    "d": "Acute amphetamine use increases MAC, while chronic amphetamine use decreases it.",
+    "e": "Hyperthyroidism is listed among the factors that increase MAC."
+   },
+   "topic": "Minimum Alveolar Concentration",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "A",
+    "name": "Anesthesia"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 71,
+    "reference": "A17 — Minimum Alveolar Concentration"
+   }
+  },
+  {
+   "id": "TN-A-007",
+   "type": "single-best-answer",
+   "question": "A 30-year-old man sustained third-degree burns to 40% of his body surface area five days ago. He now requires general anesthesia with rapid airway control for wound debridement, and he is at risk of regurgitation because of a recently fed nasogastric tube. His airway examination is normal. Which of the following neuromuscular blocking agents is most appropriate?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Succinylcholine 1.5 mg/kg"
+    },
+    {
+     "id": "b",
+     "text": "Rocuronium 1.0 mg/kg"
+    },
+    {
+     "id": "c",
+     "text": "Vecuronium 0.1 mg/kg"
+    },
+    {
+     "id": "d",
+     "text": "Cisatracurium 0.2 mg/kg"
+    },
+    {
+     "id": "e",
+     "text": "Pancuronium 0.1 mg/kg"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Succinylcholine can cause massive potassium release through proliferation of extrajunctional cholinergic receptors, and patients with third-degree burns from 24 hours to 6 months after injury are at high risk for a hyperkalemic response, an absolute contraindication. High-dose rocuronium has a quick onset that allows its use in rapid sequence induction and is the appropriate alternative.",
+   "optionExplanations": {
+    "a": "Succinylcholine is contraindicated in patients at high risk of hyperkalemic response, including third-degree burns 24 hours to 6 months after injury.",
+    "c": "Vecuronium has an onset of 2-3 minutes, which is too slow for rapid airway control.",
+    "d": "Cisatracurium also has an onset of about 2-3 minutes and is not suited to rapid sequence induction.",
+    "e": "Pancuronium is long acting with a 3-5 minute onset and causes tachycardia."
+   },
+   "topic": "Neuromuscular Blocking Agents",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "A",
+    "name": "Anesthesia"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 73,
+    "reference": "A19 — Depolarizing and Non-Depolarizing Muscle Relaxants"
+   }
+  },
+  {
+   "id": "TN-A-008",
+   "type": "single-best-answer",
+   "question": "A 19-year-old man under general anesthesia with sevoflurane, who received succinylcholine at induction, develops an unexplained rise in end-tidal CO2, tachycardia, generalized muscle rigidity and diaphoresis 30 minutes into the case. Core temperature is climbing. The surgeon has been notified, triggering agents have been discontinued, charcoal filters inserted, and he is hyperventilated with 100% oxygen. Which of the following is the most appropriate next treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Dantrolene 2.5 mg/kg IV"
+    },
+    {
+     "id": "b",
+     "text": "Sodium bicarbonate 1-2 mEq/kg IV"
+    },
+    {
+     "id": "c",
+     "text": "Calcium chloride 10 mg/kg IV"
+    },
+    {
+     "id": "d",
+     "text": "Glucose with insulin IV"
+    },
+    {
+     "id": "e",
+     "text": "Furosemide IV"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "This is malignant hyperthermia, a hypermetabolic disorder of skeletal muscle triggered by all inhalational agents except nitrous oxide and by succinylcholine, presenting with rising end-tidal CO2, tachycardia, rigidity and late hyperthermia. After notifying the surgeon, stopping triggers and hyperventilating with 100% oxygen, dantrolene 2.5 mg/kg IV through a large-bore IV is given and repeated until the signs are controlled.",
+   "optionExplanations": {
+    "b": "Sodium bicarbonate is given for a base excess worse than -8 on blood gas, or as part of hyperkalemia treatment, after dantrolene.",
+    "c": "Calcium chloride is used for life-threatening hyperkalemia complicating malignant hyperthermia rather than as the primary treatment.",
+    "d": "Glucose with insulin is a component of hyperkalemia management, not the specific antidote for the hypermetabolic crisis.",
+    "e": "Furosemide is considered for maintaining fluid output later in management and does not treat the underlying disorder."
+   },
+   "topic": "Malignant Hyperthermia",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "A",
+    "name": "Anesthesia"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 83,
+    "reference": "A29 — Malignant Hyperthermia Management"
+   }
+  }
+ ]
+}

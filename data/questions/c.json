@@ -1,0 +1,1210 @@
+{
+ "chapter": {
+  "code": "C",
+  "name": "Cardiology and Cardiac Surgery"
+ },
+ "document": {
+  "id": "toronto-notes-2025",
+  "title": "Toronto Notes 2025",
+  "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
+ },
+ "count": 26,
+ "questions": [
+  {
+   "id": "TN-C-001",
+   "type": "single-best-answer",
+   "question": "A 66-year-old man with exertional angina undergoes diagnostic coronary angiography. The interventional cardiologist identifies a vessel arising from an aortic sinus of Valsalva that gives off the conus artery, several acute marginal branches, and the artery supplying the atrioventricular node. In this patient the same vessel also gives rise to the posterior descending artery. Which vessel is being described?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Right coronary artery"
+    },
+    {
+     "id": "b",
+     "text": "Left circumflex artery"
+    },
+    {
+     "id": "c",
+     "text": "Left anterior descending artery"
+    },
+    {
+     "id": "d",
+     "text": "Left main coronary artery"
+    },
+    {
+     "id": "e",
+     "text": "First diagonal branch"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes lists the branches of the RCA as the conus artery, acute marginal branches, the AV nodal artery, and usually the posterior descending (posterior interventricular) artery. The AV nodal artery arises from the RCA in about 90% of people. Because the PDA arises from the RCA here, this is a right-dominant circulation, which occurs in roughly 80% of individuals.",
+   "optionExplanations": {
+    "b": "The LCx gives obtuse marginal branches and supplies the PDA only in left-dominant circulation (about 15%).",
+    "c": "The LAD gives septal and diagonal branches, not conus or acute marginal branches.",
+    "d": "The left coronary artery divides into the LAD and LCx and does not give the conus or acute marginal branches.",
+    "e": "Diagonal branches are branches of the LAD and do not supply the AV node or give rise to the PDA."
+   },
+   "topic": "Coronary Anatomy",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "C",
+    "name": "Cardiology and Cardiac Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 92,
+    "reference": "C2 — Basic Anatomy Review: Coronary Circulation"
+   }
+  },
+  {
+   "id": "TN-C-002",
+   "type": "single-best-answer",
+   "question": "A 72-year-old woman with long-standing hypertension has a routine ECG. The QRS duration is 140 msec. There are broad notched R waves in leads I, aVL, V5, and V6, with deep broad S waves in V1 and V2. Secondary ST-T changes are negative in the leads with broad notched R waves and positive in V1-V2. What is the most likely conduction abnormality?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Complete right bundle branch block"
+    },
+    {
+     "id": "b",
+     "text": "Complete left bundle branch block"
+    },
+    {
+     "id": "c",
+     "text": "Left anterior fascicular block"
+    },
+    {
+     "id": "d",
+     "text": "Left posterior fascicular block"
+    },
+    {
+     "id": "e",
+     "text": "Nonspecific intraventricular conduction block"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Complete LBBB is defined by a QRS duration >120 msec with broad notched R waves in leads I, aVL, V5, and V6, deep broad S waves in V1-V2, and secondary ST-T changes that are negative in leads with the broad notched R waves and positive in V1-V2. This patient meets all of these criteria. Note that LBBB can mask the ECG signs of myocardial infarction.",
+   "optionExplanations": {
+    "a": "RBBB gives a positive QRS in V1 (rSR') with broad S waves in I and V5-6, the opposite of this pattern.",
+    "c": "Left anterior fascicular block causes left axis deviation with small Q and prominent R in I and aVL, without a QRS >120 msec pattern of LBBB.",
+    "d": "Left posterior fascicular block causes right axis deviation with small R and prominent S in I and aVL.",
+    "e": "Nonspecific intraventricular block is diagnosed only when the QRS is >120 msec and definitive criteria for LBBB or RBBB are absent."
+   },
+   "topic": "ECG Interpretation",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "C",
+    "name": "Cardiology and Cardiac Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 98,
+    "reference": "C8 — Conduction Abnormalities"
+   }
+  },
+  {
+   "id": "TN-C-003",
+   "type": "single-best-answer",
+   "question": "A 68-year-old woman treated with citalopram for depression is started on azithromycin for bronchitis. She feels lightheaded. Serum potassium is 3.0 mmol/L and serum magnesium is also low. Her ECG shows sinus rhythm at 72 bpm with a corrected QT interval of 520 msec. She is at greatest risk of developing which of the following arrhythmias?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Torsades de pointes"
+    },
+    {
+     "id": "b",
+     "text": "Ventricular fibrillation from a short QT interval"
+    },
+    {
+     "id": "c",
+     "text": "Atrial flutter"
+    },
+    {
+     "id": "d",
+     "text": "Multifocal atrial tachycardia"
+    },
+    {
+     "id": "e",
+     "text": "Accelerated idioventricular rhythm"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states that a QTc above 450 msec in males and 460 msec in females carries a risk of torsades de pointes, a lethal tachyarrhythmia. Recognized precipitants include antidepressants such as citalopram, antibiotics such as azithromycin and erythromycin, and low K+, low Mg2+, and low Ca2+. This patient has all three categories of risk factor and a QTc of 520 msec.",
+   "optionExplanations": {
+    "b": "Risk of VFib is associated with a decreased QTc (<360 msec) and is described as very rare; this patient's QTc is prolonged.",
+    "c": "Atrial flutter is not listed as a consequence of QT prolongation.",
+    "d": "Multifocal atrial tachycardia is not a described complication of a prolonged QT interval.",
+    "e": "Accelerated idioventricular rhythm is not attributed to QT prolongation or to these drugs and electrolyte abnormalities."
+   },
+   "topic": "ECG Interpretation",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "C",
+    "name": "Cardiology and Cardiac Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 102,
+    "reference": "C12 — Q-T Interval"
+   }
+  },
+  {
+   "id": "TN-C-004",
+   "type": "single-best-answer",
+   "question": "A 62-year-old man is on day 4 of hospitalization for an ST elevation myocardial infarction treated with primary percutaneous coronary intervention. He develops new prolonged chest pain with fresh ECG changes. Serial troponin I measurements remain elevated from the index infarct. Which biomarker is most appropriate to confirm re-infarction?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Creatine kinase-MB"
+    },
+    {
+     "id": "b",
+     "text": "Troponin T"
+    },
+    {
+     "id": "c",
+     "text": "B-type natriuretic peptide"
+    },
+    {
+     "id": "d",
+     "text": "Lactate dehydrogenase"
+    },
+    {
+     "id": "e",
+     "text": "Aspartate aminotransferase"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states that a new CK-MB elevation can be used to diagnose re-infarction. CK-MB peaks at about 1 day and stays elevated for approximately 3 days, whereas troponin I and T remain elevated for up to 2 weeks after the index infarct. Because troponin is still elevated from the initial event, a new rise in CK-MB is the useful marker here.",
+   "optionExplanations": {
+    "b": "Troponin T stays elevated for up to 2 weeks after the index MI, so it cannot distinguish a new infarct from the original one.",
+    "c": "BNP is secreted in response to increased end-diastolic pressure and volume; it is not a marker of re-infarction.",
+    "d": "LDH increases in MI but has low specificity and is not used to diagnose re-infarction.",
+    "e": "AST also rises in MI but has low specificity and is not used to diagnose re-infarction."
+   },
+   "topic": "Cardiac Biomarkers",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "C",
+    "name": "Cardiology and Cardiac Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 103,
+    "reference": "C13 — Cardiac Biomarkers"
+   }
+  },
+  {
+   "id": "TN-C-005",
+   "type": "single-best-answer",
+   "question": "A 64-year-old man has atrial fibrillation of uncertain duration and remains symptomatic despite rate control. He is hemodynamically stable. Electrical cardioversion is planned, and the team wishes to exclude a left atrial appendage thrombus before proceeding. Transthoracic images are technically adequate for ventricular function but do not visualize the appendage. Which investigation is most appropriate?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Transesophageal echocardiography"
+    },
+    {
+     "id": "b",
+     "text": "Repeat transthoracic echocardiography"
+    },
+    {
+     "id": "c",
+     "text": "Contrast echocardiography with agitated saline"
+    },
+    {
+     "id": "d",
+     "text": "Exercise stress echocardiography"
+    },
+    {
+     "id": "e",
+     "text": "Dobutamine stress echocardiography"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes lists evaluation for left atrial or left atrial appendage thrombus in a patient with atrial fibrillation or flutter, to guide decisions about the safety of electrical cardioversion or ablation, as a specific indication for transesophageal echocardiography. TEE gives better resolution of the left atrium, left atrial appendage, and posterior structures than transthoracic imaging, and serious complications occur in fewer than 1 in 5000 studies.",
+   "optionExplanations": {
+    "b": "Transthoracic echocardiography does not reliably visualize the left atrial appendage or posterior structures.",
+    "c": "Agitated saline contrast is used to detect right-to-left shunts and enhance Doppler signals, not to exclude atrial thrombus.",
+    "d": "Exercise stress echocardiography assesses inducible ischemia and the significance of valve lesions, not intracardiac thrombus.",
+    "e": "Dobutamine stress echocardiography is a pharmacologic ischemia and viability test, not a test for atrial appendage thrombus."
+   },
+   "topic": "Cardiac Investigations",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "C",
+    "name": "Cardiology and Cardiac Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 104,
+    "reference": "C14 — Transesophageal Echocardiography"
+   }
+  },
+  {
+   "id": "TN-C-006",
+   "type": "single-best-answer",
+   "question": "A 62-year-old man with exertional chest pain undergoes a standard Bruce protocol treadmill test. He stops at 4 minutes because of exercise-limiting angina, and the maximal ST segment depression is 3 mm. His calculated Duke Treadmill Score places him in the high-risk group. What is the most appropriate next step in his management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Refer for cardiac catheterization"
+    },
+    {
+     "id": "b",
+     "text": "Continue medical therapy without further testing"
+    },
+    {
+     "id": "c",
+     "text": "Repeat the exercise treadmill test in 6 months"
+    },
+    {
+     "id": "d",
+     "text": "Arrange myocardial perfusion imaging with SPECT"
+    },
+    {
+     "id": "e",
+     "text": "Arrange a modified Naughton protocol treadmill test"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Exercise test results stratify patients into three risk groups: low risk can be treated medically without invasive testing, intermediate risk may need additional imaging studies or catheterization, and high risk should be referred for cardiac catheterization. The Duke Treadmill Score uses exercise time, maximal ST deviation, and an angina index, and a score of -11 or worse predicts about 5.25% one-year mortality.",
+   "optionExplanations": {
+    "b": "Medical management without invasive testing is the strategy for low-risk exercise test results.",
+    "c": "Repeating the same test does not address an already documented high-risk result.",
+    "d": "Additional stress imaging is an option for intermediate-risk results, not for high-risk results.",
+    "e": "The modified Naughton protocol is used for older patients or those with limited exercise capacity, and would not change management here."
+   },
+   "topic": "Stress Testing",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "C",
+    "name": "Cardiology and Cardiac Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 105,
+    "reference": "C15 — Stress Testing: Exercise Testing"
+   }
+  },
+  {
+   "id": "TN-C-007",
+   "type": "single-best-answer",
+   "question": "A 58-year-old man has recurrent palpitations. His ECG shows a regular narrow complex tachycardia at 150 bpm with sawtooth flutter waves in leads II, III, and aVF and 2:1 atrioventricular block. He is hemodynamically stable and appropriately anticoagulated, but has had two recurrences despite antiarrhythmic drug therapy. Which is the most appropriate long-term treatment to prevent recurrence?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Radiofrequency ablation of the cavotricuspid isthmus"
+    },
+    {
+     "id": "b",
+     "text": "Long-term oral sotalol"
+    },
+    {
+     "id": "c",
+     "text": "Rate control with diltiazem alone"
+    },
+    {
+     "id": "d",
+     "text": "Digoxin monotherapy"
+    },
+    {
+     "id": "e",
+     "text": "Repeated elective electrical cardioversion"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Sawtooth flutter waves in the inferior leads with a narrow QRS and 2:1 block at 150 bpm describe isthmus-dependent, typical atrial flutter, which arises from a macro re-entry circuit involving the tissue between the tricuspid annulus and the inferior vena cava. Toronto Notes states that for isthmus-dependent typical flutter the treatment of choice is radiofrequency ablation of the cavotricuspid isthmus.",
+   "optionExplanations": {
+    "b": "Sotalol is an option for chemical cardioversion and antiarrhythmic suppression, but drug therapy has already failed.",
+    "c": "Diltiazem provides rate control only and does not prevent recurrent flutter.",
+    "d": "Digoxin is a rate-control option and does not address the re-entry circuit causing recurrence.",
+    "e": "Electrical cardioversion terminates an episode but does not prevent recurrences."
+   },
+   "topic": "Atrial Flutter",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "C",
+    "name": "Cardiology and Cardiac Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 111,
+    "reference": "C21 — Supraventricular Tachyarrhythmias: Atrial Flutter"
+   }
+  },
+  {
+   "id": "TN-C-008",
+   "type": "single-best-answer",
+   "question": "A 78-year-old woman presents after two episodes of syncope. Her pulse is 38 bpm and regular. The ECG shows constant P-P intervals and constant R-R intervals, with more P waves than QRS complexes and no relationship between the P waves and the wide QRS complexes. The P waves appear to march through the tracing. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Third degree atrioventricular block"
+    },
+    {
+     "id": "b",
+     "text": "Second degree atrioventricular block, Mobitz type I"
+    },
+    {
+     "id": "c",
+     "text": "Second degree atrioventricular block, Mobitz type II"
+    },
+    {
+     "id": "d",
+     "text": "First degree atrioventricular block"
+    },
+    {
+     "id": "e",
+     "text": "Sinus bradycardia"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Third degree (complete) AV block is complete failure of conduction of supraventricular impulses to the ventricles, with ventricular depolarization initiated by an escape pacemaker distal to the block. The ECG shows constant P-P and R-R intervals with variable PR intervals, no relationship between P waves and QRS complexes, more P waves than QRS complexes, and a wide or narrow QRS.",
+   "optionExplanations": {
+    "b": "Mobitz I gives a regularly irregular pattern of progressively lengthening conduction, not complete AV dissociation.",
+    "c": "In Mobitz II, conducted beats retain a fixed relationship between P waves and QRS complexes.",
+    "d": "In first degree block every P wave conducts, so P waves and QRS complexes remain paired one-to-one.",
+    "e": "Sinus bradycardia preserves a P wave before every QRS with a normal PR relationship."
+   },
+   "topic": "Bradyarrhythmias",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "C",
+    "name": "Cardiology and Cardiac Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 111,
+    "reference": "C21 — Types of Bradyarrhythmias"
+   }
+  },
+  {
+   "id": "TN-C-009",
+   "type": "single-best-answer",
+   "question": "A 71-year-old man with severe COPD is admitted with an exacerbation and hypoxemia. Telemetry shows an irregular narrow complex tachycardia at 130 bpm. His 12-lead ECG demonstrates at least three distinct P wave morphologies with varying PR intervals, and some P waves are not conducted. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Multifocal atrial tachycardia"
+    },
+    {
+     "id": "b",
+     "text": "Atrial fibrillation"
+    },
+    {
+     "id": "c",
+     "text": "Atrial flutter with variable block"
+    },
+    {
+     "id": "d",
+     "text": "Sinus tachycardia with frequent premature atrial contractions"
+    },
+    {
+     "id": "e",
+     "text": "Atrioventricular nodal re-entrant tachycardia"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Multifocal atrial tachycardia is an irregular rhythm caused by three or more atrial foci, with an atrial rate of 100-200 bpm, three or more distinct P wave morphologies, varying PR intervals, and some non-conducted P waves. It is more common in patients with COPD or hypoxemia. Treatment is directed at the underlying cause; calcium channel blockers may be used and beta-blockers may be contraindicated by severe lung disease.",
+   "optionExplanations": {
+    "b": "Atrial fibrillation shows no organized P waves and a chaotic fibrillatory baseline; MAT may mimic it but has discrete P waves.",
+    "c": "Atrial flutter produces sawtooth flutter waves of uniform morphology rather than three distinct P wave shapes.",
+    "d": "Sinus tachycardia requires a single normal P wave morphology preceding each conducted QRS.",
+    "e": "AVNRT is a regular narrow complex tachycardia involving the AV node, not an irregular multifocal atrial rhythm."
+   },
+   "topic": "Supraventricular Tachyarrhythmias",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "C",
+    "name": "Cardiology and Cardiac Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 112,
+    "reference": "C22 — Multifocal Atrial Tachycardia"
+   }
+  },
+  {
+   "id": "TN-C-010",
+   "type": "single-best-answer",
+   "question": "A 67-year-old woman has had palpitations and fatigue for three weeks. Her ECG confirms atrial fibrillation. She is normotensive with no angina and no heart failure. Her CHADS2 score is 2 and she has not been anticoagulated. Elective electrical cardioversion is planned. What is the most appropriate anticoagulation strategy?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Anticoagulate for 3 weeks before and 4 weeks after cardioversion"
+    },
+    {
+     "id": "b",
+     "text": "Cardiovert immediately and begin anticoagulation as soon as possible afterward"
+    },
+    {
+     "id": "c",
+     "text": "Give Aspirin 81 mg daily for 3 weeks, then cardiovert"
+    },
+    {
+     "id": "d",
+     "text": "Anticoagulate for 4 weeks after cardioversion only"
+    },
+    {
+     "id": "e",
+     "text": "Cardiovert without anticoagulation and continue rate control"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The CCS approach cited by Toronto Notes is that if atrial fibrillation has been present for more than 48 hours, or for 12-48 hours with a CHADS2 score of 2 or more, the patient should be anticoagulated for 3 weeks before and 4 weeks after cardioversion because of the risk of an unstable intra-atrial thrombus. This woman has had AFib for three weeks with a CHADS2 score of 2.",
+   "optionExplanations": {
+    "b": "Immediate cardioversion with anticoagulation started afterward applies to unstable patients (hypotension, active angina, uncontrolled heart failure), and she is stable.",
+    "c": "ASA 81 mg is reserved for patients under 65 with no CHADS2 risk factors who have arterial disease, not for cardioversion cover.",
+    "d": "Post-cardioversion anticoagulation alone omits the required 3 weeks of pre-cardioversion anticoagulation.",
+    "e": "Cardioversion without anticoagulation is only considered when AFib is under 48 hours with a CHADS2 of 0 to 1."
+   },
+   "topic": "Atrial Fibrillation",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "C",
+    "name": "Cardiology and Cardiac Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 113,
+    "reference": "C23 — Atrial Fibrillation: Management"
+   }
+  },
+  {
+   "id": "TN-C-011",
+   "type": "single-best-answer",
+   "question": "A 24-year-old man with known Wolff-Parkinson-White syndrome presents with palpitations. His blood pressure is 112/70 mmHg. The ECG shows an irregularly irregular wide complex tachycardia with rates up to 240 bpm and varying QRS morphology, consistent with pre-excited atrial fibrillation. Which is the most appropriate pharmacologic treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Intravenous procainamide"
+    },
+    {
+     "id": "b",
+     "text": "Intravenous diltiazem"
+    },
+    {
+     "id": "c",
+     "text": "Intravenous metoprolol"
+    },
+    {
+     "id": "d",
+     "text": "Intravenous digoxin"
+    },
+    {
+     "id": "e",
+     "text": "Intravenous verapamil"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states that pre-excited atrial fibrillation is treated with electrical cardioversion, IV procainamide, or IV amiodarone. Drugs that slow AV nodal conduction must not be used, because they promote preferential conduction down the bypass tract and increase the risk of ventricular fibrillation. Even without such drugs, AFib with WPW can degenerate into VFib, and urgent inpatient electrophysiology study with ablation of the bypass tract is indicated.",
+   "optionExplanations": {
+    "b": "Diltiazem is a calcium channel blocker that slows AV nodal conduction and can precipitate ventricular fibrillation in pre-excited AFib.",
+    "c": "Beta-blockers slow AV nodal conduction and are contraindicated in pre-excited AFib.",
+    "d": "Digoxin slows AV nodal conduction and favours conduction down the accessory pathway.",
+    "e": "Verapamil is a calcium channel blocker and carries the same hazard as diltiazem in this setting."
+   },
+   "topic": "Pre-Excitation Syndromes",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "C",
+    "name": "Cardiology and Cardiac Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 116,
+    "reference": "C26 — Pre-Excited Atrial Fibrillation in WPW"
+   }
+  },
+  {
+   "id": "TN-C-012",
+   "type": "single-best-answer",
+   "question": "A 64-year-old man with a prior anterior myocardial infarction and a left ventricular ejection fraction of 30% is resuscitated from a four-minute episode of sustained monomorphic ventricular tachycardia with hypotension. Electrolytes are normal and there is no evidence of acute ischemia or any other reversible cause. What is the most appropriate next step?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Implantable cardioverter-defibrillator insertion"
+    },
+    {
+     "id": "b",
+     "text": "Long-term oral amiodarone alone"
+    },
+    {
+     "id": "c",
+     "text": "Permanent dual chamber pacemaker insertion"
+    },
+    {
+     "id": "d",
+     "text": "Discharge with a 14-day ambulatory ECG monitor"
+    },
+    {
+     "id": "e",
+     "text": "Lifestyle modification with elimination of caffeine and alcohol"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states that every patient with sustained VT or VFib and comorbid structural heart disease, in the absence of reversible causes, should be considered for ICD implantation to prevent sudden cardiac death. This man has sustained monomorphic VT lasting more than 30 seconds with prior infarct-related scarring and LV dysfunction, and no reversible trigger was identified.",
+   "optionExplanations": {
+    "b": "Amiodarone is used to terminate VT acutely but does not replace an ICD for prevention of sudden cardiac death in structural heart disease.",
+    "c": "A pacemaker treats bradycardia and does not terminate ventricular tachyarrhythmias.",
+    "d": "The arrhythmia is already documented, so further monitoring does not alter the indication for definitive therapy.",
+    "e": "Lifestyle change is suggested for mildly symptomatic premature ventricular contractions, not for sustained VT with structural heart disease."
+   },
+   "topic": "Ventricular Tachyarrhythmias",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "C",
+    "name": "Cardiology and Cardiac Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 116,
+    "reference": "C26 — Ventricular Tachycardia"
+   }
+  },
+  {
+   "id": "TN-C-013",
+   "type": "single-best-answer",
+   "question": "A 58-year-old man reports retrosternal tightness brought on predictably by climbing two flights of stairs, lasting about five minutes and relieved by rest. He has hypertension and no history of asthma or heart failure. He has already started lifestyle modification, a statin, and daily Aspirin for chronic stable angina. Which additional drug is the most appropriate first-line therapy?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Metoprolol"
+    },
+    {
+     "id": "b",
+     "text": "Acebutolol"
+    },
+    {
+     "id": "c",
+     "text": "Propranolol"
+    },
+    {
+     "id": "d",
+     "text": "Clopidogrel"
+    },
+    {
+     "id": "e",
+     "text": "Low-dose rivaroxaban as monotherapy"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Beta-blockers are first-line therapy in chronic stable angina and improve survival in patients with hypertension. They increase coronary perfusion and decrease demand by lowering heart rate, contractility, and blood pressure. Cardioselective agents such as metoprolol and atenolol are preferred so that peripheral beta-2 mediated effects on vasodilation and bronchodilation are avoided.",
+   "optionExplanations": {
+    "b": "Acebutolol has intrinsic sympathomimetic activity, which increases myocardial oxygen demand and should be avoided.",
+    "c": "Propranolol is non-cardioselective, and cardioselective agents are preferred to avoid peripheral beta-2 effects.",
+    "d": "Clopidogrel is used as antiplatelet therapy when Aspirin is contraindicated, and he is already taking Aspirin.",
+    "e": "Low-dose rivaroxaban is used in combination with Aspirin, not as monotherapy, and it is not an anti-anginal drug."
+   },
+   "topic": "Chronic Stable Angina",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "C",
+    "name": "Cardiology and Cardiac Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 121,
+    "reference": "C31 — Treatment of Chronic Stable Angina"
+   }
+  },
+  {
+   "id": "TN-C-014",
+   "type": "single-best-answer",
+   "question": "A 44-year-old woman who smokes describes episodes of retrosternal chest pain that wake her between midnight and 5 am. The pain is not brought on by exertion and resolves within minutes of sublingual nitroglycerin. An ECG recorded during an episode shows transient ST elevation that normalizes when the pain settles. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Variant (Prinzmetal's) angina"
+    },
+    {
+     "id": "b",
+     "text": "Chronic stable angina"
+    },
+    {
+     "id": "c",
+     "text": "Syndrome X"
+    },
+    {
+     "id": "d",
+     "text": "Non-ST elevation myocardial infarction"
+    },
+    {
+     "id": "e",
+     "text": "ST elevation myocardial infarction"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Variant (Prinzmetal's) angina is myocardial ischemia caused by coronary vasospasm, with or without underlying atherosclerosis. It typically occurs between midnight and 8 am, is unrelated to exercise, is relieved by nitrates, and typically produces ST elevation on the ECG. Treatment is with nitrates and calcium channel blockers, and smoking cessation is strongly recommended.",
+   "optionExplanations": {
+    "b": "Chronic stable angina is predictably precipitated by exertion, emotion, or eating rather than occurring at rest overnight.",
+    "c": "Syndrome X gives typical anginal symptoms with a normal angiogram and ischemia on exercise testing, not transient nocturnal ST elevation.",
+    "d": "NSTEMI requires evidence of myocardial necrosis with a rise and fall of serum markers and occurs without ST elevation.",
+    "e": "STEMI requires evidence of myocardial necrosis with persistent ST elevation, whereas her ST changes are transient and reverse with the pain."
+   },
+   "topic": "Variant Angina",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "C",
+    "name": "Cardiology and Cardiac Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 122,
+    "reference": "C32 — Variant Angina (Prinzmetal's Angina)"
+   }
+  },
+  {
+   "id": "TN-C-015",
+   "type": "single-best-answer",
+   "question": "A 68-year-old man presents with rest chest pain. Troponin is elevated and serial ECGs show dynamic ST depression without ST elevation. Despite Aspirin, ticagrelor, heparin, nitrates, and a beta-blocker, he has recurrent angina at rest. His GRACE risk score is 165. What is the most appropriate next step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Early coronary angiography with revascularization if suitable"
+    },
+    {
+     "id": "b",
+     "text": "Intravenous thrombolysis"
+    },
+    {
+     "id": "c",
+     "text": "Continue current medical therapy alone and reassess in 48 hours"
+    },
+    {
+     "id": "d",
+     "text": "Discharge with an outpatient exercise stress test"
+    },
+    {
+     "id": "e",
+     "text": "Add a non-dihydropyridine calcium channel blocker and observe"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "In UA/NSTEMI, early coronary angiography with revascularization if possible is recommended for high-risk indicators, which include a diagnosis of NSTEMI, recurrent angina or ischemia at rest despite intensive anti-ischemic therapy, dynamic ECG changes, and a GRACE risk score above 140. This man meets several of these criteria.",
+   "optionExplanations": {
+    "b": "Thrombolysis is explicitly contraindicated for unstable angina and NSTEMI.",
+    "c": "Ongoing rest angina despite intensive anti-ischemic therapy is itself an indication for early angiography.",
+    "d": "An outpatient strategy is unsafe in a patient with a high GRACE score and refractory ischemia.",
+    "e": "Non-dihydropyridine CCBs are second-line anti-ischemic agents that do not prevent MI or decrease mortality."
+   },
+   "topic": "Acute Coronary Syndromes",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "C",
+    "name": "Cardiology and Cardiac Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 123,
+    "reference": "C33 — Management of Acute Coronary Syndromes"
+   }
+  },
+  {
+   "id": "TN-C-016",
+   "type": "single-best-answer",
+   "question": "A 62-year-old man with diabetes is five days post anterior ST elevation myocardial infarction. Echocardiography shows a left ventricular ejection fraction of 32%, and he has mild exertional dyspnea consistent with heart failure. He is taking Aspirin, ticagrelor, metoprolol, ramipril, and atorvastatin 80 mg daily. Which additional drug is most appropriate?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Eplerenone"
+    },
+    {
+     "id": "b",
+     "text": "Ezetimibe"
+    },
+    {
+     "id": "c",
+     "text": "Diltiazem"
+    },
+    {
+     "id": "d",
+     "text": "Candesartan added to ramipril"
+    },
+    {
+     "id": "e",
+     "text": "Rivaroxaban 2.5 mg twice daily"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes recommends adding an aldosterone antagonist post-MI if the patient is already on an ACE inhibitor and a beta-blocker, has an LVEF below 40%, and has heart failure or diabetes. A significant mortality benefit with eplerenone has been shown by 30 days. This man is on ramipril and metoprolol with an LVEF of 32%, heart failure symptoms, and diabetes.",
+   "optionExplanations": {
+    "b": "Ezetimibe is second-line add-on lipid therapy based on the achieved LDL, and he is already on high-dose atorvastatin.",
+    "c": "Calcium channel blockers are not recommended as first-line post-MI therapy and are an alternative only when beta-blockers cannot be used.",
+    "d": "An ARB is used in patients intolerant of an ACE inhibitor; ACE inhibitors and ARBs should not be combined.",
+    "e": "Low-dose rivaroxaban is an antithrombotic option and does not address his reduced ejection fraction and heart failure."
+   },
+   "topic": "Acute Coronary Syndromes",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "C",
+    "name": "Cardiology and Cardiac Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 125,
+    "reference": "C35 — Post-Infarction Medical Therapy"
+   }
+  },
+  {
+   "id": "TN-C-017",
+   "type": "single-best-answer",
+   "question": "A 66-year-old man with diabetes has class III angina despite optimal medical therapy. Coronary angiography demonstrates a 60% stenosis of the left main coronary artery, plus 80% stenoses in the proximal left anterior descending and right coronary arteries. Left ventricular function is preserved and he is otherwise fit for surgery. Which is the most appropriate revascularization strategy?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Coronary artery bypass graft surgery"
+    },
+    {
+     "id": "b",
+     "text": "Percutaneous coronary intervention with drug-eluting stents"
+    },
+    {
+     "id": "c",
+     "text": "Balloon angioplasty without stenting"
+    },
+    {
+     "id": "d",
+     "text": "Rotational atherectomy of the left main lesion"
+    },
+    {
+     "id": "e",
+     "text": "Continue optimal medical therapy without revascularization"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes lists a stenosis of 50% or more in the left main coronary artery as an indication for CABG, along with 70% or greater stenoses in three major coronary arteries and multivessel coronary disease in patients with diabetes. This man meets several of these criteria, and the objective of CABG is complete revascularization of the myocardium.",
+   "optionExplanations": {
+    "b": "PCI is favoured for less extensive disease and in patients with severe comorbidity, advanced age, or frailty rather than for left main plus multivessel disease in a fit diabetic patient.",
+    "c": "Balloon angioplasty without stenting carries a high restenosis rate of about 15% at 6 months.",
+    "d": "Atherectomy is a less common adjunctive PCI technique and does not achieve complete revascularization of this disease pattern.",
+    "e": "He already has unacceptable angina despite medical therapy, which is itself an indication for revascularization."
+   },
+   "topic": "Coronary Revascularization",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "C",
+    "name": "Cardiology and Cardiac Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 127,
+    "reference": "C37 — Coronary Artery Bypass Graft Surgery"
+   }
+  },
+  {
+   "id": "TN-C-018",
+   "type": "single-best-answer",
+   "question": "A 62-year-old man is undergoing coronary artery bypass grafting for three-vessel disease that includes a proximal left anterior descending artery stenosis. The surgeon plans complete revascularization and wishes to use the conduit with the best long-term patency for the left anterior descending artery. Which conduit is most appropriate for this target vessel?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Left internal thoracic (mammary) artery"
+    },
+    {
+     "id": "b",
+     "text": "Saphenous vein graft"
+    },
+    {
+     "id": "c",
+     "text": "Radial artery free graft"
+    },
+    {
+     "id": "d",
+     "text": "Right gastroepiploic artery"
+    },
+    {
+     "id": "e",
+     "text": "Free right internal thoracic artery graft"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The LITA/LIMA is considered the standard conduit for CABG, with 90-95% patency at 15 years, and is almost always used to bypass the left anterior descending artery. Its use is associated with improved event-free survival with respect to angina and myocardial infarction and decreased late cardiac events.",
+   "optionExplanations": {
+    "b": "At 10 years, 50% of saphenous vein grafts are occluded and 25% stenotic; arterial conduits have proven superior.",
+    "c": "The radial artery has 85-95% patency at 5 years and is prone to severe postoperative vasospasm.",
+    "d": "The right gastroepiploic artery is primarily used in situ to bypass the right coronary artery, and its use is limited by technical issues.",
+    "e": "Pedicled RIMA patency is comparable to LIMA but free RIMA grafts have a lower patency rate."
+   },
+   "topic": "Coronary Revascularization",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "C",
+    "name": "Cardiology and Cardiac Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 128,
+    "reference": "C38 — Conduits for CABG"
+   }
+  },
+  {
+   "id": "TN-C-019",
+   "type": "single-best-answer",
+   "question": "A 76-year-old woman with long-standing hypertension reports progressive exertional dyspnea and orthopnea. Her apex beat is sustained, and an S4 is audible. Chest radiograph shows a normal-sized heart with pulmonary congestion. Echocardiography demonstrates left ventricular hypertrophy with a left ventricular ejection fraction of 60%. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Heart failure with preserved ejection fraction"
+    },
+    {
+     "id": "b",
+     "text": "Heart failure with reduced ejection fraction"
+    },
+    {
+     "id": "c",
+     "text": "Heart failure with mid-range ejection fraction"
+    },
+    {
+     "id": "d",
+     "text": "High-output heart failure"
+    },
+    {
+     "id": "e",
+     "text": "Isolated right heart failure"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "HFpEF is defined by an LVEF of 50% or more and was previously called diastolic heart failure. The typical phenotype is concentric remodelling with a stiff left ventricle, and characteristic findings are hypertension, a sustained apex beat, an S4, a normal-sized heart on chest radiograph, LVH on ECG or echo, and a normal ejection fraction. It is more common in the elderly and in females.",
+   "optionExplanations": {
+    "b": "HFrEF requires an LVEF of 40% or less with a displaced apex, an S3, and a cardiothoracic ratio above 0.5.",
+    "c": "HF-mrEF is defined by an LVEF of 41-49%, which is below this patient's measured value.",
+    "d": "High-output failure is driven by increased cardiac output demand from causes such as anemia, thyrotoxicosis, or arteriovenous fistula.",
+    "e": "Right heart failure presents with peripheral edema, elevated JVP, and hepatomegaly rather than orthopnea with pulmonary congestion."
+   },
+   "topic": "Heart Failure",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "C",
+    "name": "Cardiology and Cardiac Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 131,
+    "reference": "C41 — Heart Failure with Preserved Ejection Fraction"
+   }
+  },
+  {
+   "id": "TN-C-020",
+   "type": "single-best-answer",
+   "question": "A 74-year-old woman with known heart failure presents with sudden severe dyspnea. She is sitting upright, respiratory rate 32, oxygen saturation 86% on room air, with diffuse crackles and an S3. Blood pressure is 155/90 mmHg. Chest radiograph shows alveolar edema and Kerley B lines. Which is the best initial pharmacologic treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Intravenous furosemide"
+    },
+    {
+     "id": "b",
+     "text": "Intravenous nitroprusside"
+    },
+    {
+     "id": "c",
+     "text": "Oral hydralazine"
+    },
+    {
+     "id": "d",
+     "text": "Intravenous milrinone"
+    },
+    {
+     "id": "e",
+     "text": "Intravenous high-dose dopamine"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Acute pulmonary edema is managed with the LMNOPP approach: Lasix (furosemide) 40-500 mg IV, morphine, nitroglycerin, oxygen, positive airway pressure, and positioning the patient sitting up with legs down unless hypotensive. IV furosemide is the first pharmacologic step, alongside treating the acute precipitant such as ischemia or arrhythmia.",
+   "optionExplanations": {
+    "b": "IV nitroprusside is reserved for the ICU setting or for failure of the initial LMNOPP measures.",
+    "c": "Oral hydralazine is also a later option used when initial measures fail.",
+    "d": "Milrinone is a phosphodiesterase inhibitor used for inotropic support in refractory cases, not as initial therapy.",
+    "e": "High-dose dopamine increases systemic vascular resistance, which is explicitly described as undesirable."
+   },
+   "topic": "Acute Heart Failure",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "C",
+    "name": "Cardiology and Cardiac Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 132,
+    "reference": "C42 — Acute Treatment of Pulmonary Edema"
+   }
+  },
+  {
+   "id": "TN-C-021",
+   "type": "single-best-answer",
+   "question": "A 68-year-old man with ischemic cardiomyopathy remains persistently symptomatic despite optimal medical therapy that includes an ARNI, a beta-blocker, a mineralocorticoid receptor antagonist, and an SGLT2 inhibitor. His left ventricular ejection fraction is 28%. His ECG shows sinus rhythm with a QRS duration of 165 msec and left bundle branch block morphology. Which is the most appropriate procedural intervention?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Cardiac resynchronization therapy"
+    },
+    {
+     "id": "b",
+     "text": "Single chamber permanent pacemaker"
+    },
+    {
+     "id": "c",
+     "text": "Left ventricular assist device"
+    },
+    {
+     "id": "d",
+     "text": "Cardiac transplantation"
+    },
+    {
+     "id": "e",
+     "text": "Mitral valve repair"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes recommends considering resynchronization therapy when the QRS is greater than 130 msec with left bundle branch block morphology, the LVEF is under 35%, and symptoms persist despite optimal medical therapy. The greatest benefit is expected with marked LV enlargement, mitral regurgitation, and a QRS above 150 msec, all consistent with this patient's QRS of 165 msec.",
+   "optionExplanations": {
+    "b": "A single chamber pacemaker does not resynchronize the ventricles and would not address his dyssynchrony.",
+    "c": "An LVAD is reserved for advanced disease and is not the next step when resynchronization has not yet been tried.",
+    "d": "Transplantation is considered for end-stage heart failure after other options, including resynchronization, have been addressed.",
+    "e": "Valve repair applies to patients with significant valve disease contributing to heart failure, which is not described here."
+   },
+   "topic": "Heart Failure",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "C",
+    "name": "Cardiology and Cardiac Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 134,
+    "reference": "C44 — Procedural Interventions in Heart Failure"
+   }
+  },
+  {
+   "id": "TN-C-022",
+   "type": "single-best-answer",
+   "question": "A 34-year-old man with hypertrophic obstructive cardiomyopathy reports dyspnea and chest tightness on exertion. Echocardiography shows a resting left ventricular outflow tract gradient of 60 mmHg with systolic anterior motion of the mitral valve. He has taken no cardiac medication to date and has no contraindication to rate-slowing therapy. Which is the most appropriate initial drug therapy?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Metoprolol"
+    },
+    {
+     "id": "b",
+     "text": "Amlodipine"
+    },
+    {
+     "id": "c",
+     "text": "Isosorbide dinitrate"
+    },
+    {
+     "id": "d",
+     "text": "Digoxin"
+    },
+    {
+     "id": "e",
+     "text": "Ramipril"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "For symptomatic hypertrophic obstructive cardiomyopathy, Toronto Notes lists beta-blockers among the first medical agents, along with verapamil or diltiazem started in monitored settings, disopyramide, and mavacamten. Digoxin and vasodilators including nitrates, dihydropyridine calcium channel blockers, and ACE inhibitors or ARBs must be avoided because they are inotropic and afterload reducing, which worsens outflow obstruction.",
+   "optionExplanations": {
+    "b": "Amlodipine is a dihydropyridine calcium channel blocker and is a vasodilator that should be avoided in HOCM.",
+    "c": "Nitrates are vasodilators that reduce afterload and worsen dynamic outflow tract obstruction.",
+    "d": "Digoxin is inotropic and is explicitly to be avoided in HOCM.",
+    "e": "ACE inhibitors reduce afterload and are listed among the agents to avoid in HOCM."
+   },
+   "topic": "Hypertrophic Cardiomyopathy",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "C",
+    "name": "Cardiology and Cardiac Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 139,
+    "reference": "C49 — Hypertrophic Cardiomyopathy: Management"
+   }
+  },
+  {
+   "id": "TN-C-023",
+   "type": "single-best-answer",
+   "question": "An 84-year-old woman reports exertional angina and one episode of exertional syncope. She has a late-peaking crescendo-decrescendo systolic murmur radiating to the carotids, a soft S2, and pulsus parvus et tardus. Echocardiography shows an aortic valve Vmax of 4.6 m/s with a mean gradient of 52 mmHg. She is assessed as high surgical risk. What is the most appropriate management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Transcatheter aortic valve replacement"
+    },
+    {
+     "id": "b",
+     "text": "Surgical aortic valve replacement"
+    },
+    {
+     "id": "c",
+     "text": "Percutaneous aortic balloon dilation as definitive therapy"
+    },
+    {
+     "id": "d",
+     "text": "Medical therapy with an ACE inhibitor"
+    },
+    {
+     "id": "e",
+     "text": "Serial echocardiography with avoidance of exertion"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Her Vmax of 4.6 m/s and mean gradient of 52 mmHg meet criteria for severe aortic stenosis, and because she is symptomatic she is stage D, for which procedural intervention is indicated. Toronto Notes states TAVR is chosen if the patient is older than 80 years, has a life expectancy under 10 years, or is at high or prohibitive surgical risk, all of which apply here.",
+   "optionExplanations": {
+    "b": "SAVR is preferred if the patient is under 65 with more than 20 years of life expectancy, or when TAVR is contraindicated.",
+    "c": "Percutaneous aortic balloon dilation is used only as a bridge to aortic valve replacement in critical patients.",
+    "d": "ACE inhibitors and other arterial dilators should be avoided in symptomatic severe aortic stenosis.",
+    "e": "Serial echocardiography with avoidance of exertion is the strategy for asymptomatic patients, and she is symptomatic."
+   },
+   "topic": "Aortic Stenosis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "C",
+    "name": "Cardiology and Cardiac Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 147,
+    "reference": "C57 — Valvular Heart Disease: Aortic Stenosis"
+   }
+  },
+  {
+   "id": "TN-C-024",
+   "type": "single-best-answer",
+   "question": "A 42-year-old woman with a history of childhood rheumatic fever has progressive exertional dyspnea. She has a loud S1, an opening snap, and a mid-diastolic rumble at the apex, best heard in the left lateral decubitus position, and she is in sinus rhythm. Echocardiography shows a mitral valve area of 1.0 cm2, mild mitral regurgitation, favourable valve morphology, and no left atrial thrombus. What is the most appropriate intervention?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Percutaneous mitral balloon commissurotomy"
+    },
+    {
+     "id": "b",
+     "text": "Mitral valve replacement"
+    },
+    {
+     "id": "c",
+     "text": "Open surgical mitral commissurotomy"
+    },
+    {
+     "id": "d",
+     "text": "Long-term vitamin K antagonist anticoagulation"
+    },
+    {
+     "id": "e",
+     "text": "Beta-blocker therapy alone to prolong diastolic filling time"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "A mitral valve area under 1.5 cm2 defines severe mitral stenosis, and intervention is indicated when severe mitral stenosis is symptomatic. Percutaneous mitral balloon commissurotomy is indicated for symptomatic severe rheumatic mitral stenosis with acceptable valve morphology, less than moderate mitral regurgitation, and no left atrial thrombus, all of which this patient satisfies.",
+   "optionExplanations": {
+    "b": "Valve replacement is reserved for patients with a contraindication to or previous failure of PMBC, or who are undergoing other cardiac surgery.",
+    "c": "Open mitral commissurotomy is a surgical alternative when PMBC is not feasible, and restenosis occurs in 50% of patients within 8 years.",
+    "d": "Vitamin K antagonist anticoagulation in rheumatic mitral stenosis is indicated for atrial fibrillation, previous embolism, or left atrial thrombus, none of which she has.",
+    "e": "Beta-blockers increase diastolic filling time and control symptoms but do not relieve severe symptomatic stenosis."
+   },
+   "topic": "Mitral Stenosis",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "C",
+    "name": "Cardiology and Cardiac Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 148,
+    "reference": "C58 — Valvular Heart Disease: Mitral Stenosis"
+   }
+  },
+  {
+   "id": "TN-C-025",
+   "type": "single-best-answer",
+   "question": "A 58-year-old woman with metastatic lung cancer presents with progressive dyspnea. Blood pressure is 85/60 mmHg with pulsus paradoxus, heart rate is 122 bpm, the jugular venous pressure is elevated, and heart sounds are muffled. ECG shows sinus tachycardia with low voltage and electrical alternans. Bedside echocardiography confirms a large pericardial effusion with tamponade. What is the most appropriate next step?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Urgent pericardiocentesis"
+    },
+    {
+     "id": "b",
+     "text": "NSAIDs and colchicine alone"
+    },
+    {
+     "id": "c",
+     "text": "Elective pericardiectomy"
+    },
+    {
+     "id": "d",
+     "text": "Video-assisted thoracoscopic pericardial window"
+    },
+    {
+     "id": "e",
+     "text": "Observation with repeat echocardiography in one week"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states that pericardiocentesis or cardiac surgery is indicated for cardiac tamponade, for a symptomatic moderate to large effusion unresponsive to medical therapy, or when an unknown bacterial or neoplastic etiology is suspected. This patient has hypotension, elevated JVP, muffled heart sounds, pulsus paradoxus, and electrical alternans, which is highly specific for effusion with tamponade.",
+   "optionExplanations": {
+    "b": "Anti-inflammatory therapy is used when inflammatory signs are present or pericarditis coexists, and it does not relieve tamponade.",
+    "c": "Pericardiectomy is considered for re-accumulation of fluid, loculated effusion, or when biopsy is required, not for acute decompression.",
+    "d": "A pericardial window is considered for recurrent or loculated effusions rather than as the immediate treatment of tamponade.",
+    "e": "Observation is appropriate only when there is no tamponade, no suspicion of bacterial or neoplastic cause, and no large effusion."
+   },
+   "topic": "Pericardial Effusion and Tamponade",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "C",
+    "name": "Cardiology and Cardiac Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 154,
+    "reference": "C64 — Pericardial Effusion and Tamponade"
+   }
+  },
+  {
+   "id": "TN-C-026",
+   "type": "single-best-answer",
+   "question": "A 40-year-old man presents with sharp pleuritic chest pain radiating to the trapezius ridge that improves on leaning forward. A triphasic friction rub is audible at the left sternal border, and his ECG shows PR depression with generalized ST elevation. His temperature is 38.6°C, and echocardiography demonstrates a large pericardial effusion without tamponade. What is the most appropriate next step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Hospital admission with a search for the underlying etiology"
+    },
+    {
+     "id": "b",
+     "text": "Discharge home on an empiric NSAID trial with outpatient follow-up"
+    },
+    {
+     "id": "c",
+     "text": "Discharge home on colchicine alone with no further investigation"
+    },
+    {
+     "id": "d",
+     "text": "Urgent pericardiectomy"
+    },
+    {
+     "id": "e",
+     "text": "Discharge home with a repeat ECG in one week"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "His pleuritic pain radiating to the trapezius ridge that improves with leaning forward, a friction rub, PR depression with generalized ST elevation, and a new effusion satisfy the diagnostic criteria for acute pericarditis. Fever above 38°C and a large pericardial effusion are both major predictors of poor prognosis, and a single such predictor identifies a high-risk case requiring admission and an etiology search.",
+   "optionExplanations": {
+    "b": "An outpatient empiric NSAID trial without an etiology search is reserved for non-high-risk cases with no poor prognostic predictors.",
+    "c": "Discharge without investigation is inappropriate when major predictors of poor prognosis are present.",
+    "d": "Pericardiectomy is not part of the initial triage of acute pericarditis.",
+    "e": "Outpatient follow-up alone applies to low-risk cases with no negative prognostic predictors and a good response to anti-inflammatory therapy."
+   },
+   "topic": "Acute Pericarditis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "C",
+    "name": "Cardiology and Cardiac Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 152,
+    "reference": "C62 — Acute Pericarditis: Triage and Diagnosis"
+   }
+  }
+ ]
+}

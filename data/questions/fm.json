@@ -1,0 +1,842 @@
+{
+ "chapter": {
+  "code": "FM",
+  "name": "Family Medicine"
+ },
+ "document": {
+  "id": "toronto-notes-2025",
+  "title": "Toronto Notes 2025",
+  "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
+ },
+ "count": 18,
+ "questions": [
+  {
+   "id": "TN-FM-001",
+   "type": "single-best-answer",
+   "question": "A 58-year-old man attends his family physician for a periodic health review. He smoked one pack of cigarettes daily for 34 years and stopped smoking 6 years ago. He is asymptomatic, and his physical examination and vital signs are normal. He asks whether anything can be done to detect lung cancer at an early stage. Which of the following is the most appropriate screening test?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Annual low dose CT of the chest, up to three consecutive times"
+    },
+    {
+     "id": "b",
+     "text": "Annual chest radiograph"
+    },
+    {
+     "id": "c",
+     "text": "Chest radiograph with sputum cytology every 2 years"
+    },
+    {
+     "id": "d",
+     "text": "No lung cancer screening, because he stopped smoking more than 5 years ago"
+    },
+    {
+     "id": "e",
+     "text": "Low dose CT of the chest only once he reaches age 75"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The 2016 Canadian Task Force on Preventive Health Care recommends annual screening with low dose CT up to three consecutive times for adults ages 55-74 with a smoking history of at least 30 pack-years who currently smoke or who quit 15 or fewer years ago. This man is 58, has 34 pack-years, and quit 6 years ago, so he satisfies all three eligibility criteria.",
+   "optionExplanations": {
+    "b": "The Task Force recommends that chest x-ray not be used to screen for lung cancer.",
+    "c": "Chest x-ray with or without sputum cytology is specifically recommended against for lung cancer screening.",
+    "d": "The cut-off for time since quitting is 15 years or less, not 5 years, so he remains eligible.",
+    "e": "Screening is recommended for ages 55-74; adults outside that range are recommended not to be screened."
+   },
+   "topic": "Lung Cancer Screening",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "FM",
+    "name": "Family Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 380,
+    "reference": "FM4 — Lung Cancer Screening Guidelines"
+   }
+  },
+  {
+   "id": "TN-FM-002",
+   "type": "single-best-answer",
+   "question": "A 55-year-old woman presents for a preventive health visit. She has no personal or family history of breast cancer, no genetic predisposition, and no previous chest radiation. Her breast examination is unremarkable. She has never had breast imaging and asks what she should be doing to screen for breast cancer. Which of the following is the most appropriate screening approach?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Mammography every 2-3 years, after discussing benefits and harms with her"
+    },
+    {
+     "id": "b",
+     "text": "Annual mammography combined with annual clinical breast examination"
+    },
+    {
+     "id": "c",
+     "text": "Annual mammography combined with annual breast MRI"
+    },
+    {
+     "id": "d",
+     "text": "Clinical breast examination annually, with mammography only if abnormal"
+    },
+    {
+     "id": "e",
+     "text": "Instruction in breast self-examination, with mammography deferred to age 60"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "For women ages 50-74 the 2018 Canadian Task Force recommends screening with mammography every 2-3 years, and the decision to be screened is conditional on the value the woman places on the possible benefits and harms. At 55 with no increased-risk features, she should be offered mammography every 2-3 years after a values-based discussion.",
+   "optionExplanations": {
+    "b": "Clinical breast examination is recommended against as a screening test for breast cancer.",
+    "c": "MRI, tomosynthesis and ultrasound are strongly recommended against for screening women not at increased risk.",
+    "d": "Clinical breast examination is not recommended for screening, and mammography should not be withheld pending it.",
+    "e": "Women are recommended not to be advised to practise breast self-examination for screening, and screening applies from age 50."
+   },
+   "topic": "Breast Cancer Screening",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "FM",
+    "name": "Family Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 380,
+    "reference": "FM4 — Breast Cancer Screening Guidelines"
+   }
+  },
+  {
+   "id": "TN-FM-003",
+   "type": "single-best-answer",
+   "question": "A 63-year-old asymptomatic man presents to establish care. He has no first-degree relative with colorectal cancer, no personal history of colorectal cancer, Crohn disease or ulcerative colitis, and no polyps requiring surveillance. He has never been screened and has no rectal bleeding or anemia. Which of the following is the most appropriate colorectal cancer screening test for him?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Fecal immunochemical test every 2 years"
+    },
+    {
+     "id": "b",
+     "text": "Screening colonoscopy every 10 years"
+    },
+    {
+     "id": "c",
+     "text": "CT colonography every 5 years"
+    },
+    {
+     "id": "d",
+     "text": "Stool DNA testing every 3 years"
+    },
+    {
+     "id": "e",
+     "text": "Double contrast barium enema every 5 years"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The 2016 Canadian Task Force strongly recommends screening adults ages 60-74 for colorectal cancer with FOBT (gFOBT or FIT) every 2 years, or flexible sigmoidoscopy every 10 years. This average-risk 63-year-old meets the Ontario average-risk criteria, so FIT every 2 years is appropriate.",
+   "optionExplanations": {
+    "b": "Colonoscopy is recommended against as a screening test for average-risk patients; it is reserved for abnormal FIT results.",
+    "c": "CT colonography is listed among tests not recommended for colorectal cancer screening.",
+    "d": "DNA blood or stool tests are listed among tests not recommended for colorectal cancer screening.",
+    "e": "Double contrast barium enema is listed among tests not recommended for colorectal cancer screening."
+   },
+   "topic": "Colorectal Cancer Screening",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "FM",
+    "name": "Family Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 381,
+    "reference": "FM5 — Colorectal Cancer Screening Guidelines"
+   }
+  },
+  {
+   "id": "TN-FM-004",
+   "type": "single-best-answer",
+   "question": "A 34-year-old woman attends for a well-woman visit. She has been sexually active since age 20 and is in a monogamous relationship. Her last Papanicolaou test was 3 years ago and was reported as normal, as were all previous tests. She is immunocompetent and has no abnormal bleeding or discharge. Which of the following is the most appropriate cervical cancer screening plan?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Papanicolaou smear or liquid-based cytology now, and every 3 years thereafter"
+    },
+    {
+     "id": "b",
+     "text": "Papanicolaou smear annually"
+    },
+    {
+     "id": "c",
+     "text": "Papanicolaou smear every 5 years"
+    },
+    {
+     "id": "d",
+     "text": "No further cervical screening until age 40"
+    },
+    {
+     "id": "e",
+     "text": "Discontinue screening, as she has had three consecutive normal results"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The 2013 Canadian Task Force guidelines strongly recommend Papanicolaou smear or liquid-based cytology every 3 years for women ages 30-69. At 34 with a normal test 3 years ago, she is due for repeat cytology now with continued 3-yearly screening.",
+   "optionExplanations": {
+    "b": "The recommended interval for women ages 30-69 is every 3 years, not annually.",
+    "c": "A 5-year interval is not what the guideline specifies for cytology-based screening in this age group.",
+    "d": "Screening continues throughout ages 30-69; deferring to age 40 would leave her unscreened.",
+    "e": "Routine screening may cease only for adequately screened women ages 70 and over."
+   },
+   "topic": "Cervical Cancer Screening",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "FM",
+    "name": "Family Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 381,
+    "reference": "FM5 — Cervical Cancer Screening Guidelines"
+   }
+  },
+  {
+   "id": "TN-FM-005",
+   "type": "single-best-answer",
+   "question": "A 29-year-old woman attends for preconception counselling. She hopes to conceive in about 6 months. Her first pregnancy 3 years ago was affected by a neural tube defect. She takes no medications, has no malabsorptive illness, and uses reliable contraception in the interim. Which of the following folic acid regimens is most appropriate to recommend?",
+   "options": [
+    {
+     "id": "a",
+     "text": "5 mg daily in a multivitamin, starting at least 3 months before conception and continuing until 12 weeks post-conception"
+    },
+    {
+     "id": "b",
+     "text": "0.4-1.0 mg daily, starting 2-3 months before conception and continuing through pregnancy"
+    },
+    {
+     "id": "c",
+     "text": "5 mg daily, started only once pregnancy is confirmed and continued to delivery"
+    },
+    {
+     "id": "d",
+     "text": "0.4 mg daily, started in the first trimester and stopped at delivery"
+    },
+    {
+     "id": "e",
+     "text": "1.0 mg daily, started at conception and continued for 4-6 weeks postpartum only"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "A previous neural tube defect pregnancy places her in the high-risk group. High-risk women should eat folate-rich foods and take a multivitamin with 5 mg folic acid daily for at least 3 months before conception until 12 weeks post-conception, after which 0.4-1.0 mg daily is sufficient until the postpartum period.",
+   "optionExplanations": {
+    "b": "This is the low-risk regimen for women without a personal or partner history of neural tube defect.",
+    "c": "Supplementation must begin at least 3 months before conception, not after pregnancy is confirmed.",
+    "d": "0.4 mg started in the first trimester is inadequate for a woman with a previous neural tube defect pregnancy.",
+    "e": "Starting at conception is too late, and 1.0 mg is below the high-risk dose for the pre-conception period."
+   },
+   "topic": "Preconception Counselling",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "FM",
+    "name": "Family Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 379,
+    "reference": "FM3 — Periodic Health Examination (Folic Acid Supplementation in Pregnancy)"
+   }
+  },
+  {
+   "id": "TN-FM-006",
+   "type": "single-best-answer",
+   "question": "A 44-year-old man with type 2 diabetes diagnosed 2 years ago attends for review. He has no clinical atherosclerosis, no chronic kidney disease and no microvascular complications. His LDL-C is 3.1 mmol/L, eGFR is normal, and he is a non-smoker with a blood pressure of 126/78 mmHg. He asks whether he needs cholesterol-lowering medication. Which of the following is the most appropriate next step?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Initiate statin therapy now, because diabetes at age 40 or older is a statin-indicated condition"
+    },
+    {
+     "id": "b",
+     "text": "Calculate the Framingham Risk Score and treat only if it is 20% or greater"
+    },
+    {
+     "id": "c",
+     "text": "Recommend health behaviour change alone and repeat the lipid panel in 5 years"
+    },
+    {
+     "id": "d",
+     "text": "Start ezetimibe as first-line lipid-lowering monotherapy"
+    },
+    {
+     "id": "e",
+     "text": "Start a PCSK9 inhibitor as first-line therapy"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "In the 2021 Canadian Cardiovascular Society algorithm, risk is calculated with the Framingham Risk Score or Cardiovascular Life Expectancy Model unless the patient has a statin-indicated condition. Most diabetes, including age 40 years or older, is a statin-indicated condition, so statin treatment is initiated directly alongside behavioural modification.",
+   "optionExplanations": {
+    "b": "Risk calculation is bypassed when a statin-indicated condition is present, as it is here.",
+    "c": "Behavioural change is recommended but is not sufficient on its own for a statin-indicated condition.",
+    "d": "Ezetimibe is a first-line add-on when targets are not achieved on maximally tolerated statin, not initial monotherapy.",
+    "e": "PCSK9 inhibitors are second-line add-on therapy, not initial treatment."
+   },
+   "topic": "Dyslipidemia Risk Stratification",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "FM",
+    "name": "Family Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 387,
+    "reference": "FM11 — Dyslipidemia: Risk Assessment, Stratification and Treatment Consideration"
+   }
+  },
+  {
+   "id": "TN-FM-007",
+   "type": "single-best-answer",
+   "question": "A 47-year-old woman with no diabetes, no chronic kidney disease and no clinical atherosclerosis has a screening lipid panel showing LDL-C 3.6 mmol/L. Her calculated 10-year Framingham Risk Score is 6%. She is a non-smoker with a normal blood pressure and does not have a genetic dyslipidemia. She wants to know how her cholesterol should be managed. Which of the following is the most appropriate initial management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Consistent health behaviour interventions for at least 3 months before considering drug therapy"
+    },
+    {
+     "id": "b",
+     "text": "Start a high-intensity statin today and reassess in 6 weeks"
+    },
+    {
+     "id": "c",
+     "text": "Start ezetimibe today and reassess in 3 months"
+    },
+    {
+     "id": "d",
+     "text": "Start a fibrate today and reassess in 3 months"
+    },
+    {
+     "id": "e",
+     "text": "Start a bile acid sequestrant today and reassess in 6 months"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Health behaviour interventions can lower LDL-C by up to 10%, and consistent lifestyle modification should be employed for at least 3 months before drug therapy is considered; only high-risk patients start treatment immediately with concurrent behavioural intervention. This woman is low risk without a statin-indicated condition, so lifestyle change comes first.",
+   "optionExplanations": {
+    "b": "Immediate pharmacotherapy is reserved for high-risk patients, which she is not.",
+    "c": "Ezetimibe is used when statins cause severe side effects or as add-on therapy, not as initial treatment in a low-risk patient.",
+    "d": "Fibrates are used mainly for severe hypertriglyceridemia to lower pancreatitis risk, not for this presentation.",
+    "e": "Bile acid sequestrants are alternative add-on agents, not initial therapy in a low-risk patient."
+   },
+   "topic": "Dyslipidemia Management",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "FM",
+    "name": "Family Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 388,
+    "reference": "FM12 — Dyslipidemia: Management"
+   }
+  },
+  {
+   "id": "TN-FM-008",
+   "type": "single-best-answer",
+   "question": "A 40-year-old healthy woman with a sedentary desk job asks how much physical activity she should aim for. She has no cardiac symptoms, no known coronary artery disease, no diabetes and no exercise-induced asthma. Her physical examination is normal. Using the 2020 Canadian 24 Hour Movement Guidelines for adults ages 18-64, which of the following should you advise?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Accumulate 150 min/wk of moderate to vigorous aerobic activity in bouts of at least 10 min, plus muscle and bone strengthening activities using major muscle groups at least 2 days/week"
+    },
+    {
+     "id": "b",
+     "text": "Accumulate at least 60 min/d of moderate to vigorous aerobic activity, plus muscle and bone strengthening 3 days/week"
+    },
+    {
+     "id": "c",
+     "text": "Accumulate 180 min/d of physical activity at any intensity spread throughout the day"
+    },
+    {
+     "id": "d",
+     "text": "Accumulate 150 min/wk of vigorous aerobic activity only, with no strengthening component"
+    },
+    {
+     "id": "e",
+     "text": "Accumulate 300 min/wk of moderate aerobic activity, plus daily balance training"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The 2020 CSEP guidelines for adults ages 18-64 advise accumulating 150 min/wk of moderate to vigorous intensity aerobic physical activity in bouts of at least 10 min, together with muscle and bone strengthening activities using major muscle groups on at least 2 days per week.",
+   "optionExplanations": {
+    "b": "This is the recommendation for children ages 5-11 and youth ages 12-17.",
+    "c": "180 min/d at any intensity is the guideline for toddlers and preschoolers.",
+    "d": "The adult target is moderate to vigorous activity and explicitly includes strengthening activities.",
+    "e": "Physical activities that challenge balance are specified for older adults ages 65 and over."
+   },
+   "topic": "Physical Activity Counselling",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "FM",
+    "name": "Family Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 389,
+    "reference": "FM13 — Exercise: Canadian 24 Hour Movement Guidelines"
+   }
+  },
+  {
+   "id": "TN-FM-009",
+   "type": "single-best-answer",
+   "question": "A 46-year-old man who smokes 30 cigarettes per day wants to stop. He has no seizure disorder, no eating disorder and no psychiatric history. After discussion he declines prescription medication but agrees to try nicotine gum, and he sets a quit date for next week. Which of the following nicotine gum regimens is most appropriate for him?",
+   "options": [
+    {
+     "id": "a",
+     "text": "4 mg gum, one piece every 1-2 h, to a maximum of 24 pieces per day"
+    },
+    {
+     "id": "b",
+     "text": "2 mg gum, one piece every 1-2 h, to a maximum of 24 pieces per day"
+    },
+    {
+     "id": "c",
+     "text": "4 mg gum, one piece once daily"
+    },
+    {
+     "id": "d",
+     "text": "2 mg gum, escalating to 4 mg only after 3 months of failure"
+    },
+    {
+     "id": "e",
+     "text": "4 mg gum swallowed whole every 1-2 h"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Nicotine gum is dosed at 2 mg for people smoking fewer than 25 cigarettes per day and 4 mg for those smoking more than 25 per day, given as one piece every 1-2 h to a maximum of 24 pieces per day. Smoking 30 cigarettes daily places him in the 4 mg group.",
+   "optionExplanations": {
+    "b": "The 2 mg strength is intended for people smoking fewer than 25 cigarettes daily.",
+    "c": "Once-daily dosing would not control cravings; dosing is one piece every 1-2 h.",
+    "d": "Dose selection is based on baseline cigarette consumption, not on a trial-and-escalate schedule.",
+    "e": "The gum is chewed until a peppery taste appears and then parked between gum and cheek to allow absorption."
+   },
+   "topic": "Smoking Cessation Pharmacotherapy",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "FM",
+    "name": "Family Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 390,
+    "reference": "FM14 — Types of Nicotine Replacement Therapy"
+   }
+  },
+  {
+   "id": "TN-FM-010",
+   "type": "single-best-answer",
+   "question": "A 27-year-old woman at 10 weeks gestation reports smoking 12 cigarettes per day. She has been smoking since age 18 and has never made a formal quit attempt. She is motivated to stop for the sake of the pregnancy and asks for help today. Her pregnancy is otherwise uncomplicated. Which of the following is the most appropriate initial management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Offer counselling as first-line treatment for smoking cessation"
+    },
+    {
+     "id": "b",
+     "text": "Prescribe varenicline with a quit date 10-14 days after starting"
+    },
+    {
+     "id": "c",
+     "text": "Prescribe bupropion SR with a quit date 7-14 days after starting"
+    },
+    {
+     "id": "d",
+     "text": "Prescribe a continuous 21 mg/d nicotine patch as first-line therapy"
+    },
+    {
+     "id": "e",
+     "text": "Advise gradual reduction over the pregnancy without further intervention"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "For pregnant patients, counselling is recommended as first-line treatment for smoking cessation. Nicotine replacement therapy should be made available to pregnant women who are unable to quit using non-pharmacologic methods, and when NRT is used, intermittent forms such as lozenges or gum are preferred over continuous patch dosing.",
+   "optionExplanations": {
+    "b": "There is no strong evidence on gestational varenicline use; it should be considered only if benefits outweigh risks, not first line.",
+    "c": "Bupropion likewise lacks strong gestational evidence and is not first-line therapy in pregnancy.",
+    "d": "If NRT is needed, intermittent forms are preferred over the continuously dosed patch, and NRT follows a trial of non-pharmacologic methods.",
+    "e": "Every smoker should be offered treatment; passive advice alone forgoes effective counselling."
+   },
+   "topic": "Smoking Cessation in Pregnancy",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "FM",
+    "name": "Family Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 391,
+    "reference": "FM15 — Pharmacologic Treatments for Smoking Cessation (pregnant patients)"
+   }
+  },
+  {
+   "id": "TN-FM-011",
+   "type": "single-best-answer",
+   "question": "A 44-year-old woman with a BMI of 36 kg/m2 and type 2 diabetes has completed 18 months of structured nutrition therapy, supervised physical activity, psychological intervention and anti-obesity pharmacotherapy. Her weight has fallen by only 2 kg and her glycemic control remains poor. She asks what options remain. Which of the following is the most appropriate next step?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Refer for consideration of bariatric surgery with an experienced interprofessional team"
+    },
+    {
+     "id": "b",
+     "text": "Continue the same medical and behavioural plan for a further 12 months"
+    },
+    {
+     "id": "c",
+     "text": "Refer specifically for adjustable gastric banding"
+    },
+    {
+     "id": "d",
+     "text": "Defer any surgical referral until her BMI exceeds 40 kg/m2"
+    },
+    {
+     "id": "e",
+     "text": "Use medical nutrition therapy in isolation with a very low calorie diet"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The Canadian Adult Obesity Clinical Practice Guidelines advise considering bariatric surgery for patients with a BMI of 40 kg/m2 or more, or 35 kg/m2 or more with at least one adiposity-related disease such as type 2 diabetes, when optimal medical and behavioural management has been insufficient. She meets both conditions, and procedure choice should be made with an experienced interprofessional team.",
+   "optionExplanations": {
+    "b": "Optimal medical and behavioural management has already been insufficient, which is the trigger for considering surgery.",
+    "c": "The guidelines suggest against adjustable gastric banding because of unacceptable complications and long-term failure.",
+    "d": "A BMI of 35 kg/m2 or more with an adiposity-related disease already meets the threshold for consideration.",
+    "e": "Medical nutrition therapy should not be used in isolation, as it may promote compensatory mechanisms that increase hunger."
+   },
+   "topic": "Obesity Management",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "FM",
+    "name": "Family Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 386,
+    "reference": "FM10 — Obesity Management: Bariatric Surgery"
+   }
+  },
+  {
+   "id": "TN-FM-012",
+   "type": "single-best-answer",
+   "question": "A 38-year-old man has a BMI of 28.4 kg/m2, hypertension and dyslipidemia. Over the past 6 months he has followed a personalized eating pattern, exercised regularly and completed a multicomponent behavioural programme, achieving only 2% weight loss. He remains motivated and asks about additional treatment. Which of the following is the most appropriate next step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Add pharmacotherapy such as liraglutide, naltrexone-bupropion, orlistat or semaglutide alongside continued nutrition, activity and psychological interventions"
+    },
+    {
+     "id": "b",
+     "text": "Explain that pharmacotherapy cannot be offered until his BMI reaches 30 kg/m2"
+    },
+    {
+     "id": "c",
+     "text": "Refer directly for bariatric surgery"
+    },
+    {
+     "id": "d",
+     "text": "Replace the current programme with medical nutrition therapy used on its own"
+    },
+    {
+     "id": "e",
+     "text": "Stop active treatment and re-measure his BMI and waist circumference in 2 years"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Anti-obesity pharmacotherapy can be used for patients with a BMI of 30 kg/m2 or more, or 27 kg/m2 or more with adiposity-related complications, in combination with medical nutrition therapy, physical activity and psychological interventions. His BMI of 28.4 kg/m2 with hypertension and dyslipidemia meets this threshold.",
+   "optionExplanations": {
+    "b": "The BMI threshold falls to 27 kg/m2 when adiposity-related complications such as hypertension are present.",
+    "c": "Bariatric surgery is considered at a BMI of 40 kg/m2, or 35 kg/m2 with an adiposity-related disease.",
+    "d": "Medical nutrition therapy should be combined with other interventions rather than used in isolation.",
+    "e": "Step 5 of the guideline calls for regular follow-up and reassessment to assist with drivers and barriers, not withdrawal of care."
+   },
+   "topic": "Obesity Pharmacotherapy",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "FM",
+    "name": "Family Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 385,
+    "reference": "FM9 — Obesity: Management (Canadian Adult Obesity Clinical Practice Guidelines)"
+   }
+  },
+  {
+   "id": "TN-FM-013",
+   "type": "single-best-answer",
+   "question": "A 22-year-old woman presents 4 days after a single episode of unprotected vaginal intercourse. Her last menstrual period began 2 weeks ago and her cycles are regular. She does not want to be pregnant, has no contraindication to intrauterine contraception, and would also like ongoing contraception. Which of the following is the most appropriate management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Insertion of a copper intrauterine device today"
+    },
+    {
+     "id": "b",
+     "text": "A single dose of levonorgestrel emergency contraception today"
+    },
+    {
+     "id": "c",
+     "text": "The Yuzpe regimen given as two doses 12 h apart"
+    },
+    {
+     "id": "d",
+     "text": "Reassurance that emergency contraception is no longer of any use at this interval"
+    },
+    {
+     "id": "e",
+     "text": "Defer treatment and arrange a pregnancy test in 21 days"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Copper intrauterine devices inserted within 5 days of unprotected intercourse are significantly more effective than hormonal emergency contraception, reducing the chance of pregnancy by approximately 99%. At day 4 she remains within the window, and the device also provides her requested ongoing contraception.",
+   "optionExplanations": {
+    "b": "Hormonal emergency contraception is effective within 72 h and most effective within 24 h, with only some effectiveness up to 5 days; it is less effective than a copper IUD.",
+    "c": "The Yuzpe regimen is a hormonal option with the same 72 h effectiveness window and lower efficacy than a copper IUD.",
+    "d": "Effective emergency contraception is still available at day 4, so this advice is incorrect.",
+    "e": "A pregnancy test is indicated if there is no menstrual bleeding within 21 days of treatment, but it does not replace treatment."
+   },
+   "topic": "Emergency Contraception",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "FM",
+    "name": "Family Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 399,
+    "reference": "FM23 — Contraception: Emergency Contraception"
+   }
+  },
+  {
+   "id": "TN-FM-014",
+   "type": "single-best-answer",
+   "question": "A 45-year-old woman presents with 2 months of fatigue and poor sleep. On directed questioning she reports little interest or pleasure in doing things and feeling down over the past 2 weeks. You administer the PHQ-2 and she scores 4 out of 6. She has no suicidal ideation and her physical examination is normal. Which of the following is the most appropriate next step?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Evaluate her with the PHQ-9 to determine whether she meets criteria for depression"
+    },
+    {
+     "id": "b",
+     "text": "Start a selective serotonin reuptake inhibitor immediately"
+    },
+    {
+     "id": "c",
+     "text": "Repeat the PHQ-2 in 2 weeks before doing anything further"
+    },
+    {
+     "id": "d",
+     "text": "Refer urgently to psychiatry without further office assessment"
+    },
+    {
+     "id": "e",
+     "text": "Take no further action, since routine depression screening is not recommended"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The PHQ-2 is scored out of 6, with a score of 3 or more considered positive. Those who screen positive should be evaluated with the PHQ-9 to determine whether they meet criteria for depression. Her score of 4 is positive, so PHQ-9 assessment is the appropriate next step.",
+   "optionExplanations": {
+    "b": "Depression is a clinical diagnosis; treatment follows a diagnostic assessment rather than a positive two-item screen.",
+    "c": "A positive PHQ-2 should prompt fuller evaluation rather than watchful repetition of the same screen.",
+    "d": "Referral is considered for specific situations such as coexisting psychosis or substance misuse, not for every positive screen.",
+    "e": "The Task Force advises against routine screening, but this patient presented with symptoms and has already screened positive."
+   },
+   "topic": "Depression Screening",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "FM",
+    "name": "Family Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 400,
+    "reference": "FM24 — Depression: Screening Questions"
+   }
+  },
+  {
+   "id": "TN-FM-015",
+   "type": "single-best-answer",
+   "question": "A 43-year-old man attends for a periodic health examination. He has a normal BMI, no hypertension, no dyslipidemia, no family history of diabetes and no other risk factors for type 2 diabetes. He is asymptomatic and has never had glucose testing. He asks whether he should be tested for diabetes. Which of the following is the most appropriate screening plan?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Fasting blood glucose or HbA1c now, and repeated every 3 years"
+    },
+    {
+     "id": "b",
+     "text": "75 g oral glucose tolerance test annually"
+    },
+    {
+     "id": "c",
+     "text": "No screening until he reaches age 50"
+    },
+    {
+     "id": "d",
+     "text": "Random plasma glucose annually"
+    },
+    {
+     "id": "e",
+     "text": "HbA1c only if he develops symptoms of hyperglycemia"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Screening for type 2 diabetes is with fasting blood glucose or HbA1c in everyone aged 40 and older every 3 years, or in those at high risk identified with the CANRISK calculator. More frequent or earlier testing is indicated when one or more additional risk factors are present, which is not the case here.",
+   "optionExplanations": {
+    "b": "An annual oral glucose tolerance test is not the recommended screening strategy for an asymptomatic average-risk adult.",
+    "c": "Screening begins at age 40, so waiting until 50 would delay detection.",
+    "d": "Random plasma glucose is not the recommended screening test.",
+    "e": "Screening is intended to detect disease before symptoms develop."
+   },
+   "topic": "Diabetes Screening",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "FM",
+    "name": "Family Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 401,
+    "reference": "FM25 — Diabetes Mellitus: Screening"
+   }
+  },
+  {
+   "id": "TN-FM-016",
+   "type": "single-best-answer",
+   "question": "A 46-year-old woman has repeated properly measured office blood pressures of 148/94 mmHg on three visits. She has no diabetes, no evidence of target organ damage and no other cardiovascular risk factors. Her BMI is 27 kg/m2, she is a non-smoker, and her renal function and urinalysis are normal. Which of the following is the most appropriate initial management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Lifestyle modification with structured follow-up in 3-6 months"
+    },
+    {
+     "id": "b",
+     "text": "Start a thiazide-like diuretic today"
+    },
+    {
+     "id": "c",
+     "text": "Start an angiotensin converting enzyme inhibitor today"
+    },
+    {
+     "id": "d",
+     "text": "Start a single pill combination of an ACE inhibitor and a calcium channel blocker today"
+    },
+    {
+     "id": "e",
+     "text": "Start a beta-blocker today"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Lifestyle modification is advised in all patients with hypertension and may be sufficient treatment in patients with stage 1 hypertension (140-159/90-99 mmHg). Antihypertensive drug therapy is indicated at 140/90 mmHg only when there is target organ damage or cardiovascular risk factors, and otherwise at 160/100 mmHg; she meets neither threshold, and lifestyle follow-up occurs every 3-6 months.",
+   "optionExplanations": {
+    "b": "Drug therapy without target organ damage or risk factors is indicated at a systolic of 160 mmHg or diastolic of 100 mmHg.",
+    "c": "An ACE inhibitor is a reasonable first-line agent, but pharmacotherapy is not yet indicated for her.",
+    "d": "Single pill combination therapy is an option once drug treatment is indicated, which it is not in this case.",
+    "e": "Beta-blockers are not recommended as first-line monotherapy in patients aged 60 and over and are not indicated here."
+   },
+   "topic": "Hypertension Management",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "FM",
+    "name": "Family Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 415,
+    "reference": "FM39 — Hypertension: Treatment"
+   }
+  },
+  {
+   "id": "TN-FM-017",
+   "type": "single-best-answer",
+   "question": "A 31-year-old woman at 20 weeks gestation has taken ramipril for hypertension since before conception. Her blood pressure today is 152/98 mmHg on repeated measurement. Fetal growth is appropriate and she has no proteinuria, headache or visual symptoms. She asks how her blood pressure should be managed for the rest of the pregnancy. Which of the following is the most appropriate management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Stop ramipril and start labetalol"
+    },
+    {
+     "id": "b",
+     "text": "Continue ramipril and add long-acting oral nifedipine"
+    },
+    {
+     "id": "c",
+     "text": "Switch ramipril to candesartan"
+    },
+    {
+     "id": "d",
+     "text": "Stop all antihypertensive drugs for the remainder of the pregnancy"
+    },
+    {
+     "id": "e",
+     "text": "Switch ramipril to enalapril at a lower dose"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "In pregnancy the first line oral antihypertensives are labetalol, methyldopa and long-acting oral nifedipine, while ACE inhibitors and ARBs are medications to avoid because of fetotoxicity affecting the renal system. Ramipril should therefore be stopped and replaced with a first-line agent such as labetalol.",
+   "optionExplanations": {
+    "b": "Nifedipine is appropriate in pregnancy, but continuing the ACE inhibitor exposes the fetus to renal fetotoxicity.",
+    "c": "ARBs are also listed among medications to avoid in pregnancy.",
+    "d": "Her blood pressure is elevated and requires treatment with a pregnancy-appropriate agent rather than complete withdrawal.",
+    "e": "Enalapril is listed as acceptable during lactation, not pregnancy, where ACE inhibitors are avoided."
+   },
+   "topic": "Hypertension in Pregnancy",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "FM",
+    "name": "Family Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 416,
+    "reference": "FM40 — Common Antihypertensive Medications in Pregnancy and Lactation"
+   }
+  },
+  {
+   "id": "TN-FM-018",
+   "type": "single-best-answer",
+   "question": "A 67-year-old postmenopausal woman attends for review. At age 62 she sustained a low trauma wrist fracture after falling from standing height. She takes no glucocorticoids, has no parental hip fracture, does not smoke, drinks minimally, and her BMI is 24 kg/m2. She has had no height loss and has never had bone densitometry. Which of the following is the most appropriate next step?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Obtain bone mineral density and calculate 10-year fracture risk using FRAX or the CAROC tool"
+    },
+    {
+     "id": "b",
+     "text": "Start pharmacotherapy now without bone mineral density testing"
+    },
+    {
+     "id": "c",
+     "text": "Defer bone mineral density testing until age 70 and reassess then"
+    },
+    {
+     "id": "d",
+     "text": "Advise calcium and vitamin D alone and reassess in 5 years"
+    },
+    {
+     "id": "e",
+     "text": "Order serum protein electrophoresis and treat only if it is abnormal"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "In the 2023 Canadian osteoporosis guideline, bone mineral density should be obtained and 10-year fracture risk calculated with FRAX (preferred) or CAROC in postmenopausal women aged 65-69 who have one risk factor. A previous fracture after age 40 in the setting of low trauma is such a risk factor, so she should have densitometry and risk calculation.",
+   "optionExplanations": {
+    "b": "Pharmacotherapy is recommended without densitometry for a previous hip or spine fracture or more than two fracture events, neither of which she has.",
+    "c": "Assessment at age 70 with no risk factors applies to women who have no risk factors; she has one.",
+    "d": "Calcium, vitamin D and exercise are advised for everyone in this group but do not replace risk assessment with BMD.",
+    "e": "Serum protein electrophoresis is reserved for patients with vertebral fractures, not as the initial step here."
+   },
+   "topic": "Osteoporosis Screening",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "FM",
+    "name": "Family Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 421,
+    "reference": "FM45 — Osteoporosis: 2023 Clinical Practice Guidelines"
+   }
+  }
+ ]
+}

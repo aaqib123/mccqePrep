@@ -1,0 +1,1026 @@
+{
+ "chapter": {
+  "code": "PS",
+  "name": "Psychiatry"
+ },
+ "document": {
+  "id": "toronto-notes-2025",
+  "title": "Toronto Notes 2025",
+  "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
+ },
+ "count": 22,
+ "questions": [
+  {
+   "id": "TN-PS-001",
+   "type": "single-best-answer",
+   "question": "A 34-year-old man is assessed at a walk-in clinic. When asked why he came in today, he gives long replies about his neighbours, the weather, and a television program. Each reply drifts away from the question and he never returns to the original point, although his sentences remain grammatically intact and he denies racing thoughts. Which term best describes this abnormality of thought form?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Circumstantial thinking"
+    },
+    {
+     "id": "b",
+     "text": "Tangential thinking"
+    },
+    {
+     "id": "c",
+     "text": "Flight of ideas"
+    },
+    {
+     "id": "d",
+     "text": "Perseveration"
+    },
+    {
+     "id": "e",
+     "text": "Thought blocking"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Toronto Notes defines tangential speech as speech that is oblique or irrelevant and does not come back to the original point, in contrast to circumstantial speech, which is indirect and delayed in reaching its goal but eventually returns to the point. This man's replies wander from the question and never return, which is tangentiality.",
+   "optionExplanations": {
+    "a": "Circumstantial speech is indirect and delayed but does eventually come back to the point, which is not the case here.",
+    "c": "Flight of ideas is quick skipping from one marginally connected idea to another, usually with racing thoughts in mania, which he denies.",
+    "d": "Perseveration is repetition of the same verbal or motor response to stimuli, not drifting away from the topic.",
+    "e": "Thought blocking is a sudden cessation of the flow of thought and speech, which is not described."
+   },
+   "topic": "Mental Status Examination",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "PS",
+    "name": "Psychiatry"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1358,
+    "reference": "PS4 — Mental Status Exam: Thought Process/Form"
+   }
+  },
+  {
+   "id": "TN-PS-002",
+   "type": "single-best-answer",
+   "question": "A 46-year-old man is brought to the emergency department after telling a friend he would be better off dead. He smells strongly of alcohol, is dysarthric and unsteady on his feet, and says he no longer wants to be alive but will not answer questions about a plan or about access to means. Vital signs and physical examination are otherwise unremarkable. What is the most appropriate next step in his risk assessment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Base the risk formulation on the account he gives while intoxicated"
+    },
+    {
+     "id": "b",
+     "text": "Reassess his suicidal ideation once he is sober"
+    },
+    {
+     "id": "c",
+     "text": "Discharge him now with a crisis line number and outpatient follow-up"
+    },
+    {
+     "id": "d",
+     "text": "Defer any risk assessment until he can be seen in an outpatient psychiatry clinic"
+    },
+    {
+     "id": "e",
+     "text": "Obtain a urine drug screen and discharge him once the result is available"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Toronto Notes states explicitly that when assessing risk, if the patient is intoxicated on the first approach, the clinician should reassess when the patient is sober. Assessment of plan, intent, access to means, and protective factors cannot be reliably completed while he is intoxicated, so the assessment is repeated once he is sober and a level of risk and safety plan are then determined.",
+   "optionExplanations": {
+    "a": "The source specifically warns that the assessment performed while the patient is intoxicated should be repeated when sober.",
+    "c": "Discharge before a reliable risk assessment has been completed does not follow the recommended approach.",
+    "d": "Suicide risk must be screened and assessed at the encounter; deferring the whole assessment to an outpatient clinic leaves the risk unassessed.",
+    "e": "A drug screen does not substitute for reassessing ideation, plan, intent, and protective factors when sober."
+   },
+   "topic": "Suicide Risk Assessment",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "PS",
+    "name": "Psychiatry"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1359,
+    "reference": "PS5 — Suicide: Approach and Assessment of Risk"
+   }
+  },
+  {
+   "id": "TN-PS-003",
+   "type": "single-best-answer",
+   "question": "A 58-year-old woman is assessed for a severe major depressive episode. She has lost 9 kg, is profoundly psychomotor retarded, and holds a fixed belief that her internal organs have rotted away and that she deserves to die. She describes active thoughts of ending her life and has been declining fluids for two days. She lives alone. What is the most appropriate management of her risk?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Hospitalization"
+    },
+    {
+     "id": "b",
+     "text": "Outpatient treatment with pharmacotherapy and good supports"
+    },
+    {
+     "id": "c",
+     "text": "Brief crisis intervention in the emergency department followed by discharge"
+    },
+    {
+     "id": "d",
+     "text": "Referral to community group psychotherapy with weekly review"
+    },
+    {
+     "id": "e",
+     "text": "Telephone follow-up by a crisis team the next day"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "For patients with depression, Toronto Notes advises considering hospitalization if symptoms are severe or if psychotic features are present; otherwise outpatient treatment with good supports and pharmacotherapy is appropriate. This woman has both severe symptoms and mood-congruent nihilistic delusions with active suicidal ideation, so admission is the appropriate management of risk.",
+   "optionExplanations": {
+    "b": "Outpatient management with supports and pharmacotherapy is reserved for depression that is not severe and not psychotic.",
+    "c": "Crisis intervention with possible discharge is described for patients with personality disorders, not for severe depression with psychotic features.",
+    "d": "Group psychotherapy does not address the immediate safety concern in severe psychotic depression.",
+    "e": "Telephone follow-up does not provide the level of supervision indicated when symptoms are severe and psychotic features are present."
+   },
+   "topic": "Suicide Risk Management",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "PS",
+    "name": "Psychiatry"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1361,
+    "reference": "PS7 — Suicide: Safety Planning and Management by Diagnosis"
+   }
+  },
+  {
+   "id": "TN-PS-004",
+   "type": "single-best-answer",
+   "question": "A 21-year-old university student is brought by his parents. Over the past nine months he has withdrawn from friends, stopped attending classes, and expressed increasingly odd beliefs. For the last two months he has stated that a government agency is monitoring him and his speech is frequently derailed. He has never had a depressive or manic episode. Urine drug screen and bloodwork are normal. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Brief psychotic disorder"
+    },
+    {
+     "id": "b",
+     "text": "Schizophreniform disorder"
+    },
+    {
+     "id": "c",
+     "text": "Schizophrenia"
+    },
+    {
+     "id": "d",
+     "text": "Schizoaffective disorder"
+    },
+    {
+     "id": "e",
+     "text": "Delusional disorder"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "DSM-5 criteria reproduced in Toronto Notes require two or more Criterion A symptoms (at least one being delusions, hallucinations, or disorganized speech) present for a significant portion of a 1 mo period, marked decline in functioning, and continuous signs of the disturbance for at least 6 mo. He has nine months of continuous disturbance with two months of delusions and disorganized speech and functional decline, with mood episodes and substances excluded.",
+   "optionExplanations": {
+    "a": "Brief psychotic disorder lasts less than 1 mo with eventual full return to premorbid functioning.",
+    "b": "Schizophreniform disorder applies when the episode lasts more than 1 mo but less than 6 mo; his disturbance has been continuous for nine months.",
+    "d": "Schizoaffective disorder requires a major mood episode concurrent with Criterion A, and he has never had a depressive or manic episode.",
+    "e": "Delusional disorder involves one or more delusions without the other Criterion A features such as disorganized speech and marked functional decline."
+   },
+   "topic": "Schizophrenia",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "PS",
+    "name": "Psychiatry"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1362,
+    "reference": "PS8 — DSM-5 Diagnostic Criteria for Schizophrenia"
+   }
+  },
+  {
+   "id": "TN-PS-005",
+   "type": "single-best-answer",
+   "question": "A 27-year-old man with schizophrenia has had three relapses requiring hospital admission in two years. Each relapse followed his stopping oral risperidone within weeks of discharge. When he takes the medication his positive symptoms remit fully and he tolerates it well. He has never failed an adequate trial of an antipsychotic taken as prescribed. What is the most appropriate next step in his pharmacological management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Switch to a long-acting injectable antipsychotic"
+    },
+    {
+     "id": "b",
+     "text": "Switch to clozapine"
+    },
+    {
+     "id": "c",
+     "text": "Add lithium to the oral risperidone"
+    },
+    {
+     "id": "d",
+     "text": "Add a long-term benzodiazepine to the oral regimen"
+    },
+    {
+     "id": "e",
+     "text": "Refer for electroconvulsive therapy"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states that long-acting injectable (depot) antipsychotics have been shown to be more effective in reducing relapse and rehospitalization compared with oral alternatives. This man's relapses are driven by non-adherence rather than by lack of efficacy, so converting to a long-acting injectable directly targets the cause of his relapses.",
+   "optionExplanations": {
+    "b": "Clozapine is reserved for treatment resistance, and he responds well to risperidone when he actually takes it.",
+    "c": "Mood stabilizers such as lithium are listed as adjuncts for aggression or impulsiveness, not for non-adherence.",
+    "d": "Anxiolytics are adjunctive agents and do not address relapse driven by stopping the antipsychotic.",
+    "e": "ECT is an adjunctive option in resistant or life-threatening presentations, not the first response to non-adherence."
+   },
+   "topic": "Management of Schizophrenia",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "PS",
+    "name": "Psychiatry"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1363,
+    "reference": "PS9 — Management of Schizophrenia"
+   }
+  },
+  {
+   "id": "TN-PS-006",
+   "type": "single-best-answer",
+   "question": "A 28-year-old man is admitted after ten days of abnormally elevated and expansive mood with markedly increased goal-directed activity. He has been sleeping three hours a night and feels rested, speaks rapidly and cannot be interrupted, states he has been chosen to lead a global business, and has spent his savings on equipment. He had a major depressive episode at age 24. Urine drug screen is negative. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Bipolar I disorder"
+    },
+    {
+     "id": "b",
+     "text": "Bipolar II disorder"
+    },
+    {
+     "id": "c",
+     "text": "Cyclothymic disorder"
+    },
+    {
+     "id": "d",
+     "text": "Major depressive disorder with mixed features"
+    },
+    {
+     "id": "e",
+     "text": "Schizoaffective disorder"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "A manic episode requires a distinct period of abnormally and persistently elevated, expansive, or irritable mood with increased goal-directed activity or energy lasting at least 1 wk (or any duration if hospitalization is necessary), plus at least 3 Criterion B symptoms and marked impairment. He meets these criteria over ten days, and Toronto Notes notes that at least one lifetime manic episode is required for a diagnosis of bipolar I disorder.",
+   "optionExplanations": {
+    "b": "Bipolar II requires at least one hypomanic episode and no manic episodes; his episode caused marked impairment and required hospitalization.",
+    "c": "Cyclothymia involves numerous hypomanic and depressive symptoms that never meet full episode criteria.",
+    "d": "Mixed features describe concurrent depressive and manic symptoms within an episode and would not exclude the manic episode he clearly meets.",
+    "e": "Schizoaffective disorder requires delusions or hallucinations in the absence of a major mood episode, which is not described."
+   },
+   "topic": "Bipolar Disorder",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "PS",
+    "name": "Psychiatry"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1365,
+    "reference": "PS11 — DSM-5 Criteria for Manic Episode"
+   }
+  },
+  {
+   "id": "TN-PS-007",
+   "type": "single-best-answer",
+   "question": "A 32-year-old woman presents with six weeks of depressed mood, anhedonia, insomnia, fatigue, poor concentration, and guilt. Her symptoms are of moderate severity and are interfering with her work. She has no history of a manic or hypomanic episode, no psychotic features, and no suicidal ideation. Bloodwork including TSH is normal. She agrees to start medication. What is the most appropriate initial medication?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Escitalopram"
+    },
+    {
+     "id": "b",
+     "text": "Amitriptyline"
+    },
+    {
+     "id": "c",
+     "text": "Phenelzine"
+    },
+    {
+     "id": "d",
+     "text": "Aripiprazole"
+    },
+    {
+     "id": "e",
+     "text": "Lithium"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "For major depressive disorder of moderate or greater severity, Toronto Notes lists most second generation antidepressants as first line, with escitalopram, mirtazapine, sertraline, venlafaxine, agomelatine, and citalopram showing evidence for superiority. Escitalopram is therefore an appropriate first choice for this uncomplicated moderate episode.",
+   "optionExplanations": {
+    "b": "Tricyclic antidepressants are not among the first line second generation agents listed for moderate MDD.",
+    "c": "MAOIs are reserved for moderate to severe depression that does not respond to other antidepressants.",
+    "d": "Aripiprazole is listed as an augmenting agent for non-response or partial response, not as initial monotherapy.",
+    "e": "Lithium is used for bipolar disorder and as augmentation of antidepressants, not as initial treatment of MDD."
+   },
+   "topic": "Major Depressive Disorder",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "PS",
+    "name": "Psychiatry"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1366,
+    "reference": "PS12 — Major Depressive Disorder: Treatment"
+   }
+  },
+  {
+   "id": "TN-PS-008",
+   "type": "single-best-answer",
+   "question": "A 29-year-old woman is seen six weeks after an uncomplicated delivery. Her mood began to drop about ten days postpartum and for the past four weeks she has had persistent depressed mood, anhedonia, poor sleep even when the baby sleeps, guilt, and complete disinterest in her infant. She has no hallucinations or delusions and no thoughts of harming the baby. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Postpartum blues"
+    },
+    {
+     "id": "b",
+     "text": "Major depressive disorder with peripartum onset"
+    },
+    {
+     "id": "c",
+     "text": "Adjustment disorder with depressed mood"
+    },
+    {
+     "id": "d",
+     "text": "Bipolar II disorder"
+    },
+    {
+     "id": "e",
+     "text": "Generalized anxiety disorder"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Toronto Notes states that the peripartum onset specifier applies to a major depressive episode with onset during pregnancy or within 4 wk following delivery, and that severe symptoms may include complete disinterest in the baby. Her episode began ten days postpartum and has persisted for four weeks with full depressive features, so this is major depressive disorder with peripartum onset.",
+   "optionExplanations": {
+    "a": "Postpartum blues begins 2-4 d postpartum, usually lasts about 48 h and up to 10 d, and feelings of inadequacy and anhedonia are usually mild or absent.",
+    "c": "Adjustment disorder requires that the disturbance not meet criteria for another mental disorder, and she meets criteria for a major depressive episode.",
+    "d": "Bipolar II requires at least one hypomanic episode, which is not described.",
+    "e": "Her presentation is dominated by depressed mood, anhedonia, and guilt rather than excessive worry."
+   },
+   "topic": "Postpartum Mood Disorders",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "PS",
+    "name": "Psychiatry"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1368,
+    "reference": "PS14 — Postpartum Mood Disorders"
+   }
+  },
+  {
+   "id": "TN-PS-009",
+   "type": "single-best-answer",
+   "question": "A 35-year-old woman with a documented diagnosis of bipolar II disorder presents with a six-week depressive episode. She has had two previous hypomanic episodes and several depressive episodes, and has never had a manic episode or psychotic symptoms. She is currently taking no psychotropic medication and agrees to start pharmacotherapy. What is the most appropriate initial medication?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Quetiapine"
+    },
+    {
+     "id": "b",
+     "text": "Fluoxetine as monotherapy"
+    },
+    {
+     "id": "c",
+     "text": "Venlafaxine as monotherapy"
+    },
+    {
+     "id": "d",
+     "text": "Haloperidol"
+    },
+    {
+     "id": "e",
+     "text": "Clonazepam"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes lists lithium, lurasidone, quetiapine, and lamotrigine as agents for treating bipolar depression and notes specifically that quetiapine is first line in treating bipolar II depression. It also states that monotherapy with antidepressants should be avoided in bipolar disorder because patients can switch from depression into mania.",
+   "optionExplanations": {
+    "b": "Antidepressants are second line in bipolar depression and should only be used with a mood stabilizer, never as monotherapy.",
+    "c": "The same caution applies to venlafaxine; antidepressant monotherapy risks a switch into mania.",
+    "d": "Haloperidol is not listed among the agents used to treat bipolar depression.",
+    "e": "Benzodiazepines are listed for acute agitation in mania, not for treating a bipolar depressive episode."
+   },
+   "topic": "Bipolar Disorder Treatment",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "PS",
+    "name": "Psychiatry"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1369,
+    "reference": "PS15 — Bipolar Disorders: Treatment"
+   }
+  },
+  {
+   "id": "TN-PS-010",
+   "type": "single-best-answer",
+   "question": "A 26-year-old woman describes recurrent unexpected episodes of palpitations, sweating, trembling, chest discomfort, shortness of breath, and a fear of dying. The episodes come on abruptly, peak within minutes, and settle after about ten minutes. For the past three months she has worried persistently about having further episodes and has stopped exercising in case one is triggered. Cardiac and thyroid investigations are normal. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Panic disorder"
+    },
+    {
+     "id": "b",
+     "text": "Generalized anxiety disorder"
+    },
+    {
+     "id": "c",
+     "text": "Agoraphobia"
+    },
+    {
+     "id": "d",
+     "text": "Specific phobia"
+    },
+    {
+     "id": "e",
+     "text": "Illness anxiety disorder"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "DSM-5 criteria in Toronto Notes define panic disorder as recurrent unexpected panic attacks, an abrupt surge of intense fear or discomfort reaching a peak within minutes with four or more characteristic symptoms, with at least one attack followed by 1 mo or more of persistent concern about additional attacks or a significant maladaptive change in behaviour related to the attacks. She meets both criteria.",
+   "optionExplanations": {
+    "b": "Generalized anxiety disorder is characterized by pervasive worry rather than discrete unexpected surges peaking within minutes.",
+    "c": "Agoraphobia requires marked fear or anxiety about two or more of the five specified situations such as public transportation, open spaces, or crowds.",
+    "d": "Specific phobia involves fear cued by a particular object or situation, whereas her attacks are unexpected.",
+    "e": "Illness anxiety disorder involves preoccupation with having a serious disease despite negative investigations, not recurrent panic attacks."
+   },
+   "topic": "Panic Disorder",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "PS",
+    "name": "Psychiatry"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1370,
+    "reference": "PS16 — DSM-5 Diagnostic Criteria for Panic Disorder"
+   }
+  },
+  {
+   "id": "TN-PS-011",
+   "type": "single-best-answer",
+   "question": "A 40-year-old man with schizophrenia requires a change of antipsychotic because of persistent positive symptoms on his current agent. He has type 2 diabetes and a BMI of 34 kg/m2, and he developed marked drug-induced parkinsonism on a previous antipsychotic. He has never had an adequate trial fail because of lack of efficacy. Which antipsychotic is the most appropriate choice?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Aripiprazole"
+    },
+    {
+     "id": "b",
+     "text": "Olanzapine"
+    },
+    {
+     "id": "c",
+     "text": "Risperidone"
+    },
+    {
+     "id": "d",
+     "text": "Clozapine"
+    },
+    {
+     "id": "e",
+     "text": "Haloperidol"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes describes aripiprazole as having less weight gain and risk of metabolic syndrome compared to olanzapine and a lower incidence of extrapyramidal symptoms compared to haloperidol. Given this man's diabetes, obesity, and previous extrapyramidal symptoms, aripiprazole best avoids both the metabolic and the extrapyramidal risks.",
+   "optionExplanations": {
+    "b": "Olanzapine causes weight gain and metabolic effects and the source advises avoiding it in diabetes.",
+    "c": "Risperidone carries the highest risk of extrapyramidal symptoms and tardive dyskinesia among the second generation agents and should be avoided in patients at high risk of EPS.",
+    "d": "Clozapine is reserved for treatment-resistant illness, causes the most weight gain, and requires ongoing blood count monitoring because of agranulocytosis.",
+    "e": "Haloperidol is a high potency typical antipsychotic with a higher incidence of extrapyramidal symptoms."
+   },
+   "topic": "Antipsychotics and Adverse Effects",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "PS",
+    "name": "Psychiatry"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1405,
+    "reference": "PS51 — Table 15: Commonly Used Atypical Antipsychotics"
+   }
+  },
+  {
+   "id": "TN-PS-012",
+   "type": "single-best-answer",
+   "question": "A 24-year-old woman describes intrusive, unwanted thoughts that her hands are contaminated. She recognizes the thoughts as her own and as excessive, but relieves the anxiety by washing her hands in a fixed sequence, now occupying more than two hours each day and making her late for work. Her hands are chapped and cracked. She has no depressive or psychotic symptoms. What is the most appropriate initial psychological treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Cognitive behavioural therapy with exposure and response prevention"
+    },
+    {
+     "id": "b",
+     "text": "Supportive psychotherapy"
+    },
+    {
+     "id": "c",
+     "text": "Interpersonal therapy"
+    },
+    {
+     "id": "d",
+     "text": "Dialectical behavioural therapy"
+    },
+    {
+     "id": "e",
+     "text": "Psychodynamic psychotherapy"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Her obsessions and compulsions take more than 1 h/d and cause impairment, meeting the DSM-5 criteria for obsessive-compulsive disorder set out in Toronto Notes. The listed psychological treatment for OCD is CBT using exposure and response prevention, in which the patient is exposed to feared situations while the compulsive behaviours are prevented, combined with cognitive strategies that challenge underlying beliefs.",
+   "optionExplanations": {
+    "b": "Supportive therapy uses empathy and validation to aid coping and is indicated for adjustment, somatic symptom, and severe psychotic or personality disorders.",
+    "c": "Interpersonal therapy focuses on how interpersonal relationships affect symptoms and is indicated for mood disorders.",
+    "d": "Dialectical behavioural therapy is the therapy indicated for borderline personality disorder and severe emotional dysregulation.",
+    "e": "Psychodynamic therapy explores the meaning of early experiences and is not the specific first line therapy for OCD."
+   },
+   "topic": "Obsessive-Compulsive Disorder",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "PS",
+    "name": "Psychiatry"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1373,
+    "reference": "PS19 — Obsessive-Compulsive Disorder: Criteria and Treatment"
+   }
+  },
+  {
+   "id": "TN-PS-013",
+   "type": "single-best-answer",
+   "question": "A 30-year-old woman is assessed four months after a motor vehicle collision in which she was seriously injured. She reports recurrent intrusive memories of the crash, distressing dreams about it, and flashbacks. She avoids driving and avoids conversations about the accident, feels persistently detached from her family, and is hypervigilant with an exaggerated startle response and disturbed sleep. She has stopped working. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Post-traumatic stress disorder"
+    },
+    {
+     "id": "b",
+     "text": "Acute stress disorder"
+    },
+    {
+     "id": "c",
+     "text": "Adjustment disorder with anxiety"
+    },
+    {
+     "id": "d",
+     "text": "Panic disorder"
+    },
+    {
+     "id": "e",
+     "text": "Generalized anxiety disorder"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "She has exposure to a traumatic event with intrusion symptoms, persistent avoidance, negative alterations in cognitions and mood, and marked alterations in arousal and reactivity, causing significant impairment. Toronto Notes states that the duration of criteria B, C, D, and E must be more than 1 mo, and her symptoms have persisted for four months.",
+   "optionExplanations": {
+    "b": "Acute stress disorder describes symptoms persisting from 3 d to 1 mo after exposure to a trauma; she is four months out.",
+    "c": "Adjustment disorder does not apply when the disturbance meets criteria for another mental disorder such as PTSD.",
+    "d": "Her symptoms are cued by trauma reminders rather than being recurrent unexpected panic attacks.",
+    "e": "Generalized anxiety disorder involves pervasive worry, not intrusive re-experiencing of a specific traumatic event."
+   },
+   "topic": "Post-Traumatic Stress Disorder",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "PS",
+    "name": "Psychiatry"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1375,
+    "reference": "PS21 — DSM-5 Diagnostic Criteria for Post-Traumatic Stress Disorder"
+   }
+  },
+  {
+   "id": "TN-PS-014",
+   "type": "single-best-answer",
+   "question": "A 78-year-old man is reviewed on the ward two days after emergency hip fracture surgery. Over the past 24 hours he has been drowsy and inattentive during the day, unable to sustain a conversation, and disoriented to time and place. At night he is agitated, pulls at his intravenous line, and describes seeing small animals in the room. His daughter says his memory was normal before admission. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Delirium"
+    },
+    {
+     "id": "b",
+     "text": "Major neurocognitive disorder due to Alzheimer's disease"
+    },
+    {
+     "id": "c",
+     "text": "Brief psychotic disorder"
+    },
+    {
+     "id": "d",
+     "text": "Cognitive impairment associated with depression"
+    },
+    {
+     "id": "e",
+     "text": "Late-onset schizophrenia"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "DSM-5 criteria in Toronto Notes define delirium as a disturbance in attention and awareness developing over hours to a few days, representing a change from baseline and fluctuating in severity over the day, with an additional cognitive disturbance and evidence of a medical cause. Recent surgery is a listed risk factor, and visual hallucinations are described as organic until proven otherwise.",
+   "optionExplanations": {
+    "b": "Dementia has a gradual or stepwise onset over months to years with a normal level of consciousness and attention not affected initially.",
+    "c": "Brief psychotic disorder does not feature the fluctuating inattention and clouded consciousness seen here, and a medical cause must be excluded.",
+    "d": "Cognitive impairment associated with depression has a subacute onset with normal level of consciousness and intact orientation.",
+    "e": "Factors favouring delirium over psychosis include visual hallucinations, acute onset, no previous history of psychosis, and sleep-wake changes, all present here."
+   },
+   "topic": "Delirium",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "PS",
+    "name": "Psychiatry"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1377,
+    "reference": "PS23 — DSM-5 Diagnostic Criteria for Delirium"
+   }
+  },
+  {
+   "id": "TN-PS-015",
+   "type": "single-best-answer",
+   "question": "A 72-year-old man is brought by his daughter because of memory problems that began about two months ago. He complains at length about his poor memory. He is alert and fully oriented, wakes at 4 am each morning, has lost interest in his hobbies, and appears psychomotor slowed with a pervasively depressed affect. Cognitive testing shows slowed, effortful responses with recent memory difficulty. There is no fluctuation over the day. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Cognitive impairment associated with depression"
+    },
+    {
+     "id": "b",
+     "text": "Delirium"
+    },
+    {
+     "id": "c",
+     "text": "Major neurocognitive disorder due to Alzheimer's disease"
+    },
+    {
+     "id": "d",
+     "text": "Major neurocognitive disorder with Lewy bodies"
+    },
+    {
+     "id": "e",
+     "text": "Delirium superimposed on dementia"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes Table 3 distinguishes cognitive impairment associated with depression by its subacute onset, normal level of consciousness, intact orientation, difficulty concentrating rather than true inattention, recent memory loss that the patient is more likely to complain about, early morning awakening, and pervasive depressed mood. This man's presentation matches that column.",
+   "optionExplanations": {
+    "b": "Delirium has acute onset over hours to days with fluctuating level of consciousness and impaired orientation.",
+    "c": "Dementia has gradual or stepwise decline over months to years, typically with low insight rather than prominent complaints of memory loss.",
+    "d": "Lewy body disease features early changes in executive function and attention with well-formed visual hallucinations and fluctuating cognition, none of which are present.",
+    "e": "There is no fluctuation, no clouding of consciousness, and no preceding cognitive decline to suggest a superimposed delirium."
+   },
+   "topic": "Delirium vs Dementia vs Depression",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "PS",
+    "name": "Psychiatry"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1380,
+    "reference": "PS26 — Table 3: Comparison of Dementia, Delirium, and Cognitive Impairment Associated with Depression"
+   }
+  },
+  {
+   "id": "TN-PS-016",
+   "type": "single-best-answer",
+   "question": "A 68-year-old man with known alcohol use disorder and biopsy-proven cirrhosis presents 14 hours after his last drink with tremor, diaphoresis, agitation, nausea, and anxiety. He is afebrile with a heart rate of 108 bpm. His CIWA-A score is in the moderate range. He has no history of withdrawal seizures and no hallucinations. Thiamine has been given. Which medication is the most appropriate for managing his withdrawal?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Lorazepam"
+    },
+    {
+     "id": "b",
+     "text": "Diazepam"
+    },
+    {
+     "id": "c",
+     "text": "Chlordiazepoxide"
+    },
+    {
+     "id": "d",
+     "text": "Haloperidol"
+    },
+    {
+     "id": "e",
+     "text": "Clonidine"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The CIWA-A treatment protocol in Toronto Notes uses diazepam as the basic protocol, but specifies that if the patient is over 65 years of age or has severe liver disease, severe asthma, or respiratory failure, a short acting benzodiazepine should be used, with lorazepam 1-4 mg PO/SL/IM q1-2 h. This man is 68 with cirrhosis, so lorazepam is the appropriate agent.",
+   "optionExplanations": {
+    "b": "Diazepam is the basic protocol agent but is long acting and is specifically not the choice in patients over 65 or with severe liver disease.",
+    "c": "Chlordiazepoxide is also a long-acting benzodiazepine and shares the same limitation in this patient.",
+    "d": "Haloperidol is added when hallucinations are present and lowers the seizure threshold; antipsychotics are not useful in alcohol withdrawal delirium.",
+    "e": "Clonidine is described for symptomatic management of autonomic features of opioid withdrawal, not for alcohol withdrawal."
+   },
+   "topic": "Alcohol Withdrawal",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "PS",
+    "name": "Psychiatry"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1383,
+    "reference": "PS29 — Table 5: CIWA-A Scale Treatment Protocol for Alcohol Withdrawal"
+   }
+  },
+  {
+   "id": "TN-PS-017",
+   "type": "single-best-answer",
+   "question": "A 31-year-old man with a five-year history of opioid use disorder has completed three medically supervised detoxifications and relapsed within weeks each time. He is currently using non-prescribed opioids daily and injects intermittently. He is medically stable, is engaged with an addiction counsellor, and asks about long-term treatment. What is the most appropriate long-term pharmacological management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Maintenance therapy with buprenorphine-naloxone"
+    },
+    {
+     "id": "b",
+     "text": "Clonidine as long-term monotherapy"
+    },
+    {
+     "id": "c",
+     "text": "A short tapering course of oral morphine with no further pharmacotherapy"
+    },
+    {
+     "id": "d",
+     "text": "Daily naloxone"
+    },
+    {
+     "id": "e",
+     "text": "Scheduled diazepam to control craving"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states that long-term treatment of opioid use disorder may include maintenance treatment with methadone, an opioid agonist, or buprenorphine, a mixed agonist-antagonist, and that the Suboxone formulation combines buprenorphine with naloxone to deter injection. Repeated relapse after detoxification is exactly the situation in which maintenance therapy is indicated.",
+   "optionExplanations": {
+    "b": "Clonidine is an alpha-adrenergic agonist used for symptomatic management of the autonomic features of withdrawal, not for maintenance.",
+    "c": "A further taper repeats the detoxification approach that has already failed and leaves him with loss of tolerance and overdose risk on relapse.",
+    "d": "Naloxone is used for life-threatening CNS and respiratory depression in overdose and would precipitate withdrawal if given regularly.",
+    "e": "Benzodiazepines are not a listed treatment for opioid use disorder and add sedative risk."
+   },
+   "topic": "Opioid Use Disorder",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "PS",
+    "name": "Psychiatry"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1384,
+    "reference": "PS30 — Opioids: Treatment of Opioid Use Disorder"
+   }
+  },
+  {
+   "id": "TN-PS-018",
+   "type": "single-best-answer",
+   "question": "A 42-year-old man has attended his family physician repeatedly over the past year convinced that he has a brain tumour. His only symptom is an occasional mild headache. Imaging and bloodwork have been normal and he has been reassured several times, yet the conviction returns within days. He checks himself daily and researches symptoms for hours. When asked, he concedes he might be wrong. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Illness anxiety disorder"
+    },
+    {
+     "id": "b",
+     "text": "Somatic symptom disorder"
+    },
+    {
+     "id": "c",
+     "text": "Conversion disorder"
+    },
+    {
+     "id": "d",
+     "text": "Delusional disorder, somatic type"
+    },
+    {
+     "id": "e",
+     "text": "Factitious disorder"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes describes illness anxiety disorder as preoccupation with the fear of having or the idea that one has a serious disease, with convictions persisting despite negative investigations and reassurance, somatic symptoms mild or absent, maladaptive behaviour such as excessive physical checking, and duration greater than 6 mo. Crucially, unlike a delusion, the person can acknowledge the possibility that the feared disease is not present.",
+   "optionExplanations": {
+    "b": "Somatic symptom disorder requires one or more distressing somatic symptoms that disrupt daily life; here somatic symptoms are mild.",
+    "c": "Conversion disorder involves symptoms or deficits affecting voluntary motor or sensory function that are incompatible with recognized neurological disease.",
+    "d": "A delusion is a fixed belief, whereas he is able to acknowledge that the feared disease may not be present.",
+    "e": "Factitious disorder involves the intentional production or feigning of signs or symptoms; his symptoms are not consciously produced."
+   },
+   "topic": "Somatic Symptom and Related Disorders",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "PS",
+    "name": "Psychiatry"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1388,
+    "reference": "PS34 — Illness Anxiety Disorder"
+   }
+  },
+  {
+   "id": "TN-PS-019",
+   "type": "single-best-answer",
+   "question": "A 19-year-old woman with anorexia nervosa is seen in clinic. She has restricted her intake further over the past month and continues to fear weight gain. On examination she is cold and thin, blood pressure is 84/56 mmHg lying with a symptomatic postural drop, and her heart rate is 36 bpm. Serum potassium is 2.9 mmol/L and magnesium is low. She denies suicidal ideation. What is the most appropriate management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Admission to a medical ward"
+    },
+    {
+     "id": "b",
+     "text": "Weekly outpatient cognitive behavioural therapy"
+    },
+    {
+     "id": "c",
+     "text": "Start an SSRI and review in four weeks"
+    },
+    {
+     "id": "d",
+     "text": "Referral to an outpatient eating disorder day programme"
+    },
+    {
+     "id": "e",
+     "text": "Family-based treatment with monthly weight checks"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes lists criteria to admit to a medical ward for anorexia nervosa, including hypovolemia requiring intravenous fluid, heart rate below 40 bpm, abnormal serum chemistry such as low potassium or magnesium, and active suicidality. She meets several of these, so medical admission with cautious refeeding and close monitoring for refeeding syndrome is required.",
+   "optionExplanations": {
+    "b": "Outpatient CBT is appropriate for medically stable patients and does not address bradycardia and electrolyte derangement.",
+    "c": "Medications are of little value in anorexia nervosa itself and would not address the acute medical instability.",
+    "d": "A day programme does not provide the medical monitoring needed for a heart rate below 40 bpm and hypokalemia.",
+    "e": "Family-based treatment is used primarily in the pediatric system and is not sufficient for a medically unstable patient."
+   },
+   "topic": "Eating Disorders",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "PS",
+    "name": "Psychiatry"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1394,
+    "reference": "PS40 — Anorexia Nervosa: Management"
+   }
+  },
+  {
+   "id": "TN-PS-020",
+   "type": "single-best-answer",
+   "question": "A 24-year-old woman has a pattern dating to late adolescence of intense, unstable relationships in which she alternately idealizes and devalues people, frantic efforts to avoid being abandoned, chronic feelings of emptiness, mood shifts lasting hours, inappropriate anger, impulsive spending and unsafe sexual behaviour, recurrent self-harm, and transient paranoid ideation when stressed. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Borderline personality disorder"
+    },
+    {
+     "id": "b",
+     "text": "Histrionic personality disorder"
+    },
+    {
+     "id": "c",
+     "text": "Narcissistic personality disorder"
+    },
+    {
+     "id": "d",
+     "text": "Antisocial personality disorder"
+    },
+    {
+     "id": "e",
+     "text": "Dependent personality disorder"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes describes borderline personality disorder as a pervasive pattern of instability of interpersonal relationships, self-image, and affects with marked impulsivity, requiring five or more features including impulsivity, mood instability, paranoia or dissociation under stress, unstable self-image, labile intense relationships with idealization and devaluation, self-harm, inappropriate anger, frantic efforts to avoid abandonment, and feelings of emptiness. She meets nearly all of these.",
+   "optionExplanations": {
+    "b": "Histrionic personality disorder centres on attention-seeking, theatrical, excessively emotional behaviour and shallow rapidly shifting emotions.",
+    "c": "Narcissistic personality disorder features grandiosity, need for admiration, entitlement, and lack of empathy.",
+    "d": "Antisocial personality disorder requires evidence of conduct disorder before age 15 and a pervasive disregard for and violation of others' rights.",
+    "e": "Dependent personality disorder involves an excessive need to be taken care of with clinging, submissive behaviour and difficulty making everyday decisions."
+   },
+   "topic": "Personality Disorders",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "PS",
+    "name": "Psychiatry"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1397,
+    "reference": "PS43 — Table 10: Cluster B Personality Disorders"
+   }
+  },
+  {
+   "id": "TN-PS-021",
+   "type": "single-best-answer",
+   "question": "A 14-year-old boy is referred after being suspended from school. Over the past year he has initiated several physical fights, bullied younger students, broken into a neighbour's shed and stolen tools, and deliberately set fire to a fence. He was frequently truant from school before age 13 and has stayed out overnight without permission on several occasions, including in the last month. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Conduct disorder"
+    },
+    {
+     "id": "b",
+     "text": "Oppositional defiant disorder"
+    },
+    {
+     "id": "c",
+     "text": "Attention deficit hyperactivity disorder"
+    },
+    {
+     "id": "d",
+     "text": "Antisocial personality disorder"
+    },
+    {
+     "id": "e",
+     "text": "Adjustment disorder with disturbance of conduct"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes defines conduct disorder as a pattern of behaviour that violates the rights of others and age-appropriate social norms, with three or more criteria in the past 12 mo and at least one in the past 6 mo, spanning aggression to people and animals, destruction of property, deceitfulness or theft, and serious violation of rules. He meets criteria in all four categories with recent rule violation.",
+   "optionExplanations": {
+    "b": "Oppositional defiant disorder is a pattern of angry or irritable mood, argumentative or defiant behaviour, and vindictiveness without violation of the basic rights of others.",
+    "c": "ADHD is a differential consideration but does not itself account for arson, burglary, and assault.",
+    "d": "Antisocial personality disorder requires the patient to be at least 18 years old.",
+    "e": "Adjustment disorder requires an identifiable stressor within 3 mo and symptoms that do not meet criteria for another mental disorder."
+   },
+   "topic": "Child and Adolescent Psychiatry",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "PS",
+    "name": "Psychiatry"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1401,
+    "reference": "PS47 — Conduct Disorder"
+   }
+  },
+  {
+   "id": "TN-PS-022",
+   "type": "single-best-answer",
+   "question": "A 33-year-old man is brought to his family physician's office in Ontario by his brother. He has an apparent mental disorder, is responding to unseen stimuli, and told his brother yesterday that he intends to seriously harm himself. He arrived in a t-shirt in freezing weather. He refuses assessment at hospital and wants to leave. The physician has examined him today. Which form is the most appropriate to complete?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Form 1"
+    },
+    {
+     "id": "b",
+     "text": "Form 2"
+    },
+    {
+     "id": "c",
+     "text": "Form 3"
+    },
+    {
+     "id": "d",
+     "text": "Form 4"
+    },
+    {
+     "id": "e",
+     "text": "Form 5"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Under the Ontario Mental Health Act as summarized in Toronto Notes, Form 1 is an application by a physician to bring a patient to a schedule 1 facility for psychiatric assessment against the patient's will. It is completed when patients are thought to be in imminent danger of harming themselves or others, or are incapable of self-care, and are suffering from an apparent mental disorder, based on the physician's own observations and facts communicated by others.",
+   "optionExplanations": {
+    "b": "Form 2 is an order by a Justice of the Peace to bring a patient to hospital for examination, used when a physician has not examined the patient.",
+    "c": "Form 3 is the certificate of involuntary admission, signed by a physician other than the one who completed the Form 1, before the Form 1 expires.",
+    "d": "Form 4 is the certificate of renewal of involuntary admission, completed before a Form 3 expires.",
+    "e": "Form 5 changes a patient's status to informal or voluntary when the criteria for involuntary admission are no longer met."
+   },
+   "topic": "Involuntary Admission and Canadian Legal Issues",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "PS",
+    "name": "Psychiatry"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1414,
+    "reference": "PS60 — Table 22: Common Forms Under the Mental Health Act (in Ontario)"
+   }
+  }
+ ]
+}

@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>MCCQE Mock Exam — Toronto Notes 2025</title>
+<meta name="description" content="Offline mock examination practice built from Toronto Notes 2025. Fully static, no backend required.">
+<meta name="color-scheme" content="light dark">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='22' fill='%230f766e'/><path d='M50 22v56M22 50h56' stroke='white' stroke-width='13' stroke-linecap='round'/></svg>">
+<link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+
+<a class="skip-link" href="#main">Skip to main content</a>
+
+<header class="app-header">
+  <div class="wrap header-inner">
+    <div class="brand">
+      <span class="brand-mark" aria-hidden="true">
+        <svg viewBox="0 0 24 24" width="20" height="20"><path d="M12 4v16M4 12h16" stroke="currentColor" stroke-width="3" stroke-linecap="round" fill="none"/></svg>
+      </span>
+      <span class="brand-text">
+        <strong>MCCQE Mock Exam</strong>
+        <small>Source: Toronto Notes 2025</small>
+      </span>
+    </div>
+    <div class="header-actions">
+      <button type="button" class="btn btn-ghost btn-sm" id="theme-toggle" aria-label="Switch colour theme">
+        <span aria-hidden="true" id="theme-icon">◐</span><span class="btn-label">Theme</span>
+      </button>
+      <button type="button" class="btn btn-ghost btn-sm is-hidden" id="quit-exam">Exit exam</button>
+    </div>
+  </div>
+</header>
+
+<!-- Live progress rail, only present during an exam -->
+<div class="progress-rail is-hidden" id="progress-rail">
+  <div class="wrap">
+    <div class="progress-meta">
+      <span id="progress-count">Question 1 of 40</span>
+      <span class="progress-stats">
+        <span class="chip chip-correct" id="progress-correct" title="Correct so far">0 correct</span>
+        <span class="chip chip-wrong" id="progress-wrong" title="Incorrect so far">0 incorrect</span>
+      </span>
+    </div>
+    <div class="progress-track" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" aria-label="Exam progress" id="progress-bar">
+      <div class="progress-fill" id="progress-fill"></div>
+    </div>
+  </div>
+</div>
+
+<main id="main" class="wrap" tabindex="-1">
+
+  <!-- ============ LOADING ============ -->
+  <section class="screen" id="screen-loading" aria-busy="true">
+    <div class="state-block">
+      <div class="spinner" aria-hidden="true"></div>
+      <h1 class="state-title">Loading question bank…</h1>
+      <p class="state-text">Reading the prepared exam data.</p>
+    </div>
+  </section>
+
+  <!-- ============ ERROR ============ -->
+  <section class="screen is-hidden" id="screen-error">
+    <div class="state-block state-error">
+      <div class="state-icon" aria-hidden="true">!</div>
+      <h1 class="state-title">Could not load the exam data</h1>
+      <p class="state-text" id="error-message"></p>
+      <details class="hint">
+        <summary>Opening this file directly from disk?</summary>
+        <p>Browsers block data files loaded over <code>file://</code>. This app ships a fallback bundle for that case, but if it is missing, serve the folder over HTTP instead:</p>
+        <pre><code>cd mccqe-exam
+python3 -m http.server 8000</code></pre>
+        <p>Then open <code>http://localhost:8000</code>.</p>
+      </details>
+      <button type="button" class="btn btn-primary" id="error-retry">Try again</button>
+    </div>
+  </section>
+
+  <!-- ============ EXAM SELECTION ============ -->
+  <section class="screen is-hidden" id="screen-select" aria-labelledby="select-heading">
+    <div class="page-head">
+      <h1 id="select-heading">Choose a mock exam</h1>
+      <p class="lede">Every question, answer and explanation on this site is drawn from <strong>Toronto Notes 2025</strong> and carries the page it came from. Nothing is generated at runtime.</p>
+    </div>
+
+    <div class="stat-strip" id="bank-stats" aria-label="Question bank summary"></div>
+
+    <ul class="exam-grid" id="exam-list"></ul>
+
+    <div class="state-block is-hidden" id="select-empty">
+      <div class="state-icon" aria-hidden="true">∅</div>
+      <h2 class="state-title">No exams available yet</h2>
+      <p class="state-text">The question bank is empty. Run the content-preparation step in <code>content-prep/</code> to generate exam data.</p>
+    </div>
+  </section>
+
+  <!-- ============ CONFIGURATION ============ -->
+  <section class="screen is-hidden" id="screen-config" aria-labelledby="config-heading">
+    <button type="button" class="btn btn-back" id="config-back">← All exams</button>
+    <div class="page-head">
+      <h1 id="config-heading">Configure your exam</h1>
+      <p class="lede" id="config-subtitle"></p>
+    </div>
+
+    <form id="config-form" class="config-form" novalidate>
+      <fieldset class="field-group">
+        <legend>Number of questions</legend>
+        <div class="segmented" role="group" id="count-options"></div>
+      </fieldset>
+
+      <fieldset class="field-group">
+        <legend>Chapters</legend>
+        <div class="topic-toolbar">
+          <button type="button" class="btn btn-ghost btn-sm" id="chapters-all">Select all</button>
+          <button type="button" class="btn btn-ghost btn-sm" id="chapters-none">Clear</button>
+          <label class="search-box">
+            <span class="sr-only">Filter chapters by name</span>
+            <input type="search" id="chapter-search" placeholder="Filter chapters…" autocomplete="off">
+          </label>
+          <span class="field-note" id="chapter-note" aria-live="polite"></span>
+        </div>
+        <div class="checkbox-grid" id="chapter-options"></div>
+      </fieldset>
+
+      <details class="field-group field-group-collapsible" id="topic-group">
+        <summary><span class="legend-like">Narrow by topic</span><span class="field-note" id="topic-note"></span></summary>
+        <div class="topic-toolbar">
+          <button type="button" class="btn btn-ghost btn-sm" id="topics-all">Select all</button>
+          <button type="button" class="btn btn-ghost btn-sm" id="topics-none">Clear</button>
+        </div>
+        <div class="checkbox-grid checkbox-grid-dense" id="topic-options"></div>
+      </details>
+
+      <fieldset class="field-group">
+        <legend>Difficulty</legend>
+        <div class="checkbox-grid checkbox-grid-inline" id="difficulty-options"></div>
+      </fieldset>
+
+      <fieldset class="field-group">
+        <legend>Options</legend>
+        <label class="switch-row">
+          <input type="checkbox" id="opt-shuffle-answers" checked>
+          <span><strong>Shuffle answer order</strong><small>Stops you memorising answer positions.</small></span>
+        </label>
+        <label class="switch-row">
+          <input type="checkbox" id="opt-instant-feedback" checked>
+          <span><strong>Show the explanation after each answer</strong><small>Turn off to sit it exam-style and review everything at the end.</small></span>
+        </label>
+      </fieldset>
+
+      <div class="config-actions">
+        <p class="config-summary" id="config-summary" aria-live="polite"></p>
+        <button type="submit" class="btn btn-primary btn-lg" id="start-exam">Start exam</button>
+      </div>
+    </form>
+  </section>
+
+  <!-- ============ QUESTION ============ -->
+  <section class="screen is-hidden" id="screen-question" aria-labelledby="question-text">
+    <article class="question-card">
+      <div class="question-meta">
+        <span class="pill" id="q-topic"></span>
+        <span class="pill pill-quiet" id="q-difficulty"></span>
+      </div>
+
+      <h1 class="question-text" id="question-text"></h1>
+
+      <form id="answer-form">
+        <fieldset class="options" id="options-list">
+          <legend class="sr-only">Select the single best answer</legend>
+        </fieldset>
+      </form>
+
+      <div class="feedback is-hidden" id="feedback" role="status" aria-live="polite">
+        <div class="feedback-head">
+          <span class="feedback-badge" id="feedback-badge"></span>
+          <span class="feedback-answer" id="feedback-answer"></span>
+        </div>
+        <div class="feedback-body">
+          <h2 class="feedback-h">Explanation</h2>
+          <p id="feedback-explanation"></p>
+          <div id="feedback-distractors"></div>
+          <div class="source-ref" id="feedback-source"></div>
+        </div>
+      </div>
+    </article>
+
+    <div class="action-bar">
+      <span class="kbd-hint" aria-hidden="true">
+        <kbd>1</kbd>–<kbd>5</kbd> choose · <kbd>Enter</kbd> submit
+      </span>
+      <div class="action-buttons">
+        <button type="button" class="btn btn-ghost" id="skip-question">Skip</button>
+        <button type="button" class="btn btn-primary" id="submit-answer" disabled>Submit answer</button>
+        <button type="button" class="btn btn-primary is-hidden" id="next-question">Next question</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ RESULTS ============ -->
+  <section class="screen is-hidden" id="screen-results" aria-labelledby="results-heading">
+    <div class="page-head">
+      <h1 id="results-heading">Exam complete</h1>
+      <p class="lede" id="results-subtitle"></p>
+    </div>
+
+    <div class="score-panel">
+      <div class="score-dial" id="score-dial">
+        <svg viewBox="0 0 120 120" aria-hidden="true">
+          <circle class="dial-track" cx="60" cy="60" r="52"></circle>
+          <circle class="dial-value" cx="60" cy="60" r="52" id="dial-value"></circle>
+        </svg>
+        <div class="score-dial-label">
+          <strong id="score-percent">0%</strong>
+          <small id="score-fraction">0 / 0</small>
+        </div>
+      </div>
+      <ul class="score-facts">
+        <li><span class="score-facts-k">Correct</span><span class="score-facts-v text-correct" id="res-correct">0</span></li>
+        <li><span class="score-facts-k">Incorrect</span><span class="score-facts-v text-wrong" id="res-wrong">0</span></li>
+        <li><span class="score-facts-k">Skipped</span><span class="score-facts-v" id="res-skipped">0</span></li>
+        <li><span class="score-facts-k">Time taken</span><span class="score-facts-v" id="res-time">—</span></li>
+      </ul>
+    </div>
+
+    <section class="topic-breakdown" aria-labelledby="breakdown-heading">
+      <h2 id="breakdown-heading">Performance by topic</h2>
+      <ul class="breakdown-list" id="breakdown-list"></ul>
+    </section>
+
+    <div class="results-actions">
+      <button type="button" class="btn btn-primary" id="review-answers">Review all questions</button>
+      <button type="button" class="btn btn-secondary" id="retry-wrong">Retry incorrect only</button>
+      <button type="button" class="btn btn-ghost" id="back-to-exams">Back to exams</button>
+    </div>
+  </section>
+
+  <!-- ============ REVIEW ============ -->
+  <section class="screen is-hidden" id="screen-review" aria-labelledby="review-heading">
+    <button type="button" class="btn btn-back" id="review-back">← Results</button>
+    <div class="page-head">
+      <h1 id="review-heading">Question review</h1>
+      <p class="lede">Every question with the correct answer, the explanation, and where it came from in the source text.</p>
+    </div>
+
+    <div class="review-filter" role="group" aria-label="Filter reviewed questions">
+      <button type="button" class="filter-btn is-active" data-filter="all">All</button>
+      <button type="button" class="filter-btn" data-filter="incorrect">Incorrect</button>
+      <button type="button" class="filter-btn" data-filter="correct">Correct</button>
+      <button type="button" class="filter-btn" data-filter="skipped">Skipped</button>
+    </div>
+
+    <ol class="review-list" id="review-list"></ol>
+    <p class="state-text is-hidden" id="review-empty">Nothing matches this filter.</p>
+
+    <div class="results-actions">
+      <button type="button" class="btn btn-ghost" id="review-to-exams">Back to exams</button>
+    </div>
+  </section>
+
+</main>
+
+<footer class="app-footer">
+  <div class="wrap">
+    <p>Study aid built from <strong>Toronto Notes 2025 (41st edition)</strong>, the comprehensive medical reference and review for the MCCQE. Runs entirely in your browser — no account, no server, no tracking.</p>
+    <p class="disclaimer">For exam preparation only. Not a substitute for clinical judgement or current practice guidelines.</p>
+  </div>
+</footer>
+
+<script src="assets/js/data.js"></script>
+<script src="assets/js/exam.js"></script>
+<script src="assets/js/ui.js"></script>
+<script src="assets/js/app.js"></script>
+</body>
+</html>

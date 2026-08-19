@@ -1,0 +1,842 @@
+{
+ "chapter": {
+  "code": "E",
+  "name": "Endocrinology"
+ },
+ "document": {
+  "id": "toronto-notes-2025",
+  "title": "Toronto Notes 2025",
+  "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
+ },
+ "count": 18,
+ "questions": [
+  {
+   "id": "TN-E-001",
+   "type": "single-best-answer",
+   "question": "A 34-year-old man is referred after his father died of a myocardial infarction at age 41. On examination he has bilateral thickening of the Achilles tendons, yellow plaques on both eyelids, and a white ring at the corneal margin. Fasting lipids show markedly elevated total cholesterol and LDL cholesterol with normal triglycerides. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Familial hypercholesterolemia"
+    },
+    {
+     "id": "b",
+     "text": "Familial combined hyperlipidemia"
+    },
+    {
+     "id": "c",
+     "text": "Familial lipoprotein lipase deficiency"
+    },
+    {
+     "id": "d",
+     "text": "Tangier disease"
+    },
+    {
+     "id": "e",
+     "text": "Familial hypoalphalipoproteinemia"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Familial hypercholesterolemia results from a genetic defect in the LDL receptor (most common), PCSK9, or ApoB, and the main laboratory abnormality is elevated total cholesterol, LDL cholesterol, and ApoB. Its characteristic clinical features are tendinous xanthomatosis of the Achilles, patellar, and hand extensor tendons, arcus cornealis, and xanthelasmata, with heterozygotes developing premature CAD and men carrying a 50% risk of myocardial infarction by age 30. This patient's tendon xanthomas, xanthelasmata, arcus, isolated LDL elevation, and family history of premature coronary death fit this pattern.",
+   "optionExplanations": {
+    "b": "Familial combined hyperlipidemia raises both triglycerides and LDL and presents with premature coronary heart disease, xanthelasma, and obesity, not tendinous xanthomatosis with normal triglycerides.",
+    "c": "Familial LPL deficiency causes elevated triglycerides from excess chylomicrons with abdominal pain, lipemia retinalis, and eruptive xanthomata presenting in infancy.",
+    "d": "Tangier disease is an autosomal recessive ABCA1 disorder causing low HDL with enlarged orange-coloured tonsils, splenomegaly, hepatomegaly, and neuropathy.",
+    "e": "Familial hypoalphalipoproteinemia produces low HDL cholesterol from an ABCA1 or ApoA1 mutation, not markedly elevated LDL with tendon xanthomas."
+   },
+   "topic": "Dyslipidemia",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "E",
+    "name": "Endocrinology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 312,
+    "reference": "E4 — Table 2. Primary Dyslipidemias"
+   }
+  },
+  {
+   "id": "TN-E-002",
+   "type": "single-best-answer",
+   "question": "A 64-year-old man with previous coronary stenting takes a maximally tolerated dose of rosuvastatin plus ezetimibe and adheres to a healthy dietary pattern and regular exercise. Fasting lipids show LDL cholesterol 1.7 mmol/L, ApoB 0.65 g/L, and triglycerides 3.2 mmol/L. Which additional pharmacologic therapy is most appropriate to reduce his cardiovascular risk?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Icosapent ethyl 2000 mg BID"
+    },
+    {
+     "id": "b",
+     "text": "Evolocumab"
+    },
+    {
+     "id": "c",
+     "text": "Fenofibrate"
+    },
+    {
+     "id": "d",
+     "text": "Nicotinic acid"
+    },
+    {
+     "id": "e",
+     "text": "Cholestyramine"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "In the treatment intensification approach for patients with atherosclerotic cardiovascular disease, a triglyceride level of 1.5 to 5.6 mmol/L is the branch point that leads to consideration of icosapent ethyl 2000 mg BID. This patient has established ASCVD on maximally tolerated statin with LDL cholesterol already below 1.8 mmol/L and ApoB below 0.70 g/L, so the residual treatable abnormality is his triglyceride level of 3.2 mmol/L.",
+   "optionExplanations": {
+    "b": "PCSK9 inhibitors are considered when LDL cholesterol remains at or above 1.8 mmol/L or ApoB at or above 0.70 g/L on maximally tolerated statin, which is not the case here.",
+    "c": "Fibrates are not part of the ASCVD treatment intensification algorithm shown on this page.",
+    "d": "Nicotinic acid appears only as a third-line add-on option for polygenic familial hypercholesterolemia, not for residual hypertriglyceridemia in ASCVD.",
+    "e": "Bile acid sequestrants are listed only as an alternative LDL-lowering add-on, and this patient's LDL is already at target."
+   },
+   "topic": "Dyslipidemia",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "E",
+    "name": "Endocrinology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 314,
+    "reference": "E6 — Figure 3c. Treatment Intensification Approach for Patients with ASCVD"
+   }
+  },
+  {
+   "id": "TN-E-003",
+   "type": "single-best-answer",
+   "question": "An 82-year-old woman with type 2 diabetes lives in long-term care with moderate dementia and is dependent for most activities of daily living. Over the past year she has had two episodes of severe hypoglycemia requiring paramedic assistance. Her current A1c is 6.8% on glyburide and metformin. Which glycemic target is most appropriate for her?",
+   "options": [
+    {
+     "id": "a",
+     "text": "A1c less than 6.0%"
+    },
+    {
+     "id": "b",
+     "text": "A1c 6.0 to less than 6.5%"
+    },
+    {
+     "id": "c",
+     "text": "A1c less than 6.5%"
+    },
+    {
+     "id": "d",
+     "text": "A1c less than 7.0%"
+    },
+    {
+     "id": "e",
+     "text": "A1c 7.1 to 8.5%"
+    }
+   ],
+   "correctAnswer": "e",
+   "explanation": "A1c targets should be personalized based on frailty, functional dependence, and life expectancy. Higher A1c targets of 7.1 to 8.5% may be considered in patients with limited life expectancy, greater functional dependency, recurrent severe hypoglycemia, or frail elderly patients with dementia. This woman is functionally dependent, has dementia, and has had recurrent severe hypoglycemia, so relaxing her target is appropriate.",
+   "optionExplanations": {
+    "a": "There may be harm associated with strategies targeting an A1c below 6.0%.",
+    "b": "An A1c of 6.0 to less than 6.5% is reserved for selected adults with type 2 diabetes who have potential for remission to prediabetes or normoglycemia.",
+    "c": "An A1c below 6.5% is targeted in adults with type 2 diabetes at low risk of hypoglycemia to reduce chronic kidney disease and retinopathy risk, which does not describe this patient.",
+    "d": "An A1c below 7.0% is the target for most adults with type 1 or type 2 diabetes, but not for frail, functionally dependent patients with recurrent severe hypoglycemia."
+   },
+   "topic": "Diabetes Mellitus",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "E",
+    "name": "Endocrinology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 317,
+    "reference": "E9 — Glycemic Targets / Figure 5. Glycemic Targets for Diabetes"
+   }
+  },
+  {
+   "id": "TN-E-004",
+   "type": "single-best-answer",
+   "question": "A 74-year-old bedridden man with type 2 diabetes is brought from a nursing home after 10 days of increasing lethargy and reduced fluid intake. He is profoundly volume depleted and obtunded, with unlaboured respirations. Glucose is 58 mmol/L, serum osmolality is markedly elevated, bicarbonate is normal, and urine is negative for ketones but positive for glucose. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Hyperosmolar hyperglycemic state"
+    },
+    {
+     "id": "b",
+     "text": "Diabetic ketoacidosis"
+    },
+    {
+     "id": "c",
+     "text": "Euglycemic diabetic ketoacidosis"
+    },
+    {
+     "id": "d",
+     "text": "Alcoholic ketoacidosis"
+    },
+    {
+     "id": "e",
+     "text": "Lactic acidosis"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Hyperosmolar hyperglycemic state occurs in type 2 diabetes and is characterized by hyperglycemia (typically 44.4 to 133.2 mmol/L), hyperosmolality, and dehydration without ketosis, because residual insulin inhibits lipolysis. Onset is insidious with weakness, polyuria, polydipsia, and decreased fluid intake, and dehydration is more severe than in DKA because of the gradual onset in bedridden patients; Kussmaul respirations are absent unless a precipitant causes acidosis. Urine is negative for ketones with glycosuria.",
+   "optionExplanations": {
+    "b": "DKA usually occurs in type 1 diabetes with glucose typically 14 to 55 mmol/L, anion gap metabolic acidosis, Kussmaul respirations, and urine positive for both glucose and ketones.",
+    "c": "Euglycemic DKA occurs with near-normal sugars in pregnancy and with SGLT2 inhibitor use, whereas this patient has extreme hyperglycemia without acidosis.",
+    "d": "This presentation lacks the ketonemia and metabolic acidosis that define a ketoacidotic state.",
+    "e": "Metabolic acidosis is absent, and his bicarbonate is normal."
+   },
+   "topic": "Acute Complications of Diabetes",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "E",
+    "name": "Endocrinology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 321,
+    "reference": "E13 — Table 11. Acute Complications of Diabetes Mellitus: Hyperglycemic Comatose States"
+   }
+  },
+  {
+   "id": "TN-E-005",
+   "type": "single-best-answer",
+   "question": "A 19-year-old woman with type 1 diabetes presents with vomiting and abdominal pain. Glucose is 32 mmol/L, pH 7.12, anion gap 28, and serum potassium 3.0 mmol/L. She has received 1 L of normal saline and remains normotensive. The resident asks whether to begin the insulin infusion now. What is the most appropriate next step?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Give 40 mEq/L potassium replacement and withhold insulin until serum potassium is 3.3 mmol/L or higher"
+    },
+    {
+     "id": "b",
+     "text": "Start insulin regular infusion at 0.1 U/kg/h and add KCl 10-40 mEq/L to the fluids"
+    },
+    {
+     "id": "c",
+     "text": "Start insulin regular infusion at 0.1 U/kg/h without potassium replacement"
+    },
+    {
+     "id": "d",
+     "text": "Give one ampoule of sodium bicarbonate over 1 hour, then start the insulin infusion"
+    },
+    {
+     "id": "e",
+     "text": "Add D5W to the intravenous fluids and start the insulin infusion"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "In DKA, total body potassium is depleted and insulin administration drives potassium intracellularly, worsening hypokalemia. If serum potassium is below 3.3 mmol/L, give 40 mEq/L potassium replacement and hold insulin until potassium is at least 3.3 mmol/L. This patient's potassium of 3.0 mmol/L is below that threshold, so potassium must be replaced before insulin is started.",
+   "optionExplanations": {
+    "b": "Adding KCl 10-40 mEq/L alongside insulin applies when serum potassium is 3.3 to 5.0 mmol/L, not below 3.3 mmol/L.",
+    "c": "Insulin should not be used in hypokalemia until serum potassium is corrected to above 3.3 mmol/L.",
+    "d": "Bicarbonate is given if pH is below 7.0 or if hypotension, arrhythmia, or coma is present, and should not be given if pH is above 7.1.",
+    "e": "Dextrose is added once blood glucose falls to 14.0 mmol/L to maintain glucose at 12-14 mmol/L, not at presentation with glucose of 32 mmol/L."
+   },
+   "topic": "Acute Complications of Diabetes",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "E",
+    "name": "Endocrinology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 322,
+    "reference": "E14 — Table 11. Acute Complications of Diabetes Mellitus: Treatment (DKA)"
+   }
+  },
+  {
+   "id": "TN-E-006",
+   "type": "single-best-answer",
+   "question": "A 52-year-old woman is diagnosed with type 2 diabetes today at a routine visit. She feels well, her blood pressure is 128/78 mmHg, and her physical examination is unremarkable. You wish to begin screening for diabetic nephropathy at the time of diagnosis. Which investigation is most appropriate?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Random urine albumin-to-creatinine ratio plus serum creatinine for eGFR"
+    },
+    {
+     "id": "b",
+     "text": "Twenty-four hour urine collection for protein and albumin"
+    },
+    {
+     "id": "c",
+     "text": "Random urine albumin concentration alone"
+    },
+    {
+     "id": "d",
+     "text": "Renal ultrasound"
+    },
+    {
+     "id": "e",
+     "text": "Renal biopsy"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Screening for diabetic nephropathy uses serum creatinine for eGFR plus a random urine albumin-to-creatinine ratio, because albuminuria is the earliest clinical sign of diabetic nephropathy. Screening begins annually at diagnosis for all patients with type 2 diabetes, and more than 5 years after diagnosis for postpubertal patients with type 1 diabetes. Diagnosis requires persistently elevated urinary albumin on 2 of 3 samples over 3 months.",
+   "optionExplanations": {
+    "b": "A 24 h urine collection is the gold standard but is difficult to perform, inconvenient, and often incorrect, so it is not used for routine screening.",
+    "c": "Random urine albumin alone is insufficient because albumin levels vary with urine concentration.",
+    "d": "Renal ultrasound is not part of the recommended nephropathy screening approach.",
+    "e": "Renal biopsy is not a screening test for diabetic nephropathy."
+   },
+   "topic": "Diabetic Nephropathy",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "E",
+    "name": "Endocrinology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 324,
+    "reference": "E16 — Diabetic Nephropathy: Screening"
+   }
+  },
+  {
+   "id": "TN-E-007",
+   "type": "single-best-answer",
+   "question": "A 34-year-old operating room nurse without diabetes has recurrent episodes of sweating, tremor, and confusion that resolve promptly with juice. During a supervised episode her blood glucose is 2.1 mmol/L and her serum insulin is elevated. Her physician must determine whether the hyperinsulinemia is exogenous or endogenous. Which investigation is most appropriate?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Serum C-peptide"
+    },
+    {
+     "id": "b",
+     "text": "Serum cortisol"
+    },
+    {
+     "id": "c",
+     "text": "Serum insulin-like growth factor 2"
+    },
+    {
+     "id": "d",
+     "text": "Insulin autoantibodies"
+    },
+    {
+     "id": "e",
+     "text": "Abdominal CT"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "C-peptide is a short peptide released into the circulation when proinsulin is cleaved to insulin, so it is produced only by endogenous insulin secretion. An increased C-peptide indicates an endogenous source of hyperinsulinemia, whereas a decreased or normal C-peptide in the face of high insulin indicates an exogenous source. Measuring C-peptide during the documented hypoglycemic episode therefore separates surreptitious insulin administration from an insulinoma.",
+   "optionExplanations": {
+    "b": "Cortisol is assessed when hormone deficiency is suspected as a cause of hypoglycemia, not to determine the source of hyperinsulinemia.",
+    "c": "IGF-2 overproduction causes hypoglycemia from non-islet cell tumours, a mechanism that is insulin-independent.",
+    "d": "Autoantibodies to insulin or the insulin receptor cause autoimmune hypoglycemia but do not distinguish exogenous from endogenous insulin.",
+    "e": "Imaging may localize an insulinoma but does not establish whether the circulating insulin is endogenous."
+   },
+   "topic": "Hypoglycemia",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "E",
+    "name": "Endocrinology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 325,
+    "reference": "E17 — Hypoglycemia / C-Peptide"
+   }
+  },
+  {
+   "id": "TN-E-008",
+   "type": "single-best-answer",
+   "question": "A 46-year-old man reports that over five years his ring size and shoe size have increased. Examination shows coarsened facial features, prognathism, thickened skin, and enlarged hands. He has carpal tunnel syndrome, newly diagnosed hypertension and hyperglycemia, and his partner reports loud snoring with witnessed apneas. Which investigation is the most appropriate first-line test?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Serum IGF-1"
+    },
+    {
+     "id": "b",
+     "text": "Random serum growth hormone"
+    },
+    {
+     "id": "c",
+     "text": "Oral glucose suppression test"
+    },
+    {
+     "id": "d",
+     "text": "MRI of the sella turcica"
+    },
+    {
+     "id": "e",
+     "text": "Skull x-ray"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "This presentation of acromegaly reflects growth hormone excess after epiphyseal fusion, producing enlargement of hands and feet, coarsened facial features, prognathism, carpal tunnel syndrome, hypertension, diabetes, and sleep apnea. The first-line test for suspected GH excess is serum IGF-1, which is expected to be elevated because GH acts indirectly through hepatic IGF-1.",
+   "optionExplanations": {
+    "b": "Serum GH is undetectable for most of the day and secretion remains pulsatile even in GH excess, so a random level is unhelpful.",
+    "c": "The glucose suppression test is the most specific test but is not the first-line screening test.",
+    "d": "MRI of the sella turcica is needed to look for a tumour once biochemical excess is established, not as the initial test.",
+    "e": "Skull x-ray may show cortical thickening and sellar changes but is not the first-line diagnostic test."
+   },
+   "topic": "Growth Hormone Excess",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "E",
+    "name": "Endocrinology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 328,
+    "reference": "E20 — GH Excess: Investigations"
+   }
+  },
+  {
+   "id": "TN-E-009",
+   "type": "single-best-answer",
+   "question": "A 28-year-old woman has eight months of amenorrhea and bothersome bilateral galactorrhea. Pregnancy test is negative and TSH, creatinine, and liver enzymes are normal. She takes no medications with anti-dopaminergic properties. Serum prolactin is markedly elevated and MRI of the sella turcica shows a 6 mm pituitary adenoma. What is the most appropriate initial treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Cabergoline"
+    },
+    {
+     "id": "b",
+     "text": "Transsphenoidal resection"
+    },
+    {
+     "id": "c",
+     "text": "Pituitary radiation"
+    },
+    {
+     "id": "d",
+     "text": "Octreotide"
+    },
+    {
+     "id": "e",
+     "text": "Levothyroxine"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "First-line treatment of hyperprolactinemia is a dopamine agonist such as bromocriptine, cabergoline, or quinagolide, with surgery plus or minus radiation reserved for rare cases. Cabergoline should be preferentially used because of its higher efficacy in normalizing prolactin levels and shrinking pituitary tumours, and treatment is indicated in symptomatic patients, particularly those with galactorrhea, amenorrhea, low libido, or infertility.",
+   "optionExplanations": {
+    "b": "Surgery is reserved for treatment-resistant prolactinomas after the dopamine agonist dose has been increased to the maximal tolerable dose.",
+    "c": "Radiation is a rare adjunct and is not initial therapy for a symptomatic microprolactinoma.",
+    "d": "Somatostatin analogues are used as second-line therapy for acromegaly, not for prolactinoma.",
+    "e": "Levothyroxine would be appropriate only if primary hypothyroidism were driving the prolactin elevation, but her TSH is normal."
+   },
+   "topic": "Hyperprolactinemia",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "E",
+    "name": "Endocrinology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 329,
+    "reference": "E21 — Hyperprolactinemia: Treatment"
+   }
+  },
+  {
+   "id": "TN-E-010",
+   "type": "single-best-answer",
+   "question": "A 48-year-old man with a large pituitary macroadenoma is investigated for fatigue, weight loss, cold intolerance, and constipation. Free T4 is low with a low TSH, and 8 am cortisol is low with a subnormal cosyntropin stimulation test. His endocrinologist plans replacement of both deficient axes. What is the most appropriate treatment approach?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Start glucocorticoid replacement first, then add levothyroxine"
+    },
+    {
+     "id": "b",
+     "text": "Start levothyroxine first, then add glucocorticoid replacement"
+    },
+    {
+     "id": "c",
+     "text": "Start levothyroxine and glucocorticoid simultaneously at full replacement doses"
+    },
+    {
+     "id": "d",
+     "text": "Start levothyroxine alone and reassess cortisol in six weeks"
+    },
+    {
+     "id": "e",
+     "text": "Start fludrocortisone first, then add levothyroxine"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Adrenal insufficiency and hypothyroidism are the two important deficiencies to recognize in hypopituitarism. Concurrent adrenal insufficiency and hypothyroidism should be treated with glucocorticoids first and then with thyroid hormone in order to avoid precipitating an adrenal crisis. Starting thyroid hormone before glucocorticoid is therefore unsafe in this patient.",
+   "optionExplanations": {
+    "b": "Giving thyroid hormone before glucocorticoid risks precipitating adrenal crisis.",
+    "c": "Simultaneous initiation does not respect the required sequence of glucocorticoid before thyroid hormone.",
+    "d": "His cortisol deficiency is already documented and requires replacement, and untreated it may be unmasked by thyroid hormone.",
+    "e": "Mineralocorticoid replacement is used in primary adrenal insufficiency; this patient has central (ACTH-dependent) adrenal insufficiency."
+   },
+   "topic": "Hypopituitarism",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "E",
+    "name": "Endocrinology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 331,
+    "reference": "E23 — Hypopituitarism: Important Deficiencies to Recognize"
+   }
+  },
+  {
+   "id": "TN-E-011",
+   "type": "single-best-answer",
+   "question": "A 38-year-old woman has three weeks of palpitations, fine tremor, heat intolerance, and weight loss. TSH is suppressed and free T4 is elevated. Her thyroid is not enlarged, there is no bruit, and she has no eye signs. She is not pregnant. Which investigation best determines whether her thyrotoxicosis is due to gland overproduction or to hormone leak?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Radioactive iodine uptake"
+    },
+    {
+     "id": "b",
+     "text": "Free T3"
+    },
+    {
+     "id": "c",
+     "text": "Plasma thyroglobulin"
+    },
+    {
+     "id": "d",
+     "text": "Thyroid ultrasound"
+    },
+    {
+     "id": "e",
+     "text": "Serum calcitonin"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Radioactive iodine uptake is a test of function that should be ordered when a patient is thyrotoxic, because it measures turnover of iodine by the thyroid in vivo. Increased uptake indicates the gland is overproducing hormone, as in Graves' disease, toxic multinodular goitre, or toxic adenoma, whereas decreased uptake indicates the gland is leaking hormone (thyroiditis) or that there is exogenous thyroid hormone or an iodine load. RAIU is contraindicated in pregnancy, which has been excluded here.",
+   "optionExplanations": {
+    "b": "Free T3 should only be measured in the small subset of patients with suspected T3 toxicosis and does not identify the mechanism.",
+    "c": "Thyroglobulin is used to monitor for residual thyroid tissue after thyroidectomy as a tumour marker, and is low when endogenous production is suppressed by exogenous hormone.",
+    "d": "Ultrasound measures gland size and characterizes nodules; it is not a test of thyroid function.",
+    "e": "Calcitonin is ordered when medullary thyroid cancer is suspected and is not routinely used for thyroid nodules or thyrotoxicosis."
+   },
+   "topic": "Thyrotoxicosis",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "E",
+    "name": "Endocrinology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 334,
+    "reference": "E26 — Table 15. Summary of Diagnostic Testing in Hyperthyroidism and Hypothyroidism"
+   }
+  },
+  {
+   "id": "TN-E-012",
+   "type": "single-best-answer",
+   "question": "A 35-year-old woman has 10 days of anterior neck pain radiating to the jaw and ears, preceded by an upper respiratory tract infection. She has fever, malaise, myalgia, palpitations, and tremor. The thyroid is exquisitely tender to palpation. TSH is suppressed with elevated T4 and T3, ESR is markedly elevated, and radioactive iodine uptake is near absent. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Painful subacute (de Quervain's) thyroiditis"
+    },
+    {
+     "id": "b",
+     "text": "Painless (silent) thyroiditis"
+    },
+    {
+     "id": "c",
+     "text": "Graves' disease"
+    },
+    {
+     "id": "d",
+     "text": "Toxic multinodular goitre"
+    },
+    {
+     "id": "e",
+     "text": "Toxic adenoma"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Painful subacute (de Quervain's, granulomatous) thyroiditis is presumed to follow a viral infection and is often preceded by a URTI. Thyroid inflammation damages follicles, releasing large amounts of stored T4 and T3, producing painful thyroid swelling that may radiate to the jaw and ears with malaise, fatigue, myalgia, and fever. Laboratory findings are initially elevated T4 and T3 with near-absent RAIU, and in classical painful subacute thyroiditis the ESR is increased.",
+   "optionExplanations": {
+    "b": "Painless thyroiditis produces thyroid enlargement without discomfort, so pain, tenderness, and fever would not be expected.",
+    "c": "Graves' disease shows increased RAIU with homogeneous diffuse uptake on scan and positive TRAb, not near-absent uptake.",
+    "d": "Toxic multinodular goitre shows increased, heterogeneous uptake on scan.",
+    "e": "Toxic adenoma shows intense uptake in a single hot nodule with suppression of the rest of the gland."
+   },
+   "topic": "Thyroiditis",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "E",
+    "name": "Endocrinology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 337,
+    "reference": "E29 — Table 18. Painful vs. Painless Subacute Thyroiditis"
+   }
+  },
+  {
+   "id": "TN-E-013",
+   "type": "single-best-answer",
+   "question": "A 78-year-old man with stable angina and a prior myocardial infarction reports several months of fatigue, cold intolerance, constipation, and hoarseness. He weighs 70 kg. TSH is 22 mU/L and free T4 is low. Physical examination shows bradycardia, dry skin, and delayed relaxation of the ankle reflexes. What is the most appropriate initial treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Levothyroxine 0.025 mg PO daily, increasing gradually every 6 weeks"
+    },
+    {
+     "id": "b",
+     "text": "Levothyroxine 0.112 mg PO daily (full weight-based replacement)"
+    },
+    {
+     "id": "c",
+     "text": "Levothyroxine 0.2 mg PO daily"
+    },
+    {
+     "id": "d",
+     "text": "Liothyronine (T3) monotherapy"
+    },
+    {
+     "id": "e",
+     "text": "Combined levothyroxine and liothyronine"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Overt primary hypothyroidism is treated with L-thyroxine, and the usual full replacement dose is estimated as 1.6 micrograms/kg/day. However, elderly patients and those with coronary artery disease should start at 0.025 mg daily and increase gradually every 6 weeks (start low, go slow), with TSH reassessed 6 weeks after initiation and dose adjusted until TSH normalizes. This 78-year-old man with known coronary disease therefore requires a low starting dose.",
+   "optionExplanations": {
+    "b": "Full weight-based dosing of about 1.6 micrograms/kg/day is inappropriate as a starting dose in an elderly patient with coronary artery disease.",
+    "c": "0.2 mg daily is the top of the usual dose range and far exceeds a safe starting dose here.",
+    "d": "The recommended replacement agent is L-thyroxine, the synthetic analogue of T4.",
+    "e": "Combination therapy is not the recommended treatment for primary hypothyroidism on this page."
+   },
+   "topic": "Hypothyroidism",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "E",
+    "name": "Endocrinology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 339,
+    "reference": "E31 — Hypothyroidism: Treatment"
+   }
+  },
+  {
+   "id": "TN-E-014",
+   "type": "single-best-answer",
+   "question": "A 42-year-old woman has one year of central weight gain, a rounded plethoric face, purple abdominal striae, easy bruising, and proximal muscle wasting. She has new hypertension and hyperglycemia. A careful medication history confirms she has taken no glucocorticoids in any form. Which investigation is the most appropriate initial biochemical test?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Late night salivary cortisol on two occasions"
+    },
+    {
+     "id": "b",
+     "text": "Random serum cortisol"
+    },
+    {
+     "id": "c",
+     "text": "Morning plasma ACTH"
+    },
+    {
+     "id": "d",
+     "text": "MRI of the sella turcica"
+    },
+    {
+     "id": "e",
+     "text": "CT of the adrenal glands"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "After excluding exogenous glucocorticoid exposure with a thorough drug history, the diagnosis of Cushing's syndrome requires at least one of: 24 h urine free cortisol (at least 2 tests), a low dose dexamethasone suppression test, or late night salivary cortisol (at least 2 tests), with confirmation by one of the remaining tests. Late night salivary cortisol measured twice is therefore an appropriate initial screening test in this patient.",
+   "optionExplanations": {
+    "b": "A random serum cortisol is not one of the accepted screening tests for Cushing's syndrome.",
+    "c": "Plasma ACTH helps classify the syndrome as ACTH-dependent or independent only after hypercortisolism is biochemically confirmed.",
+    "d": "Sellar imaging is used to localize a pituitary source, not to establish the presence of cortisol excess.",
+    "e": "Adrenal imaging localizes an adrenal source and does not establish the biochemical diagnosis."
+   },
+   "topic": "Cushing's Syndrome",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "E",
+    "name": "Endocrinology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 345,
+    "reference": "E37 — Cushing's Syndrome: Diagnosis"
+   }
+  },
+  {
+   "id": "TN-E-015",
+   "type": "single-best-answer",
+   "question": "A 44-year-old woman with known Addison's disease has had two days of vomiting and has been unable to take her oral medications. She is confused, with blood pressure 78/44 mmHg and heart rate 122 bpm. Sodium is 126 mmol/L, potassium 5.9 mmol/L, and glucose 3.2 mmol/L. What is the most appropriate initial treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "IV normal saline 1 L within the first hour plus hydrocortisone 100 mg IV"
+    },
+    {
+     "id": "b",
+     "text": "IV normal saline 1 L within the first hour alone"
+    },
+    {
+     "id": "c",
+     "text": "Hydrocortisone 20 mg PO"
+    },
+    {
+     "id": "d",
+     "text": "Fludrocortisone 0.1 mg PO"
+    },
+    {
+     "id": "e",
+     "text": "Double her usual oral hydrocortisone dose for several days"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "This is an acute adrenal crisis, which can be life-threatening. Treatment is IV normal saline 1 L within the first hour followed by continuous IV normal saline guided by patient requirements, with D5W added if hypoglycemic, together with hydrocortisone 100 mg IV stat followed by 50 mg IV q6 h, while the precipitating factor is identified and corrected.",
+   "optionExplanations": {
+    "b": "Fluid resuscitation alone does not replace the absent glucocorticoid and will not reverse the crisis.",
+    "c": "Oral therapy is inappropriate in a vomiting, hypotensive, confused patient and provides a maintenance rather than a crisis dose.",
+    "d": "Fludrocortisone is maintenance mineralocorticoid replacement for primary adrenal insufficiency, not crisis therapy.",
+    "e": "Increasing steroids two to three fold is the stress dosing strategy for moderate to severe illness, not for established adrenal crisis with hypotension."
+   },
+   "topic": "Adrenal Insufficiency",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "E",
+    "name": "Endocrinology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 347,
+    "reference": "E39 — Adrenocortical Insufficiency: Treatment"
+   }
+  },
+  {
+   "id": "TN-E-016",
+   "type": "single-best-answer",
+   "question": "A 45-year-old woman has episodic pounding headaches, palpitations, and diaphoresis with paroxysmal hypertension. Plasma metanephrines are markedly elevated and CT of the abdomen shows a 4 cm right adrenal mass. Surgical resection is planned in three weeks. Which pharmacologic preparation is most appropriate to begin now?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Doxazosin"
+    },
+    {
+     "id": "b",
+     "text": "Metoprolol"
+    },
+    {
+     "id": "c",
+     "text": "Propranolol"
+    },
+    {
+     "id": "d",
+     "text": "Amlodipine"
+    },
+    {
+     "id": "e",
+     "text": "Metyrosine as monotherapy"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Surgical excision of a pheochromocytoma is curative but requires adequate preoperative preparation. Alpha-blockade for blood pressure control with doxazosin or phenoxybenzamine is the most frequently used approach and is started 10 to 21 days preoperatively, with volume restoration by vigorous salt loading and fluids. Beta-blockade is added only if needed for heart rate control once the patient has been alpha-blocked for a few days.",
+   "optionExplanations": {
+    "b": "Beta-blockade should only follow several days of established alpha-blockade.",
+    "c": "Propranolol is a beta-blocker and is not appropriate before alpha-blockade has been established.",
+    "d": "Calcium channel blockade is not the recommended preoperative preparation described for pheochromocytoma.",
+    "e": "Metyrosine, a catecholamine synthesis inhibitor, is used together with an alpha blocker rather than alone."
+   },
+   "topic": "Pheochromocytoma",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "E",
+    "name": "Endocrinology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 348,
+    "reference": "E40 — Pheochromocytoma/Paraganglioma: Treatment"
+   }
+  },
+  {
+   "id": "TN-E-017",
+   "type": "single-best-answer",
+   "question": "A 68-year-old man with metastatic lung cancer is admitted with confusion, constipation, and reduced urine output. He is clinically dehydrated. Corrected serum calcium is 3.8 mmol/L and creatinine is normal. Aggressive isotonic saline rehydration has been started. Which additional treatment is most appropriate to lower his calcium?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Intravenous zoledronic acid"
+    },
+    {
+     "id": "b",
+     "text": "Intravenous furosemide"
+    },
+    {
+     "id": "c",
+     "text": "Oral prednisone"
+    },
+    {
+     "id": "d",
+     "text": "Subcutaneous calcitonin as the sole additional agent"
+    },
+    {
+     "id": "e",
+     "text": "Urgent hemodialysis"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "A corrected calcium above 3.5 mmol/L is severe hypercalcemia requiring urgent correction because of the risk of dysrhythmia and coma. After fluids, bisphosphonates are the treatment of choice: zoledronic acid 4 mg IV over 15 min or pamidronate 60-90 mg IV over 2 h, which inhibit osteoclastic bone resorption, and IV pamidronate or zoledronic acid are specifically indicated in malignancy-related hypercalcemia.",
+   "optionExplanations": {
+    "b": "A loop diuretic is added only if the patient is hypervolemic with urine output above 200 mL/h, and is a temporary measure; this patient is dehydrated and oliguric.",
+    "c": "Corticosteroids are used for hypercalcemia mediated by 1,25 vitamin D, such as lymphoma or granulomatous disease.",
+    "d": "Calcitonin gives only a transient, partial response with tachyphylaxis after 48 h and is given in conjunction with a bisphosphonate rather than alone.",
+    "e": "Dialysis is a treatment of last resort indicated in severe malignancy-associated hypercalcemia with renal insufficiency or heart failure; his creatinine is normal."
+   },
+   "topic": "Calcium Disorders",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "E",
+    "name": "Endocrinology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 352,
+    "reference": "E44 — Table 29. Treatment of Acute Hypercalcemia/Hypercalcemic Crisis"
+   }
+  },
+  {
+   "id": "TN-E-018",
+   "type": "single-best-answer",
+   "question": "A 68-year-old postmenopausal woman fractures her distal radius after tripping from standing height. DEXA shows a lumbar spine T-score of -2.7. Calcium corrected for albumin, phosphate, creatinine, ALP, TSH, and 25-OH vitamin D are all normal. Alongside dietary calcium, vitamin D, and exercise, which drug therapy is most appropriate first line?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Alendronate"
+    },
+    {
+     "id": "b",
+     "text": "Raloxifene"
+    },
+    {
+     "id": "c",
+     "text": "Teriparatide"
+    },
+    {
+     "id": "d",
+     "text": "Romosozumab"
+    },
+    {
+     "id": "e",
+     "text": "Calcitonin"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "This woman has osteoporosis by BMD (T-score at or below -2.5) plus a fragility fracture from a fall from standing height. Bisphosphonates are first line in the prevention of hip, nonvertebral, and vertebral fractures with Grade A evidence, specifically alendronate PO, risedronate PO, and zoledronic acid IV. Alendronate is therefore the appropriate initial pharmacotherapy.",
+   "optionExplanations": {
+    "b": "Raloxifene has evidence for prevention of vertebral fractures only and is a second-line agent for postmenopausal osteoporosis.",
+    "c": "Teriparatide is given for 18-24 months and must be followed by long-term antiresorptive therapy; it is not the first-line agent.",
+    "d": "Romosozumab is a 12-month sclerostin inhibitor course reserved for high fracture risk rather than initial therapy.",
+    "e": "Calcitonin is used for Paget's disease when bisphosphonates cannot be tolerated and is not a first-line osteoporosis therapy."
+   },
+   "topic": "Osteoporosis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "E",
+    "name": "Endocrinology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 355,
+    "reference": "E47 — Table 34. Treatment of Osteoporosis in Women and Men"
+   }
+  }
+ ]
+}

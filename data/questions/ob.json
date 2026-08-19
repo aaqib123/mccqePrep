@@ -1,0 +1,934 @@
+{
+ "chapter": {
+  "code": "OB",
+  "name": "Obstetrics"
+ },
+ "document": {
+  "id": "toronto-notes-2025",
+  "title": "Toronto Notes 2025",
+  "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
+ },
+ "count": 20,
+ "questions": [
+  {
+   "id": "TN-OB-001",
+   "type": "single-best-answer",
+   "question": "A 31-year-old woman attends her first prenatal visit at 12 weeks gestation. Her obstetrical history includes a son delivered vaginally at 39 weeks, a daughter delivered at 33 weeks, a spontaneous miscarriage at 9 weeks, and an ectopic pregnancy managed with methotrexate. Both children are alive and well. Which of the following best describes her obstetrical history in GTPAL format?",
+   "options": [
+    {
+     "id": "a",
+     "text": "G4 T1 P1 A1 L2"
+    },
+    {
+     "id": "b",
+     "text": "G4 T1 P1 A2 L2"
+    },
+    {
+     "id": "c",
+     "text": "G5 T1 P1 A2 L2"
+    },
+    {
+     "id": "d",
+     "text": "G5 T2 P0 A2 L2"
+    },
+    {
+     "id": "e",
+     "text": "G5 T1 P1 A1 L2"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "Gravidity is the total number of pregnancies of any gestation and includes the current pregnancy, abortions, ectopic pregnancies, and molar pregnancies, giving G5 here. Term deliveries are those beyond 37 weeks (T1), preterm deliveries are 20+0 to 36+6 weeks (P1), abortions include both miscarriages and ectopic pregnancies ending before 20 weeks (A2), and L is the number of living children (L2).",
+   "optionExplanations": {
+    "a": "Omits the current pregnancy from gravidity and counts only one pregnancy loss, whereas both the miscarriage and the ectopic count as abortions.",
+    "b": "Gravidity must include the current pregnancy, so the total is five, not four.",
+    "d": "The 33-week delivery is preterm (20+0 to 36+6 weeks), not term, so T is 1 and P is 1.",
+    "e": "Ectopic pregnancies ending before 20 weeks are counted in the abortion category, so A is 2, not 1."
+   },
+   "topic": "Antenatal History and Obstetrical Nomenclature",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "OB",
+    "name": "Obstetrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 989,
+    "reference": "OB3 — Diagnosis of Pregnancy: History (GTPAL)"
+   }
+  },
+  {
+   "id": "TN-OB-002",
+   "type": "single-best-answer",
+   "question": "A 27-year-old woman presents for her first prenatal visit. She has regular 28-day menstrual cycles, has not used hormonal contraception, and is certain that the first day of her last menstrual period was 10 May 2025. A dating ultrasound has not yet been arranged. Using Naegele's rule, which of the following is her estimated date of delivery?",
+   "options": [
+    {
+     "id": "a",
+     "text": "3 February 2026"
+    },
+    {
+     "id": "b",
+     "text": "10 February 2026"
+    },
+    {
+     "id": "c",
+     "text": "17 February 2026"
+    },
+    {
+     "id": "d",
+     "text": "24 February 2026"
+    },
+    {
+     "id": "e",
+     "text": "17 March 2026"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "Naegele's rule calculates the estimated date of delivery as the first day of the last menstrual period plus one year, plus seven days, minus three months, with adjustment when the cycle length differs from 28 days. Applying this to 10 May 2025 gives 10 May 2026, then 17 May 2026, then 17 February 2026. Her cycles are 28 days, so no correction is needed.",
+   "optionExplanations": {
+    "a": "This subtracts a full three months without adding the seven days required by the rule, and then over-corrects.",
+    "b": "This omits the addition of seven days to the last menstrual period date.",
+    "d": "This adds fourteen rather than seven days to the last menstrual period date.",
+    "e": "This subtracts only two months instead of three."
+   },
+   "topic": "Antenatal Care and Pregnancy Dating",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "OB",
+    "name": "Obstetrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 990,
+    "reference": "OB4 — Initial Prenatal Visit: History (Naegele's Rule)"
+   }
+  },
+  {
+   "id": "TN-OB-003",
+   "type": "single-best-answer",
+   "question": "A 26-year-old primigravida at 9 weeks gestation reports nausea and several episodes of vomiting daily. She remains well hydrated, her weight is stable, and urine ketones are negative. Frequent small bland meals, ginger, extra rest, and stopping her iron-containing prenatal vitamin have not relieved her symptoms. Which of the following is the most appropriate first-line pharmacological therapy?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Ondansetron"
+    },
+    {
+     "id": "b",
+     "text": "Metoclopramide"
+    },
+    {
+     "id": "c",
+     "text": "Doxylamine/pyridoxine combination"
+    },
+    {
+     "id": "d",
+     "text": "Prochlorperazine"
+    },
+    {
+     "id": "e",
+     "text": "Omeprazole"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "For nausea and vomiting of pregnancy, first-line pharmacological therapy is pyridoxine (vitamin B6) monotherapy or the doxylamine/pyridoxine combination, dosed as 4 tablets orally daily up to a maximum of 8 tablets per day. This patient has already tried the recommended non-pharmacological measures without success and has no features of dehydration or ketosis.",
+   "optionExplanations": {
+    "a": "Ondansetron is reserved for severe nausea and vomiting after other anti-emetics have failed.",
+    "b": "Metoclopramide is used as adjunctive therapy for severe nausea and vomiting, not as first-line treatment.",
+    "d": "Phenothiazines such as prochlorperazine are adjunctive agents for severe symptoms rather than initial therapy.",
+    "e": "Acid-reducing medications are adjunctive therapy and do not treat the nausea and vomiting directly."
+   },
+   "topic": "Nausea and Vomiting of Pregnancy",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "OB",
+    "name": "Obstetrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 991,
+    "reference": "OB5 — Nausea and Vomiting: Management"
+   }
+  },
+  {
+   "id": "TN-OB-004",
+   "type": "single-best-answer",
+   "question": "A healthy 30-year-old woman and her partner, both of Ashkenazi Jewish descent, attend a preconception counselling visit. Neither has a personal or family history of genetic disease, and both have normal complete blood counts. Their physician discusses ancestry-based carrier screening and wishes to screen the couple for Tay-Sachs disease. Which of the following is the most appropriate screening test?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Hemoglobin electrophoresis"
+    },
+    {
+     "id": "b",
+     "text": "CFTR gene DNA analysis"
+    },
+    {
+     "id": "c",
+     "text": "Hexosaminidase A enzyme assay"
+    },
+    {
+     "id": "d",
+     "text": "FMR-1 gene DNA analysis"
+    },
+    {
+     "id": "e",
+     "text": "Mean corpuscular volume and mean corpuscular hemoglobin on CBC"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "Tay-Sachs disease is an autosomal recessive condition for which individuals of Ashkenazi Jewish, French Canadian, and Cajun ancestry are screened. The recommended screening test is a hexosaminidase A enzyme assay or DNA analysis of the HEXA gene. If both partners are positive, referral for genetic counselling is indicated.",
+   "optionExplanations": {
+    "a": "Hemoglobin electrophoresis screens for thalassemia and sickle cell disease in at-risk ancestral groups, not Tay-Sachs.",
+    "b": "CFTR gene analysis is the screening test for cystic fibrosis, indicated with a family history of cystic fibrosis or a linked condition.",
+    "d": "FMR-1 DNA analysis screens for Fragile X syndrome and is indicated with a confirmed or suspected family history.",
+    "e": "Red cell indices are used as an initial screen for thalassemia and hemoglobinopathies, and are normal here."
+   },
+   "topic": "Prenatal Screening: High-Risk Population Carrier Testing",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "OB",
+    "name": "Obstetrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 993,
+    "reference": "OB7 — Prenatal Screening and Diagnostic Tests, Table 2"
+   }
+  },
+  {
+   "id": "TN-OB-005",
+   "type": "single-best-answer",
+   "question": "A 29-year-old G1 books late and is seen for her first prenatal visit at 17 weeks gestation, confirmed by ultrasound the same day. She is otherwise healthy with no risk factors for aneuploidy and no family history of genetic disease. After counselling, she requests screening for Down syndrome and for open neural tube defects. Which of the following is the most appropriate screening investigation?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Enhanced first trimester screen"
+    },
+    {
+     "id": "b",
+     "text": "Nuchal translucency ultrasound alone"
+    },
+    {
+     "id": "c",
+     "text": "Maternal serum screening"
+    },
+    {
+     "id": "d",
+     "text": "Chorionic villus sampling"
+    },
+    {
+     "id": "e",
+     "text": "Amniocentesis"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "Maternal serum screening is performed at 15-20 weeks gestation and is offered to patients who have missed the window for the enhanced first trimester screen. It measures MSAFP, beta-hCG, unconjugated estriol, and inhibin A, providing risk estimates for trisomy 21 and trisomy 18 as well as screening for open neural tube defects through the MSAFP.",
+   "optionExplanations": {
+    "a": "The enhanced first trimester screen is performed at 11-14 weeks and this window has passed.",
+    "b": "Nuchal translucency is measured at 11-13+3 weeks and does not screen for open neural tube defects.",
+    "d": "Chorionic villus sampling is a diagnostic test performed at 10-12 weeks and does not screen for open neural tube defects.",
+    "e": "Amniocentesis is a diagnostic rather than a screening test and is not first-line in a low-risk patient."
+   },
+   "topic": "Prenatal Screening for Aneuploidy",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "OB",
+    "name": "Obstetrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 994,
+    "reference": "OB8 — Table 4: Comparison of FTS, MSS, and NIPT"
+   }
+  },
+  {
+   "id": "TN-OB-006",
+   "type": "single-best-answer",
+   "question": "A 26-year-old G2P1 with an uncomplicated pregnancy is seen for a routine visit at 28 weeks gestation. Her blood group is O negative and her antibody screen at the first prenatal visit was negative. She has had no bleeding, no trauma, and no invasive procedures during this pregnancy. Which of the following is the most appropriate management at this visit?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Administer Rh immune globulin now"
+    },
+    {
+     "id": "b",
+     "text": "Withhold Rh immune globulin until after delivery of an Rh-positive infant"
+    },
+    {
+     "id": "c",
+     "text": "Repeat the antibody screen monthly and treat only if it becomes positive"
+    },
+    {
+     "id": "d",
+     "text": "Perform a Kleihauer-Betke test and treat only if it is positive"
+    },
+    {
+     "id": "e",
+     "text": "Defer prophylaxis until 36 weeks gestation"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Rh immune globulin is given to all Rh-negative, antibody screen negative patients routinely at 28 weeks gestation, where it provides protection for roughly 12 weeks. It is also given within 72 hours of the birth of an Rh-positive fetus, with invasive procedures, ectopic pregnancy, miscarriage or therapeutic abortion, antepartum hemorrhage, and trauma.",
+   "optionExplanations": {
+    "b": "Postpartum administration alone omits the routine antenatal dose that prevents sensitization during the third trimester.",
+    "c": "Serial monthly antibody titres are used for patients who are already sensitized; prophylaxis is the goal in an unsensitized patient.",
+    "d": "The Kleihauer-Betke test quantifies fetomaternal hemorrhage to determine whether additional Rh immune globulin is needed, not whether the routine dose should be given.",
+    "e": "The recommended timing of routine antenatal prophylaxis is 28 weeks, not 36 weeks."
+   },
+   "topic": "Rh Isoimmunization and Prophylaxis",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "OB",
+    "name": "Obstetrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 995,
+    "reference": "OB9 — Isoimmunization Screening: Prophylaxis"
+   }
+  },
+  {
+   "id": "TN-OB-007",
+   "type": "single-best-answer",
+   "question": "A 30-year-old G2P1 at 34 weeks gestation presents to labour and delivery triage reporting reduced fetal movement for one day. A non-stress test is started. Over the first 20 minutes the baseline is 140 bpm with moderate variability and no decelerations, but there are no accelerations and the patient reports feeling no movement. Which of the following is the next best step?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Apply vibroacoustic stimulation and continue monitoring for a further 30 minutes"
+    },
+    {
+     "id": "b",
+     "text": "Discharge her with instructions to perform fetal movement counts"
+    },
+    {
+     "id": "c",
+     "text": "Proceed to immediate caesarean delivery"
+    },
+    {
+     "id": "d",
+     "text": "Begin an oxytocin infusion for a contraction stress test"
+    },
+    {
+     "id": "e",
+     "text": "Administer betamethasone and repeat the tracing in 24 hours"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "A normal non-stress test after 32 weeks requires at least two accelerations of at least 15 bpm above baseline lasting at least 15 seconds within 20 minutes, and a tracing is only called abnormal when there are fewer than two accelerations over 40 minutes. If no accelerations or fetal movements are observed in the first 20 minutes, the fetus should be stimulated with fundal pressure or acoustic/vibratory stimulation and monitoring continued for 30 minutes.",
+   "optionExplanations": {
+    "b": "Discharge is inappropriate before the test has been completed and interpreted over the full monitoring period.",
+    "c": "An incomplete non-stress test with moderate variability and no decelerations does not indicate immediate operative delivery.",
+    "d": "A contraction stress test is not the recommended immediate response to an absence of accelerations in the first 20 minutes.",
+    "e": "Corticosteroids address fetal lung maturity and do not resolve the incomplete assessment of fetal well-being."
+   },
+   "topic": "Fetal Surveillance: Non-Stress Test",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "OB",
+    "name": "Obstetrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 996,
+    "reference": "OB10 — Fetal Surveillance: Non-Stress Test, Interpretation"
+   }
+  },
+  {
+   "id": "TN-OB-008",
+   "type": "single-best-answer",
+   "question": "A 36-year-old G2P1 at 36 weeks gestation is assessed for decreased fetal movement. A biophysical profile is performed and scores 6/10, with a normal amniotic fluid volume. She has no contractions, bleeding, or leaking of fluid, her vital signs are normal, and the pregnancy has otherwise been uncomplicated. Which of the following is the most appropriate next step?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Repeat the biophysical profile in 24 hours"
+    },
+    {
+     "id": "b",
+     "text": "Repeat the biophysical profile in one week"
+    },
+    {
+     "id": "c",
+     "text": "Proceed to immediate caesarean delivery"
+    },
+    {
+     "id": "d",
+     "text": "Induce labour today"
+    },
+    {
+     "id": "e",
+     "text": "Discharge with weekly non-stress tests only"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "A biophysical profile of 6/10 with normal amniotic fluid is an equivocal test with variable perinatal mortality, and the recommended action is to repeat the biophysical profile in 24 hours. Scores of 8/10 with normal fluid or 10/10 are reassuring, while 0-4/10 should prompt consideration of delivery for fetal indications.",
+   "optionExplanations": {
+    "b": "A one-week interval is far too long for an equivocal score that requires reassessment within 24 hours.",
+    "c": "Immediate operative delivery is reserved for scores of 0-4/10 or other evidence of fetal compromise.",
+    "d": "Delivery is the response to a 6-8/10 score with abnormal fluid at term, but this patient has normal fluid and an equivocal result.",
+    "e": "Discharge without repeating the equivocal biophysical profile does not address the possibility of fetal compromise."
+   },
+   "topic": "Fetal Surveillance: Biophysical Profile",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "OB",
+    "name": "Obstetrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 997,
+    "reference": "OB11 — Biophysical Profile: Interpretation"
+   }
+  },
+  {
+   "id": "TN-OB-009",
+   "type": "single-best-answer",
+   "question": "A 30-year-old G3P2 at 34 weeks gestation presents with sudden, constant lower back and abdominal pain and dark vaginal bleeding. Her uterus is tender and firm with no relaxation between frequent contractions. Blood pressure is 88/54 mmHg and heart rate is 122 bpm, which appears out of proportion to the modest amount of visible blood loss. Which of the following is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Placenta previa"
+    },
+    {
+     "id": "b",
+     "text": "Placental abruption"
+    },
+    {
+     "id": "c",
+     "text": "Vasa previa"
+    },
+    {
+     "id": "d",
+     "text": "Uterine rupture"
+    },
+    {
+     "id": "e",
+     "text": "Preterm labour with a bloody show"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Placental abruption is premature partial or total placental detachment caused by bleeding at the decidual-placental interface after 20 weeks. It typically presents with painful vaginal bleeding of sudden onset localized to the lower back and uterus, uterine tenderness and hypertonus with lack of relaxation between contractions, and shock or anemia out of proportion to the apparent blood loss because bleeding may be concealed.",
+   "optionExplanations": {
+    "a": "Placenta previa causes painless bleeding without uterine tenderness or hypertonus.",
+    "c": "Vasa previa causes painless bleeding at rupture of membranes with fetal distress from fetal exsanguination, not maternal shock.",
+    "d": "Uterine rupture is associated with a previous uterine scar or excessive uterine stimulation, neither described here.",
+    "e": "Bloody show is a small amount of blood-stained mucus and does not cause maternal hypotension or a tense, tender uterus."
+   },
+   "topic": "Antepartum Hemorrhage: Placental Abruption",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "OB",
+    "name": "Obstetrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1001,
+    "reference": "OB15 — Placental Abruption: Clinical Features"
+   }
+  },
+  {
+   "id": "TN-OB-010",
+   "type": "single-best-answer",
+   "question": "A 32-year-old G2P1 at 36 weeks gestation has spontaneous rupture of membranes at home, immediately followed by painless bright red vaginal bleeding. On arrival, the fetal heart tracing shows a sinusoidal pattern with bradycardia. A third trimester ultrasound had documented a velamentous cord insertion with unprotected fetal vessels crossing the internal cervical os. Which of the following is the best management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Emergency caesarean delivery"
+    },
+    {
+     "id": "b",
+     "text": "Perform an Apt test on the vaginal blood before deciding on delivery"
+    },
+    {
+     "id": "c",
+     "text": "Augment labour with oxytocin to expedite vaginal delivery"
+    },
+    {
+     "id": "d",
+     "text": "Transfuse the mother and manage expectantly until 37 weeks"
+    },
+    {
+     "id": "e",
+     "text": "Give tocolysis and antenatal corticosteroids"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "In vasa previa the bleeding is fetal in origin, so even a small volume of blood loss can be catastrophic; perinatal mortality is 50% if undiagnosed and rises to 75% once membranes rupture. Management is planned caesarean delivery at 35-36 weeks, or emergency caesarean delivery if bleeding occurs, as it has here with an accompanying sinusoidal tracing and bradycardia.",
+   "optionExplanations": {
+    "b": "The Apt test distinguishes fetal from maternal blood but must not delay delivery when the diagnosis is already established and the fetus is compromised.",
+    "c": "Continuing labour allows ongoing fetal exsanguination through the exposed vessels.",
+    "d": "Maternal transfusion does not address bleeding that is coming from the fetal circulation.",
+    "e": "Tocolysis and steroids prolong the pregnancy and are inappropriate once the fetal vessels have ruptured and the fetus is compromised."
+   },
+   "topic": "Antepartum Hemorrhage: Vasa Previa",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "OB",
+    "name": "Obstetrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1002,
+    "reference": "OB16 — Vasa Previa: Clinical Features and Management"
+   }
+  },
+  {
+   "id": "TN-OB-011",
+   "type": "single-best-answer",
+   "question": "A 28-year-old G2P1 whose first child was delivered at term is asymptomatic at 21 weeks gestation. A transvaginal ultrasound performed to check placental location incidentally shows a cervical length of 20 mm. She has no contractions, bleeding, or leaking of fluid, and no history of cervical surgery or spontaneous preterm birth. Which of the following is the best management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Vaginal progesterone 200 mg once daily until 36 weeks"
+    },
+    {
+     "id": "b",
+     "text": "Cervical cerclage"
+    },
+    {
+     "id": "c",
+     "text": "Strict bed rest with weekly cervical length measurement"
+    },
+    {
+     "id": "d",
+     "text": "Nifedipine tocolysis"
+    },
+    {
+     "id": "e",
+     "text": "Betamethasone 12 mg IM for two doses"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Progesterone is indicated when the cervical length is less than 25 mm before 24 weeks gestation, given as 200 mg vaginally once daily from the time of diagnosis until 36 weeks. It is superior to cerclage for preventing preterm labour in singleton pregnancies that are not due to cervical incompetence, which is the situation here given the absence of prior preterm birth or cervical procedures.",
+   "optionExplanations": {
+    "b": "Cerclage is indicated for cervical incompetence and is considered for a short cervix in women with a prior spontaneous preterm birth, which this patient does not have.",
+    "c": "Bed rest alone is not an evidence-based intervention for a short cervix.",
+    "d": "Tocolysis is used to suppress established preterm labour, and this patient has no contractions.",
+    "e": "Antenatal corticosteroids are given when delivery is expected within seven days, which is not the case for an asymptomatic patient."
+   },
+   "topic": "Prevention of Preterm Labour",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "OB",
+    "name": "Obstetrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1003,
+    "reference": "OB17 — Prevention of Preterm Labour: Progesterone"
+   }
+  },
+  {
+   "id": "TN-OB-012",
+   "type": "single-best-answer",
+   "question": "A 27-year-old G1 at 30+2 weeks gestation is admitted in preterm labour with regular painful contractions and a cervix dilated to 6 cm. Membranes are intact and the fetal heart tracing is normal. The obstetrical team judges that delivery is imminent. She received her first dose of betamethasone two hours ago. Which of the following should now be started specifically for fetal neuroprotection?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Magnesium sulphate"
+    },
+    {
+     "id": "b",
+     "text": "Nifedipine"
+    },
+    {
+     "id": "c",
+     "text": "Indomethacin"
+    },
+    {
+     "id": "d",
+     "text": "Dexamethasone"
+    },
+    {
+     "id": "e",
+     "text": "Ampicillin"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Magnesium sulphate is given for fetal neuroprotection, as a 4 g bolus followed by a 1 g/h infusion for at least 4 hours, when imminent delivery is expected before 33+6 weeks gestation. It reduces the risk of cerebral palsy. This patient is at 30+2 weeks with advanced cervical dilatation and imminent delivery, so she meets the criteria.",
+   "optionExplanations": {
+    "b": "Nifedipine is a tocolytic used to delay delivery; tocolysis requires cervical dilatation under 4 cm and does not provide neuroprotection.",
+    "c": "Indomethacin is a tocolytic used in early preterm labour or polyhydramnios and has no neuroprotective role.",
+    "d": "Dexamethasone is an alternative antenatal corticosteroid for fetal lung maturity; she has already begun corticosteroid therapy with betamethasone.",
+    "e": "Antibiotics are given for group B Streptococcus prophylaxis, not for neuroprotection."
+   },
+   "topic": "Preterm Labour Management",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "OB",
+    "name": "Obstetrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1004,
+    "reference": "OB18 — Preterm Labour Management: Neuroprotection"
+   }
+  },
+  {
+   "id": "TN-OB-013",
+   "type": "single-best-answer",
+   "question": "A 25-year-old G1 at 33 weeks gestation presents after a sudden gush of clear fluid from the vagina, followed by continued leakage that has soaked through two pads. She has no contractions, bleeding, or fever, and the fetal heart rate is 145 bpm. Which of the following is the most appropriate initial investigation to confirm rupture of membranes?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Digital cervical examination"
+    },
+    {
+     "id": "b",
+     "text": "Sterile speculum examination"
+    },
+    {
+     "id": "c",
+     "text": "Transvaginal ultrasound measurement of cervical length"
+    },
+    {
+     "id": "d",
+     "text": "Cervicovaginal fetal fibronectin"
+    },
+    {
+     "id": "e",
+     "text": "Amniocentesis"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Prelabour rupture of membranes is confirmed by sterile speculum examination, which allows assessment for pooling of fluid in the posterior fornix, cascading of fluid from the cervix with cough or Valsalva, nitrazine testing, and ferning on microscopy. A sterile technique is used specifically to avoid introducing infection.",
+   "optionExplanations": {
+    "a": "Repeated or unnecessary digital examinations should be avoided because they increase the risk of infection and do not confirm membrane rupture.",
+    "c": "Cervical length measurement predicts preterm birth risk but does not establish whether membranes have ruptured.",
+    "d": "Fetal fibronectin testing requires intact membranes and is used to predict preterm labour, not to diagnose rupture.",
+    "e": "Amniocentesis is an invasive diagnostic procedure and has no role in confirming rupture of membranes."
+   },
+   "topic": "Prelabour Rupture of Membranes",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "OB",
+    "name": "Obstetrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1004,
+    "reference": "OB18 — Prelabour Rupture of Membranes: Investigations"
+   }
+  },
+  {
+   "id": "TN-OB-014",
+   "type": "single-best-answer",
+   "question": "A 32-year-old G2P1 at 37 weeks gestation is found on ultrasound to have a frank breech presentation. The pregnancy is a singleton and has been uncomplicated, the membranes are intact, the presenting part is unengaged, the placenta is fundal, and the non-stress test is normal. She has no contraindication to vaginal delivery. Which of the following is the most appropriate next step?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Offer external cephalic version"
+    },
+    {
+     "id": "b",
+     "text": "Schedule an elective caesarean delivery at 39 weeks"
+    },
+    {
+     "id": "c",
+     "text": "Proceed to caesarean delivery today"
+    },
+    {
+     "id": "d",
+     "text": "Await spontaneous version and reassess at 40 weeks"
+    },
+    {
+     "id": "e",
+     "text": "Induce labour for a planned vaginal breech delivery"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "External cephalic version applies external pressure on the uterus to turn a non-vertex fetus to vertex, with an overall success rate of about 40-60%. The criteria are gestational age beyond 36 weeks, a singleton pregnancy, an unengaged presenting part, a reactive non-stress test, and intact membranes, all of which this patient meets. Both external cephalic version and elective caesarean delivery should be presented as options with informed consent.",
+   "optionExplanations": {
+    "b": "Elective caesarean delivery is a reasonable option but should only follow discussion of external cephalic version, which may avoid operative delivery entirely.",
+    "c": "There is no indication for urgent operative delivery in a stable, uncomplicated breech pregnancy at 37 weeks.",
+    "d": "Simply waiting forgoes the opportunity for version while the criteria are still met and the presenting part is unengaged.",
+    "e": "Induction for vaginal breech delivery is not the recommended next step when version has not yet been offered."
+   },
+   "topic": "Fetal Malpresentation and External Cephalic Version",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "OB",
+    "name": "Obstetrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1011,
+    "reference": "OB25 — Breech Presentation: Management (ECV)"
+   }
+  },
+  {
+   "id": "TN-OB-015",
+   "type": "single-best-answer",
+   "question": "A 33-year-old G1 at 35 weeks gestation presents with a persistent frontal headache. Her blood pressure is 168/114 mmHg on two seated readings 15 minutes apart, and her urine protein:creatinine ratio is 62 mg/mmol. Platelets, liver enzymes, and creatinine are normal, and the fetal heart tracing is normal. Which of the following is the most appropriate initial antihypertensive?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Labetalol 20 mg IV"
+    },
+    {
+     "id": "b",
+     "text": "Enalapril PO"
+    },
+    {
+     "id": "c",
+     "text": "Atenolol PO"
+    },
+    {
+     "id": "d",
+     "text": "Furosemide IV"
+    },
+    {
+     "id": "e",
+     "text": "Prazosin PO"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "This patient has preeclampsia with severe hypertension, defined as a blood pressure above 160/110 mmHg. Initial therapy for severe hypertension should be labetalol, nifedipine, methyldopa, or hydralazine, with the labetalol regimen being 20 mg IV followed by 20-80 mg IV every 30 minutes to a maximum of 300 mg before switching to oral therapy. Magnesium sulphate is given separately for seizure prophylaxis.",
+   "optionExplanations": {
+    "b": "ACE inhibitors are contraindicated in pregnancy and cause fetal renal defects, IUGR, and oligohydramnios.",
+    "c": "Atenolol is specifically listed among the agents that should not be used in hypertensive disorders of pregnancy.",
+    "d": "Diuretics are avoided except in the setting of pulmonary edema or cardiac failure, neither of which is present.",
+    "e": "Prazosin is among the agents that should not be used for hypertension in pregnancy."
+   },
+   "topic": "Hypertensive Disorders of Pregnancy",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "OB",
+    "name": "Obstetrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1013,
+    "reference": "OB27 — Management of Hypertension and Preeclampsia"
+   }
+  },
+  {
+   "id": "TN-OB-016",
+   "type": "single-best-answer",
+   "question": "A 31-year-old G2P1 at 26 weeks gestation undergoes routine screening for gestational diabetes using the preferred two-step approach, beginning with a random non-fasting 50 g oral glucose challenge test. Her 1-hour plasma glucose is 8.6 mmol/L. She is asymptomatic, her blood pressure is normal, and fetal growth is appropriate on ultrasound. Which of the following is the next best step?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Reassure her that screening is normal"
+    },
+    {
+     "id": "b",
+     "text": "Diagnose gestational diabetes and start insulin"
+    },
+    {
+     "id": "c",
+     "text": "Perform a fasting 75 g oral glucose tolerance test"
+    },
+    {
+     "id": "d",
+     "text": "Repeat the 50 g oral glucose challenge test in four weeks"
+    },
+    {
+     "id": "e",
+     "text": "Begin dietary modification and recheck fasting plasma glucose in two weeks"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "In the preferred two-step screening strategy, a 1-hour plasma glucose below 7.8 mmol/L after the 50 g challenge is normal and a value of 11.1 mmol/L or more is diagnostic of gestational diabetes. An intermediate value of 7.8-11.0 mmol/L, as here, requires proceeding to step 2, a fasting 75 g oral glucose tolerance test.",
+   "optionExplanations": {
+    "a": "Values are only normal below 7.8 mmol/L; her result falls in the intermediate range requiring further testing.",
+    "b": "A diagnosis on the challenge test alone requires a 1-hour value of at least 11.1 mmol/L, and first-line treatment is diet and activity rather than immediate insulin.",
+    "d": "Repeating the screening test delays diagnosis; the intermediate result mandates confirmatory testing now.",
+    "e": "Treatment should not be started before the diagnosis is confirmed with the second-step test."
+   },
+   "topic": "Gestational Diabetes: Screening and Diagnosis",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "OB",
+    "name": "Obstetrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1015,
+    "reference": "OB29 — Gestational DM: Screening and Diagnosis"
+   }
+  },
+  {
+   "id": "TN-OB-017",
+   "type": "single-best-answer",
+   "question": "A 29-year-old G1 at 39 weeks gestation is admitted in active labour. Her vaginal and anorectal culture at 36 weeks was positive for group B Streptococcus. She describes a previous reaction to penicillin with facial swelling and difficulty breathing requiring emergency treatment. Susceptibility testing of her isolate is not available. Which of the following is the most appropriate intrapartum antibiotic prophylaxis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Penicillin G 5 million units IV, then 2.5 million units IV every 4 hours"
+    },
+    {
+     "id": "b",
+     "text": "Cefazolin 2 g IV, then 1 g every 8 hours"
+    },
+    {
+     "id": "c",
+     "text": "Clindamycin 900 mg IV every 8 hours"
+    },
+    {
+     "id": "d",
+     "text": "Vancomycin 1 g IV every 12 hours"
+    },
+    {
+     "id": "e",
+     "text": "Erythromycin 250 mg IV every 6 hours"
+    }
+   ],
+   "correctAnswer": "d",
+   "explanation": "For group B Streptococcus prophylaxis in a patient with penicillin allergy who is at risk of anaphylaxis, vancomycin 1 g IV every 12 hours or clindamycin 900 mg every 8 hours is used, but clindamycin only if the isolate is known to be susceptible. Since susceptibility is unknown here, vancomycin is appropriate. Antibiotics should be given at least 4 hours before delivery to be considered adequate.",
+   "optionExplanations": {
+    "a": "Penicillin G is first-line but is contraindicated given her history of anaphylaxis.",
+    "b": "Cefazolin is reserved for penicillin allergy with low risk of anaphylaxis, which does not apply to this patient.",
+    "c": "Clindamycin may only be used when the isolate is known to be susceptible, and susceptibility results are unavailable.",
+    "e": "Erythromycin is not among the recommended agents for intrapartum group B Streptococcus prophylaxis."
+   },
+   "topic": "Early-Onset Group B Streptococcus Prophylaxis",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "OB",
+    "name": "Obstetrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1016,
+    "reference": "OB30 — Early-Onset Group B Streptococcus Disease: Treatment"
+   }
+  },
+  {
+   "id": "TN-OB-018",
+   "type": "single-best-answer",
+   "question": "A 28-year-old G1 at 40 weeks gestation is in active labour with oxytocin augmentation. Continuous cardiotocography shows repetitive uniform decelerations in which the onset, nadir, and recovery each occur after the peak of the contraction, with a slow return to baseline and a decrease in variability. Which of the following is the most likely underlying cause of this pattern?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Umbilical cord compression"
+    },
+    {
+     "id": "b",
+     "text": "Fetal head compression with a vagal response"
+    },
+    {
+     "id": "c",
+     "text": "Uteroplacental insufficiency"
+    },
+    {
+     "id": "d",
+     "text": "Maternal fever from chorioamnionitis"
+    },
+    {
+     "id": "e",
+     "text": "Fetal anemia from fetomaternal hemorrhage"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "Late decelerations are uniform in shape with onset, nadir, and recovery occurring after the peak of the contraction and a slow return to baseline, and they may cause decreased variability and a change in the baseline fetal heart rate. They reflect fetal hypoxia and acidemia, maternal hypotension, or uterine hypertonus, and are usually a sign of uteroplacental insufficiency.",
+   "optionExplanations": {
+    "a": "Cord compression causes variable decelerations, which vary in shape, onset, and duration with an abrupt drop in fetal heart rate.",
+    "b": "Head compression causes benign early decelerations that mirror the contraction, with the nadir at the peak of the contraction.",
+    "d": "Maternal fever produces fetal tachycardia rather than repetitive late decelerations.",
+    "e": "Fetal anemia is associated with a sinusoidal pattern and reduced oxygen carrying capacity, not with this deceleration pattern."
+   },
+   "topic": "Intrapartum Fetal Monitoring",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "OB",
+    "name": "Obstetrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1023,
+    "reference": "OB37 — Table 18: Comparison of Decelerations"
+   }
+  },
+  {
+   "id": "TN-OB-019",
+   "type": "single-best-answer",
+   "question": "A 33-year-old G2P1 with a pre-pregnancy BMI of 34 is delivering at 40 weeks gestation. After delivery of the fetal head, the head retracts tightly back against the perineum and the anterior shoulder fails to deliver with routine gentle downward traction. Additional help has been called to the room. Which of the following is the next best step?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Sharp fundal pressure during the next maternal push"
+    },
+    {
+     "id": "b",
+     "text": "McRoberts manoeuvre with suprapubic pressure"
+    },
+    {
+     "id": "c",
+     "text": "Zavanelli manoeuvre with emergent caesarean delivery"
+    },
+    {
+     "id": "d",
+     "text": "Deliberate fracture of the neonatal clavicle"
+    },
+    {
+     "id": "e",
+     "text": "Symphysiotomy"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "The turtle sign, in which the delivered head retracts against the perineum, indicates shoulder dystocia. The goal is to displace the anterior shoulder from behind the symphysis pubis using a stepwise sequence of manoeuvres. After calling for help, the next steps are placing the legs in full flexion (McRoberts manoeuvre) and applying suprapubic pressure, which together resolve about 90% of cases.",
+   "optionExplanations": {
+    "a": "Fundal pressure is not part of the stepwise approach and worsens impaction of the anterior shoulder.",
+    "c": "The Zavanelli manoeuvre, replacing the fetus into the uterus for emergent caesarean delivery, is a last-line option.",
+    "d": "Cleidotomy is a last-line option after the standard stepwise manoeuvres have failed.",
+    "e": "Symphysiotomy is a last-line option reserved for failure of all standard manoeuvres."
+   },
+   "topic": "Intrapartum Emergencies: Shoulder Dystocia",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "OB",
+    "name": "Obstetrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1027,
+    "reference": "OB41 — Shoulder Dystocia: Presentation and Treatment"
+   }
+  },
+  {
+   "id": "TN-OB-020",
+   "type": "single-best-answer",
+   "question": "A 30-year-old G4P4 has a spontaneous vaginal delivery at 40 weeks after a prolonged labour augmented with oxytocin. Within 20 minutes of delivery she loses approximately 800 mL of blood. The placenta was delivered intact with all membranes present, inspection of the cervix and vagina shows no lacerations, and the uterine fundus is soft and boggy above the umbilicus. Which of the following is the most likely cause?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Uterine atony"
+    },
+    {
+     "id": "b",
+     "text": "Retained placental tissue"
+    },
+    {
+     "id": "c",
+     "text": "Genital tract laceration"
+    },
+    {
+     "id": "d",
+     "text": "Coagulopathy"
+    },
+    {
+     "id": "e",
+     "text": "Uterine inversion"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Postpartum hemorrhage is blood loss over 500 mL after vaginal delivery, and the causes are grouped as the 4 Ts: tone, tissue, trauma, and thrombin. Uterine atony is the most common cause, accounting for more than 80% of cases, and is suggested here by a soft, boggy, poorly contracted fundus. Risk factors present in this case include grand multiparity, prolonged labour, and oxytocin use causing uterine muscle exhaustion.",
+   "optionExplanations": {
+    "b": "Retained tissue is unlikely when the placenta and membranes were delivered intact.",
+    "c": "Trauma from a laceration has been excluded by inspection of the cervix and vagina, and would not produce a boggy uterus.",
+    "d": "Coagulopathy is usually identified before delivery and would not typically present with an atonic fundus in an otherwise healthy patient.",
+    "e": "Uterine inversion presents with an absent fundus on abdominal palpation and often a mass at the introitus, not a boggy fundus above the umbilicus."
+   },
+   "topic": "Postpartum Hemorrhage",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "OB",
+    "name": "Obstetrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1032,
+    "reference": "OB46 — Postpartum Hemorrhage: Etiology (4 Ts)"
+   }
+  }
+ ]
+}

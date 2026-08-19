@@ -1,0 +1,290 @@
+{
+ "chapter": {
+  "code": "MI",
+  "name": "Medical Imaging"
+ },
+ "document": {
+  "id": "toronto-notes-2025",
+  "title": "Toronto Notes 2025",
+  "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
+ },
+ "count": 6,
+ "questions": [
+  {
+   "id": "TN-MI-001",
+   "type": "single-best-answer",
+   "question": "A 71-year-old woman is brought to the emergency department 2 hours after the sudden onset of left hemiparesis and left-sided neglect. A non-contrast CT head performed on arrival is reported as normal with no hemorrhage and no established infarct. The stroke team wishes to confirm that an acute infarct is present. Which investigation is most likely to demonstrate the infarct at this time point?",
+   "options": [
+    {
+     "id": "a",
+     "text": "MRI brain with diffusion-weighted imaging"
+    },
+    {
+     "id": "b",
+     "text": "Non-contrast CT head repeated in 24 hours"
+    },
+    {
+     "id": "c",
+     "text": "CT head with intravenous contrast"
+    },
+    {
+     "id": "d",
+     "text": "Carotid duplex Doppler ultrasound"
+    },
+    {
+     "id": "e",
+     "text": "Skull radiography"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states that in the hyperacute period (0-24 h) CT is usually normal within the first 6 hours, whereas MRI shows hyperintensity on diffusion-weighted imaging within minutes of arterial occlusion because of restricted water movement from cytotoxic edema. DWI is therefore the sensitive test for detecting an acute ischemic stroke when the CT is still normal.",
+   "optionExplanations": {
+    "b": "Waiting 24 hours would delay decision-making, and although edema increases over that period it does not help now.",
+    "c": "Contrast highlights vascular structures and areas of blood-brain barrier impairment; it is not the technique for detecting hyperacute cytotoxic edema.",
+    "d": "Carotid duplex assesses extracranial carotid stenosis and does not image the brain parenchyma.",
+    "e": "Skull films are used for destructive bony lesions and hardware placement, and are not indicated for stroke."
+   },
+   "topic": "Neuroradiology — Acute Stroke Imaging",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "MI",
+    "name": "Medical Imaging"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 811,
+    "reference": "MI21 — Cerebrovascular Disease, Table 17: Temporal Findings of Infarction with CT and MRI"
+   }
+  },
+  {
+   "id": "TN-MI-002",
+   "type": "single-best-answer",
+   "question": "A 66-year-old man had a 15-minute episode of right arm weakness and slurred speech that resolved completely. He has hypertension, dyslipidemia and a 30 pack-year smoking history, and a left carotid bruit is audible. His physician wants to assess the extracranial carotid arteries for atherosclerotic stenosis. Which is the most appropriate initial imaging modality?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Duplex Doppler ultrasound of the carotid arteries"
+    },
+    {
+     "id": "b",
+     "text": "Conventional catheter digital subtraction angiography"
+    },
+    {
+     "id": "c",
+     "text": "Magnetic resonance angiography"
+    },
+    {
+     "id": "d",
+     "text": "CT angiography"
+    },
+    {
+     "id": "e",
+     "text": "Non-contrast MRI of the brain"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states that for carotid artery disease the best imaging modality is duplex (Doppler ultrasound), with MRA or CTA used if carotid angioplasty or endarterectomy is under consideration, and conventional angiography reserved for cases in which MRA or CTA is inadequate. Duplex is therefore the correct first study for this patient.",
+   "optionExplanations": {
+    "b": "Conventional digital subtraction angiography is invasive, requires arterial access and carries a risk of vessel injury; it is reserved for inadequate MRA or CTA.",
+    "c": "MRA is listed as an additional modality once revascularisation is being considered, not the initial study.",
+    "d": "CTA is likewise an additional modality used when angioplasty or endarterectomy is contemplated.",
+    "e": "Brain MRI evaluates parenchymal injury and does not quantify carotid stenosis."
+   },
+   "topic": "Neuroradiology — Carotid Artery Disease",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "MI",
+    "name": "Medical Imaging"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 811,
+    "reference": "MI21 — Cerebrovascular Disease: Carotid Artery Disease"
+   }
+  },
+  {
+   "id": "TN-MI-003",
+   "type": "single-best-answer",
+   "question": "A 54-year-old woman presents with acute pleuritic chest pain and dyspnea six days after knee arthroplasty. She is tachycardic and hypoxemic. Chest radiography shows a localised area of reduced pulmonary vascular markings and a small pleural effusion, but is otherwise unremarkable. Her renal function is normal and she is not pregnant. Which investigation is the definitive study for the suspected diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "CT pulmonary angiography"
+    },
+    {
+     "id": "b",
+     "text": "Ventilation/perfusion scintigraphy"
+    },
+    {
+     "id": "c",
+     "text": "Repeat chest radiograph in 6 hours"
+    },
+    {
+     "id": "d",
+     "text": "Transthoracic echocardiography"
+    },
+    {
+     "id": "e",
+     "text": "Lateral decubitus chest radiograph"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Pulmonary embolism generally cannot be definitively diagnosed on plain film; Toronto Notes lists localized pulmonary oligemia (Westermark sign), Hampton's hump, right heart enlargement, atelectasis and pleural effusion as suggestive radiographic signs. The definitive imaging study is CT pulmonary angiography, which looks for a filling defect in the contrast-filled pulmonary arteries.",
+   "optionExplanations": {
+    "b": "A V/Q scan is the alternative used in patients with impaired renal function or in pregnancy, neither of which applies here.",
+    "c": "Plain films cannot definitively diagnose pulmonary embolism no matter how often they are repeated.",
+    "d": "Echocardiography may show right heart strain but does not visualise pulmonary arterial filling defects.",
+    "e": "Lateral decubitus films are used to detect small pleural effusions, not pulmonary emboli."
+   },
+   "topic": "Chest Imaging — Pulmonary Embolism",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "MI",
+    "name": "Medical Imaging"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 798,
+    "reference": "MI8 — Pulmonary Vascular Abnormalities: Pulmonary Embolism"
+   }
+  },
+  {
+   "id": "TN-MI-004",
+   "type": "single-best-answer",
+   "question": "A 62-year-old man is intubated in the emergency department for airway protection. A portable frontal chest radiograph is obtained. The endotracheal tube projects over the trachea with its tip 1 cm above the tracheal carina. Breath sounds are equal bilaterally, the stomach is not distended, and there is no subcutaneous emphysema. What is the most appropriate next step?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Withdraw the tube so that the tip lies 2-4 cm above the carina"
+    },
+    {
+     "id": "b",
+     "text": "Advance the tube a further 2 cm"
+    },
+    {
+     "id": "c",
+     "text": "Leave the tube in its current position"
+    },
+    {
+     "id": "d",
+     "text": "Extubate and reintubate the patient"
+    },
+    {
+     "id": "e",
+     "text": "Inflate the cuff to a diameter greater than the tracheal diameter"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states that the tip of an endotracheal tube should be located 2-4 cm above the tracheal carina, which avoids both bronchial intubation and vocal cord irritation. A tip only 1 cm above the carina is too low and risks migration into a main bronchus, so the tube should be withdrawn to the correct position.",
+   "optionExplanations": {
+    "b": "Advancing the tube would push it into a main bronchus, causing single-lung ventilation.",
+    "c": "A tip 1 cm above the carina is outside the recommended 2-4 cm range and can migrate into a bronchus.",
+    "d": "Reintubation is unnecessary and exposes the patient to avoidable risk when simple repositioning corrects the problem.",
+    "e": "The balloon diameter must be less than the tracheal diameter and inflation is kept under 3 cm to avoid mucosal necrosis and rupture."
+   },
+   "topic": "Chest Imaging — Tubes and Lines",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "MI",
+    "name": "Medical Imaging"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 800,
+    "reference": "MI10 — Tubes, Lines, and Catheters: Endotracheal Tube"
+   }
+  },
+  {
+   "id": "TN-MI-005",
+   "type": "single-best-answer",
+   "question": "A 46-year-old woman has 10 hours of constant right upper quadrant pain radiating to the right scapula, with nausea, vomiting and a low-grade fever. She is tender in the right upper quadrant with inspiratory arrest on palpation. She is hemodynamically stable and jaundice is absent. Which is the most appropriate initial imaging modality?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Abdominal ultrasound"
+    },
+    {
+     "id": "b",
+     "text": "CT abdomen with intravenous contrast"
+    },
+    {
+     "id": "c",
+     "text": "Hepatobiliary iminodiacetic acid (HIDA) scan"
+    },
+    {
+     "id": "d",
+     "text": "Magnetic resonance cholangiopancreatography"
+    },
+    {
+     "id": "e",
+     "text": "Supine abdominal radiograph"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "For acute cholecystitis, Toronto Notes names ultrasound as the best imaging modality because it has the best sensitivity and specificity. The most sensitive findings are the presence of gallstones and a positive sonographic Murphy's sign, with secondary findings of a thickened gallbladder wall (>3 mm), a dilated gallbladder and pericholecystic fluid.",
+   "optionExplanations": {
+    "b": "CT is not the preferred first test for suspected acute cholecystitis and adds radiation and contrast exposure.",
+    "c": "Nuclear medicine HIDA scanning is reserved for helping diagnose acalculous or chronic cholecystitis.",
+    "d": "MRCP is used to image the ductal system and is the best modality for chronic pancreatitis, not for initial assessment of acute cholecystitis.",
+    "e": "A plain abdominal radiograph will not reliably show gallstones, wall thickening or pericholecystic fluid."
+   },
+   "topic": "Abdominal Imaging — Acute Cholecystitis",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "MI",
+    "name": "Medical Imaging"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 805,
+    "reference": "MI15 — 'itis' Imaging: Acute Cholecystitis"
+   }
+  },
+  {
+   "id": "TN-MI-006",
+   "type": "single-best-answer",
+   "question": "A 27-year-old man is brought in after a pelvic crush injury in a motor vehicle collision. He is hemodynamically stable and alert. There is blood at the urethral meatus, a scrotal hematoma, and a high-riding prostate on rectal examination. He has been unable to void since the injury and his bladder is palpable. Which investigation should be performed first?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Retrograde urethrogram"
+    },
+    {
+     "id": "b",
+     "text": "Voiding cystourethrogram"
+    },
+    {
+     "id": "c",
+     "text": "CT urography"
+    },
+    {
+     "id": "d",
+     "text": "Renal and bladder ultrasound"
+    },
+    {
+     "id": "e",
+     "text": "Retrograde pyelography"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states that a retrograde urethrogram, in which a small Foley catheter is placed at the penile urethral opening and contrast is instilled before radiographic imaging, is used mainly to study strictures or trauma to the male urethra and is the first-line study when signs of urethral injury are present, specifically trauma with blood at the urethral meatus, scrotal hematoma or a high-riding prostate.",
+   "optionExplanations": {
+    "b": "A voiding cystourethrogram requires filling the bladder to trigger voiding and is indicated for recurrent UTIs, hydronephrosis or vesicoureteral reflux, not suspected urethral disruption.",
+    "c": "CT urography is used to investigate hematuria and to assess the urinary tracts and calculi, and does not delineate a urethral injury.",
+    "d": "Ultrasound is the modality of choice for suspected hydronephrosis and for characterising renal masses, but it does not evaluate the male urethra.",
+    "e": "Retrograde pyelography visualises the renal pelvis and ureters when they cannot be opacified intravenously, and gives no information about the urethra."
+   },
+   "topic": "Genitourinary Imaging — Urethral Trauma",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "MI",
+    "name": "Medical Imaging"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 807,
+    "reference": "MI17 — Urological Imaging: Retrograde Urethrogram"
+   }
+  }
+ ]
+}

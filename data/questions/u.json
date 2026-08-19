@@ -1,0 +1,566 @@
+{
+ "chapter": {
+  "code": "U",
+  "name": "Urology"
+ },
+ "document": {
+  "id": "toronto-notes-2025",
+  "title": "Toronto Notes 2025",
+  "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
+ },
+ "count": 12,
+ "questions": [
+  {
+   "id": "TN-U-001",
+   "type": "single-best-answer",
+   "question": "A 64-year-old man reports a 2-year history of urinary frequency, urgency and nocturia, together with a weak stream, hesitancy and post-void dribbling. He takes no medications and has never been catheterized or instrumented. Urinalysis shows no blood, leukocytes or nitrites. Digital rectal examination reveals a smooth, rubbery, symmetrically enlarged prostate with no nodules. No bladder is palpable suprapubically. Which of the following is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Benign prostatic hyperplasia"
+    },
+    {
+     "id": "b",
+     "text": "Prostate carcinoma"
+    },
+    {
+     "id": "c",
+     "text": "Neurogenic bladder due to a spinal cord lesion"
+    },
+    {
+     "id": "d",
+     "text": "Acute urinary retention"
+    },
+    {
+     "id": "e",
+     "text": "Urinary tract infection with prostatitis"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes describes benign prostatic hyperplasia as proliferation of epithelial tissue, connective tissue and smooth muscle in the prostatic transition zone, which is age-related and extremely common (50% of men aged 50, 80% of men aged 80). It produces both voiding symptoms (stream changes, straining, hesitancy, incomplete emptying, post-void dribbling) and storage symptoms (frequency, urgency, nocturia), and on digital rectal examination the prostate is smooth, rubbery and may be symmetrically enlarged. This patient's chronic symptom pattern and DRE findings fit that description exactly.",
+   "optionExplanations": {
+    "b": "Prostate cancer is suspected when the DRE is abnormal with nodularity or focal change in texture, not with a smooth symmetrically enlarged gland.",
+    "c": "Neurological causes of bladder dysfunction are suggested by reduced anal sphincter tone, abnormal reflexes or saddle anesthesia, none of which are present.",
+    "d": "Acute retention is characterized by suprapubic pain and an inability to void with a palpable or percussible bladder; this man is voiding and has no palpable bladder.",
+    "e": "Infection is unlikely with a bland urinalysis showing no pyuria or nitrites and no purulent meatal discharge."
+   },
+   "topic": "Benign Prostatic Hyperplasia",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "U",
+    "name": "Urology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1537,
+    "reference": "U7 — Benign Prostatic Hyperplasia"
+   }
+  },
+  {
+   "id": "TN-U-002",
+   "type": "single-best-answer",
+   "question": "A 15-year-old boy is brought to the emergency department 3 hours after the sudden onset of severe left scrotal pain that woke him from sleep. He has vomited twice. The left testis is diffusely tender, retracted and lies horizontally in the scrotum. The cremasteric reflex is absent on that side and elevating the testis does not relieve the pain. Which of the following is the most appropriate next step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Immediate urological consultation for emergency scrotal exploration and bilateral orchiopexy"
+    },
+    {
+     "id": "b",
+     "text": "Obtain a Doppler ultrasound and proceed only if arterial flow is absent"
+    },
+    {
+     "id": "c",
+     "text": "Intramuscular ceftriaxone and oral doxycycline for presumed epididymitis"
+    },
+    {
+     "id": "d",
+     "text": "Needle aspiration of the scrotal contents for diagnosis"
+    },
+    {
+     "id": "e",
+     "text": "Scrotal support, analgesia and reassessment in 12 hours"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes lists acute onset of severe scrotal pain with a retracted, transverse (horizontal lie) testicle, an absent cremasteric reflex and a negative Prehn's sign as the features of testicular torsion, and notes that necrosis of testicular tissue occurs in 5-6 hours. The treatment is emergency surgical exploration with bilateral orchiopexy, and the text explicitly states that a definitive diagnosis is NOT necessary before taking the patient to the operating room.",
+   "optionExplanations": {
+    "b": "Doppler ultrasound is listed as an investigation, but waiting for imaging delays exploration in a presentation that is torsion until proven otherwise.",
+    "c": "Epididymitis is associated with epididymal rather than diffuse tenderness, a present cremasteric reflex and a positive Prehn's sign.",
+    "d": "Aspiration has no role in the acute scrotum and does not relieve the twist or restore perfusion.",
+    "e": "Observation risks irreversible ischemic necrosis, which occurs within hours of the onset of torsion."
+   },
+   "topic": "Testicular Torsion",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "U",
+    "name": "Urology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1562,
+    "reference": "U32 — Benign Scrotal Masses / Testicular Torsion"
+   }
+  },
+  {
+   "id": "TN-U-003",
+   "type": "single-best-answer",
+   "question": "A 62-year-old man with stable angina taking isosorbide dinitrate and a nitroglycerin spray reports 8 months of inability to obtain an erection adequate for intercourse. Onset was gradual and morning erections are absent. He also has hypertension, type 2 diabetes and dyslipidemia. He has stopped smoking, increased his physical activity and completed sexual counselling without benefit. Which of the following is the most appropriate next treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Sildenafil taken as needed"
+    },
+    {
+     "id": "b",
+     "text": "Daily tadalafil"
+    },
+    {
+     "id": "c",
+     "text": "Vacuum erection device with a constriction ring"
+    },
+    {
+     "id": "d",
+     "text": "Intracavernosal papaverine and phentolamine self-injection"
+    },
+    {
+     "id": "e",
+     "text": "Insertion of an inflatable penile prosthesis"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "Toronto Notes states that PDE5 inhibitors are contraindicated in patients on nitrates or nitroglycerin because of severe hypotension, which rules out all oral agents in this man. Treatment is otherwise organized from non-invasive through minimally invasive to invasive and surgical options; the vacuum device, which draws blood into the penis by negative pressure with a ring placed at the base, is the appropriate minimally invasive choice once lifestyle change and counselling have failed.",
+   "optionExplanations": {
+    "a": "Sildenafil is a PDE5 inhibitor and is contraindicated with concurrent nitrate therapy.",
+    "b": "Tadalafil is also a PDE5 inhibitor and carries the same nitrate contraindication.",
+    "d": "Intracavernosal injection is an invasive option reserved for failure of non-invasive and minimally invasive measures, and risks priapism and tunical fibrosis.",
+    "e": "A penile implant is surgical management and is not offered before less invasive options have been tried."
+   },
+   "topic": "Erectile Dysfunction",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "U",
+    "name": "Urology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1564,
+    "reference": "U34 — Erectile Dysfunction, Treatment"
+   }
+  },
+  {
+   "id": "TN-U-004",
+   "type": "single-best-answer",
+   "question": "A 34-year-old previously healthy man presents with 3 days of dysuria, urinary frequency and suprapubic discomfort. He is afebrile with no costovertebral angle tenderness and no urethral discharge. He has no urological history, no indwelling catheter and takes no medications. Urinalysis demonstrates pyuria and bacteriuria, and urine culture is pending. Which of the following best classifies this patient's urinary tract infection?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Asymptomatic bacteriuria"
+    },
+    {
+     "id": "b",
+     "text": "Uncomplicated lower urinary tract infection"
+    },
+    {
+     "id": "c",
+     "text": "Complicated urinary tract infection"
+    },
+    {
+     "id": "d",
+     "text": "Recurrent cystitis"
+    },
+    {
+     "id": "e",
+     "text": "Acute pyelonephritis"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "Toronto Notes classifies a urinary tract infection as uncomplicated only when it is a lower tract infection in a functionally and structurally normal urinary tract, and lists male patients explicitly among the complicated categories, alongside structural or functional abnormality, immunocompromise, diabetes, iatrogenic complication, pregnancy, pyelonephritis and catheter-associated infection. Male sex alone therefore makes this a complicated UTI even though the tract is otherwise normal.",
+   "optionExplanations": {
+    "a": "Asymptomatic bacteriuria requires an absence of symptoms with 100,000 CFU/mL; this man has dysuria, frequency and suprapubic pain.",
+    "b": "The uncomplicated category is reserved for lower tract infection in a functionally and structurally normal tract, and does not apply to male patients.",
+    "d": "Recurrent infection is defined by repeated episodes, and this is his first presentation.",
+    "e": "Pyelonephritis would be suggested by fever and costovertebral angle tenderness, both of which are absent."
+   },
+   "topic": "Urinary Tract Infection",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "U",
+    "name": "Urology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1543,
+    "reference": "U13 — Urinary Tract Infection, Classification"
+   }
+  },
+  {
+   "id": "TN-U-005",
+   "type": "single-best-answer",
+   "question": "A 38-year-old man presents with the abrupt onset of severe right flank pain that waxes and wanes and radiates to the right testis. He is writhing on the stretcher, unable to find a comfortable position, and is nauseated, vomiting, diaphoretic and tachycardic. He is afebrile and the abdomen is soft and non-tender. Urinalysis shows microscopic hematuria. Which of the following is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Ureteral colic from a calculus"
+    },
+    {
+     "id": "b",
+     "text": "Acute pyelonephritis"
+    },
+    {
+     "id": "c",
+     "text": "Ruptured abdominal aortic aneurysm"
+    },
+    {
+     "id": "d",
+     "text": "Acute appendicitis"
+    },
+    {
+     "id": "e",
+     "text": "Musculoskeletal back pain"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes describes urinary obstruction causing upstream distention and pain, with severe waxing and waning pain radiating from flank to groin, testis or tip of penis, accompanied by writhing persistent discomfort, nausea, vomiting, hematuria (microscopic in 90%), diaphoresis, tachycardia and tachypnea. This constellation, in an afebrile patient with a soft abdomen and microscopic hematuria, is classic ureteral colic.",
+   "optionExplanations": {
+    "b": "Pyelonephritis is in the differential of renal colic, but fever would be expected and its presence should prompt evaluation for concurrent infection and obstruction.",
+    "c": "Abdominal aortic aneurysm is listed in the differential of renal colic but typically presents in an older patient with hemodynamic compromise rather than colicky pain with hematuria.",
+    "d": "Appendicitis is one of the other acute abdominal crises in the differential, but it produces localized abdominal tenderness rather than a soft non-tender abdomen.",
+    "e": "Neuromuscular back pain does not produce colicky pain radiating to the testis with nausea, vomiting and hematuria."
+   },
+   "topic": "Urolithiasis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "U",
+    "name": "Urology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1548,
+    "reference": "U18 — Urolithiasis, Clinical Features"
+   }
+  },
+  {
+   "id": "TN-U-006",
+   "type": "single-best-answer",
+   "question": "A 56-year-old woman has had four culture-proven urinary tract infections with Proteus mirabilis in the past year and reports dull right flank discomfort. Repeated urine dipsticks show a persistently alkaline pH and positive cultures. Non-contrast CT of the abdomen demonstrates a large branched calculus occupying the right renal pelvis and extending into several calyces. Which of the following is the most likely stone composition?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Struvite"
+    },
+    {
+     "id": "b",
+     "text": "Calcium oxalate"
+    },
+    {
+     "id": "c",
+     "text": "Uric acid"
+    },
+    {
+     "id": "d",
+     "text": "Cystine"
+    },
+    {
+     "id": "e",
+     "text": "Calcium phosphate"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states that struvite (magnesium ammonium phosphate) stones result from infection with urea-splitting organisms such as Proteus, Pseudomonas, Providencia, Klebsiella, Mycoplasma, Serratia and S. aureus, which produce an alkaline urinary pH and precipitation of struvite. These stones perpetuate urinary tract infection because the stone itself harbours the organism, and they are associated with staghorn calculi, exactly as seen in this branched calculus with recurrent Proteus infection.",
+   "optionExplanations": {
+    "b": "Calcium stones are the most common overall but arise from metabolic abnormalities such as hypercalciuria and are not driven by urea-splitting infection or alkaline urine.",
+    "c": "Uric acid stones precipitate in low-volume acidic urine with a pH below 5.5, the opposite of this patient's persistently alkaline urine.",
+    "d": "Cystine stones can be staghorn in shape but reflect an autosomal recessive transport defect presenting with aggressive stone disease in children and young adults with a family history.",
+    "e": "Calcium phosphate is a recognized stone type, but the combination of urea-splitting Proteus infection and a staghorn configuration points to struvite."
+   },
+   "topic": "Urolithiasis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "U",
+    "name": "Urology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1550,
+    "reference": "U20 — Table 13, Stone Classification"
+   }
+  },
+  {
+   "id": "TN-U-007",
+   "type": "single-best-answer",
+   "question": "A 42-year-old woman with tuberous sclerosis undergoes CT of the abdomen for vague right-sided discomfort. A 2 cm right renal lesion is identified that contains areas of negative attenuation measuring approximately -20 Hounsfield units. She has no hematuria, no palpable mass, normal renal function and no weight loss. Which of the following is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Angiomyolipoma"
+    },
+    {
+     "id": "b",
+     "text": "Renal oncocytoma"
+    },
+    {
+     "id": "c",
+     "text": "Clear cell renal cell carcinoma"
+    },
+    {
+     "id": "d",
+     "text": "Simple renal cyst"
+    },
+    {
+     "id": "e",
+     "text": "Urothelial carcinoma of the renal pelvis"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes describes the angiomyolipoma (renal hamartoma) as a clonal neoplasm of blood vessels, smooth muscle and fat that is usually an incidental finding on CT, with negative attenuation of about -20 HU being pathognomonic. Approximately 20% are associated with tuberous sclerosis, particularly when multiple or recurrent, which matches this patient's background and imaging.",
+   "optionExplanations": {
+    "b": "Oncocytoma is also found incidentally on CT but is difficult to distinguish from renal cell carcinoma on imaging and does not show fat attenuation.",
+    "c": "Renal cell carcinoma may present incidentally, but negative fat attenuation is not a feature and it is not linked to tuberous sclerosis.",
+    "d": "A simple cyst is a fluid-density lesion and would not contain macroscopic fat.",
+    "e": "Upper tract urothelial carcinoma presents with hematuria and a filling defect rather than a fat-containing parenchymal lesion."
+   },
+   "topic": "Renal Masses",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "U",
+    "name": "Urology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1552,
+    "reference": "U22 — Table 15, Benign Renal Masses"
+   }
+  },
+  {
+   "id": "TN-U-008",
+   "type": "single-best-answer",
+   "question": "A 67-year-old man with a 40 pack-year smoking history reports two episodes of painless gross hematuria in the past month. He has no fever, flank pain or voiding symptoms. Urinalysis confirms hematuria with no red cell casts and no dysmorphic red cells, and urine culture is negative. CT with contrast of the abdomen and pelvis shows no upper tract filling defect or mass. Which of the following is the most appropriate next investigation?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Cystoscopy"
+    },
+    {
+     "id": "b",
+     "text": "Repeat urinalysis in 6 months"
+    },
+    {
+     "id": "c",
+     "text": "Percutaneous renal biopsy"
+    },
+    {
+     "id": "d",
+     "text": "Serum and urinary bladder tumour markers such as NMP-22"
+    },
+    {
+     "id": "e",
+     "text": "24-hour urine collection for protein quantification"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states that the entire urinary tract must be evaluated in patients with hematuria unless there is clear evidence of glomerular bleeding such as red cell casts or dysmorphic red cells, and that unexplained hematuria in anyone over 40 must be investigated to rule out malignancy. Cystoscopy is identified as the initial procedure of choice for the diagnosis and staging of urothelial malignancy, so a negative upper tract CT does not end the workup.",
+   "optionExplanations": {
+    "b": "Deferring investigation is unsafe because unexplained hematuria over the age of 40 must be investigated to exclude malignancy.",
+    "c": "Renal biopsy targets glomerular disease, which is excluded here by the absence of red cell casts and dysmorphic red cells.",
+    "d": "The clinical utility of bladder tumour markers such as NMP-22, BTA, Immunocyt and FDP is described as debatable and they do not replace cystoscopy.",
+    "e": "Proteinuria quantification investigates glomerular pathology, which is not suggested by this bland non-glomerular hematuria."
+   },
+   "topic": "Hematuria and Bladder Carcinoma",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "U",
+    "name": "Urology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1555,
+    "reference": "U25 — Bladder Carcinoma, Investigations"
+   }
+  },
+  {
+   "id": "TN-U-009",
+   "type": "single-best-answer",
+   "question": "A 61-year-old man presents with an episode of acute urinary retention and is relieved by urethral catheterization. A prostate specific antigen level drawn the same day is reported as elevated. After the catheter is removed and he is voiding normally, digital rectal examination is smooth with no nodularity or asymmetry. He has no bone pain, no weight loss and no family history of prostate cancer. Which of the following is the most appropriate next step?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Repeat the PSA once the retention has resolved and the catheter has been out for a period of time"
+    },
+    {
+     "id": "b",
+     "text": "Proceed directly to transrectal ultrasound-guided prostate biopsy"
+    },
+    {
+     "id": "c",
+     "text": "Order a bone scan to look for skeletal metastases"
+    },
+    {
+     "id": "d",
+     "text": "Begin androgen deprivation therapy"
+    },
+    {
+     "id": "e",
+     "text": "Advise that no further PSA testing is required"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes emphasizes that PSA is specific to the prostate but not to prostate cancer, and lists acute urinary retention and urethral catheterization among the recognized causes of an increased PSA, along with BPH, prostatitis, prostate biopsy or surgery, prostatic massage, cystoscopy, TRUS, strenuous exercise, perineal trauma and ejaculation. With a benign DRE and two active confounders, the appropriate step is to repeat the measurement once those confounders have resolved.",
+   "optionExplanations": {
+    "b": "Biopsy is driven by a genuinely suspicious PSA or abnormal DRE; committing to it on a confounded value risks unnecessary intervention.",
+    "c": "Bone imaging is reserved for bone pain, high-risk disease or markedly elevated PSA, none of which is established here.",
+    "d": "Hormonal therapy is treatment for advanced or metastatic disease and there is no tissue diagnosis.",
+    "e": "Abandoning follow-up ignores that the elevation may persist and still require evaluation once confounders are removed."
+   },
+   "topic": "Prostate Specific Antigen",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "U",
+    "name": "Urology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1558,
+    "reference": "U28 — PSA Screening, Causes of Increased PSA"
+   }
+  },
+  {
+   "id": "TN-U-010",
+   "type": "single-best-answer",
+   "question": "A 68-year-old man is referred after an abnormal screening test and is found on transrectal ultrasound-guided biopsy to have prostate adenocarcinoma with a Gleason score of 9. His PSA is 28 ng/mL and digital rectal examination suggests extension beyond the capsule. He denies bone pain. CT of the abdomen and pelvis and multiparametric prostate MRI have already been completed. Which of the following is the most appropriate next investigation?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Bone scan"
+    },
+    {
+     "id": "b",
+     "text": "Repeat transrectal ultrasound-guided prostate biopsy"
+    },
+    {
+     "id": "c",
+     "text": "Bone marrow aspirate and biopsy"
+    },
+    {
+     "id": "d",
+     "text": "Serial PSA measurements to calculate PSA velocity"
+    },
+    {
+     "id": "e",
+     "text": "Plain radiographs of the pelvis and lumbar spine"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes lists bone scan as part of the investigation of prostate cancer only if there is bone pain, high-risk disease, a Gleason score above 7, or a PSA above 20 ng/mL. This man satisfies three of those criteria (Gleason 9, PSA 28 ng/mL and high-risk disease with apparent extracapsular extension), so a bone scan is indicated even though he is asymptomatic, and the cross-sectional imaging he has already had does not substitute for it.",
+   "optionExplanations": {
+    "b": "The tissue diagnosis and grade are already established; repeating the biopsy adds nothing to staging.",
+    "c": "Prostate cancer spreads to the axial skeleton as bony metastases detected by bone scan, not by marrow sampling.",
+    "d": "PSA velocity is associated with cancer detection rates rather than being a staging investigation in established high-risk disease.",
+    "e": "Plain films are insensitive for skeletal metastases compared with the bone scan specified for these high-risk criteria."
+   },
+   "topic": "Prostate Carcinoma Staging",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "U",
+    "name": "Urology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1557,
+    "reference": "U27 — Prostate Carcinoma, Investigations"
+   }
+  },
+  {
+   "id": "TN-U-011",
+   "type": "single-best-answer",
+   "question": "Ninety minutes into a monopolar transurethral resection of the prostate performed under spinal anesthesia with glycine irrigation, a 72-year-old man becomes confused and nauseated and vomits. He complains of blurred vision. Blood pressure is 172/95 mmHg and heart rate is 52 beats/min. Crackles are audible at both lung bases and serum sodium is low. Which of the following is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Transurethral resection syndrome"
+    },
+    {
+     "id": "b",
+     "text": "Hemorrhagic shock from prostatic bleeding"
+    },
+    {
+     "id": "c",
+     "text": "Urosepsis with bacteremia"
+    },
+    {
+     "id": "d",
+     "text": "Intraperitoneal bladder perforation"
+    },
+    {
+     "id": "e",
+     "text": "Acute myocardial infarction"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes describes transurethral resection syndrome as absorption of a large volume of the hypotonic glycine irrigation solution, usually through perforated venous sinusoids, producing a hypervolemic hyponatremic state. It is characterized by dilutional hyponatremia, confusion, nausea, vomiting, hypertension, bradycardia, visual disturbances, congestive heart failure and pulmonary edema, and is treated with diuresis and, if severe, hypertonic saline. The syndrome does not occur with bipolar TURP because saline irrigation is used.",
+   "optionExplanations": {
+    "b": "Hemorrhage is a recognized acute complication of TURP but would cause hypotension and tachycardia rather than hypertension with bradycardia and hyponatremia.",
+    "c": "Sepsis is a listed complication but typically produces fever and hypotension, not the dilutional hyponatremia and volume overload seen here.",
+    "d": "Bladder rupture is described as a rare complication and would present with abdominal pain and peritonism rather than hyponatremia and pulmonary edema.",
+    "e": "Myocardial infarction does not explain the low serum sodium, visual disturbance and hypervolemic picture that follow hypotonic irrigant absorption."
+   },
+   "topic": "Transurethral Resection of the Prostate",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "U",
+    "name": "Urology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1576,
+    "reference": "U46 — Transurethral Resection of the Prostate, Complications"
+   }
+  },
+  {
+   "id": "TN-U-012",
+   "type": "single-best-answer",
+   "question": "A 27-year-old man presents with a painless, firm right testicular mass noted on self-examination. Scrotal ultrasound shows a hypoechoic area within the tunica albuginea. Serum AFP, beta-hCG and LDH are all elevated. CT of the chest, abdomen and pelvis shows no retroperitoneal lymphadenopathy or visceral lesions. Which of the following is the most appropriate next step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Radical orchiectomy through an inguinal incision with ligation of the spermatic cord in the inguinal canal"
+    },
+    {
+     "id": "b",
+     "text": "Trans-scrotal incisional biopsy of the mass"
+    },
+    {
+     "id": "c",
+     "text": "Percutaneous needle aspiration of the lesion for cytology"
+    },
+    {
+     "id": "d",
+     "text": "Retroperitoneal lymph node dissection before any testicular surgery"
+    },
+    {
+     "id": "e",
+     "text": "Observation with repeat tumour markers and ultrasound in 3 months"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states that the diagnosis of testicular cancer is established by pathological evaluation of the specimen obtained by radical inguinal orchiectomy, and that radical orchiectomy through an inguinal incision with ligation of the spermatic cord inside the inguinal canal is performed for all stages. A hypoechoic area within the tunica albuginea on ultrasound carries a high suspicion of testicular cancer, so this man needs orchiectomy rather than any lesser diagnostic manoeuvre; sperm banking and a prosthesis should also be discussed.",
+   "optionExplanations": {
+    "b": "The testes and scrotum have different lymphatic drainage, so a trans-scrotal approach for biopsy or orchiectomy should be avoided.",
+    "c": "Needle aspiration is contraindicated because of the risk of tumour seeding.",
+    "d": "Retroperitoneal surgery is not the initial procedure; the primary tumour is removed first and imaging here shows no retroperitoneal disease.",
+    "e": "Surveillance is inappropriate for a suspicious intratesticular mass with elevated tumour markers, which requires prompt orchiectomy for diagnosis."
+   },
+   "topic": "Testicular Carcinoma",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "U",
+    "name": "Urology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1560,
+    "reference": "U30 — Testicular Tumours, Investigations and Management"
+   }
+  }
+ ]
+}

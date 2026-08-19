@@ -1,0 +1,290 @@
+{
+ "chapter": {
+  "code": "VS",
+  "name": "Vascular Surgery"
+ },
+ "document": {
+  "id": "toronto-notes-2025",
+  "title": "Toronto Notes 2025",
+  "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
+ },
+ "count": 6,
+ "questions": [
+  {
+   "id": "TN-VS-001",
+   "type": "single-best-answer",
+   "question": "A 74-year-old woman with atrial fibrillation who stopped taking her anticoagulant two weeks ago presents with 4 hours of sudden severe right leg pain. The right leg is cold and pale, and femoral, popliteal and pedal pulses are absent. Sensation and motor power in the foot are intact and arterial Doppler signals are audible at the ankle. Which of the following is the best initial management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Weight-based intravenous unfractionated heparin bolus followed by continuous infusion"
+    },
+    {
+     "id": "b",
+     "text": "Emergency four-compartment fasciotomy of the calf"
+    },
+    {
+     "id": "c",
+     "text": "Primary above-knee amputation"
+    },
+    {
+     "id": "d",
+     "text": "Oral anticoagulation alone with elective vascular clinic follow-up"
+    },
+    {
+     "id": "e",
+     "text": "Graduated compression stockings and analgesia"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes lists immediate unfractionated heparinization with a weight-based bolus and continuous infusion titrated to PTT as the first treatment step in acute limb ischemia, together with IV fluids, urine output monitoring, analgesia and supplemental oxygen. Because her neurovascular status is intact there may be time for further workup including CTA, but anticoagulation should not wait for imaging.",
+   "optionExplanations": {
+    "b": "Fasciotomy is used for compartment syndrome secondary to reperfusion after prolonged ischemia, not as the initial step before revascularization.",
+    "c": "Primary amputation or palliation is reserved for irreversible ischemia (Rutherford category III) with profound anesthesia and paralysis.",
+    "d": "Oral anticoagulation is started postoperatively once the patient is stable; it is too slow for an acutely threatened limb.",
+    "e": "Compression and analgesia do not address arterial occlusion and skeletal muscle tolerates only about 6 hours of total ischemia."
+   },
+   "topic": "Acute Limb Ischemia",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "VS",
+    "name": "Vascular Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1584,
+    "reference": "VS4 — Acute Limb Ischemia, Treatment"
+   }
+  },
+  {
+   "id": "TN-VS-002",
+   "type": "single-best-answer",
+   "question": "A 69-year-old man who stopped smoking 5 years ago is found on a screening ultrasound to have a 4.4 cm infrarenal abdominal aortic aneurysm. He is asymptomatic, the abdomen is non-tender with no pain on palpation of the aneurysm, and the aneurysm is fusiform. Blood pressure is 148/88 mmHg and he takes no lipid-lowering therapy. Which of the following is the most appropriate management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Open surgical repair now"
+    },
+    {
+     "id": "b",
+     "text": "Endovascular aneurysm repair now"
+    },
+    {
+     "id": "c",
+     "text": "Cardiovascular risk factor modification with ultrasound surveillance"
+    },
+    {
+     "id": "d",
+     "text": "Urgent CT angiography and emergency repair"
+    },
+    {
+     "id": "e",
+     "text": "Discharge with no further aortic follow-up"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "Toronto Notes reserves conservative management for asymptomatic aneurysms that do not meet the size threshold for repair, consisting of cardiovascular risk factor reduction (smoking cessation, control of hypertension, diabetes and hyperlipidemia including statins, regular exercise) plus ultrasound surveillance at a frequency determined by size and location. Surgical indications are rupture, symptoms, an AAA above 5.5 cm in men or 5.0 cm in women, rapid growth, saccular morphology, pseudoaneurysm or mycotic aneurysm; this fusiform asymptomatic 4.4 cm aneurysm meets none of these.",
+   "optionExplanations": {
+    "a": "Open repair carries an operative mortality of 2-5% and is not justified below the size threshold in an asymptomatic patient.",
+    "b": "EVAR is an alternative repair technique but the indication for any repair has not been met.",
+    "d": "Emergency imaging and repair apply to rupture or symptomatic aneurysm, neither of which is present.",
+    "e": "Abandoning follow-up is unsafe because surveillance ultrasound is required to detect growth toward the repair threshold."
+   },
+   "topic": "Abdominal Aortic Aneurysm",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "VS",
+    "name": "Vascular Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1588,
+    "reference": "VS8 — Aortic Aneurysm, Treatment"
+   }
+  },
+  {
+   "id": "TN-VS-003",
+   "type": "single-best-answer",
+   "question": "A 66-year-old man with long-standing type 2 diabetes reports right calf pain that comes on reproducibly after walking two blocks and resolves within 3 minutes of standing rest. The skin over the shin is shiny with hair loss and pedal pulses are difficult to palpate. Ankle-brachial index measures 1.42 on the right and 1.38 on the left. Which of the following is the most appropriate next investigation?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Toe-brachial index study"
+    },
+    {
+     "id": "b",
+     "text": "Accept the ankle-brachial index as normal and stop the vascular workup"
+    },
+    {
+     "id": "c",
+     "text": "MRI of the lumbar spine"
+    },
+    {
+     "id": "d",
+     "text": "Invasive catheter arteriography"
+    },
+    {
+     "id": "e",
+     "text": "Contrast-enhanced CT angiography of the lower limbs"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states that ABI values above 1.3 suggest non-compressible heavily calcified arteries, which are common in diabetes and produce falsely elevated readings. It recommends ABI and/or a TBI study to confirm the diagnosis of PAD, and specifically identifies toe pressure and TBI as useful in patients with non-compressible vessels. His history of reproducible exertional calf pain relieved by short rest is classic vascular claudication, so the workup must continue with a TBI.",
+   "optionExplanations": {
+    "b": "An index above 1.30 indicates a non-compressible vessel rather than a normal study, so it cannot be used to exclude PAD.",
+    "c": "Neurospinal disease is in the differential of leg pain, but pain reproducible at a fixed distance and relieved by short rest without postural change is vascular claudication.",
+    "d": "Arteriography is invasive and is used for superior resolution or as part of an intervention, not to confirm a diagnosis of PAD at the bedside.",
+    "e": "CTA is used primarily for planning interventions and carries contrast-induced nephropathy risk; confirmation of PAD comes first from ABI/TBI."
+   },
+   "topic": "Peripheral Arterial Disease",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "VS",
+    "name": "Vascular Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1585,
+    "reference": "VS5 — Peripheral Arterial Disease, Investigations"
+   }
+  },
+  {
+   "id": "TN-VS-004",
+   "type": "single-best-answer",
+   "question": "A 71-year-old man had a 20-minute episode of right arm weakness and difficulty producing speech 3 days ago and has since fully recovered. Carotid duplex ultrasound shows 80% stenosis of the left internal carotid artery. He has hypertension and dyslipidemia, is an acceptable operative candidate with normal neck anatomy, and has never had neck irradiation. Which of the following is the most appropriate management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Best medical therapy alone with no revascularization"
+    },
+    {
+     "id": "b",
+     "text": "Best medical therapy plus carotid endarterectomy within the next 2 weeks"
+    },
+    {
+     "id": "c",
+     "text": "Best medical therapy plus carotid artery angioplasty and stenting"
+    },
+    {
+     "id": "d",
+     "text": "Best medical therapy now with reassessment for surgery in 6 months"
+    },
+    {
+     "id": "e",
+     "text": "Warfarin anticoagulation in place of antiplatelet therapy"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Toronto Notes defines symptomatic carotid stenosis as focal neurologic deficits referable to the carotid distribution within the past 6 months with greater than 50% stenosis, and states that surgical treatment should ideally be done within the first 48 hours to 2 weeks of symptom onset. Carotid endarterectomy is described as generally the mainstay of treatment, given alongside best medical therapy including antihypertensives, statins, antiplatelet agents and smoking cessation.",
+   "optionExplanations": {
+    "a": "Medical therapy alone leaves a high-grade symptomatic lesion untreated when the patient is a suitable surgical candidate.",
+    "c": "Stenting is indicated for poor surgical access, radiation-induced stenosis or comorbidities that increase operative risk, none of which apply, and it carries a higher periprocedural stroke risk.",
+    "d": "Delaying by 6 months forfeits the recommended 48-hour to 2-week window after symptom onset.",
+    "e": "Antiplatelet therapy with ASA and clopidogrel is the described medical regimen for carotid disease; substituting warfarin is not supported."
+   },
+   "topic": "Carotid Artery Stenosis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "VS",
+    "name": "Vascular Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1589,
+    "reference": "VS9 — Carotid Artery Stenosis, Treatment"
+   }
+  },
+  {
+   "id": "TN-VS-005",
+   "type": "single-best-answer",
+   "question": "A 64-year-old woman with obesity and a prior deep vein thrombosis has a shallow, weeping ulcer with irregular edges just above the medial malleolus. The surrounding skin shows brown hyperpigmentation and eczema, and there is ankle and calf edema that improves with elevation. The ulcer causes little pain. The plan is to begin multilayer compression bandaging with wound care. Which of the following is the most appropriate investigation before compression is applied?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Ankle-brachial index"
+    },
+    {
+     "id": "b",
+     "text": "Wound swab for culture and sensitivity"
+    },
+    {
+     "id": "c",
+     "text": "Lymphoscintigraphy"
+    },
+    {
+     "id": "d",
+     "text": "Punch biopsy of the ulcer edge"
+    },
+    {
+     "id": "e",
+     "text": "CT venography of the pelvis"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes lists the investigations for chronic venous insufficiency as ankle-brachial index, performed pre-compression to ensure there is no arterial disease, together with venous Doppler or duplex ultrasound. The described ulcer above the medial malleolus that is shallow, weeping, painless and irregularly edged, with hemosiderin pigmentation, eczema and elevation-responsive edema, is a venous ulcer, and compression bandaging is the conservative treatment, but occult arterial disease must be excluded first.",
+   "optionExplanations": {
+    "b": "Antibiotics are used as part of ulcer care when indicated, but a swab does not determine whether compression is safe to apply.",
+    "c": "Lymphoscintigraphy is the definitive test for lymphedema, which causes non-pitting edema and a positive Stemmer sign rather than a weeping gaiter-area ulcer.",
+    "d": "Biopsy is not part of the described workup for chronic venous insufficiency.",
+    "e": "Pelvic venous imaging is not listed among the investigations for chronic venous insufficiency and does not address arterial safety."
+   },
+   "topic": "Chronic Venous Insufficiency",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "VS",
+    "name": "Vascular Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1591,
+    "reference": "VS11 — Chronic Venous Insufficiency, Investigations and Treatment"
+   }
+  },
+  {
+   "id": "TN-VS-006",
+   "type": "single-best-answer",
+   "question": "A 78-year-old man develops abrupt severe left foot pain while sitting watching television and can state the exact minute it began. He has never had exertional calf pain and has had no previous vascular surgery or stenting. He has atrial fibrillation and admits to missing several doses of his anticoagulant. The left foot is cold and pulseless, while pulses and Doppler signals in the right leg are normal. Which of the following is the most likely cause of his presentation?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Arterial embolism from a cardiac source"
+    },
+    {
+     "id": "b",
+     "text": "In-situ thrombosis of a high-grade atherosclerotic plaque"
+    },
+    {
+     "id": "c",
+     "text": "Occlusion of a previously placed bypass graft"
+    },
+    {
+     "id": "d",
+     "text": "Traumatic arterial dissection of a lower limb vessel"
+    },
+    {
+     "id": "e",
+     "text": "Heparin-induced thrombocytopenia with thrombosis"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes identifies cardiogenic embolism as the most common cause of acute limb ischemia and lists the features that should raise suspicion of embolism: acute onset that the patient can recall precisely, a history of embolism, a known embolic source such as a cardiac arrhythmia or a lapse in prescribed anticoagulation, no prior intermittent claudication or arterial intervention, and normal pulses or Doppler signals in the unaffected limb. This man has every one of those features.",
+   "optionExplanations": {
+    "b": "In-situ thrombosis is suspected with a prior history of intermittent claudication and an abnormal pulse examination in the unaffected limb, neither of which is present.",
+    "c": "Graft or stent occlusion is the most common cause of arterial thrombosis after previous reconstruction, but he has had no vascular intervention.",
+    "d": "Isolated arterial dissection of vessels supplying the lower limbs is uncommon and arises from trauma or collagen disorders, with no such history here.",
+    "e": "HITT is a hypercoagulable cause of acute limb ischemia but requires heparin exposure and would be suggested by thrombocytopenia."
+   },
+   "topic": "Acute Limb Ischemia",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "VS",
+    "name": "Vascular Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1583,
+    "reference": "VS3 — Acute Limb Ischemia, Etiology (Embolism vs Thrombosis)"
+   }
+  }
+ ]
+}

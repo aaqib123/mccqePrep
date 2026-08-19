@@ -1,0 +1,1026 @@
+{
+ "chapter": {
+  "code": "ER",
+  "name": "Emergency Medicine"
+ },
+ "document": {
+  "id": "toronto-notes-2025",
+  "title": "Toronto Notes 2025",
+  "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
+ },
+ "count": 22,
+ "questions": [
+  {
+   "id": "TN-ER-001",
+   "type": "single-best-answer",
+   "question": "A 24-year-old man is brought to the emergency department after a motor vehicle collision. He is unresponsive with noisy, snoring respirations. His cervical spine is immobilized in a collar. A jaw thrust improves air entry only transiently, and he does not gag when the oropharynx is suctioned. Oxygen saturation is 91% on a non-rebreather mask. Which of the following is the most appropriate next step in airway management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Insert a nasopharyngeal airway"
+    },
+    {
+     "id": "b",
+     "text": "Insert an oropharyngeal airway"
+    },
+    {
+     "id": "c",
+     "text": "Perform a chin lift to open the airway"
+    },
+    {
+     "id": "d",
+     "text": "Insert a laryngeal mask airway as a rescue device"
+    },
+    {
+     "id": "e",
+     "text": "Perform transtracheal jet ventilation through the cricothyroid membrane"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Among temporizing airway measures, an oropharyngeal airway is used when the gag reflex is absent (i.e. the patient is unconscious), while a nasopharyngeal airway is used when the gag reflex is present. This patient is unresponsive with an absent gag reflex and an airway that is not maintained by a jaw thrust alone, so an oropharyngeal airway is the appropriate next adjunct while the C-spine remains protected.",
+   "optionExplanations": {
+    "a": "A nasopharyngeal airway is chosen when the gag reflex is present, i.e. in the conscious patient.",
+    "c": "Chin lift is used only when C-spine injury is not suspected; in trauma the jaw thrust is used, and it has already failed to maintain the airway.",
+    "d": "Rescue devices such as a laryngeal mask airway are reserved for when simpler adjuncts and basic manoeuvres fail.",
+    "e": "Transtracheal jet ventilation through the cricothyroid membrane is a rarely used measure, described especially for children under 8 years of age."
+   },
+   "topic": "Primary Survey and Airway Management",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "ER",
+    "name": "Emergency Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 248,
+    "reference": "ER2 — Patient Assessment/Management: Airway"
+   }
+  },
+  {
+   "id": "TN-ER-002",
+   "type": "single-best-answer",
+   "question": "A 32-year-old man is brought in after a high-speed collision with a rigid, tender abdomen. He is pale and agitated. Heart rate is 130 bpm, blood pressure 88/62 mmHg, respiratory rate 30, and capillary refill is 4 seconds. Urine output over the first hour is 10 mL. Two large-bore IVs are in place and 1 L of crystalloid has produced only a transient improvement. Which of the following is the most appropriate next step in fluid resuscitation?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Continue crystalloid alone at a higher infusion rate"
+    },
+    {
+     "id": "b",
+     "text": "Continue crystalloid and begin transfusion of packed red blood cells"
+    },
+    {
+     "id": "c",
+     "text": "Switch to 5% dextrose in water"
+    },
+    {
+     "id": "d",
+     "text": "Switch to 5% albumin infusion"
+    },
+    {
+     "id": "e",
+     "text": "Give 3% hypertonic saline"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "His tachycardia over 120, decreased blood pressure, respiratory rate of 30 and urine output of roughly 10 mL/h correspond to class III hemorrhagic shock (1500-2000 cc, 30-40% of blood volume), for which the recommended replacement is crystalloid plus blood. Ongoing hemorrhage with only transient response to crystalloid warrants early pRBC transfusion and activation of the massive transfusion protocol.",
+   "optionExplanations": {
+    "a": "Crystalloid alone is the recommended replacement for class I-II hemorrhage; class III requires blood in addition to crystalloid.",
+    "c": "Dextrose in water is not a resuscitation fluid for hemorrhagic shock.",
+    "d": "Colloid is not the recommended replacement in this table; blood products are needed once losses reach 30-40% of blood volume.",
+    "e": "Hypertonic saline is used for suspected raised intracranial pressure, not as the replacement fluid for class III hemorrhage."
+   },
+   "topic": "Hemorrhagic Shock",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "ER",
+    "name": "Emergency Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 250,
+    "reference": "ER4 — Estimation of Degree of Hemorrhagic Shock / Management of Hemorrhagic Shock"
+   }
+  },
+  {
+   "id": "TN-ER-003",
+   "type": "single-best-answer",
+   "question": "A 26-year-old woman arrives after a fall from a height with ongoing intra-abdominal hemorrhage. Blood pressure is 78/50 mmHg and heart rate is 138 bpm. Crystalloid is running through two large-bore IVs and the massive transfusion protocol has been activated, but the blood bank advises that crossmatched blood will not be available for at least 40 minutes. Which of the following is the most appropriate product to transfuse now?",
+   "options": [
+    {
+     "id": "a",
+     "text": "O-negative packed red blood cells"
+    },
+    {
+     "id": "b",
+     "text": "O-positive packed red blood cells"
+    },
+    {
+     "id": "c",
+     "text": "AB-positive packed red blood cells"
+    },
+    {
+     "id": "d",
+     "text": "Fresh frozen plasma alone"
+    },
+    {
+     "id": "e",
+     "text": "5% albumin"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Transfusion in hemorrhagic shock should ideally be crossmatched, but when crossmatched blood cannot be obtained in a timely manner, O-negative blood is used for women of childbearing age and O-positive for men. This 26-year-old woman therefore should receive O-negative packed red blood cells while the massive transfusion protocol continues.",
+   "optionExplanations": {
+    "b": "O-positive uncrossmatched blood is reserved for men, to avoid Rh sensitization in women of childbearing age.",
+    "c": "AB-positive red cells are not the recommended uncrossmatched choice in this setting.",
+    "d": "Fresh frozen plasma is a component of the massive transfusion protocol but does not replace red cell transfusion for oxygen carrying capacity.",
+    "e": "Colloid does not address the loss of oxygen carrying capacity in ongoing hemorrhage."
+   },
+   "topic": "Trauma Transfusion",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "ER",
+    "name": "Emergency Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 250,
+    "reference": "ER4 — Management of Hemorrhagic Shock"
+   }
+  },
+  {
+   "id": "TN-ER-004",
+   "type": "single-best-answer",
+   "question": "A 58-year-old man is struck by a car while crossing the street. On arrival he is hemodynamically stable with a Glasgow Coma Scale of 14, a boggy right parietal scalp hematoma, and no focal neurological deficits. His cervical spine is immobilized and the remainder of the primary survey is unremarkable. Which of the following is the most appropriate investigation to evaluate for intracranial injury?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Non-contrast CT of the head"
+    },
+    {
+     "id": "b",
+     "text": "Contrast-enhanced CT of the head"
+    },
+    {
+     "id": "c",
+     "text": "MRI of the brain"
+    },
+    {
+     "id": "d",
+     "text": "Skull radiographs"
+    },
+    {
+     "id": "e",
+     "text": "CT angiography of the head and neck"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Initial trauma imaging includes non-contrast CT of the head, face and cervical spine to rule out fractures and bleeds, and non-contrast head CT is described as the best imaging modality for intracranial injury. It is fast, widely available, and detects intracranial hemorrhage and skull fractures in the stable trauma patient.",
+   "optionExplanations": {
+    "b": "Contrast is not required to detect acute intracranial hemorrhage and adds no benefit in initial trauma imaging.",
+    "c": "MRI is reserved for soft tissue injury or persistent symptoms despite normal CT, not for initial trauma assessment.",
+    "d": "Skull radiographs do not exclude intracranial hemorrhage; CT is used to rule out both fractures and bleeds.",
+    "e": "CT angiography assesses vascular injury and is not the initial study for intracranial injury."
+   },
+   "topic": "Trauma Imaging",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "ER",
+    "name": "Emergency Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 252,
+    "reference": "ER6 — Initial Imaging"
+   }
+  },
+  {
+   "id": "TN-ER-005",
+   "type": "single-best-answer",
+   "question": "A 29-year-old woman is brought in by paramedics after a deliberate self-poisoning. She is drowsy but able to converse and repeatedly states that she wants no treatment and wishes to be left to die. Her vital signs are deteriorating and the treating team judges that she is at imminent risk of death without intervention. Which of the following is the most appropriate next step?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Withhold treatment in keeping with her stated refusal"
+    },
+    {
+     "id": "b",
+     "text": "Initiate life-saving treatment now"
+    },
+    {
+     "id": "c",
+     "text": "Obtain a court order before initiating any treatment"
+    },
+    {
+     "id": "d",
+     "text": "Contact the substitute decision maker and await their decision before starting treatment"
+    },
+    {
+     "id": "e",
+     "text": "Await a formal psychiatric capacity assessment before starting treatment"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "The emergency rule allows treatment without consent when a patient is at imminent risk from serious injury and consent cannot be obtained or seeking it would increase risk. Refusal of help in a suicide situation is explicitly not an exception to this rule and care must be given; when in doubt, treatment should be initiated and can be withdrawn later if wishes are clarified.",
+   "optionExplanations": {
+    "a": "Refusal in the context of a suicide attempt is not treated as a valid exception to the emergency rule.",
+    "c": "Waiting for a court order would delay life-saving care in a patient at imminent risk.",
+    "d": "A substitute decision maker should be identified and contacted early, but treatment must not be delayed while awaiting them.",
+    "e": "Capacity assessment is important but must not delay resuscitation of a patient at imminent risk of death."
+   },
+   "topic": "Consent and Ethics in the Emergency Department",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "ER",
+    "name": "Emergency Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 252,
+    "reference": "ER6 — Ethical Considerations: Consent to Treatment"
+   }
+  },
+  {
+   "id": "TN-ER-006",
+   "type": "single-best-answer",
+   "question": "A 37-year-old man presents 90 minutes after falling from a ladder onto grass. There was a witnessed brief loss of consciousness. He is now alert with a Glasgow Coma Scale of 15 and no focal neurological deficit or signs of basal skull fracture, but he has vomited three times since the injury. He takes no anticoagulants and has no bleeding disorder. Which of the following is the most appropriate next step?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Non-contrast CT of the head"
+    },
+    {
+     "id": "b",
+     "text": "Discharge with a 24-hour head injury protocol given to a competent caregiver"
+    },
+    {
+     "id": "c",
+     "text": "Skull radiographs"
+    },
+    {
+     "id": "d",
+     "text": "MRI of the brain"
+    },
+    {
+     "id": "e",
+     "text": "Observation for 4 hours, then discharge if he remains asymptomatic"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "He meets the definition of minor head injury (witnessed loss of consciousness with GCS 13-15) and has a high-risk criterion of the Canadian CT Head Rule: two or more episodes of vomiting. He falls outside none of the rule's exclusions, so a non-contrast CT head is required to exclude injury needing neurological intervention.",
+   "optionExplanations": {
+    "b": "A 24-hour head injury protocol applies to minor head injury not requiring imaging or admission; a high-risk criterion is present here.",
+    "c": "Skull radiographs are not part of the rule and do not exclude intracranial injury.",
+    "d": "MRI is reserved for worsening symptoms despite a normal CT, not for initial screening.",
+    "e": "Observation alone does not satisfy a rule-mandated indication for CT."
+   },
+   "topic": "Head Injury and the Canadian CT Head Rule",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "ER",
+    "name": "Emergency Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 254,
+    "reference": "ER8 — Canadian CT Head Rule"
+   }
+  },
+  {
+   "id": "TN-ER-007",
+   "type": "single-best-answer",
+   "question": "A 45-year-old woman with severe traumatic brain injury has been intubated in the emergency department. Her right pupil is dilated and non-reactive and she is extensor posturing. Despite 2 L of crystalloid and ongoing transfusion for pelvic bleeding, her blood pressure is 85/50 mmHg. The head of the bed is elevated and she is ventilated to a pCO2 of 32 mmHg. Which of the following is the most appropriate treatment to lower her intracranial pressure?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Mannitol 1 g/kg IV infused rapidly"
+    },
+    {
+     "id": "b",
+     "text": "Hypertonic (3%) saline 3 mL/kg IV"
+    },
+    {
+     "id": "c",
+     "text": "Dexamethasone IV"
+    },
+    {
+     "id": "d",
+     "text": "Furosemide IV"
+    },
+    {
+     "id": "e",
+     "text": "Phenytoin 20 mg/kg IV"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Treatment of suspected raised ICP includes neuroprotective intubation, hyperventilation to a pCO2 of 30-35 mmHg, head of bed elevation, adequate blood pressure for cerebral perfusion, and either mannitol 1 g/kg rapidly or 3 mL/kg of hypertonic (3%) saline. Mannitol is contraindicated in shock or renal failure, so in this hypotensive patient hypertonic saline is the appropriate osmotherapy.",
+   "optionExplanations": {
+    "a": "Mannitol is contraindicated in shock and renal failure; this patient remains hypotensive despite resuscitation.",
+    "c": "Corticosteroids are not part of the described emergency department management of raised ICP in trauma.",
+    "d": "Furosemide is not listed as an agent for lowering ICP and would worsen hypotension.",
+    "e": "Phenytoin is used for seizure treatment or prophylaxis in head injury, not to lower intracranial pressure."
+   },
+   "topic": "Raised Intracranial Pressure",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "ER",
+    "name": "Emergency Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 254,
+    "reference": "ER8 — Head Injury: Management of Suspected Raised ICP"
+   }
+  },
+  {
+   "id": "TN-ER-008",
+   "type": "single-best-answer",
+   "question": "A 22-year-old man dives into shallow water and is brought in with quadriparesis. CT shows a C6 burst fracture. Blood pressure is 82/48 mmHg and heart rate is 46 bpm. His extremities are warm and well perfused, there is no external bleeding, the pelvis is stable, and FAST is negative. Hemoglobin is normal. Which of the following is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Hemorrhagic shock"
+    },
+    {
+     "id": "b",
+     "text": "Neurogenic shock"
+    },
+    {
+     "id": "c",
+     "text": "Spinal shock"
+    },
+    {
+     "id": "d",
+     "text": "Cardiogenic shock"
+    },
+    {
+     "id": "e",
+     "text": "Obstructive shock from tension pneumothorax"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Neurogenic shock results from loss of vasomotor and sympathetic tone after cord injury at T6 or above and presents with hypotension, bradycardia from unopposed parasympathetic activity, and poikilothermia with warm peripheries. It typically begins within 30 minutes of injury and is managed with airway support, fluids, atropine for bradycardia, and vasopressors.",
+   "optionExplanations": {
+    "a": "Hemorrhagic shock produces tachycardia with cool, poorly perfused extremities, and there is no source of blood loss here.",
+    "c": "Spinal shock refers to the absence of all voluntary and reflex activity below the level of injury rather than a hemodynamic state.",
+    "d": "Cardiogenic shock arises from pump failure such as blunt myocardial injury, dysrhythmia or MI, which are not suggested here.",
+    "e": "Tension pneumothorax would cause respiratory distress, distended neck veins and unilateral absent breath sounds."
+   },
+   "topic": "Spinal Cord Trauma",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "ER",
+    "name": "Emergency Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 256,
+    "reference": "ER10 — Sequelae of C-Spine Fractures: Neurogenic Shock"
+   }
+  },
+  {
+   "id": "TN-ER-009",
+   "type": "single-best-answer",
+   "question": "A 48-year-old man is brought in after a rollover collision. He is alert and oriented but smells strongly of alcohol and is slurring his words. He denies neck pain and has no posterior midline cervical tenderness, no extremity paresthesias and no focal neurological deficits. Vital signs are stable and there are no distracting injuries. Which of the following is the most appropriate investigation of his cervical spine?",
+   "options": [
+    {
+     "id": "a",
+     "text": "CT of the cervical spine"
+    },
+    {
+     "id": "b",
+     "text": "Three-view plain radiographs of the cervical spine"
+    },
+    {
+     "id": "c",
+     "text": "MRI of the cervical spine"
+    },
+    {
+     "id": "d",
+     "text": "Flexion-extension radiographs"
+    },
+    {
+     "id": "e",
+     "text": "No imaging; clear the cervical spine clinically"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The cervical spine can be cleared clinically only if the patient is oriented, has no paresthesias, no evidence of intoxication, no posterior midline tenderness, no focal deficits, no distracting injuries, and can rotate the neck 45 degrees each way. Intoxication precludes clinical clearance, and CT is the screening modality of choice, detecting 97-100% of injuries.",
+   "optionExplanations": {
+    "b": "Radiography is a fallback when CT is unavailable in minor trauma; CT allows more rapid and reliable clearance.",
+    "c": "MRI is the preferred technique for soft tissue injuries such as cord, disc and ligament, not for initial screening.",
+    "d": "Flexion-extension views are not the recommended screening study in acute blunt trauma.",
+    "e": "Clinical clearance is not permitted in an intoxicated patient."
+   },
+   "topic": "Cervical Spine Clearance and Imaging",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "ER",
+    "name": "Emergency Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 256,
+    "reference": "ER10 — Can Clear C-Spine If / Approach to C-Spine Imaging"
+   }
+  },
+  {
+   "id": "TN-ER-010",
+   "type": "single-best-answer",
+   "question": "A 63-year-old man with poorly controlled hypertension presents with sudden severe tearing chest pain radiating to the interscapular region. Blood pressure is 178/96 mmHg in the right arm and 148/84 mmHg in the left. A soft early diastolic murmur is audible at the left sternal border. ECG shows no ST elevation and the initial troponin is normal. Which of the following is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Acute coronary syndrome"
+    },
+    {
+     "id": "b",
+     "text": "Aortic dissection"
+    },
+    {
+     "id": "c",
+     "text": "Acute pericarditis"
+    },
+    {
+     "id": "d",
+     "text": "Pulmonary embolism"
+    },
+    {
+     "id": "e",
+     "text": "Esophageal rupture"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Aortic dissection classically presents with sudden severe tearing retrosternal or midscapular pain in a hypertensive patient, with a systolic blood pressure difference greater than 20 mmHg or a pulse deficit between arms and an aortic regurgitant murmur. Diagnosis is by CT angiography, and management involves reducing blood pressure and heart rate with urgent surgical consultation for type A dissection.",
+   "optionExplanations": {
+    "a": "Acute coronary syndrome typically produces squeezing retrosternal pressure worsened by exertion, without an inter-arm blood pressure difference or aortic regurgitation.",
+    "c": "Pericarditis produces pleuritic pain relieved by sitting forward with a friction rub and diffuse ST elevation.",
+    "d": "Pulmonary embolism presents with pleuritic pain and dyspnea with tachycardia and hypoxemia, usually with venous thromboembolism risk factors.",
+    "e": "Esophageal rupture typically follows endoscopy, forceful vomiting or caustic injury and is associated with subcutaneous emphysema and sepsis."
+   },
+   "topic": "Chest Pain",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "ER",
+    "name": "Emergency Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 268,
+    "reference": "ER22 — Comparison of Chest Pain Diagnoses"
+   }
+  },
+  {
+   "id": "TN-ER-011",
+   "type": "single-best-answer",
+   "question": "A 27-year-old man has 3 days of sharp anterior chest pain that is worse lying flat and relieved by sitting forward, preceded by a viral upper respiratory illness. He is afebrile and hemodynamically stable, and a friction rub is heard. ECG shows diffuse ST elevation with PR depression in II, III, aVF and V4-6 and PR elevation in aVR. Troponin is normal and there is no pericardial effusion. Which of the following is the best initial treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "High-dose NSAIDs with or without colchicine"
+    },
+    {
+     "id": "b",
+     "text": "Aspirin, anticoagulation and urgent percutaneous coronary intervention"
+    },
+    {
+     "id": "c",
+     "text": "IV broad-spectrum antibiotics"
+    },
+    {
+     "id": "d",
+     "text": "Systemic thrombolysis"
+    },
+    {
+     "id": "e",
+     "text": "Urgent pericardiocentesis"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The viral prodrome, positional pleuritic pain relieved by leaning forward, friction rub and diffuse ST elevation with PR depression and reciprocal changes in aVR are classic for acute pericarditis. Management is ABCs, ruling out myocardial infarction, and high-dose NSAIDs with or without colchicine, with consultation for recurrent disease, large effusion or a non-viral cause.",
+   "optionExplanations": {
+    "b": "Reperfusion therapy is for acute coronary occlusion; the diffuse elevations with PR depression and normal troponin argue against STEMI.",
+    "c": "Antibiotics are the mainstay for esophageal rupture and sepsis, not viral pericarditis.",
+    "d": "Thrombolysis is used for massive pulmonary embolism or STEMI where PCI is unavailable and is hazardous in pericarditis.",
+    "e": "Pericardiocentesis is used for unstable cardiac tamponade; there is no effusion or hemodynamic compromise here."
+   },
+   "topic": "Acute Pericarditis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "ER",
+    "name": "Emergency Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 268,
+    "reference": "ER22 — Comparison of Chest Pain Diagnoses: Acute Pericarditis"
+   }
+  },
+  {
+   "id": "TN-ER-012",
+   "type": "single-best-answer",
+   "question": "A 76-year-old woman describes 3 weeks of new right temporal headache with scalp tenderness and pain in the jaw while chewing. She also reports malaise and shoulder girdle aching. The right temporal artery is tender on palpation. ESR is 92 mm/h and CRP is elevated. Visual acuity is currently normal in both eyes. Which of the following is the best initial treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "High-dose corticosteroids started immediately"
+    },
+    {
+     "id": "b",
+     "text": "NSAIDs with outpatient follow-up"
+    },
+    {
+     "id": "c",
+     "text": "Subcutaneous sumatriptan"
+    },
+    {
+     "id": "d",
+     "text": "IV ceftriaxone"
+    },
+    {
+     "id": "e",
+     "text": "Oral colchicine"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Headache with scalp tenderness, jaw claudication, a tender temporal artery and elevated ESR and CRP in a patient over 70 is characteristic of giant cell arteritis, which causes significant morbidity including blindness. High-dose steroids should be started immediately when the diagnosis is suspected, without waiting for temporal artery biopsy results.",
+   "optionExplanations": {
+    "b": "NSAIDs do not prevent the ischemic visual loss associated with giant cell arteritis.",
+    "c": "Triptans treat migraine, which does not cause jaw claudication, scalp tenderness or a markedly elevated ESR.",
+    "d": "Antibiotics are indicated for suspected meningitis, which presents with fever, neck stiffness and altered mental status.",
+    "e": "Colchicine is used for crystalline synovitis and pericarditis, not for temporal arteritis."
+   },
+   "topic": "Headache — Giant Cell Arteritis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "ER",
+    "name": "Emergency Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 270,
+    "reference": "ER24 — Headache: Giant Cell Arteritis/Temporal Arteritis"
+   }
+  },
+  {
+   "id": "TN-ER-013",
+   "type": "single-best-answer",
+   "question": "A 62-year-old man presents with a temperature of 39.2°C, neck stiffness and confusion. He is immunocompetent and hemodynamically stable. Fundoscopy shows no papilledema and there are no focal neurological signs. The team plans a CT head followed by lumbar puncture, but the scanner is occupied for the next 45 minutes. Which of the following is the most appropriate next step?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Give dexamethasone with high-dose ceftriaxone, vancomycin and ampicillin now"
+    },
+    {
+     "id": "b",
+     "text": "Complete the CT head and lumbar puncture, then start antibiotics"
+    },
+    {
+     "id": "c",
+     "text": "Await blood culture results before starting antibiotics"
+    },
+    {
+     "id": "d",
+     "text": "Start IV acyclovir alone and reassess"
+    },
+    {
+     "id": "e",
+     "text": "Give ceftriaxone alone immediately after the lumbar puncture"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Fever, neck stiffness and altered mental status point to bacterial meningitis. IV antibiotics must not be delayed for lumbar puncture, and dexamethasone should be given with or before the first antibiotic dose. Empiric therapy is high-dose ceftriaxone plus vancomycin, with ampicillin added for patients over 50 years old or immunocompromised.",
+   "optionExplanations": {
+    "b": "Delaying antibiotics for imaging and lumbar puncture is explicitly discouraged in suspected meningitis.",
+    "c": "Empiric therapy is started on clinical suspicion rather than waiting for culture results.",
+    "d": "Acyclovir may be added, but it does not cover the bacterial pathogens driving this presentation.",
+    "e": "Ceftriaxone alone omits vancomycin and, in a patient over 50, ampicillin, and it still delays therapy until after the lumbar puncture."
+   },
+   "topic": "Meningitis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "ER",
+    "name": "Emergency Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 270,
+    "reference": "ER24 — Headache: Meningitis"
+   }
+  },
+  {
+   "id": "TN-ER-014",
+   "type": "single-best-answer",
+   "question": "A 34-year-old woman has been convulsing for 35 minutes. She has received lorazepam to a total of 10 mg IV and phenytoin 20 mg/kg IV followed by an additional 10 mg/kg, and she continues to seize. Her airway is being supported with bag-mask ventilation, capillary glucose and electrolytes are normal, and blood pressure is 118/70 mmHg. Which of the following is the most appropriate next step?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Repeat lorazepam 2 mg IV boluses"
+    },
+    {
+     "id": "b",
+     "text": "Rapid sequence intubation with a midazolam or propofol infusion and ICU consultation"
+    },
+    {
+     "id": "c",
+     "text": "Give a further phenytoin 10 mg/kg IV load"
+    },
+    {
+     "id": "d",
+     "text": "Give IV dexamethasone"
+    },
+    {
+     "id": "e",
+     "text": "Obtain an urgent CT head before further therapy"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "This is refractory status epilepticus, since seizures persist after maximum benzodiazepine and phenytoin dosing. Management is to consult ICU and start one or more of phenobarbital 20 mg/kg, midazolam 0.2 mg/kg loading dose with infusion, or propofol, with definitive airway management including rapid sequence intubation and continuous EEG monitoring.",
+   "optionExplanations": {
+    "a": "Benzodiazepines have already been given to the maximum recommended dose without effect.",
+    "c": "Phenytoin has already been given as a full load plus the additional 10 mg/kg permitted.",
+    "d": "Corticosteroids have no role in the escalation algorithm for status epilepticus.",
+    "e": "Imaging to investigate the underlying cause is a post-seizure step and must not delay control of ongoing seizure activity."
+   },
+   "topic": "Status Epilepticus",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "ER",
+    "name": "Emergency Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 272,
+    "reference": "ER26 — Concurrent Investigation and Management of Status Epilepticus: Refractory"
+   }
+  },
+  {
+   "id": "TN-ER-015",
+   "type": "single-best-answer",
+   "question": "A 24-year-old woman with asthma has received continuous nebulized salbutamol, three doses of ipratropium, IV magnesium sulfate and IV methylprednisolone. She is now drowsy and diaphoretic, her chest is silent on auscultation, respiratory rate has fallen to 8 breaths/min, and venous blood gas shows pCO2 52 mmHg with oxygen saturation 88% on high-flow oxygen. Which of the following is the most appropriate next step?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Continue continuous nebulized salbutamol and reassess in 20 minutes"
+    },
+    {
+     "id": "b",
+     "text": "Give a repeat dose of IV magnesium sulfate"
+    },
+    {
+     "id": "c",
+     "text": "Intubate, considering induction with ketamine"
+    },
+    {
+     "id": "d",
+     "text": "Add oral prednisone 40 mg"
+    },
+    {
+     "id": "e",
+     "text": "Give a further three doses of nebulized ipratropium"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "Exhaustion, confusion, diaphoresis, a silent chest, falling respiratory rate and pCO2 above 45 mmHg define imminent respiratory arrest in asthma. Management is to anticipate the need for intubation, give 100% oxygen with cardiac monitoring and IV access, and intubate, with ketamine considered as the induction agent; this is high risk and ideally performed by an experienced provider.",
+   "optionExplanations": {
+    "a": "Waiting on inhaled therapy alone is unsafe once the patient has a silent chest with rising pCO2 and a falling respiratory rate.",
+    "b": "Magnesium has already been given and is part of severe asthma therapy, not the answer to impending arrest.",
+    "d": "Oral steroids are used in mild to moderate exacerbations and cannot act quickly enough here.",
+    "e": "Additional anticholinergic nebulizers will not reverse imminent respiratory arrest."
+   },
+   "topic": "Severe Asthma Exacerbation",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "ER",
+    "name": "Emergency Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 276,
+    "reference": "ER30 — Asthma Assessment and Management"
+   }
+  },
+  {
+   "id": "TN-ER-016",
+   "type": "single-best-answer",
+   "question": "A 30-year-old woman presents with sudden onset palpitations and mild chest discomfort. She is alert with blood pressure 118/74 mmHg and no signs of heart failure. ECG shows a regular narrow-complex tachycardia at 190 bpm with no discernible P waves and no evidence of pre-excitation. Valsalva and carotid sinus massage have failed to terminate the rhythm. Which of the following is the most appropriate next step?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Adenosine 6 mg IV push"
+    },
+    {
+     "id": "b",
+     "text": "Immediate synchronized electrical cardioversion"
+    },
+    {
+     "id": "c",
+     "text": "IV amiodarone infusion"
+    },
+    {
+     "id": "d",
+     "text": "IV digoxin"
+    },
+    {
+     "id": "e",
+     "text": "IV procainamide"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "For AVRT/AVNRT the sequence is vagal manoeuvres first, then adenosine 6 mg IV push, followed by 12 mg and a repeat 12 mg if needed, with electrical cardioversion reserved for failure of vagal manoeuvres and adenosine. This patient is hemodynamically stable after failed vagal manoeuvres, so adenosine is the next step.",
+   "optionExplanations": {
+    "b": "Immediate synchronized cardioversion is reserved for the unstable patient with a tachydysrhythmia.",
+    "c": "Amiodarone is used for ventricular tachydysrhythmias rather than as first-line therapy for stable narrow-complex SVT.",
+    "d": "Digoxin is not part of the acute algorithm for terminating AVNRT in the emergency department.",
+    "e": "Procainamide is used for atrial fibrillation with pre-excitation, which is not present here."
+   },
+   "topic": "Supraventricular Tachydysrhythmias",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "ER",
+    "name": "Emergency Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 276,
+    "reference": "ER30 — Cardiac Dysrhythmias: Supraventricular Tachydysrhythmias"
+   }
+  },
+  {
+   "id": "TN-ER-017",
+   "type": "single-best-answer",
+   "question": "A 68-year-old man with COPD presents with 3 days of increased dyspnea, more frequent cough, and an increased volume of sputum that has become purulent. Temperature is 37.4°C, respiratory rate 24, and oxygen saturation 89% on room air with pH 7.37. He is given controlled oxygen, salbutamol and ipratropium by metered dose inhaler with a spacer, and prednisone. Which of the following additional treatments is most appropriate?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Add an oral antibiotic such as a respiratory quinolone"
+    },
+    {
+     "id": "b",
+     "text": "Withhold antibiotics and reassess in 48 hours"
+    },
+    {
+     "id": "c",
+     "text": "Add oral theophylline"
+    },
+    {
+     "id": "d",
+     "text": "Add IV magnesium sulfate"
+    },
+    {
+     "id": "e",
+     "text": "Add a long-acting inhaled bronchodilator only"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Antibiotics in an acute exacerbation of COPD are indicated when all three cardinal symptoms are present (increased dyspnea, increased cough frequency or severity, increased sputum volume or purulence), or when two are present with increased sputum purulence, or with mechanical ventilation. This patient has all three cardinal symptoms, so trimethoprim/sulfamethoxazole, a cephalosporin or a respiratory quinolone should be added.",
+   "optionExplanations": {
+    "b": "Withholding antibiotics is appropriate for a mild exacerbation with only one of the three cardinal symptoms.",
+    "c": "Theophylline is not part of the recommended acute management of an exacerbation.",
+    "d": "IV magnesium is part of severe asthma management rather than COPD exacerbation therapy.",
+    "e": "Short-acting bronchodilators have already been given, and long-acting agents do not address the bacterial trigger."
+   },
+   "topic": "Acute Exacerbation of COPD",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "ER",
+    "name": "Emergency Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 278,
+    "reference": "ER32 — Acute Exacerbation of COPD: Management"
+   }
+  },
+  {
+   "id": "TN-ER-018",
+   "type": "single-best-answer",
+   "question": "A 62-year-old man on no anticoagulants presents with brisk bleeding from the right nostril. On two occasions he has leaned forward while the cartilaginous part of the nose was compressed for 20 minutes, without success. After clot evacuation and application of topical anesthetic with a vasoconstrictor, no discrete anterior bleeding point can be identified. Blood pressure is 148/88 mmHg and hemoglobin is normal. Which of the following is the most appropriate next step?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Place an anterior nasal pack"
+    },
+    {
+     "id": "b",
+     "text": "Cauterize both sides of the nasal septum with silver nitrate"
+    },
+    {
+     "id": "c",
+     "text": "Place a posterior nasal pack"
+    },
+    {
+     "id": "d",
+     "text": "Resume nasal compression for a further 20 minutes"
+    },
+    {
+     "id": "e",
+     "text": "Consult ENT for surgical arterial ligation"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "When first-aid measures fail twice, the next step is packing or cautery. Cautery is an alternative only when the bleeding site is identified, and only one side of the septum may be cauterized to avoid septal perforation. With no visible bleeding point, a traditional Vaseline gauze pack, nasal tampon or balloon should be inserted after topical anesthesia and vasoconstriction.",
+   "optionExplanations": {
+    "b": "Cautery requires an identified bleeding site, and cauterizing both sides of the septum risks septal perforation.",
+    "c": "Posterior packing is reserved for a suspected posterior bleed or when anterior packing fails, and usually requires admission.",
+    "d": "Compression has already failed on two attempts, which is the trigger to escalate to packing or cautery.",
+    "e": "Surgical management is not the immediate next step before anterior packing has been tried."
+   },
+   "topic": "Epistaxis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "ER",
+    "name": "Emergency Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 286,
+    "reference": "ER40 — Epistaxis: Treatment"
+   }
+  },
+  {
+   "id": "TN-ER-019",
+   "type": "single-best-answer",
+   "question": "A 19-year-old woman with type 1 diabetes presents with vomiting and abdominal pain. Glucose is 32 mmol/L, venous pH 7.09, serum and urine ketones are positive, potassium is 3.3 mmol/L, and creatinine is normal. She is passing urine. She has received a bolus of normal saline and a high-rate saline infusion has been started while an insulin infusion is prepared. Which of the following is the most appropriate next step?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Add KCl 20 mEq/L to the intravenous fluid"
+    },
+    {
+     "id": "b",
+     "text": "Administer IV sodium bicarbonate"
+    },
+    {
+     "id": "c",
+     "text": "Administer IV calcium gluconate"
+    },
+    {
+     "id": "d",
+     "text": "Infuse 3% hypertonic saline"
+    },
+    {
+     "id": "e",
+     "text": "Give oral potassium supplements once the vomiting settles"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "In diabetic ketoacidosis, potassium replacement is essential to avoid hypokalemia once insulin is started. KCl 20 mEq/L is added provided the patient is voiding, renal function is adequate, and the initial potassium is below 5.5 mmol/L, with cardiac monitoring when potassium is normal or low. This patient meets all three criteria.",
+   "optionExplanations": {
+    "b": "Bicarbonate is not part of the described rehydration and potassium strategy for DKA.",
+    "c": "Calcium gluconate is used to protect the myocardium in hyperkalemia, the opposite problem.",
+    "d": "Hypertonic saline is used for severe symptomatic hyponatremia or raised ICP, not routine DKA rehydration.",
+    "e": "Oral replacement is unreliable in a vomiting patient with an insulin infusion about to start."
+   },
+   "topic": "Diabetic Ketoacidosis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "ER",
+    "name": "Emergency Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 280,
+    "reference": "ER34 — Diabetic Emergencies: Diabetic Ketoacidosis"
+   }
+  },
+  {
+   "id": "TN-ER-020",
+   "type": "single-best-answer",
+   "question": "A 71-year-old man with chronic kidney disease who missed his dialysis session presents with weakness and palpitations. Serum potassium is 7.4 mmol/L. ECG shows tall peaked T waves with widening of the QRS complex and loss of P waves. Blood pressure is 128/74 mmHg and heart rate is 52 bpm. Which of the following is the most appropriate initial treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "IV calcium gluconate"
+    },
+    {
+     "id": "b",
+     "text": "IV insulin with 50% dextrose"
+    },
+    {
+     "id": "c",
+     "text": "Nebulized salbutamol"
+    },
+    {
+     "id": "d",
+     "text": "IV fluids with furosemide"
+    },
+    {
+     "id": "e",
+     "text": "Urgent hemodialysis"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Hyperkalemia with ECG changes is managed in a defined order: protect the heart with calcium gluconate, shift potassium into cells with dextrose and insulin, sodium bicarbonate or salbutamol, and then remove potassium with fluids plus furosemide or dialysis. With QRS widening and loss of P waves, myocardial stabilization comes first.",
+   "optionExplanations": {
+    "b": "Insulin with dextrose shifts potassium intracellularly but does not immediately stabilize the myocardium.",
+    "c": "Salbutamol is another shifting agent and works too slowly to be the first intervention with ECG changes.",
+    "d": "Fluids with furosemide remove potassium but act over hours.",
+    "e": "Dialysis definitively removes potassium but takes time to arrange and does not protect the heart in the interim."
+   },
+   "topic": "Electrolyte Disturbances",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "ER",
+    "name": "Emergency Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 282,
+    "reference": "ER36 — Electrolyte Disturbances: Hyperkalemia"
+   }
+  },
+  {
+   "id": "TN-ER-021",
+   "type": "single-best-answer",
+   "question": "A 74-year-old woman presents with fever 38.9°C, heart rate 112 bpm, respiratory rate 24, and blood pressure 86/50 mmHg after 500 mL of crystalloid. She has dysuria and costovertebral angle tenderness. WBC is 18 and lactate is 5.2 mmol/L. Blood cultures have been drawn and broad-spectrum antibiotics have been given within the first hour. Which of the following is the most appropriate next step?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Begin rapid administration of 30 mL/kg crystalloid"
+    },
+    {
+     "id": "b",
+     "text": "Start norepinephrine before giving further fluid"
+    },
+    {
+     "id": "c",
+     "text": "Give IV hydrocortisone"
+    },
+    {
+     "id": "d",
+     "text": "Transfuse packed red blood cells"
+    },
+    {
+     "id": "e",
+     "text": "Give IV furosemide"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "This is septic shock, defined as sepsis with an initial lactate above 4 or hypotension. The one-hour sepsis bundle specifies measuring lactate, obtaining cultures before antibiotics, giving broad-spectrum antibiotics, and beginning rapid administration of 30 mL/kg crystalloid for hypotension or lactate above 4 mmol/L, with vasopressors applied if hypotension persists during or after fluid resuscitation.",
+   "optionExplanations": {
+    "b": "Vasopressors are applied if the patient remains hypotensive during or after fluid resuscitation, not before adequate volume is given.",
+    "c": "Glucocorticoids are considered only for treatment-refractory hypotension suggesting relative adrenal insufficiency.",
+    "d": "Blood transfusion is used for patients failing initial therapy, not as the initial resuscitation step.",
+    "e": "Diuresis would worsen hypoperfusion in a hypotensive septic patient."
+   },
+   "topic": "Sepsis and Septic Shock",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "ER",
+    "name": "Emergency Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 284,
+    "reference": "ER38 — Sepsis / Surviving Sepsis Campaign 1 Hour Bundle"
+   }
+  },
+  {
+   "id": "TN-ER-022",
+   "type": "single-best-answer",
+   "question": "A 54-year-old man presents with severe left flank pain radiating to the groin, with vomiting. Temperature is 38.8°C, heart rate 118 bpm and blood pressure 96/60 mmHg. Urinalysis shows pyuria and microscopic hematuria. Non-contrast CT demonstrates a 7 mm obstructing left distal ureteric stone with hydronephrosis. Which of the following is the most appropriate management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Urgent urology consultation with IV fluids and broad-spectrum antibiotics"
+    },
+    {
+     "id": "b",
+     "text": "Discharge with tamsulosin and oral analgesia"
+    },
+    {
+     "id": "c",
+     "text": "Oral antibiotics with outpatient urology follow-up"
+    },
+    {
+     "id": "d",
+     "text": "IV ketorolac and observation for spontaneous passage"
+    },
+    {
+     "id": "e",
+     "text": "Increased oral hydration with repeat imaging in 2 weeks"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Obstruction combined with infection is a urological emergency requiring urgent urology consultation, IV fluids and broad-spectrum antibiotics. Fever suggesting infection, intractable vomiting, a stone larger than 5 mm and hemodynamic compromise are also indications for urology involvement and admission rather than discharge.",
+   "optionExplanations": {
+    "b": "Discharge with medical expulsive therapy applies to the stable, afebrile patient with adequate analgesia who tolerates oral intake.",
+    "c": "Oral antibiotics do not address the obstructed, infected collecting system that requires urgent decompression.",
+    "d": "Analgesia alone ignores the infected obstruction and the patient's fever, tachycardia and borderline blood pressure.",
+    "e": "Delayed reimaging is unsafe with an obstructing stone plus infection, and a 7 mm stone is unlikely to pass spontaneously."
+   },
+   "topic": "Nephrolithiasis",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "ER",
+    "name": "Emergency Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 288,
+    "reference": "ER42 — Nephrolithiasis (Renal Colic): Management"
+   }
+  }
+ ]
+}

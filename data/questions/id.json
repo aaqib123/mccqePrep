@@ -1,0 +1,842 @@
+{
+ "chapter": {
+  "code": "ID",
+  "name": "Infectious Diseases"
+ },
+ "document": {
+  "id": "toronto-notes-2025",
+  "title": "Toronto Notes 2025",
+  "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
+ },
+ "count": 18,
+ "questions": [
+  {
+   "id": "TN-ID-001",
+   "type": "single-best-answer",
+   "question": "A 58-year-old man with a long history of heavy alcohol use presents with a three-day history of fever, rigors, and pleuritic chest pain. He is coughing up thick, blood-tinged sputum that the nurse describes as resembling red currant jelly. Chest x-ray shows a dense right upper lobe consolidation with early cavitation. Which organism is the most likely cause of his pneumonia?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Klebsiella pneumoniae"
+    },
+    {
+     "id": "b",
+     "text": "Mycoplasma pneumoniae"
+    },
+    {
+     "id": "c",
+     "text": "Moraxella catarrhalis"
+    },
+    {
+     "id": "d",
+     "text": "Legionella pneumophila"
+    },
+    {
+     "id": "e",
+     "text": "Chlamydia pneumoniae"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes lists Klebsiella first among the organisms causing pneumonia in patients with alcohol use disorder, and notes the classic association 'when Klebsiella causes pneumonia: see red currant jelly sputum'. This patient's alcohol use disorder combined with thick blood-tinged sputum and a cavitating upper lobe consolidation fits that pattern.",
+   "optionExplanations": {
+    "b": "Mycoplasma pneumoniae is an atypical community-acquired organism and is not among those listed for alcohol use disorder or for red currant jelly sputum.",
+    "c": "Moraxella catarrhalis is a typical community-acquired pathogen but is not associated with alcohol use disorder or cavitary disease in this table.",
+    "d": "Legionella pneumophila is listed as an atypical community-acquired pathogen, not as a characteristic organism in alcohol use disorder.",
+    "e": "Chlamydia pneumoniae is an atypical community-acquired pathogen and does not produce the described sputum or cavitation."
+   },
+   "topic": "Community-Acquired Pneumonia",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "ID",
+    "name": "Infectious Diseases"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 725,
+    "reference": "ID7 — Pneumonia: Common Organisms in Pneumonia"
+   }
+  },
+  {
+   "id": "TN-ID-002",
+   "type": "single-best-answer",
+   "question": "A 79-year-old woman presents with a two-day history of cough and fever. She is disoriented to time and place. Her respiratory rate is 34 breaths/min, blood pressure is 88/54 mmHg, and temperature is 38.6 C. Serum urea is 11.2 mmol/L. Chest x-ray confirms a left lower lobe consolidation consistent with community-acquired pneumonia. Based on her CURB-65 score, which disposition is most appropriate?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Discharge home with oral antibiotics and telephone follow-up in 48 hours"
+    },
+    {
+     "id": "b",
+     "text": "Discharge home with community nursing visits and outpatient review"
+    },
+    {
+     "id": "c",
+     "text": "Observe in the emergency department for 12 hours and then reassess"
+    },
+    {
+     "id": "d",
+     "text": "Admit to a general medical ward"
+    },
+    {
+     "id": "e",
+     "text": "Admit to an intensive care unit"
+    }
+   ],
+   "correctAnswer": "e",
+   "explanation": "The CURB-65 tool assigns one point each for Confusion, Urea 7 mmol/L or greater, Respiratory rate 30 breaths/min or greater, systolic BP under 90 mmHg or diastolic 60 mmHg or lower, and Age 65 or older. This patient meets all five criteria, giving a score of 5. Toronto Notes places scores of 4-5 in the 15-30% mortality band, for which the recommended disposition is to consider ICU care.",
+   "optionExplanations": {
+    "a": "Outpatient treatment is recommended only for a CURB-65 score of 0-1, which corresponds to under 5% mortality.",
+    "b": "Home-based care still falls in the outpatient category and is reserved for scores of 0-1.",
+    "c": "Brief observation does not address the 15-30% predicted mortality associated with a score of 4-5.",
+    "d": "Ward admission corresponds to a score of 2-3 (5-15% mortality); a score of 4-5 warrants consideration of ICU care."
+   },
+   "topic": "Community-Acquired Pneumonia Severity Assessment",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "ID",
+    "name": "Infectious Diseases"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 725,
+    "reference": "ID7 — Table 9. CURB-65 Score"
+   }
+  },
+  {
+   "id": "TN-ID-003",
+   "type": "single-best-answer",
+   "question": "A 64-year-old man with COPD and type 2 diabetes attends his family physician with four days of productive cough, fever, and pleuritic chest pain. Chest x-ray shows a right middle lobe infiltrate. He is alert and normotensive with a respiratory rate of 20 breaths/min and oxygen saturation of 95% on room air. He has never had MRSA or Pseudomonas isolated and has not been hospitalised recently. Which is the best initial outpatient antimicrobial regimen?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Amoxicillin alone"
+    },
+    {
+     "id": "b",
+     "text": "Azithromycin alone"
+    },
+    {
+     "id": "c",
+     "text": "Amoxicillin-clavulanate plus azithromycin"
+    },
+    {
+     "id": "d",
+     "text": "Ciprofloxacin alone"
+    },
+    {
+     "id": "e",
+     "text": "Cephalexin alone"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "The 2019 IDSA/ATS community-acquired pneumonia guideline reproduced in Toronto Notes divides outpatients by comorbidity. For outpatients with comorbidities such as chronic lung disease or diabetes, the recommended empiric therapy is amoxicillin/clavulanate or a cephalosporin PLUS a macrolide or doxycycline, or alternatively a respiratory fluoroquinolone. This man has both COPD and diabetes, so combination therapy is indicated.",
+   "optionExplanations": {
+    "a": "Amoxicillin monotherapy is recommended only for outpatients with no comorbidities and no MRSA or Pseudomonas risk factors.",
+    "b": "Macrolide monotherapy is an option only for outpatients without comorbidities, and only where local pneumococcal resistance is under 25%.",
+    "d": "Ciprofloxacin is not one of the respiratory fluoroquinolones listed; the guideline specifies moxifloxacin or levofloxacin.",
+    "e": "Cephalexin is not a listed community-acquired pneumonia agent, and a cephalosporin would still need to be combined with a macrolide or doxycycline."
+   },
+   "topic": "Antimicrobial Therapy of Community-Acquired Pneumonia",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "ID",
+    "name": "Infectious Diseases"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 726,
+    "reference": "ID8 — Table 11. IDSA/ATS Community-Acquired Pneumonia Treatment Guidelines 2019"
+   }
+  },
+  {
+   "id": "TN-ID-004",
+   "type": "single-best-answer",
+   "question": "A 29-year-old woman who is 26 weeks pregnant presents in January with a 20-hour history of abrupt fever, chills, myalgias, headache, and dry cough. Influenza A is circulating widely in the community and a nasopharyngeal swab has been sent for RT-PCR. She appears unwell but her chest examination and chest x-ray are normal and her oxygen saturation is 97% on room air. Which is the best initial antiviral therapy?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Oseltamivir"
+    },
+    {
+     "id": "b",
+     "text": "Acyclovir"
+    },
+    {
+     "id": "c",
+     "text": "Remdesivir"
+    },
+    {
+     "id": "d",
+     "text": "Ribavirin"
+    },
+    {
+     "id": "e",
+     "text": "Valganciclovir"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states that influenza treatment is primarily supportive unless the infection is severe or the patient is at high risk of complications, and lists pregnancy among the high-risk groups. The neuraminidase inhibitor oseltamivir decreases duration by about one day and reduces severity when given within 48 hours of symptom onset, which applies here at 20 hours.",
+   "optionExplanations": {
+    "b": "Acyclovir covers HSV-1, HSV-2, and VZV, and has no activity against influenza viruses.",
+    "c": "Remdesivir is listed for COVID-19, not for influenza.",
+    "d": "Ribavirin is listed for chronic hepatitis C, RSV, and Lassa fever, and is highly teratogenic, making it inappropriate in pregnancy.",
+    "e": "Valganciclovir targets CMV and other herpesviruses, not influenza."
+   },
+   "topic": "Influenza",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "ID",
+    "name": "Infectious Diseases"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 727,
+    "reference": "ID9 — Influenza: Treatment and Prevention"
+   }
+  },
+  {
+   "id": "TN-ID-005",
+   "type": "single-best-answer",
+   "question": "A 74-year-old man is on day 9 of a hospital admission for cellulitis treated with clindamycin. He develops six episodes of watery diarrhoea per day, lower abdominal cramping, nausea, and a low-grade fever. His white blood cell count has risen to 18.2 x 10^9/L. His abdomen is soft with mild diffuse tenderness and no distension. Which is the most appropriate initial investigation to confirm the suspected diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Stool PCR for toxin A and B genes"
+    },
+    {
+     "id": "b",
+     "text": "Stool immunoassay for toxins A and B"
+    },
+    {
+     "id": "c",
+     "text": "Abdominal x-ray"
+    },
+    {
+     "id": "d",
+     "text": "Sigmoidoscopy to look for pseudomembranes"
+    },
+    {
+     "id": "e",
+     "text": "Blood cultures from two peripheral sites"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes lists stool PCR for the toxin A and B genes as the investigation for Clostridioides difficile infection, and explicitly notes that the stool immunoassay for toxins A and B is less sensitive than PCR. Antibiotic exposure (clindamycin is specifically named as a culprit), watery diarrhoea, fever, abdominal pain, and leukocytosis are the classic manifestations.",
+   "optionExplanations": {
+    "b": "The stool immunoassay for toxins A and B is described as less sensitive than PCR and is therefore not the preferred first test.",
+    "c": "Abdominal x-ray is used to look for colonic dilatation in severe disease, not to establish the diagnosis.",
+    "d": "Sigmoidoscopy for pseudomembranes is an adjunct and should be avoided if colonic dilatation is known.",
+    "e": "Blood cultures do not detect C. difficile, which causes disease through exotoxins released in the colon."
+   },
+   "topic": "Clostridioides difficile Infection",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "ID",
+    "name": "Infectious Diseases"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 724,
+    "reference": "ID6 — Table 7. Common Nosocomial Infectious Agents"
+   }
+  },
+  {
+   "id": "TN-ID-006",
+   "type": "single-best-answer",
+   "question": "A 68-year-old woman hospitalised for a urinary tract infection treated with ciprofloxacin develops profuse watery diarrhoea, fever, and abdominal pain on day 7. Stool PCR is positive for Clostridioides difficile toxin A and B genes. She has no ileus, no abdominal distension, and a normal blood pressure. The ciprofloxacin has been stopped, intravenous fluids started, and contact precautions instituted. Which is the best initial antimicrobial therapy?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Oral vancomycin"
+    },
+    {
+     "id": "b",
+     "text": "Intravenous vancomycin"
+    },
+    {
+     "id": "c",
+     "text": "Intravenous metronidazole"
+    },
+    {
+     "id": "d",
+     "text": "Oral amoxicillin"
+    },
+    {
+     "id": "e",
+     "text": "Intravenous ceftriaxone"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states that management of C. difficile infection includes stopping the culprit antibiotic, supportive IV fluids, and empiric treatment with either vancomycin or fidaxomicin, with metronidazole used only if access to empiric treatment is limited. Vancomycin is effective against C. difficile when given orally, so oral vancomycin is the appropriate choice here.",
+   "optionExplanations": {
+    "b": "Vancomycin acts on C. difficile within the colonic lumen; the oral route is what is used for this indication.",
+    "c": "Metronidazole is a fallback when access to first-line empiric treatment is limited, and IV metronidazole is reserved for fulminant infection with ileus, which she does not have.",
+    "d": "Amoxicillin has no role and further antibiotic pressure would worsen the infection.",
+    "e": "Ceftriaxone does not treat C. difficile and broad-spectrum antibiotic exposure is a precipitant of the disease."
+   },
+   "topic": "Clostridioides difficile Infection",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "ID",
+    "name": "Infectious Diseases"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 724,
+    "reference": "ID6 — Table 7. Common Nosocomial Infectious Agents"
+   }
+  },
+  {
+   "id": "TN-ID-007",
+   "type": "single-best-answer",
+   "question": "A 52-year-old man presents with a two-day history of a painful, warm, red, swollen left lower leg with indistinct borders and visible red streaking extending toward the knee. He is febrile at 38.4 C. There is no fluctuance, no abscess, and no drainage. Examination of his feet reveals scaling and fissuring between the toes consistent with tinea pedis. Which organism is the most likely cause?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Beta-hemolytic streptococci"
+    },
+    {
+     "id": "b",
+     "text": "Pseudomonas aeruginosa"
+    },
+    {
+     "id": "c",
+     "text": "Bacteroides fragilis"
+    },
+    {
+     "id": "d",
+     "text": "Escherichia coli"
+    },
+    {
+     "id": "e",
+     "text": "Clostridioides difficile"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes identifies beta-hemolytic streptococci as the most common cause of non-purulent cellulitis, with S. aureus and occasionally S. lugdunensis also implicated. Cracked skin of the feet from tinea pedis is listed as a risk factor, and ascending lymphangitis producing visible red streaking is a recognised feature. The absence of pus points away from a purulent, staphylococcal process.",
+   "optionExplanations": {
+    "b": "Gram-negative rods such as Pseudomonas are considered in immunocompromised patients or after water exposure, neither of which applies.",
+    "c": "Anaerobes such as Bacteroides are not listed among common causative agents of simple cellulitis.",
+    "d": "Enteric Gram-negative organisms are not typical causes of non-purulent cellulitis in an immunocompetent host.",
+    "e": "C. difficile causes colitis through exotoxins and does not cause skin and soft tissue infection."
+   },
+   "topic": "Cellulitis",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "ID",
+    "name": "Infectious Diseases"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 729,
+    "reference": "ID11 — Skin and Soft Tissue Infections: Cellulitis"
+   }
+  },
+  {
+   "id": "TN-ID-008",
+   "type": "single-best-answer",
+   "question": "A 61-year-old man with type 2 diabetes has a plantar forefoot ulcer with surrounding redness, warmth, and tenderness extending about 1 cm beyond the ulcer margin. There is no pus, no crepitus, and a sterile probe does not reach bone. He is afebrile with normal vital signs, a normal white blood cell count, and an unremarkable plain x-ray. Which is the best initial empiric antimicrobial therapy?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Cephalexin"
+    },
+    {
+     "id": "b",
+     "text": "Amoxicillin-clavulanate"
+    },
+    {
+     "id": "c",
+     "text": "Ceftriaxone"
+    },
+    {
+     "id": "d",
+     "text": "Piperacillin-tazobactam"
+    },
+    {
+     "id": "e",
+     "text": "Vancomycin plus metronidazole"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes classifies a diabetic foot infection as mild when it is superficial with no bone or joint involvement, moderate when it is deep or erythema extends more than 2 cm, and severe when there is systemic toxicity. This ulcer is superficial with only about 1 cm of erythema and no systemic features, so it is mild, and the recommended empiric treatment is cloxacillin or cephalexin, later adjusted by culture and response.",
+   "optionExplanations": {
+    "b": "Amoxicillin-clavulanate is the recommended empiric choice for moderate or severe infection, not for a mild superficial infection.",
+    "c": "Ceftriaxone is likewise reserved for moderate or severe diabetic foot infection.",
+    "d": "Piperacillin-tazobactam is a broad-spectrum agent not listed for diabetic foot infection at this severity.",
+    "e": "Combination broad Gram-positive and anaerobic coverage exceeds what is recommended for a mild superficial infection."
+   },
+   "topic": "Diabetic Foot Infection",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "ID",
+    "name": "Infectious Diseases"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 733,
+    "reference": "ID15 — Diabetic Foot Infections: Infection Severity and Treatment"
+   }
+  },
+  {
+   "id": "TN-ID-009",
+   "type": "single-best-answer",
+   "question": "A 31-year-old man who injects drugs presents with a two-week history of fever, rigors, and pleuritic chest pain. His temperature is 39.1 C. A soft systolic murmur is audible at the left lower sternal border and increases with inspiration. Chest x-ray shows multiple peripheral nodular opacities, several of which are cavitating. He has no prosthetic material and three sets of blood cultures have been drawn. Which organism is most likely responsible?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Staphylococcus aureus"
+    },
+    {
+     "id": "b",
+     "text": "Viridans group streptococci"
+    },
+    {
+     "id": "c",
+     "text": "Enterococcus faecalis"
+    },
+    {
+     "id": "d",
+     "text": "Staphylococcus epidermidis"
+    },
+    {
+     "id": "e",
+     "text": "Candida albicans"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes shows that in injection drug use-associated infective endocarditis S. aureus is by far the leading pathogen at 68%, followed by Streptococcus at 13%. It also notes that the tricuspid valve is involved in 50% of IVDU-related cases, which fits a murmur that increases with inspiration and septic pulmonary emboli seen as cavitating nodules.",
+   "optionExplanations": {
+    "b": "Streptococcus accounts for about 13% of IVDU endocarditis and predominates instead in native valve disease at 36%.",
+    "c": "Enterococcus is listed as a less frequent pathogen in this setting, well behind S. aureus.",
+    "d": "S. epidermidis is characteristically associated with prosthetic valve endocarditis, and he has no prosthetic material.",
+    "e": "Candida is listed as an uncommon IVDU pathogen and would be unusual as the first consideration here."
+   },
+   "topic": "Infective Endocarditis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "ID",
+    "name": "Infectious Diseases"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 733,
+    "reference": "ID15 — Table 17. Microbial Etiology of Infective Endocarditis Based on Risk Factors"
+   }
+  },
+  {
+   "id": "TN-ID-010",
+   "type": "single-best-answer",
+   "question": "A 67-year-old woman who had a bioprosthetic aortic valve inserted three years ago presents with six weeks of fever, weight loss, and night sweats. Three sets of blood cultures drawn more than one hour apart all grow Staphylococcus epidermidis. A transthoracic echocardiogram is technically limited by body habitus and shows no vegetation, but the clinical suspicion for infective endocarditis remains high. Which is the most appropriate next investigation?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Transesophageal echocardiography"
+    },
+    {
+     "id": "b",
+     "text": "Repeat transthoracic echocardiography in one week"
+    },
+    {
+     "id": "c",
+     "text": "Chest x-ray"
+    },
+    {
+     "id": "d",
+     "text": "Serum rheumatoid factor and erythrocyte sedimentation rate"
+    },
+    {
+     "id": "e",
+     "text": "Urinalysis and urine culture"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states that transthoracic echocardiography has poor sensitivity and is inadequate in about 20% of patients because of obesity, COPD, or chest wall deformities, and that transesophageal echocardiography is indicated when TTE is non-diagnostic in a patient with at least possible endocarditis, when prosthetic valve endocarditis is suspected, or when complicated endocarditis is suspected. TEE has roughly 90% sensitivity.",
+   "optionExplanations": {
+    "b": "Repeating a study that was technically inadequate will not overcome the limitation that made it non-diagnostic.",
+    "c": "Chest x-ray does not image valvular vegetations or perivalvular complications.",
+    "d": "Rheumatoid factor and ESR are supportive bloodwork in endocarditis but do not demonstrate valvular involvement.",
+    "e": "Urinalysis may show proteinuria or hematuria but does not confirm or exclude endocarditis."
+   },
+   "topic": "Infective Endocarditis Investigation",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "ID",
+    "name": "Infectious Diseases"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 734,
+    "reference": "ID16 — Infective Endocarditis: Investigations"
+   }
+  },
+  {
+   "id": "TN-ID-011",
+   "type": "single-best-answer",
+   "question": "A 72-year-old man is brought to the emergency department with a 24-hour history of fever, severe headache, neck stiffness, and increasing confusion. Lumbar puncture yields turbid fluid with 3200 leukocytes/microL of which 92% are neutrophils, glucose 1.4 mmol/L, and protein 3.8 g/L. Gram stain of the cerebrospinal fluid shows Gram-positive rods. Which organism is the most likely cause of his meningitis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Listeria monocytogenes"
+    },
+    {
+     "id": "b",
+     "text": "Streptococcus pneumoniae"
+    },
+    {
+     "id": "c",
+     "text": "Neisseria meningitidis"
+    },
+    {
+     "id": "d",
+     "text": "Haemophilus influenzae"
+    },
+    {
+     "id": "e",
+     "text": "Group B Streptococcus"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The CSF profile of markedly raised protein, low glucose, and a neutrophil-predominant pleocytosis indicates bacterial meningitis. Toronto Notes lists L. monocytogenes as Gram-positive rods on CSF Gram stain and notes it is a likely pathogen in patients over 50 or with comorbidities, which matches this 72-year-old man.",
+   "optionExplanations": {
+    "b": "S. pneumoniae appears as Gram-positive diplococci, not rods.",
+    "c": "N. meningitidis appears as Gram-negative diplococci.",
+    "d": "H. influenzae appears as pleomorphic Gram-negative coccobacilli.",
+    "e": "Group B Streptococcus is listed as a neonatal and young infant pathogen and is a coccus, not a rod."
+   },
+   "topic": "Bacterial Meningitis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "ID",
+    "name": "Infectious Diseases"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 735,
+    "reference": "ID17 — Meningitis: Table 19 Common Organisms and CSF Gram Stain Findings"
+   }
+  },
+  {
+   "id": "TN-ID-012",
+   "type": "single-best-answer",
+   "question": "A 58-year-old man with a long-standing alcohol use disorder is brought in with fever, headache, photophobia, and neck stiffness that began this morning. He is drowsy but has no focal neurological deficit and no papilloedema. Blood cultures are drawn and lumbar puncture performed immediately; the cerebrospinal fluid is turbid and the Gram stain result is pending. Which is the best initial empiric antimicrobial regimen?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Ceftriaxone alone"
+    },
+    {
+     "id": "b",
+     "text": "Ceftriaxone plus vancomycin"
+    },
+    {
+     "id": "c",
+     "text": "Ceftriaxone plus vancomycin plus ampicillin"
+    },
+    {
+     "id": "d",
+     "text": "Ampicillin plus cefotaxime"
+    },
+    {
+     "id": "e",
+     "text": "Vancomycin plus gentamicin"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "Toronto Notes gives empiric therapy for suspected bacterial meningitis in patients over 3 months of age as ceftriaxone plus vancomycin, and specifies adding IV ampicillin when risk factors for Listeria monocytogenes are present, namely age over 50, alcohol use disorder, or immunocompromise. This patient has an alcohol use disorder, so ampicillin must be added.",
+   "optionExplanations": {
+    "a": "Ceftriaxone monotherapy omits vancomycin for resistant pneumococcus and ampicillin for Listeria.",
+    "b": "This is the standard regimen for patients over 3 months without Listeria risk factors, but his alcohol use disorder requires added ampicillin.",
+    "d": "Ampicillin plus cefotaxime is the regimen recommended for neonates under 28 days of age.",
+    "e": "Vancomycin plus gentamicin is an endocarditis regimen and provides inadequate CNS coverage of the expected meningitis pathogens."
+   },
+   "topic": "Empiric Therapy of Bacterial Meningitis",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "ID",
+    "name": "Infectious Diseases"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 736,
+    "reference": "ID18 — Meningitis: Treatment"
+   }
+  },
+  {
+   "id": "TN-ID-013",
+   "type": "single-best-answer",
+   "question": "A 36-year-old woman awoke to find a bat flying in her bedroom and has a small puncture wound on her forearm. The bat escaped and is unavailable for testing. She has never received rabies vaccine. The exposure has been reported to the local public health authority, and she is otherwise well with a clean-appearing wound and no systemic symptoms. Which is the most appropriate post-exposure management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Thorough wound cleansing, rabies immunoglobulin infiltrated into the wound site, and rabies vaccine on days 0, 3, 7, and 14"
+    },
+    {
+     "id": "b",
+     "text": "Thorough wound cleansing and rabies vaccine on days 0 and 3 only"
+    },
+    {
+     "id": "c",
+     "text": "Thorough wound cleansing and rabies immunoglobulin alone"
+    },
+    {
+     "id": "d",
+     "text": "Thorough wound cleansing and rabies vaccine given into the gluteal muscle without immunoglobulin"
+    },
+    {
+     "id": "e",
+     "text": "Thorough wound cleansing and observation, reserving prophylaxis until symptoms develop"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "For a person not previously immunised, Toronto Notes specifies cleaning the wound promptly and thoroughly with soap and running water for 15 minutes, passive immunisation with rabies immunoglobulin infiltrated into the wound site with any remaining volume given IM at a distant site, and active immunisation with human diploid cell rabies vaccine as a series of four doses on days 0, 3, 7, and 14.",
+   "optionExplanations": {
+    "b": "The two-dose day 0 and day 3 schedule without immunoglobulin applies only to people who were previously immunised.",
+    "c": "Immunoglobulin alone omits active immunisation, which is part of the recommended regimen in unimmunised people.",
+    "d": "Because of variable response rates the vaccine should be given into the deltoid rather than the gluteal muscle, and immunoglobulin is required in unimmunised people.",
+    "e": "Once prodromal symptoms develop there is rapid, irreversible progression to death, and treatment is only supportive at that point."
+   },
+   "topic": "Rabies Post-Exposure Prophylaxis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "ID",
+    "name": "Infectious Diseases"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 738,
+    "reference": "ID20 — Rabies: Treatment"
+   }
+  },
+  {
+   "id": "TN-ID-014",
+   "type": "single-best-answer",
+   "question": "A 27-year-old man presents in July, ten days after a camping trip in southeastern Ontario. He reports fatigue, headache, and myalgias. Examination reveals a 9 cm expanding, non-pruritic, erythematous annular lesion with central clearing on his posterior thigh. He is afebrile, with no cranial nerve palsy, no joint swelling, and a normal cardiac examination. Which is the best initial antimicrobial therapy?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Doxycycline"
+    },
+    {
+     "id": "b",
+     "text": "Ceftriaxone"
+    },
+    {
+     "id": "c",
+     "text": "Azithromycin"
+    },
+    {
+     "id": "d",
+     "text": "Trimethoprim-sulfamethoxazole"
+    },
+    {
+     "id": "e",
+     "text": "Ciprofloxacin"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Erythema migrans, an expanding non-pruritic bulls-eye lesion appearing 7-14 days after a tick bite, defines stage 1 early localised Lyme disease, which Toronto Notes notes is primarily a clinical diagnosis because serology may be negative at this stage. Treatment of stage 1 is doxycycline, amoxicillin, or cefuroxime.",
+   "optionExplanations": {
+    "b": "Ceftriaxone is listed for stage 2 and stage 3 disease, and he has no neurologic, cardiac, or arthritic involvement.",
+    "c": "Azithromycin is not among the agents listed for any stage of Lyme disease.",
+    "d": "Trimethoprim-sulfamethoxazole is not a listed treatment for Lyme disease.",
+    "e": "Ciprofloxacin is not a listed treatment for Lyme disease."
+   },
+   "topic": "Lyme Disease",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "ID",
+    "name": "Infectious Diseases"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 740,
+    "reference": "ID22 — Lyme Disease: Clinical Features and Treatment"
+   }
+  },
+  {
+   "id": "TN-ID-015",
+   "type": "single-best-answer",
+   "question": "A 26-year-old man presents with a solitary, painless, indurated ulcer on the penile shaft that appeared ten days ago, together with non-tender bilateral inguinal lymphadenopathy. He has no rash, fever, or neurological symptoms. Public health laboratory testing confirms syphilis. He has no drug allergies and no evidence of tertiary or neurological disease. Which is the best initial treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Benzathine penicillin G 2.4 million units IM as a single dose"
+    },
+    {
+     "id": "b",
+     "text": "Benzathine penicillin G 2.4 million units IM weekly for three weeks"
+    },
+    {
+     "id": "c",
+     "text": "Doxycycline 100 mg PO BID for 14 days"
+    },
+    {
+     "id": "d",
+     "text": "Aqueous penicillin G 16-24 million units per day IV for 14 days"
+    },
+    {
+     "id": "e",
+     "text": "Penicillin G IV for 10 days"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "A painless chancre at the inoculation site with regional lymphadenopathy 3-90 days after infection defines primary syphilis. Toronto Notes gives the treatment for primary, secondary, and early latent syphilis as benzathine penicillin G 2.4 million units IM once. He has no penicillin allergy, so first-line therapy applies.",
+   "optionExplanations": {
+    "b": "Three weekly doses are reserved for tertiary and late latent syphilis, where a longer treatment duration is required.",
+    "c": "Doxycycline for 14 days is second-line therapy only for patients who are truly penicillin-allergic.",
+    "d": "High-dose IV aqueous penicillin G for 14 days is the neurosyphilis regimen, and he has no neurological features.",
+    "e": "A 10-day IV penicillin G course is the regimen specified for congenital syphilis."
+   },
+   "topic": "Syphilis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "ID",
+    "name": "Infectious Diseases"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 743,
+    "reference": "ID25 — Syphilis: Treatment"
+   }
+  },
+  {
+   "id": "TN-ID-016",
+   "type": "single-best-answer",
+   "question": "A 43-year-old man who immigrated from a country with high tuberculosis prevalence presents with three months of productive cough, night sweats, and 8 kg of weight loss. Chest x-ray shows a right apical cavitary infiltrate. Three sputum specimens are smear-positive for acid-fast bacilli and culture later confirms fully susceptible Mycobacterium tuberculosis. He is HIV-negative, is not pregnant-capable, and has normal liver enzymes. Which is the best initial treatment regimen?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Isoniazid, rifampin, pyrazinamide, and ethambutol for 2 months, then isoniazid and rifampin for 4 months"
+    },
+    {
+     "id": "b",
+     "text": "Isoniazid and rifampin for 6 months"
+    },
+    {
+     "id": "c",
+     "text": "Rifampin daily for 4 months"
+    },
+    {
+     "id": "d",
+     "text": "Isoniazid with pyridoxine daily for 9 months"
+    },
+    {
+     "id": "e",
+     "text": "Isoniazid with pyridoxine plus rifapentine weekly for 3 months"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes specifies that pulmonary tuberculosis disease is treated with isoniazid, rifampin, pyrazinamide, and ethambutol for a 2-month initiation phase, followed by isoniazid and rifampin for 4 months in fully susceptible disease, for a total of 6 months. The continuation phase is extended to 7 months only if the patient is over 65, pregnant, or at risk of hepatotoxicity.",
+   "optionExplanations": {
+    "b": "Two-drug therapy from the outset omits the four-drug initiation phase required for active disease and risks resistance.",
+    "c": "Rifampin daily for 4 months is a regimen for preventing reactivation of latent infection, and active disease must be ruled out before using it.",
+    "d": "Isoniazid with pyridoxine for 9 months is a latent tuberculosis infection regimen, not treatment of active disease.",
+    "e": "Weekly isoniazid, pyridoxine, and rifapentine for 3 months is also a latent tuberculosis infection regimen."
+   },
+   "topic": "Tuberculosis",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "ID",
+    "name": "Infectious Diseases"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 744,
+    "reference": "ID26 — Tuberculosis: Prevention and Treatment of TB Disease"
+   }
+  },
+  {
+   "id": "TN-ID-017",
+   "type": "single-best-answer",
+   "question": "A 38-year-old man is newly diagnosed with HIV and is currently asymptomatic. His baseline CD4 count is 140 cells/mm3 and HIV RNA is 85,000 copies/mL. Toxoplasma IgG is negative, tuberculin skin test induration measures 0 mm with no known contact with active tuberculosis, and he has had no opportunistic infection. Antiretroviral therapy is being arranged. Which prophylactic regimen is most appropriate to start now?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Trimethoprim-sulfamethoxazole once daily"
+    },
+    {
+     "id": "b",
+     "text": "Azithromycin once weekly"
+    },
+    {
+     "id": "c",
+     "text": "Isoniazid with pyridoxine daily for 9 months"
+    },
+    {
+     "id": "d",
+     "text": "Fluconazole once daily"
+    },
+    {
+     "id": "e",
+     "text": "Valganciclovir once daily"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes lists prophylaxis against Pneumocystis jirovecii as indicated when the CD4 count falls below 200 cells/mm3, with TMP/SMX single or double strength once daily as the preferred regimen. His CD4 count of 140 crosses that threshold, whereas the thresholds and indications for the other listed prophylaxes are not met.",
+   "optionExplanations": {
+    "b": "Mycobacterium avium complex prophylaxis is considered at a CD4 count under 50 cells/mm3, and no prophylaxis is needed if patients are started on antiretroviral therapy.",
+    "c": "Isoniazid with pyridoxine is indicated for a PPD reaction of 5 mm or greater or contact with a case of active tuberculosis, neither of which is present.",
+    "d": "Fluconazole is not listed as routine primary prophylaxis in the opportunistic infection prophylaxis table.",
+    "e": "Valganciclovir targets CMV, which becomes a concern at CD4 counts under 50 cells/mm3, and it is not listed as routine prophylaxis."
+   },
+   "topic": "HIV Opportunistic Infection Prophylaxis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "ID",
+    "name": "Infectious Diseases"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 747,
+    "reference": "ID29 — Table 23. Prophylaxis Against Opportunistic Infections in HIV-infected Patients"
+   }
+  },
+  {
+   "id": "TN-ID-018",
+   "type": "single-best-answer",
+   "question": "A 24-year-old woman returns from a two-week holiday at urban Caribbean resorts and presents five days later with abrupt high fever, severe frontal and retro-orbital headache, marked myalgias and arthralgias, and a diffuse rash. She recalls daytime mosquito bites and took no antimalarial prophylaxis. Bloodwork shows leukopenia and a platelet count of 88 x 10^9/L. There is no jaundice, eschar, or splenomegaly. Which is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Dengue"
+    },
+    {
+     "id": "b",
+     "text": "Malaria"
+    },
+    {
+     "id": "c",
+     "text": "Typhoid (enteric) fever"
+    },
+    {
+     "id": "d",
+     "text": "Tick typhus"
+    },
+    {
+     "id": "e",
+     "text": "Infectious mononucleosis"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes describes dengue as occurring in Southeast Asia and the Caribbean, usually transmitted by urban day-biting mosquitoes, with an incubation period of 3 days to 2 weeks and sudden onset of fever, headache, retro-orbital pain, myalgias, and arthralgias accompanied by leukopenia and thrombocytopenia. Her exposure, timing, and laboratory findings match this profile.",
+   "optionExplanations": {
+    "b": "Malaria is listed for Africa, India, Central and South America, and Southeast Asia, typically with rural night-biting mosquitoes, and characteristically produces anemia and jaundice rather than retro-orbital pain.",
+    "c": "Typhoid produces a sustained fever of 39-40 C with abdominal pain, constipation, and positive stool, urine, or blood cultures, not an abrupt retro-orbital headache syndrome.",
+    "d": "Tick typhus occurs in the Mediterranean, South Africa, and India and features an eschar at the tick bite site with elevated liver enzymes.",
+    "e": "Mononucleosis has a 30-50 day incubation with malaise, pharyngitis, lymphadenopathy, and splenomegaly, none of which fits this 5-day presentation."
+   },
+   "topic": "Fever in the Returned Traveller",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "ID",
+    "name": "Infectious Diseases"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 761,
+    "reference": "ID43 — Table 30. Fever in the Returned Traveller"
+   }
+  }
+ ]
+}

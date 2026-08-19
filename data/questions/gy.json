@@ -1,0 +1,842 @@
+{
+ "chapter": {
+  "code": "GY",
+  "name": "Gynecology"
+ },
+ "document": {
+  "id": "toronto-notes-2025",
+  "title": "Toronto Notes 2025",
+  "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
+ },
+ "count": 18,
+ "questions": [
+  {
+   "id": "TN-GY-001",
+   "type": "single-best-answer",
+   "question": "A 29-year-old woman reports irritability, low mood, breast tenderness and abdominal bloating beginning about 5 days before each period and resolving within 4 days of the onset of menses. Symptoms have been recorded prospectively over two cycles and are interfering with her work performance. She takes no medications and drinks no alcohol. What is the most appropriate initial treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Estradiol patch 100 µg with micronized progesterone"
+    },
+    {
+     "id": "b",
+     "text": "Escitalopram 10 mg taken in the luteal phase"
+    },
+    {
+     "id": "c",
+     "text": "Citalopram 40 mg taken continuously"
+    },
+    {
+     "id": "d",
+     "text": "GnRH analogue with add-back hormone replacement therapy"
+    },
+    {
+     "id": "e",
+     "text": "Hysterectomy with bilateral salpingo-oophorectomy plus HRT"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Her pattern of affective and somatic symptoms confined to the 5 days before menses, resolving within 4 days of flow, reproduced over prospective cycles, and causing occupational dysfunction meets the diagnostic criteria for premenstrual syndrome. First-line management per the RCOG treatment ladder includes exercise, cognitive behavioural therapy, vitamin B6, chasteberry, combined hormonal contraception, and continuous or luteal-phase low-dose SSRIs such as citalopram/escitalopram 10 mg.",
+   "optionExplanations": {
+    "a": "Estradiol patches with micronized progesterone (or an LNG-IUS) are second-line, used after first-line measures fail.",
+    "c": "Higher-dose SSRIs (20-40 mg) are a later step reserved for failure of low-dose therapy.",
+    "d": "GnRH analogues with add-back HRT sit near the bottom of the ladder because of hypoestrogenic effects.",
+    "e": "Surgery with HRT is the last resort, not an initial option for a treatment-naive patient."
+   },
+   "topic": "Premenstrual Syndrome",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "GY",
+    "name": "Gynecology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 599,
+    "reference": "GY5 — Premenstrual Syndrome"
+   }
+  },
+  {
+   "id": "TN-GY-002",
+   "type": "single-best-answer",
+   "question": "A 16-year-old girl has never had a menstrual period. She has no breast development and no pubic or axillary hair. Pelvic ultrasound shows a small uterus and streak-like gonads. Serum FSH is markedly elevated and prolactin and TSH are normal. Which of the following is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Müllerian agenesis"
+    },
+    {
+     "id": "b",
+     "text": "Androgen insensitivity syndrome"
+    },
+    {
+     "id": "c",
+     "text": "Gonadal dysgenesis"
+    },
+    {
+     "id": "d",
+     "text": "Functional hypothalamic amenorrhea"
+    },
+    {
+     "id": "e",
+     "text": "Kallmann syndrome"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "Primary amenorrhea is classified by the presence of secondary sexual development and by FSH level. Absent secondary sexual characteristics with a high FSH indicates hypergonadotropic hypogonadism, whose classic cause is gonadal dysgenesis (e.g. Turner's XO or normal 46XX/46XY karyotypes); it is also listed as the most common cause of primary amenorrhea overall.",
+   "optionExplanations": {
+    "a": "Müllerian agenesis presents with normal breast development but abnormal uterine development, not absent secondary sexual characteristics.",
+    "b": "Androgen insensitivity also falls in the normal-breast, abnormal-uterus group.",
+    "d": "Functional hypothalamic amenorrhea produces low, not high, gonadotropins.",
+    "e": "Kallmann syndrome is a hypogonadotropic (low FSH) cause of pituitary failure."
+   },
+   "topic": "Amenorrhea",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "GY",
+    "name": "Gynecology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 601,
+    "reference": "GY7 — Disorders of Menstruation: Amenorrhea"
+   }
+  },
+  {
+   "id": "TN-GY-003",
+   "type": "single-best-answer",
+   "question": "A 17-year-old presents with recurrent crampy lower abdominal pain that starts a few hours before her menstrual flow and lasts about two days, radiating to her lower back and inner thighs, with nausea and fatigue. She has no dyspareunia, no intermenstrual bleeding, and is not sexually active. Physical examination is unremarkable. What is the most appropriate initial treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Scheduled naproxen begun before the onset of menstrual pain"
+    },
+    {
+     "id": "b",
+     "text": "Codeine analgesia taken once pain becomes severe"
+    },
+    {
+     "id": "c",
+     "text": "Insertion of a levonorgestrel intrauterine system"
+    },
+    {
+     "id": "d",
+     "text": "GnRH agonist with add-back therapy"
+    },
+    {
+     "id": "e",
+     "text": "Hysterectomy"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Recurrent crampy lower abdominal pain during menses in the absence of demonstrable disease, with prostaglandin-associated nausea and fatigue and no features of secondary dysmenorrhea, is primary dysmenorrhea. Treatment is regular exercise, local heat, and NSAIDs, which should be started before the onset of pain; combined hormonal contraceptives used continuously or in extended fashion are the other option.",
+   "optionExplanations": {
+    "b": "Waiting until pain is severe forfeits the benefit of NSAIDs, which work best when started before pain begins.",
+    "c": "Hormonal intrauterine therapy is not the described first-line approach for primary dysmenorrhea.",
+    "d": "GnRH agonists are reserved for secondary causes such as endometriosis, not uncomplicated primary dysmenorrhea.",
+    "e": "Surgery has no role in primary dysmenorrhea in an adolescent with a normal examination."
+   },
+   "topic": "Dysmenorrhea",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "GY",
+    "name": "Gynecology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 605,
+    "reference": "GY11 — Dysmenorrhea"
+   }
+  },
+  {
+   "id": "TN-GY-004",
+   "type": "single-best-answer",
+   "question": "A 30-year-old nulliparous woman has 3 years of worsening secondary dysmenorrhea, deep dyspareunia and cyclic dyschezia. Rectovaginal examination reveals tender nodularity of the uterosacral ligaments and a fixed retroverted uterus. Transvaginal ultrasound is reported as normal. Which investigation would establish a definitive diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Serum CA-125"
+    },
+    {
+     "id": "b",
+     "text": "Laparoscopy with biopsy of visualised lesions"
+    },
+    {
+     "id": "c",
+     "text": "Repeat transvaginal ultrasound in 3 months"
+    },
+    {
+     "id": "d",
+     "text": "Endometrial biopsy"
+    },
+    {
+     "id": "e",
+     "text": "Hysterosalpingography"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Her cyclic pain, deep dyspareunia, dyschezia and uterosacral nodularity with fixed retroversion are classic for endometriosis. Definitive diagnosis rests on direct visualisation of typical lesions at laparoscopy (the gold standard) together with histology showing two or more of endometrial epithelium, glands, stroma, or hemosiderin-laden macrophages.",
+   "optionExplanations": {
+    "a": "CA-125 may be elevated in endometriosis but should not be used as a diagnostic test.",
+    "c": "Ultrasound can detect endometriomas and deep infiltrating disease but a normal scan does not exclude endometriosis and it is not definitive.",
+    "d": "Endometrial biopsy samples the uterine cavity and cannot diagnose ectopic endometrial implants.",
+    "e": "Hysterosalpingography assesses tubal patency, not peritoneal endometriotic implants."
+   },
+   "topic": "Endometriosis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "GY",
+    "name": "Gynecology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 606,
+    "reference": "GY12 — Endometriosis: Investigations"
+   }
+  },
+  {
+   "id": "TN-GY-005",
+   "type": "single-best-answer",
+   "question": "A 27-year-old woman has cyclic pelvic pain, secondary dysmenorrhea and deep dyspareunia consistent with endometriosis. She has no adnexal mass, no bowel obstruction, is not attempting conception, and has no contraindication to estrogen. Her pain persists despite regular naproxen. Which of the following is the most appropriate next treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Continuous combined estrogen-progestin oral contraceptive"
+    },
+    {
+     "id": "b",
+     "text": "Leuprolide with add-back therapy"
+    },
+    {
+     "id": "c",
+     "text": "Danazol"
+    },
+    {
+     "id": "d",
+     "text": "Laparoscopic ablation of implants"
+    },
+    {
+     "id": "e",
+     "text": "Hysterectomy with bilateral salpingo-oophorectomy"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Surgical confirmation is not required before beginning medical management of endometriosis, and medical suppression is the mainstay of therapy. First-line options are cyclic or continuous estrogen-progestin contraception, progestins (e.g. depot medroxyprogesterone or oral dienogest) or a levonorgestrel IUS, with NSAIDs for pain.",
+   "optionExplanations": {
+    "b": "GnRH agonists such as leuprolide are second line and require add-back to prevent bone loss and vasomotor effects.",
+    "c": "Danazol is rarely used because of androgenic side effects including weight gain, acne, hirsutism and voice change.",
+    "d": "Surgery is limited to failure of medical treatment or desire for definitive treatment.",
+    "e": "Hysterectomy with BSO is the definitive surgical option, inappropriate as the next step in a 27-year-old with untried hormonal therapy."
+   },
+   "topic": "Endometriosis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "GY",
+    "name": "Gynecology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 607,
+    "reference": "GY13 — Endometriosis: Treatment"
+   }
+  },
+  {
+   "id": "TN-GY-006",
+   "type": "single-best-answer",
+   "question": "A 34-year-old woman with heavy menstrual bleeding has a 7 cm intramural fibroid and hemoglobin of 92 g/L. She wishes to preserve fertility and is booked for myomectomy in three months. Which of the following is the most appropriate treatment while she waits for surgery?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Leuprolide for three months preoperatively"
+    },
+    {
+     "id": "b",
+     "text": "Uterine artery embolization"
+    },
+    {
+     "id": "c",
+     "text": "Endometrial ablation"
+    },
+    {
+     "id": "d",
+     "text": "Danazol"
+    },
+    {
+     "id": "e",
+     "text": "Observation with oral iron alone"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "A GnRH agonist such as leuprolide is often given for 3 months preoperatively in fibroid patients because it reduces bleeding, shrinks the fibroid and corrects anemia, raising the hemoglobin before surgery. This is the preferred bridging strategy for a woman with symptomatic fibroids and anemia awaiting myomectomy.",
+   "optionExplanations": {
+    "b": "Uterine artery embolization should not be considered in patients planning future pregnancies and carries a higher risk of surgical re-intervention.",
+    "c": "Endometrial ablation should not be performed in patients planning future pregnancies.",
+    "d": "Danazol is not the described preoperative agent for fibroid shrinkage and anemia correction.",
+    "e": "Iron alone treats the anemia but does not reduce bleeding or fibroid size before surgery."
+   },
+   "topic": "Uterine Fibroids",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "GY",
+    "name": "Gynecology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 609,
+    "reference": "GY15 — Fibroids: Treatment"
+   }
+  },
+  {
+   "id": "TN-GY-007",
+   "type": "single-best-answer",
+   "question": "A 22-year-old woman taking a 28-day monophasic combined oral contraceptive realises she has missed three consecutive active pills during the third week of her pack. She had unprotected intercourse two days ago and does not wish to become pregnant. What is the most appropriate advice?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Take one pill now, continue daily to the end of the pack, then take the placebo pills as usual"
+    },
+    {
+     "id": "b",
+     "text": "Take one pill now, finish the active pills, skip the placebo and start the next pack immediately, with back-up contraception for 7 days and consideration of emergency contraception"
+    },
+    {
+     "id": "c",
+     "text": "Stop the pack, wait for a withdrawal bleed and start a new pack on the first day of bleeding"
+    },
+    {
+     "id": "d",
+     "text": "Take three pills now to catch up and continue the pack as scheduled without back-up"
+    },
+    {
+     "id": "e",
+     "text": "Continue the pack unchanged; no back-up contraception is needed after week two"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "When three or more pills are missed during the second or third week, the patient should take one pill as soon as possible, continue one pill daily to the end of the pack, omit the placebo (or hormone-free interval) and start the next pack immediately. Back-up contraception is required for 7 days and emergency postcoital contraception may be necessary given recent intercourse.",
+   "optionExplanations": {
+    "a": "Taking the placebo week extends the hormone-free interval and risks ovulation after three missed pills.",
+    "c": "Deliberately inducing a withdrawal bleed prolongs the unprotected interval.",
+    "d": "Doubling up on pills is not the recommended regimen, and back-up contraception is still required.",
+    "e": "Back-up contraception for 7 days is needed when 3 or more pills are missed in the second or third week."
+   },
+   "topic": "Contraception",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "GY",
+    "name": "Gynecology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 611,
+    "reference": "GY17 — Missed Combined OCPs"
+   }
+  },
+  {
+   "id": "TN-GY-008",
+   "type": "single-best-answer",
+   "question": "A 34-year-old woman who smokes and had a deep vein thrombosis three years ago requests highly effective, reversible contraception. She also reports heavy, painful periods and does not want to conceive for at least five years. Her cervical swabs for gonorrhea and chlamydia are negative. Which of the following is the most appropriate contraceptive method?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Combined oral contraceptive pill"
+    },
+    {
+     "id": "b",
+     "text": "Contraceptive vaginal ring"
+    },
+    {
+     "id": "c",
+     "text": "Transdermal contraceptive patch"
+    },
+    {
+     "id": "d",
+     "text": "Levonorgestrel-releasing intrauterine system"
+    },
+    {
+     "id": "e",
+     "text": "Copper intrauterine device"
+    }
+   ],
+   "correctAnswer": "d",
+   "explanation": "Intrauterine systems contain no estrogen, so they can be used in smokers and in women with hypertension or previous venous thromboembolism, and fertility returns rapidly after removal. The progesterone-releasing IUS decidualises the endometrium and is preferred over the copper device for a woman with heavy, painful periods.",
+   "optionExplanations": {
+    "a": "Estrogen-containing contraception is contraindicated after a prior thromboembolic event.",
+    "b": "The ring delivers ethinyl estradiol and carries the same estrogen-related thrombotic risk.",
+    "c": "The patch is also a combined estrogen-progestin method and is unsuitable after VTE.",
+    "e": "The copper IUS increases blood loss and duration of menses and causes dysmenorrhea, which would worsen her symptoms."
+   },
+   "topic": "Contraception",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "GY",
+    "name": "Gynecology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 612,
+    "reference": "GY18 — Intrauterine Device"
+   }
+  },
+  {
+   "id": "TN-GY-009",
+   "type": "single-best-answer",
+   "question": "A 25-year-old woman weighing 85 kg presents 96 hours after a single episode of unprotected intercourse on day 12 of her cycle. Her pregnancy test is negative and she has no genital tract infection. She would also like to begin an ongoing method of contraception the same day. Which option provides the most effective emergency contraception?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Insertion of a copper intrauterine device"
+    },
+    {
+     "id": "b",
+     "text": "Levonorgestrel 750 µg for two doses"
+    },
+    {
+     "id": "c",
+     "text": "Yuzpe method with combined oral contraceptive tablets"
+    },
+    {
+     "id": "d",
+     "text": "Ulipristal acetate 30 mg orally"
+    },
+    {
+     "id": "e",
+     "text": "Immediate initiation of a combined oral contraceptive pill pack"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "A postcoital copper IUD may be inserted up to 7 days after intercourse, is 99.9% effective with about a 1% failure rate, and simultaneously provides ongoing long-acting contraception. At 96 hours in a woman weighing 85 kg it is the most effective option available.",
+   "optionExplanations": {
+    "b": "Levonorgestrel is ideally given within 72 hours, loses efficacy with time, and is less effective above 75 kg and not recommended above 80 kg.",
+    "c": "The Yuzpe method is used within 72 hours, ideally within 24 hours, with efficacy falling markedly by 72 hours.",
+    "d": "Ulipristal can be used within 5 days but is less effective than the copper IUD and delays restarting combined contraception by 14 days.",
+    "e": "Starting a combined pill pack is not an emergency contraceptive regimen."
+   },
+   "topic": "Emergency Contraception",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "GY",
+    "name": "Gynecology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 613,
+    "reference": "GY19 — Emergency Postcoital Contraception"
+   }
+  },
+  {
+   "id": "TN-GY-010",
+   "type": "single-best-answer",
+   "question": "A 27-year-old woman with 6 weeks of amenorrhea has right lower quadrant pain and light vaginal bleeding. She is hemodynamically stable. Serum β-hCG is 3200 mIU/mL and transvaginal ultrasound shows an empty uterus with a 2.5 cm right adnexal mass and no fetal heart activity. Renal, hepatic and hematologic investigations are normal and she is reliable for follow-up. What is the most appropriate treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Single intramuscular dose of methotrexate"
+    },
+    {
+     "id": "b",
+     "text": "Laparoscopic salpingectomy"
+    },
+    {
+     "id": "c",
+     "text": "Laparoscopic linear salpingostomy"
+    },
+    {
+     "id": "d",
+     "text": "Expectant management with serial β-hCG"
+    },
+    {
+     "id": "e",
+     "text": "Exploratory laparotomy"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Medical management is appropriate for an unruptured ectopic under 3.5 cm with no fetal heart rate, β-hCG below 5000, no hepatic, renal or hematologic disease, assured compliance and willingness to follow up — all of which she satisfies. Methotrexate is given as a one-time IM dose with β-hCG monitored on days 4 and 7 and then weekly.",
+   "optionExplanations": {
+    "b": "Salpingectomy is reserved for a damaged tube, ipsilateral recurrence, or when medical criteria are not met.",
+    "c": "Salpingostomy is a surgical option when the tube is salvageable but carries a 15% risk of persistent trophoblast; surgery is not required here.",
+    "d": "Expectant management applies only when β-hCG is low and declining.",
+    "e": "Laparotomy is reserved for hemodynamic instability or extensive prior abdominal surgery."
+   },
+   "topic": "Ectopic Pregnancy",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "GY",
+    "name": "Gynecology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 616,
+    "reference": "GY22 — Algorithm for Suspected Ectopic Pregnancy"
+   }
+  },
+  {
+   "id": "TN-GY-011",
+   "type": "single-best-answer",
+   "question": "A 37-year-old woman and her partner have had regular unprotected intercourse for 7 months without conceiving. She has regular cycles, no history of pelvic inflammatory disease, pelvic surgery, chemotherapy or recurrent pregnancy loss. Her partner has no relevant history. What is the most appropriate next step?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Reassure and advise trying for a further 5 months before any testing"
+    },
+    {
+     "id": "b",
+     "text": "Begin infertility investigation of both partners now"
+    },
+    {
+     "id": "c",
+     "text": "Investigate only the female partner after 2 years of trying"
+    },
+    {
+     "id": "d",
+     "text": "Refer directly for in vitro fertilization"
+    },
+    {
+     "id": "e",
+     "text": "Start empiric clomiphene citrate without investigation"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Investigations should begin after 1 year of regular unprotected intercourse in women under 35, after more than 6 months in those aged 35-40, and immediately in women over 40. At 37 with 7 months of trying she meets the threshold, and both members of the couple must be investigated.",
+   "optionExplanations": {
+    "a": "Waiting a further 5 months ignores the earlier threshold that applies between ages 35 and 40.",
+    "c": "Both partners must be investigated, and a 2-year delay is not supported at her age.",
+    "d": "Referral for assisted reproduction precedes no diagnostic workup; the cause has not yet been established.",
+    "e": "Ovulation induction is not appropriate before investigation, particularly as her cycles are regular."
+   },
+   "topic": "Infertility",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "GY",
+    "name": "Gynecology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 617,
+    "reference": "GY23 — Infertility: When Should Investigations Begin"
+   }
+  },
+  {
+   "id": "TN-GY-012",
+   "type": "single-best-answer",
+   "question": "A 23-year-old woman reports having only five periods in the past year, increasing facial and chest hair, and acne. Her BMI is 32 kg/m2 and she has darkened skin folds in the axillae. Free testosterone is raised, while prolactin, TSH and 17-hydroxyprogesterone are normal. Pelvic ultrasound shows multiple small follicles in both ovaries. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Polycystic ovarian syndrome"
+    },
+    {
+     "id": "b",
+     "text": "Late-onset congenital adrenal hyperplasia"
+    },
+    {
+     "id": "c",
+     "text": "Cushing's syndrome"
+    },
+    {
+     "id": "d",
+     "text": "Hyperprolactinemia"
+    },
+    {
+     "id": "e",
+     "text": "Androgen-secreting ovarian neoplasm"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The Rotterdam criteria require 2 of 3: oligomenorrhea or irregular menses, hyperandrogenism (clinical hirsutism or acne, or raised free testosterone), and polycystic ovaries on ultrasound. She fulfils all three, and acanthosis nigricans reflects the insulin resistance that accompanies PCOS.",
+   "optionExplanations": {
+    "b": "Late-onset congenital adrenal hyperplasia from 21-hydroxylase deficiency is excluded by a normal 17-hydroxyprogesterone.",
+    "c": "Cushing's syndrome is a mimic of PCOS but is not supported by these findings.",
+    "d": "Prolactin is normal, excluding hyperprolactinemia as the cause of her oligomenorrhea.",
+    "e": "Androgen-secreting neoplasms typically cause rapid virilization rather than this gradual picture with bilateral polycystic ovaries."
+   },
+   "topic": "Polycystic Ovarian Syndrome",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "GY",
+    "name": "Gynecology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 619,
+    "reference": "GY25 — Polycystic Ovarian Syndrome: Diagnosis"
+   }
+  },
+  {
+   "id": "TN-GY-013",
+   "type": "single-best-answer",
+   "question": "A 32-year-old woman has a Pap test showing a high-grade abnormality, and colposcopically directed biopsy confirms HSIL (CIN II). The transformation zone was fully visualised, there is no lesion extending into the endocervical canal, and there is no suspicion of invasive disease. What is the most appropriate management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Excisional procedure such as LEEP or cold knife cone"
+    },
+    {
+     "id": "b",
+     "text": "Repeat cytology in 12 months"
+    },
+    {
+     "id": "c",
+     "text": "Colposcopy every 6 months for 2 years"
+    },
+    {
+     "id": "d",
+     "text": "Annual Pap tests by her primary care provider for 3 years"
+    },
+    {
+     "id": "e",
+     "text": "Total hysterectomy"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "For women 25 years and older with HSIL (CIN II/CIN III) on colposcopic histology, excisional procedures such as cold knife conization or LEEP, or laser, are the preferred management. Those with positive margins require follow-up colposcopy with directed biopsies and/or endocervical curettage.",
+   "optionExplanations": {
+    "b": "Repeat cytology alone leaves a high-grade precancerous lesion untreated.",
+    "c": "Six-monthly colposcopy for 2 years is an option offered to women under 25, not to a 32-year-old.",
+    "d": "Serial annual Paps by primary care apply to women under 25 with LSIL, ASCUS or normal cytology.",
+    "e": "Hysterectomy is not the treatment for HSIL; excision preserves the uterus and provides histology."
+   },
+   "topic": "Cervical Dysplasia",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "GY",
+    "name": "Gynecology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 644,
+    "reference": "GY50 — Management of Abnormal Cervical Histology"
+   }
+  },
+  {
+   "id": "TN-GY-014",
+   "type": "single-best-answer",
+   "question": "A 19-year-old woman has 3 days of lower abdominal pain, purulent cervical discharge and a temperature of 38.6°C. Examination reveals cervical motion, uterine and right adnexal tenderness. Transvaginal ultrasound demonstrates a 5 cm tubo-ovarian abscess. She is not pregnant. What is the most appropriate management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Admission for intravenous cefoxitin plus doxycycline"
+    },
+    {
+     "id": "b",
+     "text": "Outpatient ceftriaxone 500 mg IM once plus doxycycline 100 mg PO BID for 14 days"
+    },
+    {
+     "id": "c",
+     "text": "Outpatient levofloxacin 500 mg PO daily for 14 days"
+    },
+    {
+     "id": "d",
+     "text": "Outpatient metronidazole 500 mg PO BID for 14 days alone"
+    },
+    {
+     "id": "e",
+     "text": "Oral azithromycin 1 g single dose with review in one week"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Her cervical motion, uterine and adnexal tenderness with fever above 38.3°C confirm pelvic inflammatory disease. An adnexal or tubo-ovarian mass or pelvic abscess is an indication for inpatient management, as are moderate to severe illness, pregnancy, an adolescent first episode and immunocompromise. Inpatient therapy is IV cefoxitin plus doxycycline (or clindamycin with gentamicin), continued for 24 hours after improvement then oral doxycycline with metronidazole to complete 14 days.",
+   "optionExplanations": {
+    "b": "Outpatient regimens are for typical findings and mild to moderate illness without a tubo-ovarian mass.",
+    "c": "Levofloxacin is a second-line outpatient regimen and does not address the need for admission.",
+    "d": "Metronidazole alone lacks the required polymicrobial coverage against C. trachomatis and N. gonorrhoeae.",
+    "e": "A single oral dose with delayed review is inadequate for a tubo-ovarian abscess."
+   },
+   "topic": "Pelvic Inflammatory Disease",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "GY",
+    "name": "Gynecology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 627,
+    "reference": "GY33 — Inpatient and Outpatient Management of PID"
+   }
+  },
+  {
+   "id": "TN-GY-015",
+   "type": "single-best-answer",
+   "question": "A 53-year-old woman has had no menses for 18 months and reports frequent hot flushes, night sweats and disturbed sleep that have not improved with behavioural and lifestyle measures. She has no history of breast or endometrial cancer, thromboembolism or cardiovascular disease. What is the most appropriate initial treatment for her vasomotor symptoms?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Menopausal hormone therapy"
+    },
+    {
+     "id": "b",
+     "text": "Venlafaxine"
+    },
+    {
+     "id": "c",
+     "text": "Gabapentin"
+    },
+    {
+     "id": "d",
+     "text": "Clonidine"
+    },
+    {
+     "id": "e",
+     "text": "Vaginal estrogen cream"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Absence of menses for one year defines menopause, and vasomotor instability is its cardinal symptom. Menopausal hormone therapy is first-line treatment for vasomotor instability, with SSRIs, venlafaxine, gabapentin, propranolol, clonidine, acupuncture and behavioural modification as alternatives. She has none of the contraindications that would preclude hormone therapy.",
+   "optionExplanations": {
+    "b": "Venlafaxine is an alternative for women who cannot or prefer not to take hormone therapy.",
+    "c": "Gabapentin is a non-hormonal alternative rather than first-line therapy.",
+    "d": "Clonidine is likewise a second-line non-hormonal option.",
+    "e": "Local estrogen treats urogenital atrophy and is recommended when that is the only indication; it does not control systemic vasomotor symptoms."
+   },
+   "topic": "Menopause",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "GY",
+    "name": "Gynecology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 630,
+    "reference": "GY36 — Menopause: Treatment"
+   }
+  },
+  {
+   "id": "TN-GY-016",
+   "type": "single-best-answer",
+   "question": "A 52-year-old woman with an intact uterus, 2 years past her last menstrual period, has disabling hot flushes. She is free of breast and endometrial cancer, thromboembolism and coronary disease, and her 10-year cardiovascular risk is low. Her physician plans to start transdermal 17β-estradiol. Which additional step is most appropriate?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Add a progestin to the regimen"
+    },
+    {
+     "id": "b",
+     "text": "Continue estrogen alone and monitor endometrial thickness annually"
+    },
+    {
+     "id": "c",
+     "text": "Switch to low-dose vaginal estrogen only"
+    },
+    {
+     "id": "d",
+     "text": "Add low-dose paroxetine"
+    },
+    {
+     "id": "e",
+     "text": "Add a bisphosphonate"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Progestin is given in combination with estrogen for patients with an intact uterus to prevent endometrial hyperplasia and cancer; endometrial hyperplasia and cancer are listed risks of estrogen-only regimens when the uterus is in situ. Hormone therapy is otherwise appropriate here because she is within 10 years of menopause, under 60, and free of contraindications.",
+   "optionExplanations": {
+    "b": "Surveillance does not prevent the hyperplasia and cancer risk created by unopposed estrogen.",
+    "c": "Local vaginal estrogen is recommended when vulvovaginal atrophy is the only indication and will not relieve disabling hot flushes.",
+    "d": "SSRIs are alternatives for women who cannot take hormone therapy, not an adjunct that protects the endometrium.",
+    "e": "Bisphosphonates address osteoporosis and confer no endometrial protection."
+   },
+   "topic": "Menopause Hormone Therapy",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "GY",
+    "name": "Gynecology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 631,
+    "reference": "GY37 — Menopause Hormone Therapy"
+   }
+  },
+  {
+   "id": "TN-GY-017",
+   "type": "single-best-answer",
+   "question": "A 64-year-old para 4 woman describes urinary frequency, urgency, nocturia and loss of urine when she coughs, along with a sensation of incomplete bladder emptying and two urinary tract infections this year. On examination with straining, a soft bulge protrudes from the anterior vaginal wall; the cervix remains high and the posterior wall is well supported. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Anterior vaginal wall prolapse"
+    },
+    {
+     "id": "b",
+     "text": "Posterior vaginal wall prolapse"
+    },
+    {
+     "id": "c",
+     "text": "Uterine prolapse"
+    },
+    {
+     "id": "d",
+     "text": "Vaginal vault prolapse"
+    },
+    {
+     "id": "e",
+     "text": "Rectal prolapse"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Anterior vaginal wall prolapse, previously called cystocele, is protrusion of the bladder into the anterior vaginal wall and presents with frequency, urgency, nocturia, stress incontinence and incomplete bladder emptying with an associated increase in urinary tract infections. Her anterior wall bulge with a well-supported cervix and posterior wall fits this pattern.",
+   "optionExplanations": {
+    "b": "Posterior wall prolapse causes straining or digitation to evacuate stool and constipation rather than urinary symptoms.",
+    "c": "Uterine prolapse involves descent of the cervix and uterus, but her cervix remains high.",
+    "d": "Vault prolapse is an apical prolapse of the vaginal apex occurring after hysterectomy, which she has not had.",
+    "e": "Rectal prolapse is a protrusion through the anus, not a bulge of the anterior vaginal wall."
+   },
+   "topic": "Pelvic Organ Prolapse",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "GY",
+    "name": "Gynecology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 634,
+    "reference": "GY40 — Types and Management of Pelvic Organ Prolapse"
+   }
+  },
+  {
+   "id": "TN-GY-018",
+   "type": "single-best-answer",
+   "question": "A 64-year-old woman who is nulliparous, obese and has type 2 diabetes presents with painless vaginal bleeding 12 years after her last menstrual period. Her cervix appears normal on speculum examination. Transvaginal ultrasound shows an endometrial thickness of 12 mm with no adnexal mass. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Atrophic vaginitis"
+    },
+    {
+     "id": "b",
+     "text": "Endometrial carcinoma"
+    },
+    {
+     "id": "c",
+     "text": "Cervical carcinoma"
+    },
+    {
+     "id": "d",
+     "text": "Uterine leiomyoma"
+    },
+    {
+     "id": "e",
+     "text": "Granulosa cell tumour of the ovary"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Postmenopausal bleeding is endometrial cancer until proven otherwise, and 95% of cases present with vaginal bleeding. An endometrial thickness above 5 mm is abnormal in a postmenopausal woman, and her obesity, diabetes and nulliparity are classic unopposed-estrogen risk factors for type I endometrial carcinoma.",
+   "optionExplanations": {
+    "a": "Atrophic change is a benign cause of bleeding but cannot be assumed with a thickened 12 mm endometrium and multiple risk factors.",
+    "c": "The cervix appears normal, and cervical carcinoma is less common than endometrial cancer in North America.",
+    "d": "Fibroids typically regress after menopause and cause heavy premenopausal bleeding rather than postmenopausal bleeding.",
+    "e": "An estrogen-producing granulosa cell tumour can cause postmenopausal bleeding but no adnexal mass is seen."
+   },
+   "topic": "Endometrial Carcinoma",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "GY",
+    "name": "Gynecology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 636,
+    "reference": "GY42 — Endometrial Carcinoma"
+   }
+  }
+ ]
+}

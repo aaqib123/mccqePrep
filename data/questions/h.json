@@ -1,0 +1,658 @@
+{
+ "chapter": {
+  "code": "H",
+  "name": "Hematology"
+ },
+ "document": {
+  "id": "toronto-notes-2025",
+  "title": "Toronto Notes 2025",
+  "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
+ },
+ "count": 14,
+ "questions": [
+  {
+   "id": "TN-H-001",
+   "type": "single-best-answer",
+   "question": "A 38-year-old woman reports six months of fatigue, reduced exercise tolerance, and a persistent craving to chew ice. She has heavy menstrual bleeding lasting seven days each cycle. Examination shows conjunctival pallor and brittle, spooned nails. Hemoglobin is 96 g/L with an MCV of 74 fL. The blood film shows hypochromic microcytic red cells with pencil forms, and serum ferritin is 8 ug/L. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Iron deficiency anemia"
+    },
+    {
+     "id": "b",
+     "text": "Anemia of chronic disease"
+    },
+    {
+     "id": "c",
+     "text": "Beta-thalassemia trait"
+    },
+    {
+     "id": "d",
+     "text": "Sideroblastic anemia"
+    },
+    {
+     "id": "e",
+     "text": "Lead poisoning"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states that a ferritin below 30 ug/L is diagnostic of iron deficiency, and lists pica (appetite for non-food substances such as ice), koilonychia, and brittle hair among the clinical features. The peripheral film in iron deficiency shows hypochromic microcytosis with pencil forms (oval-shaped RBCs), anisocytosis, and target cells. This woman's menorrhagia provides the mechanism of increased iron loss.",
+   "optionExplanations": {
+    "b": "Anemia of chronic disease is a low-reticulocyte microcytic anemia, but ferritin is an acute phase reactant that is elevated, not reduced to 8 ug/L.",
+    "c": "Thalassemia is listed as a microcytic anemia with high reticulocytes and does not deplete iron stores or cause a ferritin of 8 ug/L.",
+    "d": "Sideroblastic anemia is a microcytic anemia of decreased production but is not associated with depleted iron stores or pica.",
+    "e": "Lead poisoning causes a microcytic anemia with low reticulocytes but does not lower ferritin or produce koilonychia."
+   },
+   "topic": "Microcytic Anemia",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "H",
+    "name": "Hematology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 669,
+    "reference": "H15 — Iron Deficiency Anemia"
+   }
+  },
+  {
+   "id": "TN-H-002",
+   "type": "single-best-answer",
+   "question": "A 62-year-old man with long-standing rheumatoid arthritis is investigated for fatigue. Hemoglobin is 101 g/L with an MCV of 78 fL. C-reactive protein and erythrocyte sedimentation rate are markedly elevated, and liver enzymes are mildly abnormal. Serum ferritin is 96 ug/L. His physician suspects concurrent iron deficiency is contributing to the anemia. What is the most appropriate next investigation?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Complete iron indices with soluble transferrin receptor measurement"
+    },
+    {
+     "id": "b",
+     "text": "Repeat serum ferritin in three months"
+    },
+    {
+     "id": "c",
+     "text": "Hemoglobin electrophoresis"
+    },
+    {
+     "id": "d",
+     "text": "Serum erythropoietin level"
+    },
+    {
+     "id": "e",
+     "text": "Direct antiglobulin test"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes notes that ferritin is an acute phase reactant that is elevated in inflammatory conditions and liver disease, so a serum ferritin below 100 ug/L in these settings is suggestive of iron deficiency and necessitates further workup with complete iron indices and consideration of soluble transferrin receptor. Soluble transferrin receptor is specifically useful for identifying iron deficiency in chronic inflammatory disorders, where ferritin can be elevated despite low iron stores.",
+   "optionExplanations": {
+    "b": "Delaying reassessment does not resolve the diagnostic uncertainty created by inflammation raising the ferritin.",
+    "c": "Hemoglobin electrophoresis addresses hemoglobinopathy, which is not suggested here and would not clarify iron status.",
+    "d": "Serum erythropoietin is used to work up erythrocytosis, not to determine iron stores.",
+    "e": "The direct antiglobulin test screens for immune hemolysis, which is not suggested by a microcytic, non-hemolytic picture."
+   },
+   "topic": "Iron Indices in Inflammation",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "H",
+    "name": "Hematology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 669,
+    "reference": "H15 — Iron Indices / Iron Deficiency Anemia"
+   }
+  },
+  {
+   "id": "TN-H-003",
+   "type": "single-best-answer",
+   "question": "A 54-year-old man presents with headache, dizziness, tinnitus, and intense itching after warm showers. On examination he has a ruddy facial complexion and splenomegaly. Hemoglobin is 182 g/L and hematocrit is 54%. He does not smoke, has no cardiopulmonary disease, and is not taking androgens or diuretics. What is the most appropriate initial investigation?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Serum erythropoietin level"
+    },
+    {
+     "id": "b",
+     "text": "JAK2 V617F mutation analysis"
+    },
+    {
+     "id": "c",
+     "text": "Bone marrow aspirate and biopsy"
+    },
+    {
+     "id": "d",
+     "text": "Abdominal ultrasound for an erythropoietin-secreting tumour"
+    },
+    {
+     "id": "e",
+     "text": "Overnight polysomnography"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "In the investigation of erythrocytosis, Toronto Notes lists serum erythropoietin first because it differentiates a primary cause (low or normal EPO) from other etiologies (elevated EPO). JAK2 mutation analysis is positive in over 96% of polycythemia vera cases but the text specifies it should only be sent if the EPO level is low or normal, making EPO the appropriate first test in this patient.",
+   "optionExplanations": {
+    "b": "JAK2 testing is highly informative but the text directs that it only be sent once a low or normal erythropoietin level is documented.",
+    "c": "Marrow examination is not the recommended first-line test in the investigation of erythrocytosis.",
+    "d": "Searching for an EPO-secreting tumour with imaging is indicated once an elevated erythropoietin level has been demonstrated.",
+    "e": "Sleep apnea is a secondary cause of erythrocytosis, but the erythropoietin level should be obtained first to direct the search."
+   },
+   "topic": "Erythrocytosis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "H",
+    "name": "Hematology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 661,
+    "reference": "H7 — Erythrocytosis"
+   }
+  },
+  {
+   "id": "TN-H-004",
+   "type": "single-best-answer",
+   "question": "A 45-year-old asymptomatic woman has a routine complete blood count showing a platelet count of 42 x 10^9/L. She takes no medications, has never had abnormal bruising, gingival bleeding, or heavy menses, and has had no recent surgery. Physical examination is normal with no petechiae, purpura, or splenomegaly. Review of the peripheral blood film shows clumps of platelets. What is the most appropriate next step?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Repeat the complete blood count using a sodium citrate collection tube"
+    },
+    {
+     "id": "b",
+     "text": "Begin prednisone for immune thrombocytopenia"
+    },
+    {
+     "id": "c",
+     "text": "Transfuse one pool of random donor platelets"
+    },
+    {
+     "id": "d",
+     "text": "Arrange bone marrow aspirate and biopsy"
+    },
+    {
+     "id": "e",
+     "text": "Measure PT, aPTT, and fibrinogen to assess for DIC"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states that pseudothrombocytopenia must be ruled out in the workup of thrombocytopenia. It results from platelet clumping secondary to EDTA antibodies present in serum, can be seen on the blood film, and is confirmed by repeating the count in a citrated sample (a sodium citrate tube rather than EDTA). This patient's normal history, normal examination, and platelet clumping on film make this artifact the leading consideration.",
+   "optionExplanations": {
+    "b": "Corticosteroids treat true immune thrombocytopenia; committing to therapy before excluding a laboratory artifact exposes the patient to needless harm.",
+    "c": "Platelet transfusion is reserved for thrombocytopenia with bleeding, and this patient has neither confirmed thrombocytopenia nor bleeding.",
+    "d": "Marrow examination looks for decreased production, which is not suggested when other cell lines and the examination are normal.",
+    "e": "Coagulation testing is indicated when DIC is suspected; there is no supporting clinical picture here."
+   },
+   "topic": "Thrombocytopenia",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "H",
+    "name": "Hematology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 661,
+    "reference": "H7 — Thrombocytopenia"
+   }
+  },
+  {
+   "id": "TN-H-005",
+   "type": "single-best-answer",
+   "question": "A 22-year-old man with homozygous sickle cell disease (HbSS) is admitted with a vaso-occlusive pain episode. On the second day he develops fever, pleuritic chest pain, and increasing dyspnea. Oxygen saturation falls to 86% on room air and chest x-ray shows a new pulmonary infiltrate. He is already receiving oxygen, intravenous hydration, opioid analgesia, and empiric antibiotics. What is the most appropriate additional treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Exchange transfusion"
+    },
+    {
+     "id": "b",
+     "text": "Initiation of hydroxyurea"
+    },
+    {
+     "id": "c",
+     "text": "Iron chelation therapy"
+    },
+    {
+     "id": "d",
+     "text": "Urgent splenectomy"
+    },
+    {
+     "id": "e",
+     "text": "Platelet transfusion"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes defines acute chest syndrome as an acute illness with fever and/or respiratory symptoms plus a new pulmonary infiltrate on chest x-ray, precipitated by pulmonary infection, fat emboli, or pulmonary infarction. Under treatment of sickle cell disease, exchange transfusion is indicated for SCD complications including acute chest syndrome, aplastic crises, hepatic or splenic sequestration, and stroke. Supportive care and antimicrobials are already in place.",
+   "optionExplanations": {
+    "b": "Hydroxyurea increases HbF and reduces the frequency of future crises; it is a preventive agent, not treatment of the acute event.",
+    "c": "Iron chelation addresses transfusional iron overload and has no role in the acute illness.",
+    "d": "The spleen is typically atrophic in adults with HbSS from repeated infarction, and splenectomy is not a treatment for acute chest syndrome.",
+    "e": "Platelet transfusion is not part of the listed management of sickle cell complications."
+   },
+   "topic": "Sickle Cell Disease",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "H",
+    "name": "Hematology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 676,
+    "reference": "H22 — Sickle Cell Disease: Clinical Features and Treatment"
+   }
+  },
+  {
+   "id": "TN-H-006",
+   "type": "single-best-answer",
+   "question": "A 58-year-old woman recovering from Mycoplasma pneumoniae pneumonia develops progressive fatigue and jaundice. Hemoglobin has fallen to 78 g/L with a reticulocytosis. The laboratory reports difficulty processing the specimen because of red cell agglutination visible on the blood film at room temperature. The direct antiglobulin test is positive for complement only, and negative for IgG. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Cold autoimmune hemolytic anemia"
+    },
+    {
+     "id": "b",
+     "text": "Warm autoimmune hemolytic anemia"
+    },
+    {
+     "id": "c",
+     "text": "Microangiopathic hemolytic anemia"
+    },
+    {
+     "id": "d",
+     "text": "Hereditary spherocytosis"
+    },
+    {
+     "id": "e",
+     "text": "Drug-induced oxidative hemolysis"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes classifies autoimmune hemolytic anemia into warm and cold types. The cold type is mediated by IgM, gives a direct Coombs test positive for complement alone, shows agglutination on the blood film, and is characteristically secondary to infection including Mycoplasma pneumoniae, EBV, HCV, and syphilis. Management includes treating the underlying cause, folic acid, keeping the patient warm, and a rituximab regimen as first-line therapy.",
+   "optionExplanations": {
+    "b": "Warm AIHA is IgG-mediated with a DAT positive for IgG plus complement and spherocytes rather than agglutination on the film.",
+    "c": "MAHA shows schistocytes with a negative Coombs test, not agglutination with a complement-positive DAT.",
+    "d": "Hereditary spherocytosis is an inherited membrane defect and is not associated with a positive direct antiglobulin test.",
+    "e": "Oxidative or drug-related hemolysis is an acquired non-immune mechanism and would not produce a complement-positive DAT with cold agglutination."
+   },
+   "topic": "Autoimmune Hemolytic Anemia",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "H",
+    "name": "Hematology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 677,
+    "reference": "H23 — Autoimmune Hemolytic Anemia"
+   }
+  },
+  {
+   "id": "TN-H-007",
+   "type": "single-best-answer",
+   "question": "A 72-year-old woman presents with fatigue, mild jaundice, glossitis, and numbness of both feet. Hemoglobin is 88 g/L with an MCV of 118 fL, and the blood film shows hypersegmented neutrophils. Unconjugated bilirubin and LDH are elevated. Serum vitamin B12 is markedly low, and anti-intrinsic factor antibodies are positive. Intestinal absorption is presumed impaired. What is the most appropriate initial treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Vitamin B12 1000 ug IM weekly"
+    },
+    {
+     "id": "b",
+     "text": "Folic acid 5 mg orally once daily alone"
+    },
+    {
+     "id": "c",
+     "text": "Ferrous sulfate orally three times daily"
+    },
+    {
+     "id": "d",
+     "text": "Packed red blood cell transfusion"
+    },
+    {
+     "id": "e",
+     "text": "Erythropoiesis-stimulating agent therapy"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes gives the treatment dose of vitamin B12 as 1000-1200 ug PO daily if intestinal absorption is intact, or 1000 ug IM weekly, with route and duration depending on the cause. It also warns never to give folate alone to an individual with megaloblastic anemia, because it will mask B12 deficiency and neurological degeneration will continue. Watch for hypokalemia and rebound thrombocytosis when treating severe megaloblastic anemia.",
+   "optionExplanations": {
+    "b": "Folate alone masks B12 deficiency while neurological degeneration continues, which is explicitly warned against.",
+    "c": "Iron replacement treats microcytic iron deficiency and does not correct a megaloblastic B12 deficiency.",
+    "d": "Transfusion does not address the underlying deficiency and is not the listed treatment for megaloblastic anemia.",
+    "e": "Erythropoiesis-stimulating agents are used in other settings and do not replace the missing vitamin."
+   },
+   "topic": "Macrocytic Anemia",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "H",
+    "name": "Hematology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 680,
+    "reference": "H26 — Vitamin B12 and Folate Deficiency"
+   }
+  },
+  {
+   "id": "TN-H-008",
+   "type": "single-best-answer",
+   "question": "A 34-year-old previously healthy woman presents with a two-week history of easy bruising, petechiae over both shins, and continuous gingival oozing. She takes no medications. Hemoglobin and white cell count are normal; the platelet count is 12 x 10^9/L. PT and PTT are normal, and the blood film shows reduced but large platelets without clumping or blasts. HIV and HCV serology are negative. What is the most appropriate initial treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Corticosteroids"
+    },
+    {
+     "id": "b",
+     "text": "Splenectomy"
+    },
+    {
+     "id": "c",
+     "text": "Romiplostim"
+    },
+    {
+     "id": "d",
+     "text": "Observation with repeat counts in two weeks"
+    },
+    {
+     "id": "e",
+     "text": "Prophylactic platelet transfusion alone"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "This is immune thrombocytopenia: an isolated platelet count under 100 x 10^9/L with normal PT and PTT and large platelets on film. Toronto Notes states treatment is rarely indicated if platelets exceed 30 x 10^9/L unless there is active bleeding, trauma, or surgery, and that first-line therapy is corticosteroids (dexamethasone 40 mg PO daily x 4 d, or prednisone 0.5-2 mg/kg/d), with IVIg as an alternative if corticosteroids are contraindicated.",
+   "optionExplanations": {
+    "b": "Splenectomy is a second-line option and is not preferred within 12 months of diagnosis.",
+    "c": "Thrombopoietin receptor agonists such as romiplostim are listed as second-line therapy.",
+    "d": "Observation is inappropriate given a count of 12 x 10^9/L with mucosal bleeding.",
+    "e": "Platelet transfusion is reserved for refractory or major bleeding or urgent surgery, and platelet recovery is expected to be diminished."
+   },
+   "topic": "Immune Thrombocytopenia",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "H",
+    "name": "Hematology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 683,
+    "reference": "H29 — Immune Thrombocytopenia (ITP)"
+   }
+  },
+  {
+   "id": "TN-H-009",
+   "type": "single-best-answer",
+   "question": "A 67-year-old man is on postoperative day 7 after hip arthroplasty and has been receiving subcutaneous unfractionated heparin prophylaxis since surgery. His platelet count has fallen from 240 to 68 x 10^9/L. He has no bleeding, but the right calf is newly swollen and tender, and ultrasound confirms a proximal deep vein thrombosis. The clinical pre-test probability score for heparin-induced thrombocytopenia is high. What is the most appropriate next step?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Stop all heparin and start a non-heparin anticoagulant such as argatroban"
+    },
+    {
+     "id": "b",
+     "text": "Continue heparin while awaiting the serotonin release assay"
+    },
+    {
+     "id": "c",
+     "text": "Switch to low molecular weight heparin"
+    },
+    {
+     "id": "d",
+     "text": "Start warfarin alone immediately"
+    },
+    {
+     "id": "e",
+     "text": "Transfuse platelets and insert an inferior vena cava filter"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states that clinical suspicion of HIT should prompt discontinuation of unfractionated and low molecular weight heparin, including flushes, because specific tests take several days. Anticoagulation should be initiated with a non-heparin anticoagulant such as argatroban, danaparoid, fondaparinux, or bivalirudin unless there is a strong contraindication. Untreated HIT carries a 30-50% risk of thrombosis, and this patient already has a new DVT.",
+   "optionExplanations": {
+    "b": "Waiting several days for confirmatory functional testing while heparin continues leaves the patient exposed to ongoing thrombotic risk.",
+    "c": "LMWH is also associated with HIT and the text directs that it be stopped along with unfractionated heparin.",
+    "d": "Warfarin should be started only when the platelet count exceeds 150 x 10^9/L, and never as sole initial therapy in acute HIT.",
+    "e": "Bleeding complications are uncommon in HIT, so platelet transfusion is not indicated, and the priority is alternative anticoagulation."
+   },
+   "topic": "Heparin-Induced Thrombocytopenia",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "H",
+    "name": "Hematology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 684,
+    "reference": "H30 — Heparin-Induced Thrombocytopenia (HIT)"
+   }
+  },
+  {
+   "id": "TN-H-010",
+   "type": "single-best-answer",
+   "question": "A 41-year-old woman presents with a three-day history of headache and confusion. She is afebrile. Platelet count is 18 x 10^9/L and hemoglobin is 82 g/L. The blood film shows numerous schistocytes. PT, PTT, and fibrinogen are normal. LDH and unconjugated bilirubin are elevated with a low haptoglobin, and the direct antiglobulin test is negative. Creatinine is only mildly elevated. What is the most appropriate treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Plasma exchange with corticosteroids"
+    },
+    {
+     "id": "b",
+     "text": "Platelet transfusion to a target above 50 x 10^9/L"
+    },
+    {
+     "id": "c",
+     "text": "Intravenous immunoglobulin"
+    },
+    {
+     "id": "d",
+     "text": "Supportive therapy with fluids and red cell transfusion only"
+    },
+    {
+     "id": "e",
+     "text": "Therapeutic heparin infusion"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Thrombocytopenia, microangiopathic hemolysis with schistocytes, neurological symptoms, normal coagulation studies, a negative Coombs test, and only mild renal impairment describe thrombotic thrombocytopenic purpura. Toronto Notes calls TTP a medical emergency with 90% mortality if untreated, and lists plasma exchange plus steroids as management, with plasma infusion if plasmapheresis is not immediately available and caplacizumab in certain cases of acquired TTP.",
+   "optionExplanations": {
+    "b": "Platelet transfusion is avoided in TTP unless there is life-threatening bleeding, as it is associated with microvascular thrombosis.",
+    "c": "IVIg is a therapy for immune thrombocytopenia and is not part of the listed management of TTP.",
+    "d": "Supportive therapy alone is the described approach for HUS; kidney injury is severe and sudden in HUS whereas it is uncommon in TTP.",
+    "e": "Coagulation studies are normal, arguing against DIC, and anticoagulation is not the treatment for TTP."
+   },
+   "topic": "Thrombotic Microangiopathy",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "H",
+    "name": "Hematology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 685,
+    "reference": "H31 — Thrombotic Microangiopathies (TTP and HUS)"
+   }
+  },
+  {
+   "id": "TN-H-011",
+   "type": "single-best-answer",
+   "question": "A 58-year-old man presents two days after a long-haul flight with a swollen, warm, tender right calf. He had a knee arthroscopy three weeks ago and has localized tenderness along the deep venous system, with calf swelling 4 cm greater than the left. His modified Wells score places him in the DVT likely category. He is hemodynamically stable with no chest symptoms. What is the most appropriate investigation?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Doppler ultrasound of the leg"
+    },
+    {
+     "id": "b",
+     "text": "D-dimer assay"
+    },
+    {
+     "id": "c",
+     "text": "Contrast venography"
+    },
+    {
+     "id": "d",
+     "text": "CT pulmonary angiogram"
+    },
+    {
+     "id": "e",
+     "text": "MRI of the thigh"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states that Doppler ultrasound is the most useful diagnostic test for DVT, with approximately 95% sensitivity and specificity for proximal DVT. D-dimer is only useful to rule out DVT when negative in a patient with low clinical suspicion, and this patient's modified Wells score indicates DVT is likely, so imaging is required.",
+   "optionExplanations": {
+    "b": "A D-dimer is only useful to exclude DVT when clinical suspicion is low; a positive result in this setting is non-specific.",
+    "c": "Venography is the gold standard but is expensive, invasive, and higher risk, so it is not the first test.",
+    "d": "CT pulmonary angiography is reserved for suspected pulmonary embolism, and this patient has no chest symptoms.",
+    "e": "MRI is not listed among the recommended investigations for suspected deep vein thrombosis."
+   },
+   "topic": "Venous Thromboembolism",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "H",
+    "name": "Hematology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 691,
+    "reference": "H37 — Investigations for DVT"
+   }
+  },
+  {
+   "id": "TN-H-012",
+   "type": "single-best-answer",
+   "question": "A 61-year-old man reports several weeks of fatigue, fever, and bleeding gums. Examination shows marked gingival hypertrophy and sternal tenderness. Hemoglobin is 76 g/L, platelets are 22 x 10^9/L, and the white cell count is 2.1 x 10^9/L. The peripheral blood film shows circulating blasts, some of which contain azurophilic rod-shaped cytoplasmic inclusions. LDH and uric acid are elevated. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Acute myeloid leukemia"
+    },
+    {
+     "id": "b",
+     "text": "Acute lymphoblastic leukemia"
+    },
+    {
+     "id": "c",
+     "text": "Chronic myeloid leukemia in chronic phase"
+    },
+    {
+     "id": "d",
+     "text": "Primary myelofibrosis"
+    },
+    {
+     "id": "e",
+     "text": "Aplastic anemia"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states that circulating blasts with Auer rods (azurophilic granules) on the peripheral blood film are pathognomonic for acute myeloid leukemia. The presentation over weeks with marrow failure (anemia, thrombocytopenia, neutropenia with fever), bony tenderness especially of the sternum, gingival hypertrophy from organ infiltration, and metabolic features of tumour lysis all fit the described clinical picture of AML.",
+   "optionExplanations": {
+    "b": "ALL presents with lymphoblasts; Auer rods are specific to the myeloid lineage.",
+    "c": "Chronic phase CML has few blasts (under 10%) and typically minimal symptoms with splenomegaly, not marrow failure with Auer rods.",
+    "d": "Myelofibrosis produces a leukoerythroblastic film with teardrop red cells and marked splenomegaly rather than blasts with Auer rods.",
+    "e": "Aplastic anemia causes pancytopenia without circulating blasts or organ infiltration."
+   },
+   "topic": "Acute Myeloid Leukemia",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "H",
+    "name": "Hematology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 694,
+    "reference": "H40 — Acute Myeloid Leukemia"
+   }
+  },
+  {
+   "id": "TN-H-013",
+   "type": "single-best-answer",
+   "question": "A 68-year-old man reports three months of worsening mid-back pain and fatigue. Hemoglobin is 92 g/L with a normocytic picture and rouleaux formation on the film. Corrected calcium is elevated, creatinine is rising, and the ESR is very high. Lumbar spine x-rays show lytic lesions. A plasma cell dyscrasia is suspected. What is the most appropriate investigation to establish the presence of a monoclonal protein?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Serum and urine protein electrophoresis with immunofixation"
+    },
+    {
+     "id": "b",
+     "text": "Radionuclide bone scan"
+    },
+    {
+     "id": "c",
+     "text": "Routine urine dipstick for protein"
+    },
+    {
+     "id": "d",
+     "text": "Serum ferritin and iron studies"
+    },
+    {
+     "id": "e",
+     "text": "Peripheral blood flow cytometry"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes lists SPEP, which demonstrates a monoclonal protein spike in serum in 80% of patients, and UPEP, which demonstrates light chains in urine as Bence-Jones protein in the 15% who secrete only light chains. Immunofixation demonstrates the M protein, identifies the immunoglobulin type, and identifies light chains. Serum free light chain quantification with a calculated kappa to lambda ratio complements these tests.",
+   "optionExplanations": {
+    "b": "Bone scans are not useful in myeloma because they detect osteoblast activity, whereas myeloma produces lytic lesions.",
+    "c": "Routine urinalysis will not detect light chains because the dipstick detects albumin.",
+    "d": "Iron studies characterize the anemia but cannot demonstrate a monoclonal immunoglobulin.",
+    "e": "Flow cytometry of blood is not the listed method for detecting the monoclonal protein in multiple myeloma."
+   },
+   "topic": "Multiple Myeloma",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "H",
+    "name": "Hematology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 706,
+    "reference": "H52 — Multiple Myeloma: Investigations"
+   }
+  },
+  {
+   "id": "TN-H-014",
+   "type": "single-best-answer",
+   "question": "A 55-year-old woman receives a packed red blood cell transfusion for symptomatic anemia. Approximately three hours after the transfusion is completed she becomes acutely dyspneic. Oxygen saturation is 84% on room air with a PaO2/FiO2 ratio below 300 mmHg. Blood pressure is normal, jugular venous pressure is not elevated, and chest x-ray shows bilateral pulmonary infiltrates. There is no urticaria, fever, or hemoglobinuria. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Transfusion-related acute lung injury"
+    },
+    {
+     "id": "b",
+     "text": "Transfusion-associated circulatory overload"
+    },
+    {
+     "id": "c",
+     "text": "Acute hemolytic transfusion reaction"
+    },
+    {
+     "id": "d",
+     "text": "Anaphylactoid allergic transfusion reaction"
+    },
+    {
+     "id": "e",
+     "text": "Febrile nonhemolytic transfusion reaction"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes defines transfusion-related acute lung injury as new-onset acute lung injury during transfusion or within 6 hours of completion, with profound hypoxemia (PaO2/FiO2 under 300 mmHg), bilateral pulmonary edema on imaging, and no clinical evidence of left atrial hypertension. It typically occurs 2-4 hours post-transfusion, resolves in 24-72 hours, and is the leading cause of transfusion-related morbidity and mortality. Treatment is supportive with oxygen and notification of the blood bank.",
+   "optionExplanations": {
+    "b": "TACO presents with hypertension, tachycardia, orthostatic symptoms, crackles, and increased venous pressure from circulatory overload, which is absent here.",
+    "c": "Acute hemolytic reactions occur immediately with fever, chills, hypotension, back or flank pain, and hemoglobinuria.",
+    "d": "Allergic reactions present mainly with urticaria, or with bronchospasm, laryngeal edema, and hypotension, none of which are described.",
+    "e": "Febrile nonhemolytic reactions present with fever, rigors, flushing, headache, and myalgia rather than isolated hypoxemic respiratory failure."
+   },
+   "topic": "Transfusion Reactions",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "H",
+    "name": "Hematology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 710,
+    "reference": "H56 — Acute Blood Transfusion Reactions"
+   }
+  }
+ ]
+}

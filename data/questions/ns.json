@@ -1,0 +1,658 @@
+{
+ "chapter": {
+  "code": "NS",
+  "name": "Neurosurgery"
+ },
+ "document": {
+  "id": "toronto-notes-2025",
+  "title": "Toronto Notes 2025",
+  "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
+ },
+ "count": 14,
+ "questions": [
+  {
+   "id": "TN-NS-001",
+   "type": "single-best-answer",
+   "question": "A 68-year-old man with metastatic prostate cancer develops two weeks of progressive mid-thoracic back pain, now with bilateral leg weakness, a T8 sensory level, and urinary retention. MRI of the thoracic spine demonstrates a destructive T8 vertebral body lesion with an adjacent soft tissue mass indenting and compressing the spinal cord. Which of the following is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Extradural metastatic tumour compressing the cord"
+    },
+    {
+     "id": "b",
+     "text": "Intradural extramedullary meningioma"
+    },
+    {
+     "id": "c",
+     "text": "Intradural intramedullary ependymoma"
+    },
+    {
+     "id": "d",
+     "text": "Syringomyelia"
+    },
+    {
+     "id": "e",
+     "text": "Spinal dural arteriovenous fistula"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes classifies spinal tumours by compartment: extradural lesions account for about 55% of all spinal tumours and are typically metastases from lymphoma, lung, breast, or prostate. This man has a known prostate primary with a destructive vertebral body lesion and an epidural soft tissue mass, which is the classic extradural metastatic pattern producing cord compression.",
+   "optionExplanations": {
+    "b": "Meningioma is an intradural extramedullary tumour and does not destroy the vertebral body.",
+    "c": "Intradural intramedullary tumours such as ependymomas account for only about 5% of spinal tumours and arise within the cord itself, not from bone.",
+    "d": "Syringomyelia is a fluid-filled intramedullary cavity related to trauma or congenital or idiopathic causes, not a destructive bony lesion.",
+    "e": "Dural AVF is a vascular extradural cause of myelopathy and would not produce a destructive vertebral body mass."
+   },
+   "topic": "Spinal Tumours and Cord Compression",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "NS",
+    "name": "Neurosurgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 936,
+    "reference": "NS4 — Differential Diagnoses of Common Presentations (Table 1)"
+   }
+  },
+  {
+   "id": "TN-NS-002",
+   "type": "single-best-answer",
+   "question": "A 47-year-old woman describes three months of headache that has become constant, progressively more severe, worst on waking, and that at times wakes her from sleep. Over the past two weeks she has had intermittent blurred vision and several episodes of forceful vomiting that occurred without preceding nausea. She is afebrile and alert with no neck stiffness. Which of the following is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Intracranial tumour causing raised intracranial pressure"
+    },
+    {
+     "id": "b",
+     "text": "Aneurysmal subarachnoid hemorrhage"
+    },
+    {
+     "id": "c",
+     "text": "Metabolic encephalopathy"
+    },
+    {
+     "id": "d",
+     "text": "Cerebral abscess"
+    },
+    {
+     "id": "e",
+     "text": "Ischemic stroke"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes maps intracranial pathology to its time course: vascular causes are sudden, metabolic causes evolve over hours to days, infectious causes over days to weeks, and tumours over months. A tumour raises ICP and produces a constant, progressive, severe headache that is worse in the morning and may wake the patient, with blurry vision and projectile vomiting as ICP rises. This three-month course with exactly those features fits a tumour.",
+   "optionExplanations": {
+    "b": "Hemorrhagic vascular events present suddenly, not with a three-month progressive course.",
+    "c": "Metabolic causes evolve over hours to days and affect the entire CNS rather than producing isolated progressive morning headache.",
+    "d": "Infectious causes such as abscess typically develop over days to weeks and usually have a source of infection or immunodeficiency in the history; she is afebrile.",
+    "e": "Ischemic stroke is a sudden vascular event and is characteristically without headache."
+   },
+   "topic": "Raised Intracranial Pressure",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "NS",
+    "name": "Neurosurgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 936,
+    "reference": "NS4 — Intracranial Pressure Dynamics (Table 2, Approach to Intracranial Pathology)"
+   }
+  },
+  {
+   "id": "TN-NS-003",
+   "type": "single-best-answer",
+   "question": "A 71-year-old right-handed woman is brought to the emergency department because she has \"stopped making sense.\" She speaks fluently and at a normal rate, but her sentences are well-formed and largely meaningless. She cannot follow simple one-step commands and cannot repeat a short phrase. Strength, tone, and reflexes are normal in all limbs. Which lesion location best accounts for these findings?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Posterior superior temporal gyrus of the dominant hemisphere"
+    },
+    {
+     "id": "b",
+     "text": "Posterior inferior frontal gyrus of the dominant hemisphere"
+    },
+    {
+     "id": "c",
+     "text": "Non-dominant parietal lobe"
+    },
+    {
+     "id": "d",
+     "text": "Dominant parietal lobe"
+    },
+    {
+     "id": "e",
+     "text": "Occipital lobe"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes localizes Wernicke's area to the posterior superior temporal gyrus of the dominant hemisphere, and a lesion there produces a fluent aphasia with impaired repetition and impaired comprehension. This patient is fluent yet unable to comprehend commands or repeat, which is the Wernicke pattern rather than a motor or parietal syndrome.",
+   "optionExplanations": {
+    "b": "Broca's area lesions give a non-fluent, dysarthric aphasia with impaired repetition but spared comprehension.",
+    "c": "Non-dominant parietal lesions cause inattention or extinction of the non-dominant side, not fluent aphasia.",
+    "d": "Dominant parietal lesions cause aphasias and Gerstmann's syndrome, but the fluent-with-impaired-comprehension pattern localizes to posterior superior temporal cortex.",
+    "e": "Occipital lesions cause contralateral homonymous hemianopia without language disturbance."
+   },
+   "topic": "Cortical Localization",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "NS",
+    "name": "Neurosurgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 937,
+    "reference": "NS5 — Consequences of Common Brain Lesions (Table 3)"
+   }
+  },
+  {
+   "id": "TN-NS-004",
+   "type": "single-best-answer",
+   "question": "A 54-year-old woman reports 18 months of gradually progressive right-sided hearing loss with increasing unsteadiness on her feet. On examination the right corneal reflex is reduced, there is mild right lower motor neuron facial weakness, hearing is diminished on the right, and she is ataxic with a tendency to veer to the right. Limb power, reflexes, and plantar responses are normal. Which location best accounts for this constellation?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Right cerebellopontine angle"
+    },
+    {
+     "id": "b",
+     "text": "Right cerebellar hemisphere"
+    },
+    {
+     "id": "c",
+     "text": "Cerebellar vermis"
+    },
+    {
+     "id": "d",
+     "text": "Dorsal midbrain and pineal region"
+    },
+    {
+     "id": "e",
+     "text": "Pons"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states that a cerebellopontine angle lesion produces disequilibrium, ataxia, and deficits of cranial nerves V, VII, and VIII. This woman has exactly that triad of cranial nerve findings (reduced corneal reflex, facial weakness, hearing loss) combined with imbalance, localizing to the right CPA.",
+   "optionExplanations": {
+    "b": "A cerebellar hemisphere lesion causes intention tremor, ipsilateral limb ataxia, and falling toward the side of the lesion, but not cranial nerve V, VII, and VIII deficits.",
+    "c": "Vermis lesions cause truncal ataxia and dysarthria without these cranial nerve findings.",
+    "d": "Dorsal midbrain and pineal lesions cause Parinaud's syndrome with supranuclear upward gaze palsy.",
+    "e": "A pontine lesion classically produces locked-in syndrome, and there are no long-tract signs here."
+   },
+   "topic": "Cerebellopontine Angle Lesion",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "NS",
+    "name": "Neurosurgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 937,
+    "reference": "NS5 — Consequences of Common Brain Lesions (Table 3)"
+   }
+  },
+  {
+   "id": "TN-NS-005",
+   "type": "single-best-answer",
+   "question": "A 27-year-old man is brought in after a motorcycle collision. He was intubated at the scene and his GCS is 6T. CT head shows bilateral frontal contusions with effacement of the basal cisterns. He is admitted to the ICU, and the neurosurgical team decides to monitor intracranial pressure, wanting the most accurate available measurement with the option of therapeutic CSF drainage. Which method is most appropriate?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Intraventricular catheter (external ventricular drain)"
+    },
+    {
+     "id": "b",
+     "text": "Intraparenchymal ICP monitor"
+    },
+    {
+     "id": "c",
+     "text": "Epidural ICP monitor"
+    },
+    {
+     "id": "d",
+     "text": "Serial lumbar punctures"
+    },
+    {
+     "id": "e",
+     "text": "Transcranial Doppler ultrasonography"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes lists ICP monitoring as indicated in severe TBI with GCS <8T plus an abnormal CT, and identifies the intraventricular catheter (EVD) as the gold standard because it is the most accurate method and also allows therapeutic drainage of CSF. This patient meets the indication and needs both accurate measurement and drainage capability.",
+   "optionExplanations": {
+    "b": "A parenchymal monitor is an accepted alternative but is not the gold standard and cannot drain CSF.",
+    "c": "An epidural monitor is a listed device but is less accurate and offers no therapeutic drainage.",
+    "d": "Serial LP is not the most accurate method and is absolutely contraindicated with suspected acutely raised ICP because it can precipitate tonsillar and uncal herniation.",
+    "e": "Non-invasive methods such as transcranial Doppler do not measure ICP accurately enough for routine monitoring."
+   },
+   "topic": "ICP Monitoring",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "NS",
+    "name": "Neurosurgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 938,
+    "reference": "NS6 — ICP Measurement, Acute Monitoring"
+   }
+  },
+  {
+   "id": "TN-NS-006",
+   "type": "single-best-answer",
+   "question": "A 46-year-old woman with a large left frontal glioma and several days of worsening headache becomes agitated and hypoxic in the emergency department. Her intracranial pressure is presumed to be elevated, and rapid sequence intubation is planned. The team specifically wants to avoid any agent whose drug-induced muscle fasciculations could transiently raise intracranial pressure further. Which of the following agents is best avoided?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Succinylcholine"
+    },
+    {
+     "id": "b",
+     "text": "Rocuronium"
+    },
+    {
+     "id": "c",
+     "text": "Vecuronium"
+    },
+    {
+     "id": "d",
+     "text": "Cisatracurium"
+    },
+    {
+     "id": "e",
+     "text": "Etomidate"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes lists succinylcholine among the medications to use with caution in elevated ICP because the fasciculations it induces may increase ICP. In a patient with a large intracranial mass and presumed raised ICP, this is the agent to avoid on that specific mechanistic basis.",
+   "optionExplanations": {
+    "b": "Rocuronium is a non-depolarizing blocker and does not produce fasciculations.",
+    "c": "Vecuronium is non-depolarizing and is not listed as a cautioned agent in elevated ICP.",
+    "d": "Cisatracurium is non-depolarizing and does not cause fasciculations.",
+    "e": "Etomidate is an induction agent, not a depolarizing neuromuscular blocker, and does not act through fasciculations."
+   },
+   "topic": "Medication Cautions in Elevated ICP",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "NS",
+    "name": "Neurosurgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 938,
+    "reference": "NS6 — Cautioned Medication Use in Elevated ICP"
+   }
+  },
+  {
+   "id": "TN-NS-007",
+   "type": "single-best-answer",
+   "question": "A 22-year-old man struck his head in a fall, was briefly unconscious, then spoke normally with paramedics. Ninety minutes later he becomes progressively drowsy. His right pupil is 6 mm and non-reactive, with right ptosis and impaired right extraocular movements. He has left-sided weakness with an upgoing left plantar response. CT shows a large right-sided extradural hematoma. Which herniation syndrome best explains these findings?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Lateral tentorial (uncal) herniation"
+    },
+    {
+     "id": "b",
+     "text": "Subfalcine herniation"
+    },
+    {
+     "id": "c",
+     "text": "Central tentorial (axial) herniation"
+    },
+    {
+     "id": "d",
+     "text": "Upward cerebellar herniation"
+    },
+    {
+     "id": "e",
+     "text": "Tonsillar herniation"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes describes uncal (lateral tentorial) herniation as arising from a lateral supratentorial lesion, often a rapidly expanding traumatic hematoma, with an ipsilateral non-reactive dilated pupil as the earliest and most reliable sign, plus ipsilateral extraocular paralysis and ptosis from CN III compression, decreased LOC, and contralateral hemiplegia with an extensor plantar response. This patient's rapidly expanding right extradural hematoma has produced precisely that pattern.",
+   "optionExplanations": {
+    "b": "Subfalcine herniation is usually asymptomatic and warns of impending transtentorial herniation; it does not cause a blown pupil.",
+    "c": "Central tentorial herniation arises from a midline supratentorial lesion and gives small, fixed pupils with sequential diencephalic and medullary failure.",
+    "d": "Upward herniation follows a posterior fossa mass or cerebellar infarct, not a lateral supratentorial hematoma.",
+    "e": "Tonsillar herniation follows infratentorial lesions or LP with a mass lesion, causing neck stiffness, flaccid paralysis, and respiratory arrest."
+   },
+   "topic": "Herniation Syndromes",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "NS",
+    "name": "Neurosurgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 939,
+    "reference": "NS7 — Herniation Syndromes (Table 5)"
+   }
+  },
+  {
+   "id": "TN-NS-008",
+   "type": "single-best-answer",
+   "question": "A 36-year-old woman reports eight weeks of headache that is worse in the morning and aggravated by coughing and stooping, with brief episodic \"grey-outs\" of vision lasting about 20 minutes. Fundoscopy shows bilateral optic disc swelling with blurred margins. She has a new left abducens palsy but is alert, with no limb weakness. Which of the following is the most appropriate next investigation?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Urgent CT head"
+    },
+    {
+     "id": "b",
+     "text": "Immediate lumbar puncture"
+    },
+    {
+     "id": "c",
+     "text": "Formal visual field perimetry"
+    },
+    {
+     "id": "d",
+     "text": "Electroencephalography"
+    },
+    {
+     "id": "e",
+     "text": "Carotid Doppler ultrasonography"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Her headache aggravated by stooping and coughing, obvious papilledema with episodic visual field constrictions lasting about 20 minutes, and a CN VI palsy are the features Toronto Notes attributes to elevated ICP. Toronto Notes states that patients with suspected elevated ICP require urgent CT or MRI to identify the etiology and to assess for midline shift and herniation.",
+   "optionExplanations": {
+    "b": "LP before imaging is hazardous with suspected raised ICP because it can precipitate tonsillar and uncal herniation.",
+    "c": "Perimetry may document the enlarged blind spot but does not identify the underlying intracranial cause.",
+    "d": "EEG has no role in identifying a structural cause of raised ICP.",
+    "e": "Carotid Doppler assesses extracranial carotid disease and would not explain papilledema or an abducens palsy."
+   },
+   "topic": "Investigation of Elevated ICP",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "NS",
+    "name": "Neurosurgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 939,
+    "reference": "NS7 — Clinical Features of Elevated ICP and Investigations (Table 4)"
+   }
+  },
+  {
+   "id": "TN-NS-101",
+   "type": "single-best-answer",
+   "question": "A 22-year-old man is struck in the left temple by a baseball. He is briefly unconscious, then walks and converses normally for about two hours. He subsequently becomes progressively obtunded, with a dilated non-reactive left pupil and right-sided weakness. Non-contrast CT shows a hyperdense lenticular collection with sharp margins overlying the left temporoparietal region that does not cross suture lines. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Acute subdural hematoma"
+    },
+    {
+     "id": "b",
+     "text": "Chronic subdural hematoma"
+    },
+    {
+     "id": "c",
+     "text": "Epidural hematoma"
+    },
+    {
+     "id": "d",
+     "text": "Traumatic subarachnoid hemorrhage"
+    },
+    {
+     "id": "e",
+     "text": "Diffuse axonal injury"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "Toronto Notes describes the classic epidural hematoma sequence as post-traumatic reduced level of consciousness, a lucid interval of several hours, then obtundation, hemiparesis, ipsilateral pupillary dilation, and coma; 85% follow a temporal-parietal skull fracture tearing the middle meningeal artery. On non-contrast CT the clot is lenticular-shaped and usually limited by suture lines. This young man's lucid interval, ipsilateral pupillary dilation, contralateral hemiparesis, and lenticular clot fit that picture.",
+   "optionExplanations": {
+    "a": "Acute subdural hematoma classically has no lucid interval and appears as a hyperdense crescentic mass that crosses suture lines.",
+    "b": "Chronic subdural hematoma occurs 15 or more days after bleeding, typically in older or anticoagulated patients, and is hypodense and crescentic on CT.",
+    "d": "Subarachnoid hemorrhage shows hyperdense blood in the cisterns and fissures rather than a lenticular extra-axial collection.",
+    "e": "Diffuse axonal injury causes decreased level of consciousness with no space-occupying lesion visible on CT."
+   },
+   "topic": "Epidural Hematoma",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "NS",
+    "name": "Neurosurgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 953,
+    "reference": "NS21 — Epidural (Extradural) Hematoma"
+   }
+  },
+  {
+   "id": "TN-NS-102",
+   "type": "single-best-answer",
+   "question": "A 48-year-old woman presents 30 hours after the abrupt onset of the worst headache of her life, which peaked instantly while she was gardening. She continues to have neck pain and photophobia. She is fully alert with no focal neurological deficit. A non-contrast CT of the head performed on arrival is reported as normal. What is the next best step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Lumbar puncture for opening pressure, red blood cell count, and xanthochromia"
+    },
+    {
+     "id": "b",
+     "text": "Repeat non-contrast CT of the head in 24 hours"
+    },
+    {
+     "id": "c",
+     "text": "Discharge with analgesia and outpatient follow-up"
+    },
+    {
+     "id": "d",
+     "text": "Start oral nimodipine and observe"
+    },
+    {
+     "id": "e",
+     "text": "Non-contrast MRI of the brain"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states that non-contrast CT is 98% sensitive for subarachnoid hemorrhage within 12 hours and 93% within 24 hours, and may be negative with a small bleed or delayed presentation. When CT is negative but suspicion remains high, lumbar puncture is the highly sensitive next test, showing elevated opening pressure, an RBC count usually above 100000/mm3 that does not fall from first to last tube, and a xanthochromic supernatant by about 12 hours that lasts two weeks. This patient presented at 30 hours with a classic thunderclap headache, so a negative CT cannot exclude subarachnoid hemorrhage.",
+   "optionExplanations": {
+    "b": "CT sensitivity falls further with time, so a repeat scan the following day would be even less informative than the first.",
+    "c": "Discharge would miss a sentinel bleed, which precedes full-blown subarachnoid hemorrhage in 30-60% of patients within the preceding three weeks.",
+    "d": "Nimodipine is given for delayed cerebral ischemia neuroprotection once subarachnoid hemorrhage is confirmed; it is not a diagnostic step.",
+    "e": "MRI is not the listed diagnostic pathway for CT-negative suspected subarachnoid hemorrhage; lumbar puncture is the highly sensitive confirmatory test."
+   },
+   "topic": "Subarachnoid Hemorrhage",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "NS",
+    "name": "Neurosurgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 955,
+    "reference": "NS23 — Subarachnoid Hemorrhage: Investigations"
+   }
+  },
+  {
+   "id": "TN-NS-103",
+   "type": "single-best-answer",
+   "question": "A 45-year-old man develops severe low back pain radiating down both legs after lifting a heavy box. Over the following several hours he becomes unable to void and reports numbness over the perineum and inner thighs. Examination shows asymmetric weakness in multiple root distributions, absent ankle reflexes, and reduced anal sphincter tone. Which investigation is most appropriate?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Urgent MRI of the lumbosacral spine"
+    },
+    {
+     "id": "b",
+     "text": "Flexion-extension plain radiographs of the lumbar spine"
+    },
+    {
+     "id": "c",
+     "text": "Electromyography and nerve conduction studies"
+    },
+    {
+     "id": "d",
+     "text": "Radionuclide bone scan"
+    },
+    {
+     "id": "e",
+     "text": "Lumbar puncture with CSF analysis"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes lists urgent MRI as the investigation to confirm compression of the S2-S3-S4 nerve roots by a large disc herniation in suspected cauda equina syndrome. The syndrome usually develops in under 24 hours with weakness in multiple root distributions, reduced knee or ankle reflexes, urinary retention, and saddle (S2-S5) anesthesia. This presentation is typical, and surgical decompression within 48 hours is needed to preserve bowel, bladder, and sexual function.",
+   "optionExplanations": {
+    "b": "Plain films do not visualize the disc and nerve roots and would delay the decompression window.",
+    "c": "Electrodiagnostic studies do not localize acute compressive disc pathology and are not the urgent test here.",
+    "d": "A bone scan assesses bone turnover, not the soft tissue compression of the lumbosacral roots.",
+    "e": "CSF analysis has no role in diagnosing compressive cauda equina syndrome and delays definitive imaging."
+   },
+   "topic": "Cauda Equina Syndrome",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "NS",
+    "name": "Neurosurgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 964,
+    "reference": "NS32 — Cauda Equina Syndrome"
+   }
+  },
+  {
+   "id": "TN-NS-104",
+   "type": "single-best-answer",
+   "question": "A 52-year-old woman with a known non-functioning pituitary macroadenoma presents with abrupt onset of severe headache, rapidly worsening bitemporal visual loss, ophthalmoplegia, and reduced mental status. She is hypotensive. Urgent MRI shows acute expansion of the sellar mass with hemorrhage. Endocrine testing confirms panhypopituitarism. What is the most appropriate initial management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Rapid corticosteroid administration with surgical decompression"
+    },
+    {
+     "id": "b",
+     "text": "Bromocriptine"
+    },
+    {
+     "id": "c",
+     "text": "Octreotide"
+    },
+    {
+     "id": "d",
+     "text": "Ketoconazole"
+    },
+    {
+     "id": "e",
+     "text": "Cyproheptadine"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes defines pituitary apoplexy as sudden expansion of the pituitary mass due to hemorrhage or necrosis, presenting with abrupt headache, visual disturbance, ophthalmoplegia, reduced mental status, panhypopituitarism, and diabetes insipidus. The listed treatment for apoplexy is rapid corticosteroid administration plus surgical decompression. Corticosteroid replacement addresses the acute hypoadrenalism causing her hypotension while decompression protects vision.",
+   "optionExplanations": {
+    "b": "Bromocriptine is a dopamine agonist used for prolactinomas, not for acute apoplexy.",
+    "c": "Octreotide, a somatostatin analogue, is used for acromegaly from a GH-secreting adenoma.",
+    "d": "Ketoconazole inhibits cortisol production and is used in Cushing's disease; it would worsen this patient's adrenal insufficiency.",
+    "e": "Cyproheptadine is a serotonin and histamine antagonist used in Cushing's disease, not in apoplexy."
+   },
+   "topic": "Pituitary Adenoma",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "NS",
+    "name": "Neurosurgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 950,
+    "reference": "NS18 — Pituitary Adenoma"
+   }
+  },
+  {
+   "id": "TN-NS-105",
+   "type": "single-best-answer",
+   "question": "A 74-year-old man is brought in by his daughter with a 9-month history of a slow, broad-based magnetic gait, urinary incontinence, and progressive forgetfulness. He is afebrile with no focal deficits. CT of the head shows enlarged ventricles without increased prominence of the cerebral sulci. Which investigation best determines whether he is likely to benefit from shunting?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Lumbar tap test with CSF removal and reassessment of gait"
+    },
+    {
+     "id": "b",
+     "text": "Radionuclide cisternography"
+    },
+    {
+     "id": "c",
+     "text": "Electroencephalography"
+    },
+    {
+     "id": "d",
+     "text": "Cerebral angiography"
+    },
+    {
+     "id": "e",
+     "text": "Repeat CT of the head in six months"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "This is the classic Hakim triad of normal pressure hydrocephalus: magnetic gait ataxia with apraxia, incontinence, and subcortical dementia, with CT showing enlarged ventricles without prominent sulci. Toronto Notes states that ICP monitoring, for example by LP or EVD, may be used to investigate NPH and test the response to shunting (the lumbar tap test). Improvement after CSF removal supports proceeding to a shunt.",
+   "optionExplanations": {
+    "b": "Toronto Notes notes that radionuclide cisternography can test CSF flow and absorption rate but is unreliable.",
+    "c": "EEG assesses cortical electrical activity and does not predict shunt responsiveness.",
+    "d": "Cerebral angiography evaluates vascular lesions and has no role in assessing CSF dynamics here.",
+    "e": "Serial imaging alone would delay treatment and does not test the response to CSF diversion."
+   },
+   "topic": "Normal Pressure Hydrocephalus",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "NS",
+    "name": "Neurosurgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 942,
+    "reference": "NS10 — Hydrocephalus"
+   }
+  },
+  {
+   "id": "TN-NS-106",
+   "type": "single-best-answer",
+   "question": "A 68-year-old man with known cervical spondylosis trips and falls forward down three steps, striking his forehead and hyperextending his neck. He has marked weakness of both hands and forearms with only mild weakness in both legs, patchy bilateral loss of pain and temperature sensation over the upper limbs, preserved light touch, and urinary retention. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Central cord syndrome"
+    },
+    {
+     "id": "b",
+     "text": "Anterior cord syndrome"
+    },
+    {
+     "id": "c",
+     "text": "Brown-Sequard syndrome"
+    },
+    {
+     "id": "d",
+     "text": "Posterior cord syndrome"
+    },
+    {
+     "id": "e",
+     "text": "Complete spinal cord lesion"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes lists central cord syndrome as the most common incomplete cord syndrome, caused by syringomyelia, tumours, or spinal hyperextension injury. It produces bilateral motor weakness with upper limb weakness greater than lower limb weakness, urinary retention, and a variable bilateral suspended sensory loss in which pain and temperature loss exceeds loss of vibration and proprioception. This man's hyperextension mechanism and arm-predominant deficit match that pattern.",
+   "optionExplanations": {
+    "b": "Anterior cord syndrome follows anterior spinal artery compression or occlusion and causes bilateral loss of pain and temperature below the lesion with preserved vibration and proprioception, not an arm-predominant suspended deficit.",
+    "c": "Brown-Sequard results from hemisection of the cord, giving ipsilateral weakness and proprioceptive loss with contralateral pain and temperature loss.",
+    "d": "Posterior cord syndrome preserves motor function and causes bilateral loss of vibration, proprioception, and light touch with preserved pain and temperature.",
+    "e": "A complete lesion causes bilateral loss of motor, sensory, and autonomic function more than four segments below the injury, whereas this man retains substantial function."
+   },
+   "topic": "Incomplete Spinal Cord Syndromes",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "NS",
+    "name": "Neurosurgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 966,
+    "reference": "NS34 — Incomplete Spinal Cord Lesion Syndromes"
+   }
+  }
+ ]
+}

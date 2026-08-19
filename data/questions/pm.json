@@ -1,0 +1,290 @@
+{
+ "chapter": {
+  "code": "PM",
+  "name": "Palliative Medicine"
+ },
+ "document": {
+  "id": "toronto-notes-2025",
+  "title": "Toronto Notes 2025",
+  "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
+ },
+ "count": 6,
+ "questions": [
+  {
+   "id": "TN-PM-001",
+   "type": "single-best-answer",
+   "question": "A 68-year-old woman with metastatic pancreatic cancer is followed by the palliative care team. She now spends most of the day sitting or lying down and can no longer do any work, though she remains oriented and requires only occasional assistance from her daughter for bathing and dressing. Her oral intake is normal. Using the Palliative Performance Scale, which score best reflects her current functional status?",
+   "options": [
+    {
+     "id": "a",
+     "text": "80%"
+    },
+    {
+     "id": "b",
+     "text": "60%"
+    },
+    {
+     "id": "c",
+     "text": "50%"
+    },
+    {
+     "id": "d",
+     "text": "40%"
+    },
+    {
+     "id": "e",
+     "text": "30%"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "The Palliative Performance Scale is read by starting at ambulation and dropping down until the patient's description is met. This patient's ambulation is 'mainly sit/lie', she is unable to do any work, requires only occasional assistance with self-care, has normal intake, and is fully conscious, which corresponds exactly to PPS 50%.",
+   "optionExplanations": {
+    "a": "80% requires full ambulation with only effort limitation, which does not match a patient who is mainly sitting or lying.",
+    "b": "60% requires reduced (not mainly sit/lie) ambulation and inability only to do hobbies/housework rather than any work.",
+    "d": "40% corresponds to being mainly in bed with mainly assisted self-care, which is more dependent than this patient.",
+    "e": "30% corresponds to being totally bed bound and requiring total care, which is more dependent than this patient."
+   },
+   "topic": "Prognostication and Functional Assessment",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "PM",
+    "name": "Palliative Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1301,
+    "reference": "PM3 — Palliative Performance Scale"
+   }
+  },
+  {
+   "id": "TN-PM-002",
+   "type": "single-best-answer",
+   "question": "A 74-year-old man with advanced gastric cancer reports early satiety, postprandial bloating, and nausea with occasional vomiting of undigested food several hours after eating. Investigations show no bowel obstruction. Symptoms are thought to be due to delayed gastric emptying. Which of the following is the most appropriate pharmacologic agent to manage his nausea?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Dexamethasone"
+    },
+    {
+     "id": "b",
+     "text": "Dimenhydrinate"
+    },
+    {
+     "id": "c",
+     "text": "Metoclopramide"
+    },
+    {
+     "id": "d",
+     "text": "Prochlorperazine"
+    },
+    {
+     "id": "e",
+     "text": "Lorazepam"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "Toronto Notes attributes nausea from gastric stasis to delayed gastric emptying, which is managed with the prokinetic agent metoclopramide. This patient's early satiety, bloating, and vomiting of undigested food in the absence of obstruction is characteristic of gastric stasis.",
+   "optionExplanations": {
+    "a": "Dexamethasone is used for nausea due to raised intracranial pressure, not gastric stasis.",
+    "b": "Dimenhydrinate is used for nausea from vestibular disease or vertigo.",
+    "d": "Prochlorperazine is used for nausea related to drug effects, hepatic failure, or renal failure.",
+    "e": "Lorazepam is used for anticipatory nausea related to anxiety, not for delayed gastric emptying."
+   },
+   "topic": "Nausea and Vomiting Management",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "PM",
+    "name": "Palliative Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1302,
+    "reference": "PM4 — Symptom Management (Nausea and Vomiting)"
+   }
+  },
+  {
+   "id": "TN-PM-003",
+   "type": "single-best-answer",
+   "question": "An 80-year-old man with end-stage COPD is in his final days of life. He becomes unable to swallow safely and his family is concerned about how he will continue receiving his symptom medications. His IV access was removed. Which of the following is the preferred route for administering his essential medications at this stage?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Intramuscular injection"
+    },
+    {
+     "id": "b",
+     "text": "Sublingual administration"
+    },
+    {
+     "id": "c",
+     "text": "Subcutaneous injection"
+    },
+    {
+     "id": "d",
+     "text": "Rectal administration"
+    },
+    {
+     "id": "e",
+     "text": "Re-insertion of intravenous access"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "Toronto Notes states that when a dying patient can no longer swallow safely, essential medications should be given by a non-oral route, with the subcutaneous (SC) route being preferred over other options such as IV, rectal, or transdermal routes.",
+   "optionExplanations": {
+    "a": "Intramuscular injection is more painful and is not listed as a preferred route in the dying patient.",
+    "b": "Sublingual administration is not identified as the preferred route in this setting.",
+    "d": "Rectal administration is a possible alternate route but is not the preferred option.",
+    "e": "Re-inserting IV access is more invasive than the subcutaneous route and is not preferred in this setting."
+   },
+   "topic": "Care of the Patient in the Final Days of Life",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "PM",
+    "name": "Palliative Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1303,
+    "reference": "PM5 — Care of the Patient in the Final Days of Life"
+   }
+  },
+  {
+   "id": "TN-PM-004",
+   "type": "single-best-answer",
+   "question": "A 79-year-old woman with end-stage heart failure discusses her wishes with her care team. She states that she does not want cardiopulmonary resuscitation, defibrillation, life support, or any active medical management such as antibiotics or intravenous fluids if her condition worsens, and prefers care focused solely on comfort. Which code status best describes her wishes?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Full code"
+    },
+    {
+     "id": "b",
+     "text": "Do Not Resuscitate (DNR)"
+    },
+    {
+     "id": "c",
+     "text": "Comfort measures"
+    },
+    {
+     "id": "d",
+     "text": "Allow Natural Death (AND)"
+    },
+    {
+     "id": "e",
+     "text": "Advance care planning"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "Toronto Notes defines comfort measures as the code status in which a patient would not like to receive CPR, life support, or active medical management, which precisely matches this patient's stated wishes.",
+   "optionExplanations": {
+    "a": "Full code means the patient wants CPR, defibrillation, and life support, the opposite of her wishes.",
+    "b": "DNR means the patient declines CPR and life support but would still receive active medical management, which she has also declined.",
+    "d": "AND is an alternative term for DNR and still permits active medical management.",
+    "e": "Advance care planning refers to identifying a substitute decision-maker and discussing future wishes generally, not a specific code status."
+   },
+   "topic": "Code Status and Goals of Care",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "PM",
+    "name": "Palliative Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1304,
+    "reference": "PM6 — End-of-Life Decision Making (Code Status)"
+   }
+  },
+  {
+   "id": "TN-PM-005",
+   "type": "single-best-answer",
+   "question": "A 61-year-old man with metastatic pancreatic cancer and his family ask his oncologist how much time he has left. The oncologist has not previously discussed prognosis in detail with this patient. Which of the following is the most appropriate approach to answering this question?",
+   "options": [
+    {
+     "id": "a",
+     "text": "State a specific number of days based on population survival statistics"
+    },
+    {
+     "id": "b",
+     "text": "Provide a range such as weeks to many weeks, acknowledging uncertainty"
+    },
+    {
+     "id": "c",
+     "text": "Defer any prognosis discussion until the family specifically requests it again"
+    },
+    {
+     "id": "d",
+     "text": "Refer the question to the palliative care team without giving any estimate"
+    },
+    {
+     "id": "e",
+     "text": "Tell the patient that his prognosis cannot be estimated in his condition"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Toronto Notes advises being wary of overly specific prognostic estimates and instead using broad time frames such as hours to days, days to weeks, weeks to many weeks, or months, since clinicians consistently overestimate survival when prognosticating.",
+   "optionExplanations": {
+    "a": "Overly specific estimates are discouraged because prognostic error is common and clinicians tend to overestimate survival.",
+    "c": "Deferring the discussion entirely does not address the patient and family's expressed wish for information now.",
+    "d": "The treating clinician can and should engage with the prognosis question using broad time frames rather than fully deflecting it.",
+    "e": "Broad time frames can still be offered; refusing to give any sense of timeline is not the recommended approach."
+   },
+   "topic": "Prognostication in Palliative Care",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "PM",
+    "name": "Palliative Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1305,
+    "reference": "PM7 — Estimating Life Expectancy"
+   }
+  },
+  {
+   "id": "TN-PM-006",
+   "type": "single-best-answer",
+   "question": "A 55-year-old woman with a solely psychiatric diagnosis of treatment-resistant major depressive disorder, and no other physical illness, requests medical assistance in dying (MAID) in Canada in 2026. She has full decision-making capacity and has been assessed by two independent clinicians. Which of the following best reflects her current eligibility for MAID?",
+   "options": [
+    {
+     "id": "a",
+     "text": "She is eligible under pathway one because her death is reasonably foreseeable"
+    },
+    {
+     "id": "b",
+     "text": "She is eligible under pathway two because her illness is serious and incurable"
+    },
+    {
+     "id": "c",
+     "text": "She is not eligible because a sole mental health diagnosis does not qualify for MAID until March 17, 2027"
+    },
+    {
+     "id": "d",
+     "text": "She is eligible only if she signs a waiver of final consent"
+    },
+    {
+     "id": "e",
+     "text": "She is eligible because two independent clinicians have already assessed her"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "Toronto Notes states that patients whose sole eligibility for MAID is a mental health diagnosis cannot access MAID until March 17, 2027, which directly applies to this patient, whose only condition is a psychiatric diagnosis.",
+   "optionExplanations": {
+    "a": "Pathway one applies when death is reasonably foreseeable, which does not describe a psychiatric-only diagnosis, and this pathway is still subject to the current mental illness exclusion.",
+    "b": "Pathway two requires a serious and incurable illness, disease, or disability, but the legislative exclusion for sole mental health diagnoses still applies until 2027.",
+    "d": "A waiver of final consent applies to patients who may lose capacity before their scheduled MAID date, not to eligibility based on a mental health diagnosis.",
+    "e": "Assessment by two clinicians is a procedural requirement for MAID but does not override the current exclusion for sole mental health diagnoses."
+   },
+   "topic": "Medical Assistance in Dying (MAID)",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "PM",
+    "name": "Palliative Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1306,
+    "reference": "PM8 — Medical Assistance in Dying (MAID)"
+   }
+  }
+ ]
+}

@@ -1,0 +1,1210 @@
+{
+ "chapter": {
+  "code": "P",
+  "name": "Pediatrics"
+ },
+ "document": {
+  "id": "toronto-notes-2025",
+  "title": "Toronto Notes 2025",
+  "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
+ },
+ "count": 26,
+ "questions": [
+  {
+   "id": "TN-P-001",
+   "type": "single-best-answer",
+   "question": "A term infant is born by spontaneous vaginal delivery with poor tone and no spontaneous respirations. The team warms and dries the baby, provides tactile stimulation, positions the airway in the sniffing position and begins bag-and-mask ventilation with room air. After an interval of effective positive pressure ventilation the heart rate remains 45 beats/min. What is the most appropriate next step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Continue bag-and-mask ventilation with room air alone and reassess the heart rate in one minute"
+    },
+    {
+     "id": "b",
+     "text": "Establish an airway for effective ventilation, begin chest compressions and turn the oxygen to 100%"
+    },
+    {
+     "id": "c",
+     "text": "Intubate the trachea for routine tracheal suctioning before any further ventilation"
+    },
+    {
+     "id": "d",
+     "text": "Assign the 5-minute Apgar score before deciding on further intervention"
+    },
+    {
+     "id": "e",
+     "text": "Stop ventilation and provide free-flow oxygen while awaiting umbilical venous access"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Toronto Notes states that in neonatal resuscitation, if the newborn is apneic or has ineffective respirations with a heart rate below 100, positive pressure ventilation is given and continued until the heart rate exceeds 100 with spontaneous breathing; if the heart rate falls below 60, an airway must be established for effective ventilation, chest compressions started, and oxygen turned to 100%. This infant's heart rate of 45/min despite effective PPV meets the threshold for compressions and 100% oxygen.",
+   "optionExplanations": {
+    "a": "PPV alone is the correct step only while the heart rate is between 60 and 100; below 60 compressions and 100% oxygen are required.",
+    "c": "Routine intubation for tracheal suctioning is not suggested even when meconium is present unless the operator is skilled at intubation; it does not address the bradycardia.",
+    "d": "Resuscitation must never be delayed to assign an Apgar score.",
+    "e": "Free-flow oxygen without ventilation is inadequate for an apneic, bradycardic newborn."
+   },
+   "topic": "Neonatal resuscitation",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "P",
+    "name": "Pediatrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1267,
+    "reference": "P71 — Neonatal Resuscitation"
+   }
+  },
+  {
+   "id": "TN-P-002",
+   "type": "single-best-answer",
+   "question": "A 3.9 kg male infant is delivered at 38 weeks gestation by elective caesarean section performed before the onset of labour. Within 2 hours of birth he develops a respiratory rate of 78/min with grunting, mild intercostal retractions and nasal flaring. He is pink in room air with an oxygen saturation of 96%. Chest radiograph shows perihilar infiltrates, a wet cardiac silhouette and fluid in the fissures. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Transient tachypnea of the newborn"
+    },
+    {
+     "id": "b",
+     "text": "Respiratory distress syndrome"
+    },
+    {
+     "id": "c",
+     "text": "Meconium aspiration syndrome"
+    },
+    {
+     "id": "d",
+     "text": "Persistent pulmonary hypertension of the newborn"
+    },
+    {
+     "id": "e",
+     "text": "Congenital pneumonia"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Transient tachypnea of the newborn results from delayed resorption of fetal lung fluid, occurs in term and late preterm infants, and is associated with elective caesarean delivery or short labour, macrosomia, maternal diabetes and male sex. It causes tachypnea with retractions, grunting and flaring within the first few hours of life, often with no hypoxia or cyanosis, and the radiograph shows perihilar infiltrates and fluid in the fissures. Recovery is usually expected within 24-72 hours.",
+   "optionExplanations": {
+    "b": "RDS is a disease of preterm infants and gives homogeneous infiltrates with air bronchograms and decreased lung volumes, with hypoxia and cyanosis.",
+    "c": "Meconium aspiration occurs in term and post-term infants with meconium-stained fluid and shows hyperinflation with patchy coarse infiltrates.",
+    "d": "PPHN causes marked hypoxemia with a right-to-left shunt across the ductus and foramen ovale, not a well-saturated pink infant.",
+    "e": "Pneumonia may resemble RDS radiographically but would not be suggested by fluid in the fissures after an elective caesarean in a well-saturated infant."
+   },
+   "topic": "Transient tachypnea of the newborn",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "P",
+    "name": "Pediatrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1276,
+    "reference": "P80 — Respiratory Distress in the Newborn"
+   }
+  },
+  {
+   "id": "TN-P-003",
+   "type": "single-best-answer",
+   "question": "A male infant is born at 29 weeks gestation to a mother with pre-existing diabetes; there was no time to give antenatal corticosteroids. Within the first hour of life he develops grunting, nasal flaring and subcostal indrawing, and the distress worsens over the next 24 hours. He is hypoxic and cyanotic. Chest radiograph shows homogeneous infiltrates with air bronchograms and decreased lung volumes. Besides oxygen and ventilation, what is the most appropriate specific treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Intratracheal surfactant"
+    },
+    {
+     "id": "b",
+     "text": "Inhaled nitric oxide"
+    },
+    {
+     "id": "c",
+     "text": "Indomethacin"
+    },
+    {
+     "id": "d",
+     "text": "Extracorporeal membrane oxygenation"
+    },
+    {
+     "id": "e",
+     "text": "High-frequency oscillation in a sedated, muscle-relaxed infant"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Respiratory distress syndrome is caused by surfactant deficiency leading to high alveolar surface tension, atelectasis and reduced surface area for gas exchange, and is characteristic of preterm infants with additional risks including maternal diabetes and male sex. Toronto Notes lists treatment as resuscitation, oxygen, ventilation and surfactant, which decreases alveolar surface tension, improves lung compliance and maintains functional residual capacity.",
+   "optionExplanations": {
+    "b": "Inhaled nitric oxide is used for meconium aspiration and persistent pulmonary hypertension, not as the specific treatment for surfactant deficiency.",
+    "c": "Indomethacin is used to close a patent ductus arteriosus in premature infants, not to treat RDS itself.",
+    "d": "ECMO is reserved for PPHN or severe failure when other therapy fails.",
+    "e": "High-frequency oscillation with sedation and muscle relaxation is described as management of persistent pulmonary hypertension rather than the specific therapy for surfactant deficiency."
+   },
+   "topic": "Neonatal respiratory distress syndrome",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "P",
+    "name": "Pediatrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1276,
+    "reference": "P80 — Respiratory Distress in the Newborn"
+   }
+  },
+  {
+   "id": "TN-P-004",
+   "type": "single-best-answer",
+   "question": "A 6-week-old breastfed infant is brought in with jaundice that has persisted since the second week of life. The parents report pale, clay-coloured stools and dark urine. On examination there is scleral icterus, abdominal distension and hepatomegaly. Laboratory testing shows an elevated total bilirubin with a predominantly conjugated fraction. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Biliary atresia"
+    },
+    {
+     "id": "b",
+     "text": "Breast milk jaundice"
+    },
+    {
+     "id": "c",
+     "text": "Physiologic jaundice of the newborn"
+    },
+    {
+     "id": "d",
+     "text": "Hemolytic disease due to ABO incompatibility"
+    },
+    {
+     "id": "e",
+     "text": "Congenital hypothyroidism"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Biliary atresia is atresia of the extrahepatic bile ducts leading to cholestasis and an increased conjugated bilirubin after the first week of life. Its clinical features are dark urine, pale stool, jaundice persisting beyond 2 weeks, abdominal distension and hepatomegaly, and diagnosis rests on conjugated hyperbilirubinemia with abdominal ultrasound, operative cholangiogram and liver biopsy. Prompt recognition matters because the Kasai hepatoportoenterostomy is most successful when performed before 8 weeks of age.",
+   "optionExplanations": {
+    "b": "Breast milk jaundice produces unconjugated hyperbilirubinemia with normally pigmented stools.",
+    "c": "Physiologic jaundice is unconjugated and does not persist to 6 weeks with acholic stools and hepatomegaly.",
+    "d": "Hemolysis produces unconjugated hyperbilirubinemia; conjugated hyperbilirubinemia points to obstructive cholestasis.",
+    "e": "Congenital hypothyroidism can prolong jaundice but the hyperbilirubinemia is unconjugated and stools are not acholic."
+   },
+   "topic": "Biliary atresia",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "P",
+    "name": "Pediatrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1274,
+    "reference": "P78 — Biliary Atresia"
+   }
+  },
+  {
+   "id": "TN-P-005",
+   "type": "single-best-answer",
+   "question": "A 5-day-old term infant is brought to the emergency department with poor feeding, lethargy, cool mottled extremities and decreased urine output. Femoral pulses are diminished and delayed relative to the brachial pulses, and there is a 30 mmHg difference between upper and lower limb blood pressures. Echocardiography confirms narrowing of the aorta at the level of the ductus arteriosus. What is the best initial management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Intravenous prostaglandin infusion to keep the ductus arteriosus patent, with surgical correction to follow"
+    },
+    {
+     "id": "b",
+     "text": "Indomethacin to close the ductus arteriosus"
+    },
+    {
+     "id": "c",
+     "text": "Balloon arterioplasty as the immediate first-line procedure"
+    },
+    {
+     "id": "d",
+     "text": "Intravenous furosemide and digoxin alone"
+    },
+    {
+     "id": "e",
+     "text": "Hood oxygen at 100% with observation"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Coarctation of the aorta is a narrowing almost always at the level of the ductus arteriosus that presents with an upper-to-lower limb blood pressure discrepancy and brachial-femoral delay, and when severe it presents with shock in the neonatal period as the ductus closes. Toronto Notes states that management is to give prostaglandins to keep the ductus arteriosus patent for stabilization and then perform surgical correction in neonates.",
+   "optionExplanations": {
+    "b": "Indomethacin antagonizes prostaglandin E2 and closes the ductus, which would worsen systemic hypoperfusion in a duct-dependent lesion.",
+    "c": "Balloon arterioplasty is described as an alternative to surgery for older infants and children, not for the shocked neonate.",
+    "d": "Diuretics and inotropes do not relieve the ductal-dependent obstruction and delay definitive stabilization.",
+    "e": "Oxygen does not restore lower body perfusion and may promote ductal closure."
+   },
+   "topic": "Coarctation of the aorta",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "P",
+    "name": "Pediatrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1218,
+    "reference": "P22 — Coarctation of the Aorta"
+   }
+  },
+  {
+   "id": "TN-P-006",
+   "type": "single-best-answer",
+   "question": "A 10-month-old girl presents with a 2-day history of fever to 39.2°C, vomiting and irritability with no localising findings. A catheter urine specimen shows positive leukocyte esterase and nitrites with pyuria, and culture grows 80 000 colony-forming units/mL of Escherichia coli. She responds promptly to antibiotics. Renal function is normal. What is the most appropriate imaging investigation to arrange after this first febrile urinary tract infection?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Renal and bladder ultrasound"
+    },
+    {
+     "id": "b",
+     "text": "Voiding cystourethrogram"
+    },
+    {
+     "id": "c",
+     "text": "DMSA renal cortical scan"
+    },
+    {
+     "id": "d",
+     "text": "CT of the abdomen and pelvis with contrast"
+    },
+    {
+     "id": "e",
+     "text": "No imaging is indicated after a first febrile urinary tract infection"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes recommends renal and bladder ultrasound for all febrile infants under 2 years of age with a urinary tract infection, and for recurrent febrile UTIs at any age, looking for anatomical abnormalities, hydronephrosis and abscess. A catheter specimen with at least 50 000 CFU/mL plus a urinalysis suggesting infection establishes the diagnosis, so this 10-month-old warrants ultrasound.",
+   "optionExplanations": {
+    "b": "VCUG is not recommended after a first febrile UTI unless ultrasound reveals hydronephrosis, obstructive uropathy or other signs suggestive of high-grade vesicoureteral reflux.",
+    "c": "A cortical scan is not part of the recommended initial imaging pathway described.",
+    "d": "CT is not indicated for an uncomplicated first febrile UTI that responds to therapy.",
+    "e": "Imaging is specifically recommended for febrile infants under 2 years."
+   },
+   "topic": "Urinary tract infection",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "P",
+    "name": "Pediatrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1265,
+    "reference": "P69 — Urinary Tract Infection"
+   }
+  },
+  {
+   "id": "TN-P-007",
+   "type": "single-best-answer",
+   "question": "A term newborn appears well at delivery but at 18 hours of age becomes deeply cyanotic. Oxygen saturation is 68% and does not improve when 100% oxygen is given. No murmur is audible and the precordium is quiet. Chest radiograph shows an egg-shaped cardiac silhouette with a narrow mediastinum. Echocardiography confirms the aorta arising from the right ventricle and the pulmonary artery from the left ventricle. What is the most appropriate immediate management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Prostaglandin E1 infusion to keep the ductus open until balloon atrial septostomy"
+    },
+    {
+     "id": "b",
+     "text": "Immediate arterial switch operation in the delivery suite"
+    },
+    {
+     "id": "c",
+     "text": "Indomethacin to close the patent ductus arteriosus"
+    },
+    {
+     "id": "d",
+     "text": "Intubation with 100% oxygen and no further intervention"
+    },
+    {
+     "id": "e",
+     "text": "Intravenous furosemide and fluid restriction"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "In transposition of the great arteries the pulmonary and systemic circulations run in parallel, and survival depends on mixing through a PDA, ASD or VSD; when the ductus closes there is rapidly progressive severe hypoxemia unresponsive to oxygen, then acidosis and death. Toronto Notes states that symptomatic neonates receive a prostaglandin E1 infusion to keep the ductus open until balloon atrial septostomy, with arterial switch repair in the first 2 weeks in those without a VSD.",
+   "optionExplanations": {
+    "b": "The arterial switch is performed in the first 2 weeks after stabilization, not as an emergency delivery-room procedure.",
+    "c": "Closing the ductus removes the only site of mixing and is rapidly fatal in this lesion.",
+    "d": "Hypoxemia in transposition is characteristically unresponsive to oxygen therapy because the circulations are in parallel.",
+    "e": "Diuresis does not address the absent mixing between the parallel circulations."
+   },
+   "topic": "Transposition of the great arteries",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "P",
+    "name": "Pediatrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1220,
+    "reference": "P24 — Transposition of the Great Arteries"
+   }
+  },
+  {
+   "id": "TN-P-008",
+   "type": "single-best-answer",
+   "question": "A 9-month-old boy born at term is brought by his mother for a routine well-child visit. He has had no illnesses and his parents have no concerns about his development. Before moving on to anticipatory guidance you wish to confirm that his development is appropriate for his age. Which set of findings would be expected in a typically developing child of this age?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Sits well without support, pulls to stand, uses an inferior pincer grasp, says \"mama\" and \"dada\", and plays peek-a-boo"
+    },
+    {
+     "id": "b",
+     "text": "Walks a few steps with a wide gait, uses a fine pincer grasp and says one word with meaning besides mama and dada"
+    },
+    {
+     "id": "c",
+     "text": "Rolls prone to supine, sits with support, squeals and laughs, and brings objects to midline"
+    },
+    {
+     "id": "d",
+     "text": "Builds a tower of four blocks, says 15-25 words and engages in parallel play"
+    },
+    {
+     "id": "e",
+     "text": "Jumps on two feet, speaks in 2-3 word phrases and has established handedness"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The Toronto Notes developmental milestones table lists the 9-month-old as sitting well without support, pulling to stand and possibly crawling, using an inferior pincer grasp and poking objects, saying \"mama\" and \"dada\" with gestures such as bye-bye, playing games like peek-a-boo with object permanence, and showing separation anxiety. These findings match option a.",
+   "optionExplanations": {
+    "b": "Walking a few steps, a fine pincer grasp and one meaningful word correspond to 12 months.",
+    "c": "Rolling prone to supine, sitting with support, squealing and bringing objects to midline correspond to 4 months.",
+    "d": "A tower of four blocks, 15-25 words and parallel play correspond to 18 months.",
+    "e": "Jumping on two feet, 2-3 word phrases and established handedness correspond to 24 months."
+   },
+   "topic": "Developmental milestones",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "P",
+    "name": "Pediatrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1204,
+    "reference": "P8 — Developmental Milestones"
+   }
+  },
+  {
+   "id": "TN-P-009",
+   "type": "single-best-answer",
+   "question": "A 3-week-old term infant born after an uncomplicated pregnancy is exclusively breastfed and is gaining weight appropriately. The mother is healthy and takes no medications, and there are no infant or maternal risk factors identified. At the well-baby visit she asks whether her baby needs any supplements while she continues to breastfeed. What is the most appropriate recommendation?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Vitamin D 400 IU daily"
+    },
+    {
+     "id": "b",
+     "text": "Vitamin D 800 IU daily"
+    },
+    {
+     "id": "c",
+     "text": "No supplementation is required because breast milk is nutritionally complete"
+    },
+    {
+     "id": "d",
+     "text": "Begin daily oral iron supplementation"
+    },
+    {
+     "id": "e",
+     "text": "Supplement each day with one bottle of iron-fortified formula"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states that exclusive breastfeeding is recommended for the first 6 months unless contraindicated, and that all breastfed infants require vitamin D supplementation of 400 IU/d, or 800 IU/d if infant or maternal risk factors are present. With no risk factors identified in this healthy dyad, 400 IU daily is correct.",
+   "optionExplanations": {
+    "b": "800 IU/d is reserved for infants where infant or maternal risk factors are present.",
+    "c": "Breastfed infants specifically require vitamin D supplementation.",
+    "d": "Iron supplementation is directed at low birth weight infants or older infants without adequate iron-rich intake, not routinely at 3 weeks in a term breastfed baby.",
+    "e": "Routine formula supplementation is not indicated when breastfeeding is going well and weight gain is appropriate."
+   },
+   "topic": "Infant nutrition and vitamin D",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "P",
+    "name": "Pediatrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1204,
+    "reference": "P8 — Nutrition: Dietary Recommendations"
+   }
+  },
+  {
+   "id": "TN-P-010",
+   "type": "single-best-answer",
+   "question": "A healthy 2-month-old infant attends for her first set of routine immunizations. At 6 weeks of age she was hospitalized with an ileocolic intussusception that was successfully reduced by air enema. Today her mother reports mild clear nasal discharge, but the baby is afebrile, alert and feeding well. Which of the scheduled vaccines should be withheld from this infant?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Oral rotavirus vaccine"
+    },
+    {
+     "id": "b",
+     "text": "Diphtheria-tetanus-acellular pertussis-inactivated polio-Haemophilus influenzae type b vaccine"
+    },
+    {
+     "id": "c",
+     "text": "13-valent pneumococcal conjugate vaccine"
+    },
+    {
+     "id": "d",
+     "text": "All injected vaccines until the upper respiratory symptoms resolve"
+    },
+    {
+     "id": "e",
+     "text": "Hepatitis B vaccine"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes lists a history of intussusception as a contraindication to the oral rotavirus vaccine, along with immunocompromise and abdominal disorders such as Meckel's diverticulum; intussusception is also listed among its adverse reactions. Contraindications to vaccination in general are moderate or severe illness with fever and allergy to a vaccine component, and there is no need to delay vaccination for a mild upper respiratory tract infection.",
+   "optionExplanations": {
+    "b": "Contraindications to TdaP-IPV containing vaccines are evolving unstable neurologic disease, prior hypotonic-hyporesponsive episode, anaphylaxis to components, encephalopathy within 7 days of past pertussis vaccine or Guillain-Barre within 8 weeks of past tetanus vaccine.",
+    "c": "Prior intussusception is not a contraindication to pneumococcal conjugate vaccine.",
+    "d": "A mild upper respiratory tract infection without fever is explicitly not a reason to delay vaccination.",
+    "e": "The only listed contraindication to hepatitis B vaccine is anaphylaxis to a vaccine component such as baker's yeast."
+   },
+   "topic": "Routine immunization contraindications",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "P",
+    "name": "Pediatrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1201,
+    "reference": "P5 — Adverse Reactions and Contraindications of Routine Immunizations"
+   }
+  },
+  {
+   "id": "TN-P-011",
+   "type": "single-best-answer",
+   "question": "A 9-month-old boy is brought to a walk-in clinic because he has felt warm to touch and has been fussy since the morning. He is feeding normally and there is no vomiting or diarrhea. Before you examine him, the nurse asks which method you would like used to obtain a definitive temperature measurement in a child of this age. Which technique should be used?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Rectal"
+    },
+    {
+     "id": "b",
+     "text": "Axillary"
+    },
+    {
+     "id": "c",
+     "text": "Tympanic"
+    },
+    {
+     "id": "d",
+     "text": "Temporal artery"
+    },
+    {
+     "id": "e",
+     "text": "Oral"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The Toronto Notes table of temperature measurement technique recommendations lists rectal measurement as the definitive technique from birth to 2 years, with axillary measurement used only for screening in this age group. This 9-month-old therefore requires a rectal temperature for a definitive reading.",
+   "optionExplanations": {
+    "b": "Axillary measurement is recommended only as a screening technique in this age group, not as the definitive measurement.",
+    "c": "Tympanic measurement is listed as a screening option from 2 years of age onward.",
+    "d": "Temporal artery measurement is listed as an in-hospital screening option from 2 years of age onward.",
+    "e": "Oral measurement is the definitive technique only for children older than 5 years."
+   },
+   "topic": "Temperature measurement in children",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "P",
+    "name": "Pediatrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1200,
+    "reference": "P4 — Temperature Measurement Technique Recommendations"
+   }
+  },
+  {
+   "id": "TN-P-012",
+   "type": "single-best-answer",
+   "question": "A 16-day-old term infant, born after an uncomplicated pregnancy and vaginal delivery, is brought in because of a rectal temperature of 38.4°C at home. He has fed slightly less than usual today but is alert, well perfused and vigorous, and the physical examination reveals no source of infection. His mother had no risk factors on prenatal screening. What is the most appropriate management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Full septic workup with blood, urine and cerebrospinal fluid cultures, admission and empiric antibiotics"
+    },
+    {
+     "id": "b",
+     "text": "Apply low-risk criteria such as the Rochester criteria and discharge home if he is classified as low risk"
+    },
+    {
+     "id": "c",
+     "text": "Give an antipyretic and arrange reassessment in 24 hours"
+    },
+    {
+     "id": "d",
+     "text": "Send a catheter urinalysis and culture only, and treat if positive"
+    },
+    {
+     "id": "e",
+     "text": "Prescribe oral antibiotics at home with follow-up in 48 hours"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes notes that although several protocols such as the Rochester criteria attempt to identify young infants at low risk of serious bacterial infection, these protocols are not as sensitive in the 1-28 day age group, so febrile neonates should be considered high-risk regardless of clinical features and laboratory findings. Management includes admission to hospital, treating the source and replacing fluid losses.",
+   "optionExplanations": {
+    "b": "Low-risk criteria are explicitly described as insufficiently sensitive in the first 28 days of life.",
+    "c": "Deferring investigation of a febrile neonate risks missing invasive bacterial infection.",
+    "d": "Urine testing alone misses bacteremia and meningitis in this high-risk age group.",
+    "e": "Outpatient oral antibiotics do not provide the required cultures, monitoring or parenteral coverage for a febrile neonate."
+   },
+   "topic": "Febrile neonate",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "P",
+    "name": "Pediatrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1255,
+    "reference": "P59 — Evaluation of Neonates and Infants with Fever"
+   }
+  },
+  {
+   "id": "TN-P-013",
+   "type": "single-best-answer",
+   "question": "A 20-month-old girl has had 2 days of fever to 39.4°C with irritability, poor sleep and right ear pain following a viral upper respiratory infection. Otoscopy shows a bulging, hemorrhagic right tympanic membrane with loss of the normal landmarks and a middle ear effusion. She is not toxic, is drinking well, and has no drug allergies. What is the most appropriate management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Amoxicillin for 10 days"
+    },
+    {
+     "id": "b",
+     "text": "Amoxicillin for 5 days"
+    },
+    {
+     "id": "c",
+     "text": "Analgesia alone with planned reassessment at 48 hours"
+    },
+    {
+     "id": "d",
+     "text": "Topical antibiotic ear drops"
+    },
+    {
+     "id": "e",
+     "text": "Oral decongestant and antihistamine"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Acute otitis media requires a middle ear effusion with inflammation, and a bulging tympanic membrane, especially if yellow or hemorrhagic, is a major diagnostic criterion. Immediate antibiotic treatment is indicated when a child is highly febrile at 39°C or above, is moderately to severely systemically ill, has very severe otalgia, or has been significantly ill for 48 hours. Amoxicillin is the clear drug of choice, given for 10 days in children under 2 years.",
+   "optionExplanations": {
+    "b": "A 5-day course is recommended for children 2 years and older; this child is under 2 years.",
+    "c": "Watchful waiting with reassessment at 48 hours is for milder presentations, not a child with fever of 39.4°C and a hemorrhagic bulging drum.",
+    "d": "Topical antibiotics are used for skin infections such as impetigo, not for acute otitis media with an intact drum.",
+    "e": "Decongestants and antihistamines do not treat bacterial acute otitis media."
+   },
+   "topic": "Acute otitis media",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "P",
+    "name": "Pediatrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1255,
+    "reference": "P59 — Acute Otitis Media"
+   }
+  },
+  {
+   "id": "TN-P-014",
+   "type": "single-best-answer",
+   "question": "An 11-month-old boy had 4 days of high fever to 39.8°C with irritability and reduced appetite but no cough or coryza. The fever settled this morning, and shortly afterwards a blanching pink maculopapular rash appeared on his neck and trunk and spread to his face and extremities. He now looks well and is playing. There is no conjunctivitis and no oral enanthem apart from a few erythematous papules on the soft palate. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Roseola"
+    },
+    {
+     "id": "b",
+     "text": "Measles"
+    },
+    {
+     "id": "c",
+     "text": "Rubella"
+    },
+    {
+     "id": "d",
+     "text": "Erythema infectiosum"
+    },
+    {
+     "id": "e",
+     "text": "Hand, foot, and mouth disease"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Roseola, caused by human herpesvirus 6, produces 3-5 days of high grade fever with irritability, anorexia and Nagayama spots on the soft palate and uvula, followed by a blanching pink maculopapular rash that appears once the fever subsides and spreads from the neck and trunk to the face and extremities. It is self-limiting and management is supportive, although febrile seizures are a recognised complication.",
+   "optionExplanations": {
+    "b": "Measles has a prodrome of cough, coryza and conjunctivitis with Koplik spots, and the rash appears during fever, starting at the hairline and spreading downwards.",
+    "c": "Rubella causes a low grade fever with occipital and retroauricular lymphadenopathy, and the rash starts on the face during the illness.",
+    "d": "Erythema infectiosum gives a lacy rash on the cheeks with circumoral sparing appearing 10-17 days after symptoms.",
+    "e": "Hand, foot, and mouth disease produces vesicles and pustules on the mouth, buttocks and acral sites with a posterior oral enanthem."
+   },
+   "topic": "Roseola",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "P",
+    "name": "Pediatrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1258,
+    "reference": "P62 — Infectious Pediatric Exanthems"
+   }
+  },
+  {
+   "id": "TN-P-015",
+   "type": "single-best-answer",
+   "question": "A 7-month-old previously healthy infant presents in February with 3 days of rhinorrhea and cough, now with audible wheeze, crackles on auscultation, a respiratory rate of 52/min and mild subcostal retractions. This is his first episode of wheezing. Oxygen saturation is 95% in room air, he is afebrile, and he is taking about three-quarters of his usual feed volumes. What is the most appropriate management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Supportive care with oral hydration, nasal suctioning and antipyretics as needed"
+    },
+    {
+     "id": "b",
+     "text": "Inhaled salbutamol by metered dose inhaler with spacer"
+    },
+    {
+     "id": "c",
+     "text": "Oral corticosteroids"
+    },
+    {
+     "id": "d",
+     "text": "Oral amoxicillin for presumed bacterial pneumonia"
+    },
+    {
+     "id": "e",
+     "text": "Chest radiograph and nebulized ipratropium bromide"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Bronchiolitis is a lower respiratory tract infection in children under 2 years with wheezing and respiratory distress, most often due to RSV, typically presenting as the first episode of wheeze with a URTI prodrome and peaking at 3-4 days. Toronto Notes states that for mild to moderate distress management is supportive with oral or IV hydration, oral and nasal suctioning as needed, antipyretics and oxygen, and that bronchodilators, corticosteroids and antibiotics have no therapeutic value.",
+   "optionExplanations": {
+    "b": "Children with bronchiolitis do not respond to salbutamol; bronchodilators do not improve oxygen saturation or admission rates.",
+    "c": "Corticosteroids are explicitly stated to have no therapeutic value in bronchiolitis.",
+    "d": "Antibiotics are reserved for a secondary bacterial pneumonia, which is not suggested here.",
+    "e": "Routine investigations including chest radiograph are not required when bronchiolitis is suspected, and ipratropium is not effective."
+   },
+   "topic": "Bronchiolitis",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "P",
+    "name": "Pediatrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1288,
+    "reference": "P92 — Bronchiolitis"
+   }
+  },
+  {
+   "id": "TN-P-016",
+   "type": "single-best-answer",
+   "question": "A 6-year-old boy weighing 22 kg with known asthma presents to the emergency department with wheeze, tachypnea, prolonged expiration and accessory muscle use two days into a viral illness. Oxygen saturation is 91% in room air and his PRAM score is 6, indicating a moderate exacerbation. He is alert and able to speak in short phrases. What is the most appropriate initial management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Oxygen to keep saturation above 92% plus salbutamol 8-10 puffs by metered dose inhaler with spacer every 20 minutes for three doses, and a systemic corticosteroid"
+    },
+    {
+     "id": "b",
+     "text": "Intravenous magnesium sulphate as the first intervention"
+    },
+    {
+     "id": "c",
+     "text": "A single dose of inhaled corticosteroid with discharge and follow-up in 1 week"
+    },
+    {
+     "id": "d",
+     "text": "Oral amoxicillin with salbutamol as needed"
+    },
+    {
+     "id": "e",
+     "text": "Nebulized epinephrine and observation for 2 hours"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "For an acute pediatric asthma exacerbation Toronto Notes recommends oxygen to keep saturation above 92% with fluids if dehydrated, salbutamol by metered dose inhaler and spacer at 4-5 puffs for children under 20 kg or 8-10 puffs for children over 20 kg every 20 minutes for three doses, and steroids such as prednisone or dexamethasone. This 22 kg child therefore receives the higher puff dose plus a systemic corticosteroid.",
+   "optionExplanations": {
+    "b": "Intravenous magnesium sulphate is added only if there is no response to initial bronchodilator and steroid therapy.",
+    "c": "Inhaled corticosteroid alone does not treat an acute moderate exacerbation with hypoxemia; discharge criteria include saturation of at least 92% in room air and a PRAM below 3.",
+    "d": "Antibiotics are not part of the management of an acute asthma exacerbation.",
+    "e": "Nebulized epinephrine is not the recommended bronchodilator for acute asthma in this setting."
+   },
+   "topic": "Acute asthma exacerbation",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "P",
+    "name": "Pediatrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1287,
+    "reference": "P91 — Asthma"
+   }
+  },
+  {
+   "id": "TN-P-017",
+   "type": "single-best-answer",
+   "question": "A 5-week-old firstborn male has a 1-week history of forceful non-bilious vomiting occurring within 30 minutes of most feeds. He appears hungry immediately afterwards but has lost weight and is passing fewer stools. He looks mildly dehydrated and tired, and a small firm mobile mass is palpated in the right upper quadrant. Bloodwork shows a hypokalemic, hypochloremic metabolic alkalosis. What is the most appropriate investigation to confirm the diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Ultrasound of the pylorus"
+    },
+    {
+     "id": "b",
+     "text": "Upper gastrointestinal series with water-soluble contrast"
+    },
+    {
+     "id": "c",
+     "text": "Plain abdominal radiograph"
+    },
+    {
+     "id": "d",
+     "text": "Esophageal pH monitoring study"
+    },
+    {
+     "id": "e",
+     "text": "Rectal suction biopsy"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The Toronto Notes table of neonatal non-bilious vomiting describes pyloric stenosis as projectile non-bilious emesis within 30 minutes of feeding with fatigue, dehydration, a palpable olive in the right upper quadrant, decreased stools and persistent hunger. The recommended diagnostic approach is CBC, electrolytes, creatinine, urea and blood gas showing a hypokalemic hypochloremic metabolic alkalosis, with ultrasound of the pylorus, reserving an upper GI study for when ultrasound is non-diagnostic.",
+   "optionExplanations": {
+    "b": "An upper GI study is used only if the ultrasound is non-diagnostic, and water-soluble contrast studies are directed at suspected tracheoesophageal fistula.",
+    "c": "Plain radiography is used for suspected obstruction, duodenal atresia or necrotizing enterocolitis, not to confirm pyloric stenosis.",
+    "d": "pH monitoring is an investigation for gastroesophageal reflux disease.",
+    "e": "Rectal biopsy is used for suspected Hirschsprung disease, which presents with bilious emesis and failure to pass stool."
+   },
+   "topic": "Pyloric stenosis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "P",
+    "name": "Pediatrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1238,
+    "reference": "P42 — Vomiting: Differential Diagnosis by Age"
+   }
+  },
+  {
+   "id": "TN-P-018",
+   "type": "single-best-answer",
+   "question": "A 4-day-old term infant who had been feeding well and passed meconium on day one develops sudden bilious vomiting. He is irritable with a distended, tender abdomen, and there is blood in the diaper. He is tachycardic with delayed capillary refill and cool peripheries. He was born at 39 weeks with no dysmorphic features and there was no polyhydramnios. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Malrotation with midgut volvulus"
+    },
+    {
+     "id": "b",
+     "text": "Duodenal atresia"
+    },
+    {
+     "id": "c",
+     "text": "Necrotizing enterocolitis"
+    },
+    {
+     "id": "d",
+     "text": "Hirschsprung disease"
+    },
+    {
+     "id": "e",
+     "text": "Hypertrophic pyloric stenosis"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "In the Toronto Notes table of bilious vomiting in neonates, intestinal obstruction from malrotation with volvulus is characterised by bilious emesis with abdominal distension, pain, bloody stool and shock, and is investigated with abdominal radiograph, upper GI series, contrast enema and abdominal ultrasound assessing the superior mesenteric artery and vein relationship. The abrupt onset with shock in a previously well term infant fits this diagnosis.",
+   "optionExplanations": {
+    "b": "Duodenal atresia is associated with Down syndrome, polyhydramnios and a double bubble on radiograph, and presents earlier without bloody stool and shock.",
+    "c": "Necrotizing enterocolitis characteristically affects premature neonates with feeding intolerance and bloody stools.",
+    "d": "Hirschsprung disease presents with bilious emesis, distension and failure to pass stool rather than sudden shock in an infant who has already passed meconium.",
+    "e": "Pyloric stenosis causes non-bilious projectile vomiting in an infant of several weeks of age."
+   },
+   "topic": "Malrotation with volvulus",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "P",
+    "name": "Pediatrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1238,
+    "reference": "P42 — Vomiting: Differential Diagnosis by Age"
+   }
+  },
+  {
+   "id": "TN-P-019",
+   "type": "single-best-answer",
+   "question": "A 9-month-old boy who had a mild upper respiratory infection last week presents with a 12-hour history of sudden paroxysms of severe crying during which he draws his knees up to his chest, separated by pain-free intervals in which he appears lethargic. He has vomited twice and passed a stool containing blood and mucus. He is rehydrated with intravenous fluids and ultrasound confirms an ileocolic intussusception. What is the most appropriate next step?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Reduction with an air or contrast enema"
+    },
+    {
+     "id": "b",
+     "text": "Immediate laparotomy with surgical reduction"
+    },
+    {
+     "id": "c",
+     "text": "Nasogastric decompression and observation for 48 hours"
+    },
+    {
+     "id": "d",
+     "text": "Oral rehydration therapy and reassessment in 24 hours"
+    },
+    {
+     "id": "e",
+     "text": "Upper gastrointestinal contrast series"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Intussusception is telescoping of a segment of bowel into a distal segment, most often at the ileocecal junction, and is usually diagnosed on ultrasound. For ileocolic intussusception, Toronto Notes states that an air or saline/contrast enema can be therapeutic, reducing the intussusception in about 75% of cases by hydrostatic pressure, and that surgery is rarely needed.",
+   "optionExplanations": {
+    "b": "Surgery is rarely required and is reserved for cases where enema reduction fails or there is perforation.",
+    "c": "Observation alone risks progression to ischemia and necrosis of the affected bowel.",
+    "d": "Delay is unsafe once ileocolic intussusception is confirmed in a lethargic infant with rectal bleeding.",
+    "e": "The diagnosis is already established by ultrasound, and an upper GI series does not treat the intussusception."
+   },
+   "topic": "Intussusception",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "P",
+    "name": "Pediatrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1244,
+    "reference": "P48 — Intussusception"
+   }
+  },
+  {
+   "id": "TN-P-020",
+   "type": "single-best-answer",
+   "question": "A 14-month-old girl with 3 days of vomiting and profuse watery diarrhea is brought to the emergency department. She is lethargic with a markedly sunken anterior fontanelle and markedly sunken eyes, parched oral mucosa, tenting of the skin, a rapid weak pulse, capillary refill of 4 seconds, and no urine output for 12 hours. She cannot keep fluids down. What is the most appropriate initial management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Intravenous normal saline 20 mL/kg bolus, then reassess and repeat if necessary"
+    },
+    {
+     "id": "b",
+     "text": "Oral rehydration therapy at 100 mL/kg over 4 hours"
+    },
+    {
+     "id": "c",
+     "text": "Oral rehydration therapy at 50 mL/kg over 4 hours"
+    },
+    {
+     "id": "d",
+     "text": "Maintenance intravenous dextrose in water without a bolus"
+    },
+    {
+     "id": "e",
+     "text": "Nasogastric rehydration over 24 hours with an age-appropriate diet"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The Toronto Notes assessment table places markedly sunken fontanelle and eyes, parched mucosa, tenting skin turgor, a rapid weak pulse, anuria and capillary refill over 3 seconds in the severe category of extracellular volume contraction. The deficit replacement algorithm for severe dehydration begins with resuscitation using normal saline 20 mL/kg boluses with reassessment and repetition as necessary, then oral rehydration once the patient is stable, replacement of ongoing losses and return to an age-appropriate diet.",
+   "optionExplanations": {
+    "b": "Oral rehydration at 100 mL/kg over 4 hours is the regimen for moderate dehydration, and this child cannot tolerate oral fluids.",
+    "c": "Oral rehydration at 50 mL/kg over 4 hours is the regimen for mild dehydration.",
+    "d": "Maintenance hypotonic fluid without volume resuscitation does not correct shock and risks acute hyponatremia and cerebral edema.",
+    "e": "Slow enteral rehydration is inappropriate for severe volume contraction with vomiting and anuria."
+   },
+   "topic": "Dehydration in children",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "P",
+    "name": "Pediatrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1236,
+    "reference": "P40 — Approach to Infant/Child with Dehydration"
+   }
+  },
+  {
+   "id": "TN-P-021",
+   "type": "single-best-answer",
+   "question": "A 16-month-old boy born at term is brought for assessment of pallor, irritability and fatigue. He drinks about one litre of homogenized cow's milk each day, eats few solids and refuses meat. He is otherwise well with no bleeding and no organomegaly. Hemoglobin is low with a low mean corpuscular volume, normal white cell and platelet counts, a low ferritin, and a smear showing hypochromic microcytic cells with pencil forms. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Iron deficiency anemia"
+    },
+    {
+     "id": "b",
+     "text": "Beta-thalassemia trait"
+    },
+    {
+     "id": "c",
+     "text": "Anemia of chronic disease"
+    },
+    {
+     "id": "d",
+     "text": "Lead poisoning"
+    },
+    {
+     "id": "e",
+     "text": "Physiologic anemia of infancy"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Iron deficiency is the most common cause of childhood anemia and is common between 6 months and 3 years because of rapid growth; dietary risk factors listed include cow's milk in the first year and more than 500 mL/d of non-iron-fortified milk between ages 1 and 5. Investigations show a low hemoglobin and MCV with hypochromic microcytic pencil-shaped cells on smear and a low ferritin, which is exactly this child's picture.",
+   "optionExplanations": {
+    "b": "Thalassemia is suggested by a Mentzer index (MCV divided by RBC) below 13 and would not give a low ferritin.",
+    "c": "Anemia of chronic disease is usually normocytic and there is no chronic inflammatory illness here.",
+    "d": "Lead poisoning is a listed microcytic cause but does not explain the low ferritin, and the history points to a milk-heavy, iron-poor diet.",
+    "e": "Physiologic anemia reaches its nadir at 8-12 weeks of age and resolves spontaneously; it does not occur at 16 months."
+   },
+   "topic": "Iron deficiency anemia",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "P",
+    "name": "Pediatrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1247,
+    "reference": "P51 — Iron Deficiency Anemia"
+   }
+  },
+  {
+   "id": "TN-P-022",
+   "type": "single-best-answer",
+   "question": "A 4-year-old girl develops sudden petechiae over her limbs and scattered bruising three weeks after a viral upper respiratory illness. She is well, afebrile and playful, with no lymphadenopathy and no hepatosplenomegaly. The platelet count is markedly reduced with a normal hemoglobin and white cell count, and the blood smear is otherwise unremarkable. She has no mucosal bleeding, epistaxis or gastrointestinal bleeding. What is the most appropriate management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Watchful waiting with avoidance of contact sports and of ASA and NSAIDs"
+    },
+    {
+     "id": "b",
+     "text": "Intravenous immunoglobulin 1 g/kg"
+    },
+    {
+     "id": "c",
+     "text": "A course of oral corticosteroids"
+    },
+    {
+     "id": "d",
+     "text": "Platelet transfusion"
+    },
+    {
+     "id": "e",
+     "text": "Bone marrow aspirate before any treatment is started"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Immune thrombocytopenic purpura is isolated thrombocytopenia with a normal white cell count and hemoglobin, peaks at 2-5 years, and in about 60% of cases follows a viral illness within the preceding month. Toronto Notes states that for no or mild bleeding, meaning only bruising and petechiae, watchful waiting can be considered irrespective of the platelet level, with supportive advice to avoid contact sports and ASA or NSAIDs.",
+   "optionExplanations": {
+    "b": "IVIg is indicated for moderate bleeding with mucosal lesions or troublesome epistaxis or menorrhagia, or for severe bleeding, neither of which is present.",
+    "c": "Steroids are reserved for moderate or severe bleeding, mucosal or internal bleeding, or patients at risk of significant bleeding.",
+    "d": "Platelet transfusion is reserved for life-threatening bleeding, alongside emergency splenectomy.",
+    "e": "Bone marrow aspirate is only indicated if there are red flags on history, examination or laboratory studies, and is not needed before starting corticosteroids."
+   },
+   "topic": "Immune thrombocytopenic purpura",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "P",
+    "name": "Pediatrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1249,
+    "reference": "P53 — Immune Thrombocytopenic Purpura"
+   }
+  },
+  {
+   "id": "TN-P-023",
+   "type": "single-best-answer",
+   "question": "A previously well, neurotypical 20-month-old boy has a generalized tonic-clonic seizure lasting 3 minutes at home during a febrile illness. On arrival he is alert and back to his baseline. Temperature is 39.1°C and otoscopy shows an erythematous bulging right tympanic membrane. There is no neck stiffness, no rash and no focal neurological deficit, and he has had no previous seizures. What is the most appropriate next step?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Treat the otitis media and reassure the family, with no lumbar puncture or neuroimaging"
+    },
+    {
+     "id": "b",
+     "text": "Perform a lumbar puncture before discharge"
+    },
+    {
+     "id": "c",
+     "text": "Arrange an urgent electroencephalogram"
+    },
+    {
+     "id": "d",
+     "text": "Obtain a CT scan of the head"
+    },
+    {
+     "id": "e",
+     "text": "Begin daily prophylactic antiepileptic medication"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "This is a simple febrile seizure: generalized, under 15 minutes, no recurrence within 24 hours, and no neurological impairment before or after the event in a child aged 6 months to 6 years. Toronto Notes states that for a typical febrile seizure investigations are only for determining the focus of fever, and no lumbar puncture is done if the child has regained baseline and is well. Management is treating the cause of fever with counselling and reassurance.",
+   "optionExplanations": {
+    "b": "Lumbar puncture is considered in children 6-18 months and strongly considered under 6 months, but is not required in a well child at baseline with an identified fever source and no meningeal signs.",
+    "c": "EEG is not warranted unless the febrile seizure is atypical or there are abnormal neurologic findings.",
+    "d": "Neuroimaging is likewise reserved for atypical seizures or abnormal neurological findings.",
+    "e": "Prophylaxis with antiepileptic drugs is explicitly not recommended for febrile seizures."
+   },
+   "topic": "Febrile seizures",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "P",
+    "name": "Pediatrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1284,
+    "reference": "P88 — Febrile Seizures"
+   }
+  },
+  {
+   "id": "TN-P-024",
+   "type": "single-best-answer",
+   "question": "A 5-month-old infant who is not yet rolling or sitting independently is brought in after his parents noticed bruising. Examination shows bruises on the left ear and over the right buttock and a torn upper labial frenulum. The offered explanation is that an older sibling dropped a toy on him. He is otherwise well grown and alert. A report has been made to the child protection agency. What is the most appropriate investigation?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Skeletal survey"
+    },
+    {
+     "id": "b",
+     "text": "Coagulation screen alone"
+    },
+    {
+     "id": "c",
+     "text": "Contrast-enhanced CT of the abdomen"
+    },
+    {
+     "id": "d",
+     "text": "MRI of the spine"
+    },
+    {
+     "id": "e",
+     "text": "Bone scintigraphy"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Bruises on the ears, neck, buttocks or torso and in babies who are not yet cruising are red flags for inflicted injury, as is a history incompatible with the child's developmental capabilities, and torn frenula should be sought on oral examination. Toronto Notes recommends a skeletal survey in children under 2 years, with imaging selected by history in older children, alongside documentation of injuries and investigations to exclude medical causes of bruising.",
+   "optionExplanations": {
+    "b": "Bloodwork such as CBC, INR, PTT, von Willebrand factor and factors VIII and IX is done to exclude a bleeding disorder, but it does not replace a skeletal survey in a child under 2 years.",
+    "c": "Abdominal CT is recommended when there are elevated transaminases and amylase or abdominal bruising, which are not present here.",
+    "d": "Spinal MRI is not the recommended screening investigation; neuroimaging is directed by concern for head injury.",
+    "e": "Bone scintigraphy is not the recommended screening study for occult fractures in this setting."
+   },
+   "topic": "Child maltreatment",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "P",
+    "name": "Pediatrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1215,
+    "reference": "P19 — Child Abuse and Neglect: Physical Abuse"
+   }
+  },
+  {
+   "id": "TN-P-025",
+   "type": "single-best-answer",
+   "question": "A 12-day-old infant with genital ambiguity noted at birth presents with poor feeding, vomiting, lethargy and significant weight loss. Serum sodium is low, potassium is elevated, and there is a metabolic acidosis with hypoglycemia. Blood pressure is low. Karyotype is 46,XX and pelvic ultrasound demonstrates a uterus with enlarged adrenal glands. What single blood test will best confirm the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Serum 17-hydroxyprogesterone"
+    },
+    {
+     "id": "b",
+     "text": "Plasma renin activity"
+    },
+    {
+     "id": "c",
+     "text": "Serum testosterone"
+    },
+    {
+     "id": "d",
+     "text": "Plasma ACTH"
+    },
+    {
+     "id": "e",
+     "text": "FISH for the SRY gene"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Congenital adrenal hyperplasia is an autosomal recessive defect of cortisol and aldosterone synthesis, with 21-hydroxylase deficiency accounting for about 95% of cases and being the most common cause of ambiguous genitalia in a genotypically normal 46,XX female. Classic salt-wasting disease gives failure to thrive, hyperkalemia, hyponatremia, hypoglycemia and acidosis. Toronto Notes states that a high serum 17-hydroxyprogesterone level in a random blood sample is diagnostic of 21-hydroxylase deficiency.",
+   "optionExplanations": {
+    "b": "Renin is measured as supporting evidence of salt-wasting rather than to confirm the enzyme defect.",
+    "c": "Androgen levels are part of the broader workup of ambiguous genitalia but are not diagnostic of 21-hydroxylase deficiency.",
+    "d": "ACTH is elevated because of cortisol deficiency, but the assessment listed alongside electrolytes and glucose is supportive, not diagnostic.",
+    "e": "FISH for SRY is used in the karyotype and genetic workup of disorders of sexual development, and this infant is already known to be 46,XX with a uterus."
+   },
+   "topic": "Congenital adrenal hyperplasia",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "P",
+    "name": "Pediatrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1233,
+    "reference": "P37 — Congenital Adrenal Hyperplasia"
+   }
+  },
+  {
+   "id": "TN-P-026",
+   "type": "single-best-answer",
+   "question": "A previously well 6-month-old girl is brought in because of clusters of brief symmetric episodes in which she suddenly flexes her neck and trunk and extends her arms, each episode lasting several seconds and recurring many times in a row. Her parents also report that over the past month she has stopped reaching for toys and no longer smiles responsively as she once did. Examination between episodes is unremarkable. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Infantile spasms"
+    },
+    {
+     "id": "b",
+     "text": "Lennox-Gastaut syndrome"
+    },
+    {
+     "id": "c",
+     "text": "Childhood absence epilepsy"
+    },
+    {
+     "id": "d",
+     "text": "Benign focal epilepsy of childhood with centrotemporal spikes"
+    },
+    {
+     "id": "e",
+     "text": "Juvenile myoclonic epilepsy"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Infantile spasms are brief, repeated symmetric contractions of the neck, trunk and extremities in flexion and extension, occurring in clusters with onset at 4-8 months and often associated with developmental delay. Toronto Notes calls them a pediatric emergency because they can cause developmental regression in a previously well child and must be identified and investigated early; the typical EEG shows hypsarrhythmia and treatment is with corticosteroids, vigabatrin or benzodiazepines.",
+   "optionExplanations": {
+    "b": "Lennox-Gastaut has onset commonly at 3-5 years with multiple drug-resistant seizure types and a slow generalized spike and wave EEG.",
+    "c": "Childhood absence epilepsy peaks at 6-7 years with brief absences under 30 seconds and a 3 Hz spike and wave EEG.",
+    "d": "Benign focal epilepsy with centrotemporal spikes peaks at 5-10 years with focal motor seizures of the face and mouth in sleep-wake transitions.",
+    "e": "Juvenile myoclonic epilepsy has adolescent onset at 12-16 years with morning myoclonus."
+   },
+   "topic": "Infantile spasms",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "P",
+    "name": "Pediatrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1286,
+    "reference": "P90 — Childhood Epilepsy Syndromes"
+   }
+  }
+ ]
+}
