@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 8,
+ "count": 17,
  "questions": [
   {
    "id": "TN-PL-001",
@@ -376,6 +376,420 @@
     "document": "Toronto Notes 2025",
     "page": 1344,
     "reference": "PL34 — Orbital Floor Fractures"
+   }
+  },
+  {
+   "id": "TN-PL-009",
+   "type": "single-best-answer",
+   "question": "A 29-year-old man lacerates the volar aspect of his right ring finger on broken glass. Bleeding is controlled and the digit is well perfused with normal sensation. He can still bend the finger at the proximal interphalangeal joint, but he cannot bend the tip of the finger at the distal interphalangeal joint at all. Which structure has most likely been divided?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Flexor digitorum superficialis tendon"
+    },
+    {
+     "id": "b",
+     "text": "Flexor digitorum profundus tendon"
+    },
+    {
+     "id": "c",
+     "text": "Flexor pollicis longus tendon"
+    },
+    {
+     "id": "d",
+     "text": "Flexor carpi radialis tendon"
+    },
+    {
+     "id": "e",
+     "text": "Palmaris longus tendon"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Toronto Notes states that flexor digitorum profundus crosses both the distal and proximal interphalangeal joints while flexor digitorum superficialis crosses only the proximal interphalangeal joint, since deeper tendons extend more distally than superficial tendons. Loss of distal interphalangeal flexion with preserved proximal interphalangeal flexion therefore localizes the division to the profundus tendon. Flexor tendon injuries should be seen and treated sooner than extensor injuries because of the risk of retraction.",
+   "optionExplanations": {
+    "a": "Flexor digitorum superficialis crosses only the proximal interphalangeal joint, so its division would abolish proximal interphalangeal flexion, which is preserved here.",
+    "c": "Flexor pollicis longus flexes the thumb and has no action on the ring finger.",
+    "d": "Flexor carpi radialis inserts on the metacarpal bases and flexes the wrist; it does not flex the digits.",
+    "e": "Palmaris longus inserts into the palmar aponeurosis and contributes to wrist flexion, not to flexion of the distal interphalangeal joint."
+   },
+   "topic": "Flexor Tendon Injuries",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "PL",
+    "name": "Plastic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1314,
+    "reference": "PL4 — Hand Anatomy: Flexor Tendons and Carpal Tunnel"
+   }
+  },
+  {
+   "id": "TN-PL-010",
+   "type": "single-best-answer",
+   "question": "A 55-year-old woman has a split thickness skin graft placed on a clean granulating wound of the lower leg. The graft is secured with staples and a pressure dressing. Twenty-four hours later the graft is adherent and viable, but no vascular connections have yet formed between the graft and the recipient bed. Which process is sustaining the graft at this point?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Plasmatic imbibition"
+    },
+    {
+     "id": "b",
+     "text": "Inosculation"
+    },
+    {
+     "id": "c",
+     "text": "Neovascular ingrowth"
+    },
+    {
+     "id": "d",
+     "text": "Primary contraction"
+    },
+    {
+     "id": "e",
+     "text": "Secondary contraction"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes describes three phases of skin graft take: plasmatic imbibition, the diffusion of nutrition from the recipient site during the first 48 h; inosculation, the growth of vessels from bed and graft toward each other on days 2-3; and neovascular ingrowth, the growth of new vessels that vascularize the graft on days 3-5. At 24 hours, before any vascular connection exists, the graft is surviving by diffusion of nutrients, that is, plasmatic imbibition.",
+   "optionExplanations": {
+    "b": "Inosculation, the growth of vessels from bed and graft toward each other, occurs on days 2-3, not in the first 24 hours.",
+    "c": "Neovascular ingrowth occurs on days 3-5 and is the phase in which new vessels actually vascularize the graft.",
+    "d": "Primary contraction is the immediate reduction in graft size on harvesting, not a mechanism of graft nutrition.",
+    "e": "Secondary contraction is reduction in size after the graft is placed on the wound bed and healing has occurred; it does not nourish the graft."
+   },
+   "topic": "Skin Grafts",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "PL",
+    "name": "Plastic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1323,
+    "reference": "PL13 — Partial Thickness Skin Graft Survival"
+   }
+  },
+  {
+   "id": "TN-PL-011",
+   "type": "single-best-answer",
+   "question": "A 38-year-old man spills boiling oil over himself. He has many small scattered patches of deep partial thickness burn over the chest, abdomen and left arm, each separated by normal uninjured skin, plus a broad area of blanchable erythema. He is alert and haemodynamically stable. Which is the most appropriate way to estimate the percentage of total body surface area burned?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Rule of 9s applied to each involved anatomical region"
+    },
+    {
+     "id": "b",
+     "text": "Surface area of the patient's palm with fingers adducted, taken as approximately 1% of total body surface area"
+    },
+    {
+     "id": "c",
+     "text": "Lund-Browder chart"
+    },
+    {
+     "id": "d",
+     "text": "Modified Baux score"
+    },
+    {
+     "id": "e",
+     "text": "Estimation from the etiologic agent and duration of exposure"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Toronto Notes states that for patchy burns the surface area covered by the patient's palm with the fingers adducted represents approximately 1% of total body surface area. The rule of 9s is intended for contiguous superficial partial, deep partial and full thickness burns and overestimates scattered patches. Note also that total body surface area does not include areas with superficial burns, so the blanchable erythema is excluded.",
+   "optionExplanations": {
+    "a": "The rule of 9s assigns whole anatomical regions and cannot accurately sum many small separated patches.",
+    "c": "The Lund-Browder chart is used in children under 10 yr to account for changing body proportions with age.",
+    "d": "The modified Baux score predicts mortality once burn size and age are known; it does not measure burn size.",
+    "e": "History of the etiologic agent and time of exposure helps assess burn depth, not the surface area involved."
+   },
+   "topic": "Burn Size Estimation",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "PL",
+    "name": "Plastic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1329,
+    "reference": "PL19 — Diagnosis and Prognosis: Burn Size Estimation"
+   }
+  },
+  {
+   "id": "TN-PL-012",
+   "type": "single-best-answer",
+   "question": "A 44-year-old woman is assessed after a scald injury to her thigh. The burned skin has a mottled appearance, is only minimally painful, and is less blanchable than the surrounding skin. It is softer than a leathery eschar, and some hair follicles remain attached. Which burn depth best describes this injury?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Erythema/superficial (first degree)"
+    },
+    {
+     "id": "b",
+     "text": "Superficial partial thickness (second degree)"
+    },
+    {
+     "id": "c",
+     "text": "Deep partial thickness (second degree)"
+    },
+    {
+     "id": "d",
+     "text": "Full thickness (third degree)"
+    },
+    {
+     "id": "e",
+     "text": "Fourth degree"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "Toronto Notes characterizes a deep partial thickness burn, extending into the deep reticular dermis, as minimally painful, difficult to distinguish from full thickness, mottled in appearance, less blanchable, softer than a full thickness burn, and with some hair follicles still attached. Every one of those features is present here, which places the injury in the deep dermis rather than the superficial dermis or beyond.",
+   "optionExplanations": {
+    "a": "A superficial burn is confined to the epidermis and is painful, erythematous and blanchable with sensation intact.",
+    "b": "A superficial partial thickness burn extends into the papillary dermis and is painful and blanchable with blisters containing clear fluid.",
+    "d": "A full thickness burn is insensate with a hard leathery eschar that is black, grey, white or cherry red, and hairs do not stay attached.",
+    "e": "Fourth degree burns involve underlying tissue structures such as muscle and bone."
+   },
+   "topic": "Burn Depth Assessment",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "PL",
+    "name": "Plastic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1330,
+    "reference": "PL20 — Table 17: Burn Depth"
+   }
+  },
+  {
+   "id": "TN-PL-013",
+   "type": "single-best-answer",
+   "question": "A 27-year-old man had his forearm compressed between two industrial rollers five hours ago. The forearm is tense and the pain is far worse than expected, particularly on passive stretch of the fingers. He reports paresthesia in the hand. The limb is warm and the radial pulse remains palpable. What is the next best step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Emergent fasciotomy"
+    },
+    {
+     "id": "b",
+     "text": "Needle manometry of the compartment, operating only if the pressure exceeds 30-40 mmHg"
+    },
+    {
+     "id": "c",
+     "text": "Elevate the limb above the heart and reassess in four hours"
+    },
+    {
+     "id": "d",
+     "text": "Doppler ultrasound of the radial and ulnar arteries"
+    },
+    {
+     "id": "e",
+     "text": "Splint the forearm and obtain x-rays before any further decision"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states that the indication for an emergent fasciotomy in compartment syndrome is based on the clinical diagnosis: a tense, painful extremity that is worse on passive stretch, with paresthesia or paralysis, pallor and distal pulselessness, the last being often late in the process. Intracompartmental pressures can be measured but vary between limbs and with comorbidities, so a preserved pulse does not exclude the diagnosis. If untreated the end result is ischemic contracture of the extremity (Volkmann's contracture).",
+   "optionExplanations": {
+    "b": "Measured pressures vary between upper and lower extremity and with comorbidities, so waiting for a numerical threshold before operating risks irreversible ischemia.",
+    "c": "Elevation and observation in an already tense, exquisitely painful compartment allows the ischemic injury to progress.",
+    "d": "Distal pulselessness is often a late finding, so a Doppler study of the radial and ulnar arteries cannot rule out compartment syndrome.",
+    "e": "Splinting a tense compartment and delaying for imaging postpones the only treatment that prevents Volkmann's contracture."
+   },
+   "topic": "Compartment Syndrome",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "PL",
+    "name": "Plastic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1334,
+    "reference": "PL24 — Traumatic Hand: Compartment Syndrome"
+   }
+  },
+  {
+   "id": "TN-PL-014",
+   "type": "single-best-answer",
+   "question": "A 40-year-old man presents three days after a penetrating injury to the volar aspect of his middle finger. The whole digit is uniformly fusiform swollen and is held in a flexed posture. There is point tenderness along the flexor tendon sheath and severe pain on passive extension of the digit. He is febrile, and frank pus drains when the entry wound is probed. What is the best initial treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Oral antibiotics with a resting hand splint and elevation"
+    },
+    {
+     "id": "b",
+     "text": "Incision and drainage in the operating room"
+    },
+    {
+     "id": "c",
+     "text": "Warm compresses with oral antibiotics"
+    },
+    {
+     "id": "d",
+     "text": "Oral acyclovir"
+    },
+    {
+     "id": "e",
+     "text": "Nail plate removal"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "The four Kanavel cardinal signs of infectious flexor tenosynovitis are point tenderness along the flexor tendon sheath, pain on passive extension, fusiform swelling of the digit, and a flexed posture of the digit. Toronto Notes directs that non-suppurative disease be treated with antibiotics, a resting hand splint and elevation, whereas suppurative disease that produces pus requires incision and drainage in the operating room. This patient has all four signs plus frank pus, so operative drainage is needed to prevent tendon necrosis and rupture.",
+   "optionExplanations": {
+    "a": "Antibiotics, splinting and elevation are the treatment for the non-suppurative form; they are insufficient once pus is present.",
+    "c": "Warm compresses with oral antibiotics is the early treatment of acute paronychia, an infection of the soft tissue around the fingernail.",
+    "d": "Acyclovir is considered for severe herpetic whitlow, which presents as painful vesicles around the fingertip rather than a fusiform swollen digit with pus.",
+    "e": "Nail plate removal is used when a paronychial abscess extends beneath the nail plate, not for infection within the flexor tendon sheath."
+   },
+   "topic": "Flexor Tenosynovitis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "PL",
+    "name": "Plastic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1336,
+    "reference": "PL26 — Infectious/Suppurative Flexor Tenosynovitis"
+   }
+  },
+  {
+   "id": "TN-PL-015",
+   "type": "single-best-answer",
+   "question": "A 21-year-old volleyball player takes a sudden blow to the tip of her extended right middle finger. The distal interphalangeal joint now rests in flexion and she has lost active extension at that joint, although passive extension is full. Radiographs show no fracture of the distal phalanx. What is the best initial treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Splint the distal interphalangeal joint in extension continuously for 6 weeks"
+    },
+    {
+     "id": "b",
+     "text": "Splint the proximal interphalangeal joint in extension with active distal interphalangeal motion for 6 weeks"
+    },
+    {
+     "id": "c",
+     "text": "Two weeks of night splinting only"
+    },
+    {
+     "id": "d",
+     "text": "Steroid injection into the tendon sheath"
+    },
+    {
+     "id": "e",
+     "text": "Tendon rebalancing or arthrodesis"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Mallet finger is a distal interphalangeal joint held in flexion with loss of active extension, and the non-bony form follows forced flexion of the extended distal interphalangeal joint such as a sudden blow to the fingertip, rupturing the extensor tendon. Toronto Notes treats this by splinting the distal interphalangeal joint in extension for 6 weeks with no exception, since even one episode of flexion requires the patient to restart, followed by 2 weeks of night splinting.",
+   "optionExplanations": {
+    "b": "Splinting the proximal interphalangeal joint in extension while allowing active distal interphalangeal motion is the treatment of boutonniere deformity from a central slip injury.",
+    "c": "Night splinting is only the 2 week phase that follows the initial 6 weeks of continuous extension splinting; used alone it is inadequate.",
+    "d": "Steroid injection into the tendon sheath is used for De Quervain's tenosynovitis, not for a ruptured terminal extensor tendon.",
+    "e": "Tendon rebalancing or arthrodesis is a corrective procedure for established swan neck deformity, not initial treatment of an acute mallet injury."
+   },
+   "topic": "Extensor Tendon Injuries",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "PL",
+    "name": "Plastic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1337,
+    "reference": "PL27 — Table 23: Extensor Tendon Deformities"
+   }
+  },
+  {
+   "id": "TN-PL-016",
+   "type": "single-best-answer",
+   "question": "A 23-year-old office clerk punched a wall and has pain and swelling over the ulnar border of his hand. There is loss of prominence of the fifth metacarpal head when he makes a fist. Radiographs show a fracture through the neck of the fifth metacarpal with 25 degrees of volar angulation. There is no malrotation or scissoring of the fingers, and the fracture is stable. What is the best initial treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Ulnar gutter splint for 3-4 weeks with early protected range of motion"
+    },
+    {
+     "id": "b",
+     "text": "Closed reduction followed by splinting"
+    },
+    {
+     "id": "c",
+     "text": "Percutaneous pinning with K-wires"
+    },
+    {
+     "id": "d",
+     "text": "Open reduction and internal fixation"
+    },
+    {
+     "id": "e",
+     "text": "Buddy taping to the ring finger with immediate unrestricted use"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "A boxer's fracture is an acute fracture of the neck of the fifth metacarpal caused by impact with a closed fist, producing loss of prominence of the metacarpal head and volar displacement of the head into the palm. Toronto Notes reserves closed reduction for angulation greater than 40 degrees, rotation, or manual labourers with painful grip, and otherwise treats a stable fracture with an ulnar gutter splint for 3-4 weeks with early protected range of motion.",
+   "optionExplanations": {
+    "b": "Closed reduction is considered for angulation greater than 40 degrees, rotational deformity, or manual labourers; this fracture meets none of those criteria.",
+    "c": "Percutaneous pinning is used for fractures that are displaced, non-reducible, unstable with closed reduction, or rotationally deformed.",
+    "d": "Open reduction and internal fixation is reserved for indications such as intra-articular fractures, malrotation, shortening greater than 3-5 mm or extensor lag.",
+    "e": "Buddy taping to a neighbouring stable digit is used for non-displaced phalanx fractures and would leave this metacarpal neck fracture unprotected."
+   },
+   "topic": "Metacarpal Fractures",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "PL",
+    "name": "Plastic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1338,
+    "reference": "PL28 — Fractures and Dislocations: Metacarpal Fractures"
+   }
+  },
+  {
+   "id": "TN-PL-017",
+   "type": "single-best-answer",
+   "question": "A 31-year-old man is assaulted and sustains a high velocity blow to the face. He has facial asymmetry with depression of the right cheek bone, a palpable step deformity of the infraorbital rim, malocclusion and a tender mandible. His airway is patent, visual acuity and extraocular movements are normal, and he is hemodynamically stable. Which is the most appropriate investigation?",
+   "options": [
+    {
+     "id": "a",
+     "text": "CT facial bones with 1.5 mm axial, coronal and sagittal slices"
+    },
+    {
+     "id": "b",
+     "text": "CT head"
+    },
+    {
+     "id": "c",
+     "text": "Panorex radiograph"
+    },
+    {
+     "id": "d",
+     "text": "Plain radiographs of the facial bones"
+    },
+    {
+     "id": "e",
+     "text": "Defer imaging and obtain a CT in 3-5 days once the swelling has improved"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes names CT of the facial bones the gold standard investigation for facial trauma, requesting 1.5 mm axial, coronal and sagittal slices, and indicates it for significant head trauma, suspected facial fractures and preoperative assessment. This patient has clinical signs of fractures of both the middle and lower face, so a study that images the whole facial skeleton is required.",
+   "optionExplanations": {
+    "b": "A CT head is typically insufficient because its slices are wider and it does not capture the lower mid-face and mandible.",
+    "c": "A panorex radiograph shows the upper and lower jaw and is indicated for an isolated mandible fracture in a patient able to sit; it would miss the midface injury.",
+    "d": "Plain radiographs do not adequately delineate the facial buttresses and are not the gold standard for facial fractures.",
+    "e": "Waiting 3-5 d for swelling to settle applies to reassessing the need for operative treatment, not to obtaining the diagnostic study in a patient with obvious fractures."
+   },
+   "topic": "Facial Trauma: Investigations",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "PL",
+    "name": "Plastic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1342,
+    "reference": "PL32 — Approach to Facial Injuries: Investigations"
    }
   }
  ]

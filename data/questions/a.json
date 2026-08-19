@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 8,
+ "count": 14,
  "questions": [
   {
    "id": "TN-A-001",
@@ -376,6 +376,282 @@
     "document": "Toronto Notes 2025",
     "page": 83,
     "reference": "A29 — Malignant Hyperthermia Management"
+   }
+  },
+  {
+   "id": "TN-A-009",
+   "type": "single-best-answer",
+   "question": "A 58-year-old man is brought to the operating room for an emergency laparotomy for a perforated viscus. His level of consciousness is decreased and gastric contents are visible in his oropharynx. The team is ventilating him by bag and mask with a jaw thrust while equipment is prepared. Which of the following is the most appropriate next step to support his airway?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Continue bag and mask ventilation with a chin lift"
+    },
+    {
+     "id": "b",
+     "text": "Insert an oropharyngeal airway and continue bag and mask ventilation"
+    },
+    {
+     "id": "c",
+     "text": "Insert a nasopharyngeal airway"
+    },
+    {
+     "id": "d",
+     "text": "Insert a laryngeal mask airway"
+    },
+    {
+     "id": "e",
+     "text": "Perform oral endotracheal intubation"
+    }
+   ],
+   "correctAnswer": "e",
+   "explanation": "Methods of supporting the airway are divided into non-definitive airways, which are patent only (jaw thrust or chin lift, oropharyngeal and nasopharyngeal airways, bag mask ventilation, and the LMA), and definitive airways, which are patent and protected (an endotracheal tube or a surgical airway). Indications for intubation include a patent airway, protection against aspiration, positive pressure ventilation, pulmonary toilet, and pharmacologic administration. With a decreased level of consciousness and gastric contents present, only a cuffed endotracheal tube protects this airway.",
+   "optionExplanations": {
+    "a": "Bag and mask ventilation carries a risk of aspiration when the level of consciousness is decreased or gastric contents are present, and it cannot ensure airway patency.",
+    "b": "An oropharyngeal airway only facilitates patency during bag and mask ventilation and offers no protection against aspiration.",
+    "c": "A nasopharyngeal airway is also a non-definitive airway that leaves the airway unprotected.",
+    "d": "An LMA is easy to insert but carries a risk of gastric aspiration and does not protect against laryngospasm or gastric aspiration."
+   },
+   "topic": "Airway Management: Definitive Airway",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "A",
+    "name": "Anesthesia"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 62,
+    "reference": "A8 — Methods of Supporting Airways"
+   }
+  },
+  {
+   "id": "TN-A-010",
+   "type": "single-best-answer",
+   "question": "A 61-year-old woman undergoes induction of general anesthesia for elective surgery. Two attempts at laryngoscopy fail to pass the endotracheal tube through the cords. Help has been called. Bag and mask ventilation with 100% oxygen remains inadequate after an oral airway is inserted, and her oxygen saturation is falling. Which of the following is the most appropriate next step?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Make a third attempt at direct laryngoscopy with the same blade"
+    },
+    {
+     "id": "b",
+     "text": "Attempt ventilation with a laryngeal mask airway"
+    },
+    {
+     "id": "c",
+     "text": "Proceed to a percutaneous surgical airway"
+    },
+    {
+     "id": "d",
+     "text": "Perform jet ventilation"
+    },
+    {
+     "id": "e",
+     "text": "Perform retrograde intubation"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "When intubation is unsuccessful after induction, the priority is to call for help and ventilate with 100% oxygen by bag and mask, since oxygenation and ventilation take priority over intubation. If bag and mask ventilation is inadequate, the sequence is to call for help, attempt ventilation with an oral airway, then consider or attempt an LMA, and only then emergency invasive airway access. An oral airway has already failed here, so an LMA is the next step.",
+   "optionExplanations": {
+    "a": "Failed attempts at intubation make further attempts more difficult because of tissue trauma, and ventilation must be re-established first.",
+    "c": "Emergency invasive airway access is reserved for after an oral airway and an LMA have failed to restore ventilation.",
+    "d": "Jet ventilation is listed among emergency invasive airway access options, which come after an attempt with an LMA.",
+    "e": "Retrograde intubation is also an emergency invasive access technique and is not the next step while a supraglottic option remains untried."
+   },
+   "topic": "Difficult Airway",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "A",
+    "name": "Anesthesia"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 64,
+    "reference": "A10 — Difficult Airway"
+   }
+  },
+  {
+   "id": "TN-A-011",
+   "type": "single-best-answer",
+   "question": "A 26-year-old man is extubated while still semi-conscious at the end of an elective knee arthroscopy. He immediately develops stridor that progresses to no air movement, and his oxygen saturation falls to 84%. The pharynx has been suctioned, the oral airway removed, and CPAP with 100% oxygen using the anesthetic reservoir bag plus a low dose of propofol have failed to relieve the obstruction. Which of the following is the most appropriate next treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Succinylcholine approximately 0.25 mg/kg IV"
+    },
+    {
+     "id": "b",
+     "text": "Rocuronium 1.0 mg/kg IV"
+    },
+    {
+     "id": "c",
+     "text": "Nebulized salbutamol"
+    },
+    {
+     "id": "d",
+     "text": "Dexamethasone IV"
+    },
+    {
+     "id": "e",
+     "text": "Neostigmine IV"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Laryngospasm is a forceful involuntary spasm of the laryngeal muscles caused by stimulation of the superior laryngeal nerve by oropharyngeal secretions, blood, or early extubation, and it causes partial or total airway obstruction, most often in semi-conscious patients. Treatment is suction, removal of the oral airway or LMA, CPAP with the anesthetic reservoir bag and partial closure of the adjustable pressure-limiting valve, bag mask ventilation with 100% oxygen, optional low-dose propofol 0.5-1.0 mg/kg, and then low-dose succinylcholine of approximately 0.25 mg/kg, with re-intubation if hypoxia develops.",
+   "optionExplanations": {
+    "b": "A full intubating dose of a non-depolarizing relaxant is not the described treatment for laryngospasm, which uses a low dose of succinylcholine.",
+    "c": "Nebulized bronchodilator therapy targets bronchospasm rather than spasm of the laryngeal muscles.",
+    "d": "A steroid does not act quickly enough to relieve an acute total airway obstruction from laryngospasm.",
+    "e": "Neostigmine is a reversal agent for non-depolarizing relaxants and does not break laryngospasm."
+   },
+   "topic": "Extubation and Laryngospasm",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "A",
+    "name": "Anesthesia"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 74,
+    "reference": "A20 — Extubation and Laryngospasm"
+   }
+  },
+  {
+   "id": "TN-A-012",
+   "type": "single-best-answer",
+   "question": "A 29-year-old woman received a spinal anesthetic for elective knee arthroscopy. Two days later she develops a frontal and occipital headache that is much worse when she sits up and improves when she lies flat. She also reports tinnitus and intermittent diplopia. She is afebrile, her back is not tender, and her neurological examination is normal. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Post-dural puncture headache"
+    },
+    {
+     "id": "b",
+     "text": "Subarachnoid hematoma"
+    },
+    {
+     "id": "c",
+     "text": "Epidural hematoma"
+    },
+    {
+     "id": "d",
+     "text": "Infection at the puncture site"
+    },
+    {
+     "id": "e",
+     "text": "Spinal cord trauma"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Spinal anesthesia injects local anesthetic into the subarachnoid space after penetrating the dura and arachnoid, and post-spinal headache from CSF leak is a listed complication. The classic presentation of post-dural puncture headache is onset 6 hours to 3 days after dural puncture, a postural component that is worse when sitting, occipital or frontal localization, and possible tinnitus and diplopia, which is exactly this presentation.",
+   "optionExplanations": {
+    "b": "A subarachnoid hematoma is a listed complication but would be expected to produce neurological deficits rather than a purely postural headache.",
+    "c": "An epidural hematoma is also listed as a complication of neuraxial blockade but presents with neurological findings, not a postural headache with tinnitus.",
+    "d": "Infection is a recognized complication of neuraxial techniques, but she is afebrile with no local findings.",
+    "e": "Spinal cord trauma is avoided by inserting the needle below L2 and would cause deficits rather than a postural headache."
+   },
+   "topic": "Post-Dural Puncture Headache",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "A",
+    "name": "Anesthesia"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 75,
+    "reference": "A21 — Epidural and Spinal Anesthesia"
+   }
+  },
+  {
+   "id": "TN-A-013",
+   "type": "single-best-answer",
+   "question": "A 34-year-old woman is receiving bupivacaine for a peripheral nerve block before forearm surgery. Partway through the injection she reports numbness of the tongue, a metallic taste and tinnitus, then becomes drowsy and has a generalized convulsion. Help has been called, 100% oxygen is given, her ABCs are managed, and an anticonvulsant has been administered. Which of the following is the most appropriate additional treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Intralipid 20% IV"
+    },
+    {
+     "id": "b",
+     "text": "Dantrolene IV"
+    },
+    {
+     "id": "c",
+     "text": "Naloxone IV"
+    },
+    {
+     "id": "d",
+     "text": "Flumazenil IV"
+    },
+    {
+     "id": "e",
+     "text": "Sodium bicarbonate IV"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Local anesthetic systemic toxicity occurs with accidental intravascular injection, local anesthetic overdose, or unexpectedly rapid absorption. CNS effects appear in order as numbness of the tongue, perioral tingling and metallic taste, disorientation and drowsiness, tinnitus, visual disturbances, muscle twitching, unconsciousness and convulsions. Treatment is early recognition and getting help, 100% oxygen and management of ABCs, diazepam or another anticonvulsant, management of arrhythmias, and Intralipid 20% to bind local anesthetic in the circulation.",
+   "optionExplanations": {
+    "b": "Dantrolene treats the hypermetabolic crisis of malignant hyperthermia, not local anesthetic toxicity.",
+    "c": "Naloxone reverses opioid overdose, and no opioid has been implicated in this reaction.",
+    "d": "Flumazenil reverses benzodiazepines and would remove the anticonvulsant cover in a patient who is seizing.",
+    "e": "Sodium bicarbonate does not bind circulating local anesthetic; arrhythmias are managed on their own merits."
+   },
+   "topic": "Local Anesthetic Systemic Toxicity",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "A",
+    "name": "Anesthesia"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 77,
+    "reference": "A23 — Systemic Toxicity"
+   }
+  },
+  {
+   "id": "TN-A-014",
+   "type": "single-best-answer",
+   "question": "A 71-year-old woman rates her pain as 3 out of 10 on the day after a minor day-surgery procedure. She has asthma, chronic renal insufficiency and a history of gastric ulceration. She has normal liver function and no allergies, and she is tolerating oral intake. Which of the following is the most appropriate initial analgesic?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Acetaminophen"
+    },
+    {
+     "id": "b",
+     "text": "Ibuprofen"
+    },
+    {
+     "id": "c",
+     "text": "Naproxen"
+    },
+    {
+     "id": "d",
+     "text": "Ketorolac"
+    },
+    {
+     "id": "e",
+     "text": "Morphine"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Pharmacological treatment of acute pain is guided by the WHO analgesia ladder, which begins with a non-opioid for mild pain. Acetaminophen is first-line for mild acute pain, is opioid-sparing, and is limited by an analgesic ceiling with a maximum dose of 4 g/24 h. NSAIDs are used with caution in patients with asthma, coagulopathy, GI ulcers, renal insufficiency and third-trimester pregnancy, and this patient has three of those cautions.",
+   "optionExplanations": {
+    "b": "Ibuprofen is an NSAID, and NSAIDs are cautioned in asthma, GI ulcers and renal insufficiency.",
+    "c": "Naproxen carries the same NSAID cautions and can reduce renal perfusion and cause gastric ulceration or bleeding.",
+    "d": "Ketorolac is an intravenous NSAID and shares the same cautions; her pain is mild and she tolerates oral intake.",
+    "e": "Oral opioids are indicated for moderate acute pain and parenteral opioids for moderate to severe pain, which is a step above this patient's mild pain."
+   },
+   "topic": "Acute Pain Management",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "A",
+    "name": "Anesthesia"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 79,
+    "reference": "A25 — Pharmacological Management of Acute Pain"
    }
   }
  ]

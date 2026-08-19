@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 14,
+ "count": 23,
  "questions": [
   {
    "id": "TN-NS-001",
@@ -652,6 +652,420 @@
     "document": "Toronto Notes 2025",
     "page": 966,
     "reference": "NS34 — Incomplete Spinal Cord Lesion Syndromes"
+   }
+  },
+  {
+   "id": "TN-NS-107",
+   "type": "single-best-answer",
+   "question": "A 71-year-old man is brought to the emergency department after tripping on a curb and striking his head. There was a witnessed brief loss of consciousness. His GCS is 15 on arrival, he has not vomited, and his neurological examination is normal. Examination shows periorbital ecchymosis and a right-sided hemotympanum. What is the most appropriate investigation?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Non-contrast CT scan of the head"
+    },
+    {
+     "id": "b",
+     "text": "Skull x-ray"
+    },
+    {
+     "id": "c",
+     "text": "MR imaging of the brain"
+    },
+    {
+     "id": "d",
+     "text": "Cervical spine x-ray with T1 well visualized"
+    },
+    {
+     "id": "e",
+     "text": "Lumbar puncture"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The Canadian CT Head Rule requires a CT head in minor head injury (witnessed loss of consciousness, definite amnesia, or witnessed disorientation with GCS 13-15) if any high-risk feature is present, including any sign of basal skull fracture (hemotympanum, raccoon eyes, CSF otorrhea/rhinorrhea, Battle's sign) and age 65 or older. This patient has both periorbital ecchymosis with hemotympanum and is 71, so CT of the head is indicated even though his GCS is 15.",
+   "optionExplanations": {
+    "b": "Basal skull fractures are not readily seen on x-ray; the diagnosis relies on clinical signs, and CT with bone window is the gold standard for skull fractures.",
+    "c": "MR imaging is not the emergency test used to decide imaging in minor head injury under the Canadian CT Head Rule.",
+    "d": "The C-spine must still be cleared, but plain films are not recommended over CT and would not address the intracranial injury his high-risk features predict.",
+    "e": "Lumbar puncture should never be done in head injury until raised intracranial pressure has been ruled out."
+   },
+   "topic": "Head Injury Imaging",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "NS",
+    "name": "Neurosurgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 968,
+    "reference": "NS36 — Head Injury"
+   }
+  },
+  {
+   "id": "TN-NS-108",
+   "type": "single-best-answer",
+   "question": "An 81-year-old anticoagulated man is brought in by his daughter with six weeks of gradually worsening confusion, minor headache and light-headedness. He struck his head on a cupboard door about two months ago. He is afebrile with no focal weakness. Non-contrast CT shows a hypodense crescentic mass over the right convexity that crosses suture lines. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Epidural hematoma"
+    },
+    {
+     "id": "b",
+     "text": "Acute subdural hematoma"
+    },
+    {
+     "id": "c",
+     "text": "Chronic subdural hematoma"
+    },
+    {
+     "id": "d",
+     "text": "Subarachnoid hemorrhage"
+    },
+    {
+     "id": "e",
+     "text": "Intracerebral hemorrhage"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "Chronic subdural hematoma arises from ruptured subarachnoid bridging vessels, typically in patients over 50, EtOH users and those who are anticoagulated. It presents with minor headache, confusion, light-headedness and signs of increased ICP, and CT shows a hypodense crescentic mass that crosses suture lines. Treatment is burr hole drainage, with craniotomy if it recurs.",
+   "optionExplanations": {
+    "a": "Epidural hematoma follows a middle meningeal bleed from a skull fracture and appears as a hyperdense lenticular mass with sharp margins usually limited by suture lines, with a lucid interval before loss of consciousness.",
+    "b": "Acute subdural hematoma is a hyperdense crescentic mass presenting soon after trauma with hemiparesis and pupillary changes, not weeks of confusion.",
+    "d": "Subarachnoid hemorrhage presents with sudden onset thunderclap headache and hyperdense blood in the cisterns and fissures.",
+    "e": "Intracerebral hemorrhage appears as a hyperdense intra-parenchymal collection, typically in a hypertensive patient with sudden focal deficit."
+   },
+   "topic": "Chronic Subdural Hematoma",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "NS",
+    "name": "Neurosurgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 952,
+    "reference": "NS20 — Comparison of Epidemiology and Etiology of Intracranial Bleeds"
+   }
+  },
+  {
+   "id": "TN-NS-109",
+   "type": "single-best-answer",
+   "question": "A 54-year-old woman is on day 7 of admission for aneurysmal subarachnoid hemorrhage; her aneurysm was coiled on day 1 and she had been alert and oriented since. This morning she is confused and drowsy with a new right pronator drift. She is afebrile, her serum sodium is normal, and repeat CT shows no new blood and no ventricular enlargement. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Vasospasm causing delayed cerebral ischemia"
+    },
+    {
+     "id": "b",
+     "text": "Rebleeding from the treated aneurysm"
+    },
+    {
+     "id": "c",
+     "text": "Acute hydrocephalus"
+    },
+    {
+     "id": "d",
+     "text": "Hyponatremia due to cerebral salt wasting"
+    },
+    {
+     "id": "e",
+     "text": "Neurogenic pulmonary edema"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Vasospasm after subarachnoid hemorrhage begins 4-14 days post-SAH and peaks at 6-8 days, presenting as a new onset ischemic deficit: confusion, decreased LOC, and focal speech or motor deficit such as pronator drift. It is diagnosed clinically and/or with transcranial Doppler and can progress to delayed cerebral ischemia, infarct and death. Nimodipine 60 mg q4h for 21 days is the only validated neuroprotective agent.",
+   "optionExplanations": {
+    "b": "Rebleeding would be expected to show new blood on CT, and her aneurysm has already been coiled, which is the only prevention of rebleed.",
+    "c": "Post-SAH hydrocephalus is due to blood obstructing the arachnoid granulations and would show ventricular enlargement on CT.",
+    "d": "Hyponatremia from cerebral salt wasting is a recognized SAH complication, but her serum sodium is normal.",
+    "e": "Neurogenic pulmonary edema is a recognized SAH complication but causes respiratory compromise rather than a new focal neurological deficit."
+   },
+   "topic": "Subarachnoid Hemorrhage Complications",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "NS",
+    "name": "Neurosurgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 956,
+    "reference": "NS24 — Subarachnoid Hemorrhage: Complications"
+   }
+  },
+  {
+   "id": "TN-NS-110",
+   "type": "single-best-answer",
+   "question": "A 66-year-old man with long-standing hypertension develops a left hemiparesis that worsened over 40 minutes, with headache and vomiting. His GCS is 13 and his blood pressure is 215/115 mmHg. Non-contrast CT shows a hyperdense intra-parenchymal collection in the right putamen with no hydrocephalus. His INR is normal. What is the most appropriate next step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Lower the mean arterial pressure by about 20% toward a target blood pressure of 140/90 mmHg"
+    },
+    {
+     "id": "b",
+     "text": "Give corticosteroids to control raised intracranial pressure"
+    },
+    {
+     "id": "c",
+     "text": "Proceed to immediate craniotomy with evacuation of the clot"
+    },
+    {
+     "id": "d",
+     "text": "Obtain a cerebral angiogram to rule out a vascular lesion"
+    },
+    {
+     "id": "e",
+     "text": "Start levetiracetam for seizure prophylaxis"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "For intracerebral hemorrhage the emergency department priority is to decrease MAP to the pre-morbid level or by about 20%, targeting a blood pressure of 140/90 mmHg, while checking PTT/INR and correcting any coagulopathy, with transfer to a neuro-ICU or stroke unit. His pressure is markedly elevated and his coagulation is normal, so blood pressure control is the immediate step.",
+   "optionExplanations": {
+    "b": "Corticosteroids should not be used for elevated intracranial pressure in intracerebral hemorrhage.",
+    "c": "Surgery is contraindicated for difficult locations such as the basal ganglia and thalamus, and this is a putaminal bleed without rapid deterioration.",
+    "d": "Angiography is not required in a patient over 45 with known hypertension and a putaminal bleed, where the yield is approximately zero.",
+    "e": "Levetiracetam for seizure prophylaxis is part of medical management but does not address his acutely elevated blood pressure."
+   },
+   "topic": "Intracerebral Hemorrhage",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "NS",
+    "name": "Neurosurgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 958,
+    "reference": "NS26 — Intracerebral Hemorrhage"
+   }
+  },
+  {
+   "id": "TN-NS-111",
+   "type": "single-best-answer",
+   "question": "A 63-year-old man describes 14 months of insidious neck pain radiating into both arms and progressive gait disturbance. He can no longer button his shirt and reports an electric sensation down his spine when he extends his neck. Examination shows decreased dexterity, lower extremity weakness and upper motor neuron signs. What is the most appropriate investigation?",
+   "options": [
+    {
+     "id": "a",
+     "text": "MRI of the cervical spine"
+    },
+    {
+     "id": "b",
+     "text": "CT of the cervical spine"
+    },
+    {
+     "id": "c",
+     "text": "Flexion/extension x-rays of the cervical spine"
+    },
+    {
+     "id": "d",
+     "text": "Anteroposterior and lateral x-rays of the cervical spine"
+    },
+    {
+     "id": "e",
+     "text": "EMG and nerve conduction studies"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "This is degenerative cervical myelopathy: insidious onset neck pain radiating into the arms, a Lhermitte's sign with neck extension, gait disturbance, decreased dexterity, lower extremity weakness and UMN signs. MRI is the most useful investigation for determining compression of the neural element, which is what drives the decision to decompress.",
+   "optionExplanations": {
+    "b": "CT is used for better determination of bony anatomy such as ossification of the posterior longitudinal ligament, not for cord compression.",
+    "c": "Flexion/extension views assess alignment and instability but do not show the compressed neural element.",
+    "d": "Plain x-rays assess alignment and fractures only and cannot demonstrate spinal cord compression.",
+    "e": "EMG and nerve conduction studies are reserved for peripheral nerve investigation."
+   },
+   "topic": "Degenerative Cervical Myelopathy",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "NS",
+    "name": "Neurosurgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 962,
+    "reference": "NS30 — Degenerative Cervical Myelopathy"
+   }
+  },
+  {
+   "id": "TN-NS-112",
+   "type": "single-best-answer",
+   "question": "A 43-year-old office worker has three weeks of right arm pain that is worse with neck extension and ipsilateral rotation, together with numbness of the middle finger. Examination shows mild triceps weakness and a diminished triceps reflex. There is no gait disturbance, no sign of myelopathy and no night pain. What is the most appropriate next step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Activity modification, NSAIDs and a physiotherapy program focused on strengthening core muscles"
+    },
+    {
+     "id": "b",
+     "text": "Strict bed rest for two weeks"
+    },
+    {
+     "id": "c",
+     "text": "Cervical manipulation"
+    },
+    {
+     "id": "d",
+     "text": "Anterior cervical discectomy and fusion"
+    },
+    {
+     "id": "e",
+     "text": "Posterior foraminotomy with discectomy"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "His findings localize to the C7 root, most commonly from a C6-C7 disc herniation, with arm pain worsened by neck extension and ipsilateral rotation and LMN signs. Nonsurgical treatment is first line: activity modification, patient education, physiotherapy focused on core strengthening, and analgesics, with NSAIDs being more efficacious. Ninety-five percent improve spontaneously in 4-8 weeks, and he has no surgical indication.",
+   "optionExplanations": {
+    "b": "Bed rest is not advised unless radicular symptoms are severe.",
+    "c": "Cervical manipulation should be avoided in cervical disc syndrome.",
+    "d": "Anterior cervical discectomy and fusion is the usual surgical approach, but surgery requires intractable pain despite adequate conservative treatment for more than 3 months or a progressive neurological deficit.",
+    "e": "Posterior foraminotomy with discectomy is an alternative surgical option, but he has no indication for surgery at three weeks."
+   },
+   "topic": "Cervical Disc Syndrome",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "NS",
+    "name": "Neurosurgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 961,
+    "reference": "NS29 — Cervical Disc Syndrome"
+   }
+  },
+  {
+   "id": "TN-NS-113",
+   "type": "single-best-answer",
+   "question": "A 29-year-old woman has three months of headache, nausea and blurred vision, and examination shows bilateral papilledema. MRI shows enlarged temporal horns with ballooning frontal horns and an enlarged 3rd ventricle, a normal-sized 4th ventricle, and periventricular lucency. A stenosis of the cerebral aqueduct of Sylvius is identified. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Obstructive (non-communicating) hydrocephalus"
+    },
+    {
+     "id": "b",
+     "text": "Non-obstructive (communicating) hydrocephalus"
+    },
+    {
+     "id": "c",
+     "text": "Normal pressure hydrocephalus"
+    },
+    {
+     "id": "d",
+     "text": "Hydrocephalus ex vacuo"
+    },
+    {
+     "id": "e",
+     "text": "Idiopathic intracranial hypertension"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "In obstructive hydrocephalus CSF circulation is blocked within the ventricular system proximal to the arachnoid granulations, and aqueductal stenosis is a classic acquired cause. Imaging shows ventricular enlargement proximal to the block — enlarged temporal horns, ballooning frontal horns, an enlarged 3rd ventricle — with periventricular hypodensity/lucency from transependymal migration of CSF. The normal 4th ventricle places the block at the aqueduct.",
+   "optionExplanations": {
+    "b": "In communicating hydrocephalus absorption is blocked at an extraventricular site, most often the arachnoid granulations, and all ventricles are dilated.",
+    "c": "Normal pressure hydrocephalus is persistent ventricular dilation in the context of normal CSF pressure, not an aqueductal block with papilledema.",
+    "d": "Hydrocephalus ex vacuo results from atrophy of surrounding brain tissue and shows enlarged ventricles and enlarged sulci.",
+    "e": "Idiopathic intracranial hypertension is raised ICP with papilledema but without hydrocephalus, and requires normal neuroimaging."
+   },
+   "topic": "Hydrocephalus",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "NS",
+    "name": "Neurosurgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 941,
+    "reference": "NS9 — Hydrocephalus: Classification"
+   }
+  },
+  {
+   "id": "TN-NS-114",
+   "type": "single-best-answer",
+   "question": "A 49-year-old woman describes six months of pulsatile tinnitus and headache with no history of trauma. Over the past month her left eye has become proptotic and red. Examination shows chemosis and an audible bruit over the orbit, and her visual acuity is preserved. Non-enhanced CT shows no hemorrhage. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Dural arteriovenous fistula"
+    },
+    {
+     "id": "b",
+     "text": "Arteriovenous malformation"
+    },
+    {
+     "id": "c",
+     "text": "Cavernous malformation"
+    },
+    {
+     "id": "d",
+     "text": "Venous angioma"
+    },
+    {
+     "id": "e",
+     "text": "Capillary telangiectasia"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Dural fistulas connect dural arteries to dural veins or the dural sinus and frequently occur at the transverse and cavernous sinuses. Pulsatile tinnitus points to sigmoid or transverse sinus involvement, and carotid cavernous involvement classically produces proptosis, chemosis and bruits. Non-enhanced CT is used to rule out hemorrhage, and angiography remains the gold standard for diagnosis.",
+   "optionExplanations": {
+    "b": "An arteriovenous malformation is a tangle of abnormal vessels that typically presents with hemorrhage, seizures, mass effect or focal deficits rather than an orbital syndrome.",
+    "c": "Cavernous malformations present with seizures, progressive neurological deficit or minor hemorrhage and are diagnosed on gradient echo MRI.",
+    "d": "Venous angioma is another listed type of vascular malformation but does not produce the carotid cavernous picture of proptosis, chemosis and bruit.",
+    "e": "Capillary telangiectasia is also a listed vascular malformation, but the cavernous sinus syndrome described here is characteristic of a dural fistula."
+   },
+   "topic": "Vascular Malformations",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "NS",
+    "name": "Neurosurgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 959,
+    "reference": "NS27 — Arteriovenous Malformations, Cavernous Malformations, and Dural Arteriovenous Fistulas"
+   }
+  },
+  {
+   "id": "TN-NS-115",
+   "type": "single-best-answer",
+   "question": "A 41-year-old woman has eight weeks of headache that appears within minutes of standing and resolves on lying flat, accompanied by tinnitus and dizziness. She has had no dural puncture. MRI brain with contrast shows pachymeningeal enhancement and sagging of the brain with low cerebellar tonsils. Two weeks of bed rest, hydration and caffeine have not helped. What is the most appropriate next step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Autologous epidural blood patch"
+    },
+    {
+     "id": "b",
+     "text": "Continued bed rest and hydration"
+    },
+    {
+     "id": "c",
+     "text": "Oral caffeine"
+    },
+    {
+     "id": "d",
+     "text": "Theophylline"
+    },
+    {
+     "id": "e",
+     "text": "Surgical repair of the dural leak"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Spontaneous intracranial hypotension is low CSF pressure with postural headache secondary to a CSF leak in a patient with no recent dural puncture; MRI shows sagging of the brain with low cerebellar tonsils and pachymeningeal enhancement. Conservative management is bed rest, hydration, caffeine and possibly theophylline; when that fails, the epidural blood patch, in which 10-20 mL of autologous blood is injected into the epidural space, is the mainstay treatment.",
+   "optionExplanations": {
+    "b": "Bed rest and hydration are conservative measures that have already failed over two weeks.",
+    "c": "Caffeine is part of the conservative regimen she has already completed without benefit.",
+    "d": "Theophylline is only a possible addition to conservative management, not the mainstay treatment.",
+    "e": "Surgery is indicated only if epidural blood patches are ineffective and the site of the leak has been localized."
+   },
+   "topic": "Spontaneous Intracranial Hypotension",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "NS",
+    "name": "Neurosurgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 943,
+    "reference": "NS11 — Spontaneous Intracranial Hypotension"
    }
   }
  ]

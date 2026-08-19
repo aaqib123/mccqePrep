@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 6,
+ "count": 12,
  "questions": [
   {
    "id": "TN-MI-001",
@@ -284,6 +284,282 @@
     "document": "Toronto Notes 2025",
     "page": 807,
     "reference": "MI17 — Urological Imaging: Retrograde Urethrogram"
+   }
+  },
+  {
+   "id": "TN-MI-007",
+   "type": "single-best-answer",
+   "question": "A 68-year-old man with diabetes mellitus complicated by kidney involvement is booked for a contrast-enhanced CT later the same day. He is well hydrated, has had no previous adverse reaction to contrast, and has no heart failure. The team wants to reduce his risk of contrast-induced nephropathy before the procedure. Which hydration regimen is most appropriate?",
+   "options": [
+    {
+     "id": "a",
+     "text": "IV 0.9% NaCl or NaHCO3 at 3 mL/kg/h for 1-3 h pre-procedure and for 6 h post-contrast administration"
+    },
+    {
+     "id": "b",
+     "text": "IV 0.9% NaCl at 1 mL/kg/h for 12 h pre-procedure and 12 h post-contrast administration"
+    },
+    {
+     "id": "c",
+     "text": "Oral fluids alone, taken freely on the morning of the procedure"
+    },
+    {
+     "id": "d",
+     "text": "A single IV bolus of 0.9% NaCl given immediately after contrast administration"
+    },
+    {
+     "id": "e",
+     "text": "IV 5% dextrose with a loop diuretic before and after contrast administration"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes gives two regimens to reduce the risk of contrast-induced nephropathy: the optimal regimen is 0.9% NaCl at 1 mL/kg/h for 12 h pre-procedure and 12 h post-contrast administration, while for a same-day procedure the regimen is 0.9% NaCl or NaHCO3 at 3 mL/kg/h for 1-3 h pre-procedure and for 6 h post-contrast administration. Because this man is being scanned the same day, the shorter higher-rate regimen is the one that applies.",
+   "optionExplanations": {
+    "b": "This is the optimal regimen, but it requires 12 h of hydration before contrast and cannot be delivered for a same-day procedure.",
+    "c": "The source specifies intravenous crystalloid regimens rather than oral intake alone.",
+    "d": "Hydration is prescribed both before and after contrast administration, not only afterwards.",
+    "e": "Neither dextrose nor a diuretic is part of the described prophylaxis; dehydration is itself listed as a contraindication to IV contrast."
+   },
+   "topic": "Contrast Safety — Contrast-Induced Nephropathy",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "MI",
+    "name": "Medical Imaging"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 793,
+    "reference": "MI3 — Imaging Modalities: Methods to Reduce the Risk of Contrast-Induced Nephropathy"
+   }
+  },
+  {
+   "id": "TN-MI-008",
+   "type": "single-best-answer",
+   "question": "A 63-year-old man with end-stage renal disease is scheduled for contrast-enhanced imaging to characterise a suspected tumour. He has never had an adverse reaction to contrast. Before the study is booked, the radiologist reviews which agents may be given safely. Which contrast agent carries a risk of nephrogenic systemic fibrosis in this patient?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Gadolinium chelates"
+    },
+    {
+     "id": "b",
+     "text": "Intravenous iodinated agents"
+    },
+    {
+     "id": "c",
+     "text": "Oral barium"
+    },
+    {
+     "id": "d",
+     "text": "Rectal barium"
+    },
+    {
+     "id": "e",
+     "text": "Intravenous microbubbles"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes lists the risk of nephrogenic systemic fibrosis in patients with end-stage renal disease as the disadvantage specific to gadolinium chelates, and names end-stage renal disease a relative contraindication to their use. That is the agent this patient's renal status makes hazardous.",
+   "optionExplanations": {
+    "b": "Iodinated agents are contraindicated in renal failure, but the adverse effect attributed to them is not nephrogenic systemic fibrosis.",
+    "c": "Oral barium is a radiopaque agent used to delineate intraluminal anatomy and is not linked to nephrogenic systemic fibrosis.",
+    "d": "Rectal barium is likewise a luminal agent; its listed contraindications are toxic megacolon, acute colitis, and suspected perforation.",
+    "e": "Microbubbles are contraindicated in individuals with right-to-left cardiac shunts or known hypersensitivity reactions, not in renal disease."
+   },
+   "topic": "Contrast Safety — Contrast Agents",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "MI",
+    "name": "Medical Imaging"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 794,
+    "reference": "MI4 — Contrast Agents, Table 2: Contrast Agents"
+   }
+  },
+  {
+   "id": "TN-MI-009",
+   "type": "single-best-answer",
+   "question": "An 82-year-old nursing home resident with long-standing constipation has 3 days of increasing abdominal distension and colicky pain and has passed no stool. A supine abdominal radiograph shows a massively dilated loop of bowel projecting into the right mid-upper abdomen with a \"coffee bean\" appearance and proximal dilation. There is no small bowel dilation and the haustral pattern of the remaining colon is preserved. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Sigmoid volvulus"
+    },
+    {
+     "id": "b",
+     "text": "Cecal volvulus"
+    },
+    {
+     "id": "c",
+     "text": "Transverse colon volvulus"
+    },
+    {
+     "id": "d",
+     "text": "Toxic megacolon"
+    },
+    {
+     "id": "e",
+     "text": "Ileus"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes describes sigmoid volvulus as the most common volvulus, in which a massively dilated sigmoid projects to the right or mid-upper abdomen with proximal dilation, producing the \"coffee bean\" sign. The described radiograph matches that pattern exactly.",
+   "optionExplanations": {
+    "b": "Cecal volvulus gives a massively dilated loop projecting to the left or mid-upper abdomen with small bowel dilation and a \"bird's beak\" sign, neither of which is present.",
+    "c": "Volvulus of the transverse colon is rare and usually occurs in younger individuals.",
+    "d": "Toxic megacolon is a manifestation of fulminant colitis with extreme colonic dilatation, mucosal changes such as edema and pseudopolyps, and loss of the normal haustral pattern.",
+    "e": "Ileus produces air distributed throughout the GI tract rather than a single massively dilated loop with proximal dilation."
+   },
+   "topic": "Abdominal Imaging — Abdominal X-Ray",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "MI",
+    "name": "Medical Imaging"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 801,
+    "reference": "MI11 — Abdominal Imaging: Approach to Abdominal X-Ray"
+   }
+  },
+  {
+   "id": "TN-MI-010",
+   "type": "single-best-answer",
+   "question": "A 41-year-old man presents with severe left flank pain radiating to the groin, with vomiting. He is afebrile, his renal function is normal, and he has no known contrast allergy. The emergency physician judges this to be renal colic and orders a CT of the abdomen. Which CT protocol is most appropriate?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Plain (non-contrast) CT"
+    },
+    {
+     "id": "b",
+     "text": "CT with IV contrast in the portal venous phase"
+    },
+    {
+     "id": "c",
+     "text": "Biphasic CT with arterial and portal venous phases"
+    },
+    {
+     "id": "d",
+     "text": "CT after oral water-soluble contrast"
+    },
+    {
+     "id": "e",
+     "text": "CT after rectal contrast"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes lists renal colic and hemorrhage as the indications for plain CT. IV contrast is given immediately before or during CT to allow identification of arteries and veins, which is not needed here, and it carries a caution for contrast allergy and a contraindication of impaired renal function. A plain study answers the clinical question in renal colic.",
+   "optionExplanations": {
+    "b": "The portal venous phase is indicated for the majority of contrast-enhanced cases but adds nothing to the assessment of renal colic.",
+    "c": "Biphasic arterial and portal venous imaging is reserved for liver, pancreas, and bile duct tumours.",
+    "d": "Oral contrast demarcates the GI tract, with the water-soluble form chosen when perforation is suspected.",
+    "e": "Rectal contrast is given for investigation of colonic lesions."
+   },
+   "topic": "Abdominal Imaging — CT Protocols",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "MI",
+    "name": "Medical Imaging"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 802,
+    "reference": "MI12 — Abdominal Computed Tomography"
+   }
+  },
+  {
+   "id": "TN-MI-011",
+   "type": "single-best-answer",
+   "question": "A 49-year-old man was admitted 8 days ago with acute pancreatitis diagnosed clinically and biochemically, and has been managed with supportive therapy. He now has recurrent fever, tachycardia, and worsening epigastric pain. His physician wants to determine whether an abscess, pseudocyst, or pancreatic necrosis has developed. Which imaging study is most appropriate?",
+   "options": [
+    {
+     "id": "a",
+     "text": "CT of the abdomen"
+    },
+    {
+     "id": "b",
+     "text": "Transabdominal ultrasound"
+    },
+    {
+     "id": "c",
+     "text": "MRCP"
+    },
+    {
+     "id": "d",
+     "text": "Supine abdominal radiograph"
+    },
+    {
+     "id": "e",
+     "text": "Conventional angiogram"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states that in acute pancreatitis imaging is used to support the diagnosis and evaluate for complications, and that CT is useful in advanced stages and in assessing for complications, making it the first-line imaging test. CT demonstrates the abscess, pseudocyst, and non-enhancing necrotic pancreatic tissue being sought here, and can also guide needle aspiration or drainage of an abscess when clinically indicated.",
+   "optionExplanations": {
+    "b": "Ultrasound is good for screening and follow-up, but if ileus is present the overlying gas obscures the pancreas.",
+    "c": "MRCP is named the best imaging modality for chronic pancreatitis, where it shows calcification and duct obstruction.",
+    "d": "A plain abdominal radiograph such as a KUB is used for radiopaque stones, stents, and foreign bodies, not pancreatic collections.",
+    "e": "A conventional angiogram is an invasive vascular study; for GI vasculature the non-invasive CT angiogram is the modality of choice."
+   },
+   "topic": "Abdominal Imaging — Acute Pancreatitis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "MI",
+    "name": "Medical Imaging"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 806,
+    "reference": "MI16 — Abdominal Imaging: Acute Pancreatitis"
+   }
+  },
+  {
+   "id": "TN-MI-012",
+   "type": "single-best-answer",
+   "question": "A 26-year-old woman presents with left lower quadrant pain and light vaginal bleeding 6 weeks after her last menstrual period. Her serum B-hCG is positive and she is hemodynamically stable. A transabdominal scan is limited because air-containing loops of bowel obscure the adnexa. Which imaging study is most appropriate to assess for an ectopic pregnancy?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Transvaginal ultrasound"
+    },
+    {
+     "id": "b",
+     "text": "Repeat transabdominal ultrasound with a full bladder"
+    },
+    {
+     "id": "c",
+     "text": "CT of the pelvis"
+    },
+    {
+     "id": "d",
+     "text": "MRI of the pelvis"
+    },
+    {
+     "id": "e",
+     "text": "Hysterosalpingogram"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states that transvaginal ultrasound provides a panoramic pelvic view and enhanced detail of deeper and smaller structures because higher frequency sound waves can be used over the reduced distance, and lists improved assessment of the ovaries, first trimester development, and ectopic pregnancy as its indications. It is therefore the study to obtain when a transabdominal scan is inadequate in early pregnancy.",
+   "optionExplanations": {
+    "b": "Transabdominal scanning is a good initial investigation for suspected pelvic pathology but does not require a full bladder and gives less detail of deeper, smaller structures.",
+    "c": "Pregnancy should always be ruled out by B-hCG before CT of a female pelvis is performed, and her B-hCG is positive.",
+    "d": "CT and MRI are used to evaluate pelvic structures adjacent to the adnexa and uterus and to stage gynecological malignancies.",
+    "e": "A hysterosalpingogram assesses the uterine cavity and fallopian tubes in the evaluation of fertility, not an early pregnancy."
+   },
+   "topic": "Gynecological Imaging — Ectopic Pregnancy",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "MI",
+    "name": "Medical Imaging"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 808,
+    "reference": "MI18 — Gynecological Imaging: Ultrasound"
    }
   }
  ]

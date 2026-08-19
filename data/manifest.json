@@ -1,12 +1,12 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-08-19T22:23:23Z",
+ "generatedAt": "2026-08-19T23:18:12Z",
  "document": {
   "id": "toronto-notes-2025",
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "totalQuestions": 440,
+ "totalQuestions": 482,
  "chapters": [
   {
    "code": "ELOM",
@@ -35,21 +35,27 @@
    "code": "A",
    "name": "Anesthesia",
    "file": "questions/a.json",
-   "count": 8,
+   "count": 14,
    "topics": [
+    "Acute Pain Management",
+    "Airway Management: Definitive Airway",
     "Aspiration Risk and Rapid Sequence Induction",
+    "Difficult Airway",
+    "Extubation and Laryngospasm",
     "Intravenous Induction Agents",
+    "Local Anesthetic Systemic Toxicity",
     "Malignant Hyperthermia",
     "Minimum Alveolar Concentration",
     "Neuromuscular Blocking Agents",
     "Perioperative Cardiac Risk",
+    "Post-Dural Puncture Headache",
     "Preoperative Assessment and ASA Classification",
     "Preoperative Fasting Guidelines"
    ],
    "difficulty": {
-    "easy": 2,
-    "medium": 4,
-    "hard": 2
+    "easy": 4,
+    "medium": 7,
+    "hard": 3
    }
   },
   {
@@ -335,27 +341,39 @@
    "code": "H",
    "name": "Hematology",
    "file": "questions/h.json",
-   "count": 14,
+   "count": 26,
    "topics": [
     "Acute Myeloid Leukemia",
+    "Acute Promyelocytic Leukemia",
+    "Anticoagulation Duration",
     "Autoimmune Hemolytic Anemia",
+    "Chronic Lymphocytic Leukemia",
+    "Disseminated Intravascular Coagulation",
     "Erythrocytosis",
+    "Hemophilia A",
     "Heparin-Induced Thrombocytopenia",
     "Immune Thrombocytopenia",
+    "Iron Deficiency Treatment",
     "Iron Indices in Inflammation",
+    "Lymphadenopathy",
     "Macrocytic Anemia",
     "Microcytic Anemia",
     "Multiple Myeloma",
+    "Red Blood Cell Transfusion",
     "Sickle Cell Disease",
+    "Thalassemia",
     "Thrombocytopenia",
     "Thrombotic Microangiopathy",
     "Transfusion Reactions",
-    "Venous Thromboembolism"
+    "Tumour Lysis Syndrome",
+    "Venous Thromboembolism",
+    "Warfarin Management",
+    "von Willebrand Disease"
    ],
    "difficulty": {
-    "easy": 3,
-    "medium": 7,
-    "hard": 4
+    "easy": 6,
+    "medium": 13,
+    "hard": 7
    }
   },
   {
@@ -409,19 +427,25 @@
    "code": "MI",
    "name": "Medical Imaging",
    "file": "questions/mi.json",
-   "count": 6,
+   "count": 12,
    "topics": [
+    "Abdominal Imaging — Abdominal X-Ray",
     "Abdominal Imaging — Acute Cholecystitis",
+    "Abdominal Imaging — Acute Pancreatitis",
+    "Abdominal Imaging — CT Protocols",
     "Chest Imaging — Pulmonary Embolism",
     "Chest Imaging — Tubes and Lines",
+    "Contrast Safety — Contrast Agents",
+    "Contrast Safety — Contrast-Induced Nephropathy",
     "Genitourinary Imaging — Urethral Trauma",
+    "Gynecological Imaging — Ectopic Pregnancy",
     "Neuroradiology — Acute Stroke Imaging",
     "Neuroradiology — Carotid Artery Disease"
    ],
    "difficulty": {
-    "easy": 2,
-    "medium": 3,
-    "hard": 1
+    "easy": 4,
+    "medium": 6,
+    "hard": 2
    }
   },
   {
@@ -486,27 +510,36 @@
    "code": "NS",
    "name": "Neurosurgery",
    "file": "questions/ns.json",
-   "count": 14,
+   "count": 23,
    "topics": [
     "Cauda Equina Syndrome",
     "Cerebellopontine Angle Lesion",
+    "Cervical Disc Syndrome",
+    "Chronic Subdural Hematoma",
     "Cortical Localization",
+    "Degenerative Cervical Myelopathy",
     "Epidural Hematoma",
+    "Head Injury Imaging",
     "Herniation Syndromes",
+    "Hydrocephalus",
     "ICP Monitoring",
     "Incomplete Spinal Cord Syndromes",
+    "Intracerebral Hemorrhage",
     "Investigation of Elevated ICP",
     "Medication Cautions in Elevated ICP",
     "Normal Pressure Hydrocephalus",
     "Pituitary Adenoma",
     "Raised Intracranial Pressure",
     "Spinal Tumours and Cord Compression",
-    "Subarachnoid Hemorrhage"
+    "Spontaneous Intracranial Hypotension",
+    "Subarachnoid Hemorrhage",
+    "Subarachnoid Hemorrhage Complications",
+    "Vascular Malformations"
    ],
    "difficulty": {
-    "easy": 3,
-    "medium": 7,
-    "hard": 4
+    "easy": 5,
+    "medium": 12,
+    "hard": 6
    }
   },
   {
@@ -675,21 +708,30 @@
    "code": "PL",
    "name": "Plastic Surgery",
    "file": "questions/pl.json",
-   "count": 8,
+   "count": 17,
    "topics": [
+    "Burn Depth Assessment",
     "Burn Resuscitation",
+    "Burn Size Estimation",
     "Burn Wound Care and Topical Antimicrobials",
     "Carpal Tunnel Syndrome",
     "Chronic Wounds and Marjolin's Ulcer",
+    "Compartment Syndrome",
+    "Extensor Tendon Injuries",
+    "Facial Trauma: Investigations",
     "Facial Trauma: Orbital Floor Fracture",
+    "Flexor Tendon Injuries",
+    "Flexor Tenosynovitis",
     "Hand Infections",
     "Lower Limb Ulcers",
+    "Metacarpal Fractures",
+    "Skin Grafts",
     "Types of Wound Healing and Closure"
    ],
    "difficulty": {
-    "easy": 2,
-    "medium": 4,
-    "hard": 2
+    "easy": 4,
+    "medium": 9,
+    "hard": 4
    }
   },
   {
@@ -854,7 +896,7 @@
    "chapters": null,
    "defaultCount": 40,
    "accent": "teal",
-   "poolSize": 440
+   "poolSize": 482
   },
   {
    "id": "medicine",
@@ -875,7 +917,7 @@
    ],
    "defaultCount": 30,
    "accent": "indigo",
-   "poolSize": 162
+   "poolSize": 174
   },
   {
    "id": "surgery",
@@ -895,7 +937,7 @@
    ],
    "defaultCount": 30,
    "accent": "amber",
-   "poolSize": 98
+   "poolSize": 122
   },
   {
    "id": "womens-childrens",
@@ -944,7 +986,7 @@
    ],
    "defaultCount": 25,
    "accent": "cyan",
-   "poolSize": 96
+   "poolSize": 108
   }
  ]
 }

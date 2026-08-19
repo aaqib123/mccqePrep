@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 14,
+ "count": 26,
  "questions": [
   {
    "id": "TN-H-001",
@@ -652,6 +652,558 @@
     "document": "Toronto Notes 2025",
     "page": 710,
     "reference": "H56 — Acute Blood Transfusion Reactions"
+   }
+  },
+  {
+   "id": "TN-H-015",
+   "type": "single-best-answer",
+   "question": "A 34-year-old man reports a painless left supraclavicular lymph node first noticed six weeks ago. It is 3 cm, firm, non-tender, and immobile. He has had night sweats and unintentional weight loss of 9 kg over four months. There is no splenomegaly. CBC, differential, and blood film are unremarkable. What is the most appropriate investigation?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Excisional lymph node biopsy"
+    },
+    {
+     "id": "b",
+     "text": "Fine needle aspiration of the lymph node"
+    },
+    {
+     "id": "c",
+     "text": "Multiple core biopsies of the lymph node"
+    },
+    {
+     "id": "d",
+     "text": "Monospot/EBV serology"
+    },
+    {
+     "id": "e",
+     "text": "Tuberculin test"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states that fine needle aspiration should NOT be used for diagnostic purposes in lymphoproliferative disease and that excisional biopsy is the gold standard because it preserves lymph node architecture. Supraclavicular nodes carry the highest malignancy risk, and a firm, matted or immobile, non-tender node is described as neoplastic rather than inflammatory. With B-symptoms and a node persisting beyond 3-4 wk, tissue diagnosis by excisional biopsy is required.",
+   "optionExplanations": {
+    "b": "FNA is helpful for recurrence of solid tumour malignancy but is explicitly unreliable for diagnosing lymphoproliferative disease.",
+    "c": "Multiple core biopsies are reserved for areas that are difficult to access, such as retroperitoneal or mediastinal/hilar nodes.",
+    "d": "EBV serology belongs to the workup of generalized lymphadenopathy, not an isolated hard supraclavicular node with B-symptoms.",
+    "e": "A tuberculin test is part of the generalized lymphadenopathy screen and would not provide the tissue diagnosis needed here."
+   },
+   "topic": "Lymphadenopathy",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "H",
+    "name": "Hematology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 666,
+    "reference": "H12 — Approach to Lymphadenopathy"
+   }
+  },
+  {
+   "id": "TN-H-016",
+   "type": "single-best-answer",
+   "question": "A 29-year-old woman with heavy menstrual bleeding has iron deficiency anemia, with hemoglobin 98 g/L and serum ferritin 6 ug/L. She was prescribed ferrous sulphate 325 mg three times daily and stopped it after two weeks because of nausea and constipation. She eats a normal diet, has no malabsorption, and is hemodynamically stable. What is the best initial treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Ferrous sulphate 325 mg orally once daily"
+    },
+    {
+     "id": "b",
+     "text": "Ferrous gluconate 300 mg orally three times daily"
+    },
+    {
+     "id": "c",
+     "text": "Ferrous fumarate 300 mg orally three times daily"
+    },
+    {
+     "id": "d",
+     "text": "Intravenous iron"
+    },
+    {
+     "id": "e",
+     "text": "Polysaccharide iron complex orally three times daily"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states there is no role for dosing oral iron more than once daily, because this results in hepcidin up-regulation, decreased absorption, and more side effects without clinical benefit. Ferrous sulphate 325 mg once daily supplies 65 mg of elemental iron and should be continued until the anemia corrects and then for 3 or more months until ferritin normalizes. Her intolerance is a consequence of thrice-daily dosing, not of oral iron itself.",
+   "optionExplanations": {
+    "b": "Switching salts while keeping thrice-daily dosing perpetuates the hepcidin up-regulation and side effects that made her stop.",
+    "c": "Ferrous fumarate is an acceptable preparation, but three-times-daily dosing is specifically discouraged.",
+    "d": "IV iron is considered if the patient cannot tolerate or absorb oral iron or needs quick recovery; she has not yet had an appropriate once-daily oral trial.",
+    "e": "Polysaccharide iron complex is a listed oral option, but again the recommended frequency is once daily."
+   },
+   "topic": "Iron Deficiency Treatment",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "H",
+    "name": "Hematology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 670,
+    "reference": "H16 — Microcytic Anemia: Treatment"
+   }
+  },
+  {
+   "id": "TN-H-017",
+   "type": "single-best-answer",
+   "question": "A 27-year-old asymptomatic woman of Mediterranean descent has hemoglobin 112 g/L with an MCV of 66 fL. Serum iron is normal and her RBC count is elevated. The spleen is not palpable. The peripheral blood film shows microcytosis with basophilic stippling. What is the most appropriate investigation?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Hemoglobin electrophoresis"
+    },
+    {
+     "id": "b",
+     "text": "A therapeutic trial of oral iron with repeat iron studies"
+    },
+    {
+     "id": "c",
+     "text": "Bone marrow aspirate and biopsy"
+    },
+    {
+     "id": "d",
+     "text": "Skull x-ray"
+    },
+    {
+     "id": "e",
+     "text": "Abdominal ultrasound"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes describes beta-thalassemia minor as Hb 100-140 g/L, MCV <70 fL, normal iron, and a normal or high RBC count, with microcytosis and basophilic stippling on film, in a patient of Mediterranean or South Asian descent who is usually asymptomatic with a rarely palpable spleen. Hemoglobin electrophoresis is the specific test, showing HbA2 increased to 3.5-5%, with a slight increase in HbF in half of patients. No treatment is required beyond genetic counselling.",
+   "optionExplanations": {
+    "b": "Her serum iron is normal, so iron is not the deficient substrate and a therapeutic iron trial would not explain the profound microcytosis.",
+    "c": "Marrow examination is not part of the described workup for thalassemia trait, which is diagnosed on electrophoresis.",
+    "d": "The hair-on-end skull appearance is a feature of beta-thalassemia major from marrow cavity expansion, not of thalassemia trait.",
+    "e": "Imaging for hepatosplenomegaly is unhelpful when the spleen is impalpable, which is the expected finding in thalassemia minor."
+   },
+   "topic": "Thalassemia",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "H",
+    "name": "Hematology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 674,
+    "reference": "H20 — Beta-Thalassemia Minor (Thalassemia Trait)"
+   }
+  },
+  {
+   "id": "TN-H-018",
+   "type": "single-best-answer",
+   "question": "A 23-year-old woman has had heavy menstrual bleeding since menarche, recurrent epistaxis, and prolonged bleeding after a dental extraction. Her platelet count is normal, PTT is mildly prolonged, von Willebrand antigen and ristocetin activity are both reduced, and factor VIII is mildly low. Type 1 von Willebrand disease is diagnosed. What is the best initial treatment for her bleeding?",
+   "options": [
+    {
+     "id": "a",
+     "text": "DDAVP (desmopressin)"
+    },
+    {
+     "id": "b",
+     "text": "VWF-Factor VIII concentrate (Humate P)"
+    },
+    {
+     "id": "c",
+     "text": "Factor VIII concentrate"
+    },
+    {
+     "id": "d",
+     "text": "Tranexamic acid"
+    },
+    {
+     "id": "e",
+     "text": "Estrogen therapy"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states that DDAVP is effective treatment for 85-90% of patients with type 1 von Willebrand disease, acting by causing release of VWF and factor VIII from endothelial cells. Responsiveness should be documented with a DDAVP challenge, and tachyphylaxis occurs after 4 consecutive doses. This patient has classic type 1 disease with reduced VWF antigen and ristocetin activity and a mildly low factor VIII.",
+   "optionExplanations": {
+    "b": "VWF-Factor VIII concentrate is reserved for patients unresponsive to DDAVP or for severe bleeding episodes.",
+    "c": "Factor VIII concentrate alone does not replace VWF, which is the deficient protein mediating platelet adhesion.",
+    "d": "Tranexamic acid is a useful antifibrinolytic adjunct to stabilize clot formation but is not the primary therapy for type 1 disease.",
+    "e": "Estrogens raise VWF levels and are helpful in gynecologic care of heavy menstrual bleeding, but they are not the initial treatment for a bleeding episode."
+   },
+   "topic": "von Willebrand Disease",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "H",
+    "name": "Hematology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 686,
+    "reference": "H32 — von Willebrand Disease: Treatment"
+   }
+  },
+  {
+   "id": "TN-H-019",
+   "type": "single-best-answer",
+   "question": "A 19-year-old man presents with a painful, swollen right knee after a minor twisting injury. He has had recurrent hemarthroses since early childhood and a maternal uncle has a bleeding disorder. INR is normal and PTT is prolonged. Factor VIII activity is less than 1% of normal, and VWF antigen and ristocetin activity are normal. What is the best initial treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Factor VIII concentrate"
+    },
+    {
+     "id": "b",
+     "text": "DDAVP (desmopressin)"
+    },
+    {
+     "id": "c",
+     "text": "Factor IX concentrate"
+    },
+    {
+     "id": "d",
+     "text": "Tranexamic acid"
+    },
+    {
+     "id": "e",
+     "text": "Vitamin K"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes describes hemophilia A as a prolonged PTT with a normal INR and factor VIII below 40% of normal, with VWF antigen and ristocetin testing used to rule out von Willebrand disease. A factor VIII level under 1% defines severe disease. Factor VIII concentrate is given on demand to treat a bleed and as prophylaxis in severe hemophilia A.",
+   "optionExplanations": {
+    "b": "DDAVP is used only in mild hemophilia A; it cannot raise factor VIII adequately when the level is under 1%.",
+    "c": "Factor IX concentrate treats hemophilia B, in which factor IX rather than factor VIII is deficient.",
+    "d": "Antifibrinolytics such as tranexamic acid are adjuncts, especially for mucosal bleeds, and do not correct a hemarthrosis in severe disease.",
+    "e": "Vitamin K corrects deficiency of factors II, VII, IX, and X and has no effect on an X-linked factor VIII deficiency."
+   },
+   "topic": "Hemophilia A",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "H",
+    "name": "Hematology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 687,
+    "reference": "H33 — Hemophilia A (Factor VIII Deficiency)"
+   }
+  },
+  {
+   "id": "TN-H-020",
+   "type": "single-best-answer",
+   "question": "A 62-year-old man being treated for Gram-negative sepsis is oozing from puncture sites and has gingival oozing and hematuria. Platelets are 32 x 10^9/L, INR and PTT are prolonged but less than 1.5 times normal, fibrinogen is 2.6 g/L, D-dimers are markedly increased, and schistocytes are seen on smear. Disseminated intravascular coagulation is diagnosed. What is the most appropriate next step?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Transfuse platelets"
+    },
+    {
+     "id": "b",
+     "text": "Transfuse frozen plasma"
+    },
+    {
+     "id": "c",
+     "text": "Transfuse cryoprecipitate"
+    },
+    {
+     "id": "d",
+     "text": "Give prothrombin complex concentrate"
+    },
+    {
+     "id": "e",
+     "text": "Give fibrinogen concentrate"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes gives the ISTH guidance for the bleeding phase of DIC: treat the underlying condition and transfuse platelets in patients with active bleeding if the platelet count is below 50 x 10^9/L, or below 20 x 10^9/L in those at high risk of bleeding. This patient is actively bleeding with a platelet count of 32 x 10^9/L, so platelet transfusion is the indicated product.",
+   "optionExplanations": {
+    "b": "Frozen plasma is recommended for active bleeding with a PT or aPTT greater than 1.5 times normal, which is not the case here.",
+    "c": "Cryoprecipitate is recommended for actively bleeding patients with persisting severe hypofibrinogenemia below 1.5 g/L; his fibrinogen is 2.6 g/L.",
+    "d": "Prothrombin complex concentrate is considered only in actively bleeding patients when frozen plasma transfusion is not possible.",
+    "e": "Fibrinogen concentrate, like cryoprecipitate, targets hypofibrinogenemia below 1.5 g/L, which he does not have."
+   },
+   "topic": "Disseminated Intravascular Coagulation",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "H",
+    "name": "Hematology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 688,
+    "reference": "H34 — Disseminated Intravascular Coagulation"
+   }
+  },
+  {
+   "id": "TN-H-021",
+   "type": "single-best-answer",
+   "question": "A 52-year-old woman develops a symptomatic proximal deep vein thrombosis of the left leg three weeks after elective total knee arthroplasty. She has no previous thrombosis and no malignancy. A direct oral anticoagulant has been started, she is now fully mobile, and the surgical risk factor has resolved. For how long should anticoagulant treatment be continued?",
+   "options": [
+    {
+     "id": "a",
+     "text": "6 weeks"
+    },
+    {
+     "id": "b",
+     "text": "3 months"
+    },
+    {
+     "id": "c",
+     "text": "6 months"
+    },
+    {
+     "id": "d",
+     "text": "12 months"
+    },
+    {
+     "id": "e",
+     "text": "Indefinite therapy with annual reassessment"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Toronto Notes specifies the duration of anticoagulant treatment by the nature of the risk factor: provoked VTE with a transient risk factor is treated for 3 mo. Her thrombosis was provoked by orthopedic surgery, a transient risk factor that has resolved, so a 3-month course is appropriate.",
+   "optionExplanations": {
+    "a": "Six weeks is the minimum postpartum component of anticoagulation in pregnancy-associated VTE, not the treatment course for a provoked DVT.",
+    "c": "Six months exceeds the recommended duration for VTE provoked by a transient risk factor.",
+    "d": "Twelve months is not a listed duration for provoked VTE with a resolved risk factor.",
+    "e": "Indefinite therapy with annual reassessment applies to provoked VTE with an ongoing risk factor, unprovoked events, and cancer-associated DVT."
+   },
+   "topic": "Anticoagulation Duration",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "H",
+    "name": "Hematology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 692,
+    "reference": "H38 — Venous Thromboembolism: Duration of Anticoagulant Treatment"
+   }
+  },
+  {
+   "id": "TN-H-022",
+   "type": "single-best-answer",
+   "question": "A 38-year-old woman presents with fatigue, extensive bruising, and epistaxis. WBC is 2.1 x 10^9/L, platelets are 18 x 10^9/L, the INR is prolonged, and fibrinogen is 1.1 g/L. The blood film shows abnormal promyelocytes and DIC is present. Acute promyelocytic leukemia is strongly suspected while cytogenetics are pending. What is the best initial treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "All-trans retinoic acid"
+    },
+    {
+     "id": "b",
+     "text": "Arsenic trioxide as a single agent"
+    },
+    {
+     "id": "c",
+     "text": "Hydroxyurea"
+    },
+    {
+     "id": "d",
+     "text": "Allopurinol"
+    },
+    {
+     "id": "e",
+     "text": "Broad-spectrum antibiotics"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states that APL is an emergency because DIC is often present at diagnosis, and that ATRA should be started as soon as possible if APL is in the differential, without waiting for confirmatory testing. Supportive transfusions are given to target a platelet count above 50 x 10^9/L in the presence of bleeding and fibrinogen above 1.5 g/L. Arsenic trioxide is combined with ATRA rather than used alone.",
+   "optionExplanations": {
+    "b": "Arsenic trioxide is used in combination with ATRA; the combination, not arsenic alone, is superior to traditional chemotherapy.",
+    "c": "Hydroxyurea provides immediate cytoreduction for leukostasis, which is not the problem in a patient with a WBC of 2.1 x 10^9/L.",
+    "d": "Allopurinol prevents hyperuricemia but does nothing for the coagulopathy that makes APL an emergency.",
+    "e": "Broad-spectrum antibiotics with pan-cultures are indicated for fever, which this afebrile patient does not have."
+   },
+   "topic": "Acute Promyelocytic Leukemia",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "H",
+    "name": "Hematology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 695,
+    "reference": "H41 — Acute Myeloid Leukemia: Treatment Strategy for APL"
+   }
+  },
+  {
+   "id": "TN-H-023",
+   "type": "single-best-answer",
+   "question": "A 72-year-old man feels well, but a routine CBC shows a clonal population of B lymphocytes of 30 x 10^9/L. He has non-tender cervical and axillary lymphadenopathy and a palpable spleen. The film shows small mature lymphocytes and numerous smudge cells. Flow cytometry of peripheral blood shows CD5, dim CD20, and CD23 with light chain restriction. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Chronic lymphocytic leukemia"
+    },
+    {
+     "id": "b",
+     "text": "Mantle cell lymphoma"
+    },
+    {
+     "id": "c",
+     "text": "Follicular lymphoma"
+    },
+    {
+     "id": "d",
+     "text": "Lymphoplasmacytic lymphoma"
+    },
+    {
+     "id": "e",
+     "text": "Multiple myeloma"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes defines CLL as an indolent clonal malignancy of mature B-cells, most common in older patients with a median age of 70 yr, diagnosed on a CBC showing a clonal B lymphocyte population above 5 x 10^9/L. The film shows small mature lymphocytes and smudge cells, and flow cytometry demonstrates CD5, dim CD20, CD23, and light chain restriction. Lymphadenopathy occurs in 50-90% and splenomegaly in 25-55%.",
+   "optionExplanations": {
+    "b": "Mantle cell lymphoma is characterized by overexpression of cyclin D1 and usually presents as stage IV nodal disease with gastrointestinal involvement rather than this flow cytometry profile.",
+    "c": "Follicular lymphoma is an indolent nodal lymphoma with Bcl-2 activation and widespread painless lymphadenopathy, not a circulating CD5/CD23 clone with smudge cells.",
+    "d": "Lymphoplasmacytic lymphoma is a proliferation of plasmacytoid lymphocytes with a monoclonal IgM paraprotein and hyperviscosity.",
+    "e": "Multiple myeloma is a plasma cell malignancy with bone lesions, hypercalcemia, and renal failure; lymph node involvement is rare."
+   },
+   "topic": "Chronic Lymphocytic Leukemia",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "H",
+    "name": "Hematology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 704,
+    "reference": "H50 — Chronic Lymphocytic Leukemia"
+   }
+  },
+  {
+   "id": "TN-H-024",
+   "type": "single-best-answer",
+   "question": "A 24-year-old man with newly diagnosed Burkitt lymphoma and bulky abdominal disease is admitted to begin chemotherapy tomorrow. Creatinine, potassium, phosphate, calcium, and uric acid are currently normal. His large tumour burden and high proliferative rate place him at high risk of tumour lysis syndrome. What is the most appropriate next step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Aggressive IV hydration with allopurinol"
+    },
+    {
+     "id": "b",
+     "text": "IV sodium bicarbonate for urinary alkalinization"
+    },
+    {
+     "id": "c",
+     "text": "Prophylactic dialysis"
+    },
+    {
+     "id": "d",
+     "text": "Oral potassium and phosphate supplementation"
+    },
+    {
+     "id": "e",
+     "text": "Plasmapheresis"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes lists prevention of tumour lysis syndrome as aggressive IV hydration plus allopurinol, which prevents uric acid accumulation, or rasburicase, which lowers existing uric acid, along with correction of pre-existing metabolic abnormalities. Tumour lysis syndrome is more common in diseases with a large tumour burden and high proliferative rate such as high grade lymphoma and acute leukemia, so prophylaxis is started before chemotherapy.",
+   "optionExplanations": {
+    "b": "Alkalinization is not recommended because of the risk of calcium phosphate or xanthine precipitation in the renal tubules.",
+    "c": "Dialysis is a treatment for established complications such as acute kidney injury, not a prophylactic measure.",
+    "d": "Cell lysis releases potassium and phosphate, so supplementing them would worsen the expected metabolic derangements.",
+    "e": "Plasmapheresis is used for hyperviscosity syndrome, not for prevention of tumour lysis syndrome."
+   },
+   "topic": "Tumour Lysis Syndrome",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "H",
+    "name": "Hematology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 708,
+    "reference": "H54 — Tumour Lysis Syndrome"
+   }
+  },
+  {
+   "id": "TN-H-025",
+   "type": "single-best-answer",
+   "question": "A 26-year-old woman is brought to the emergency department after a motor vehicle collision with ongoing intra-abdominal hemorrhage. Blood pressure is 78/40 mmHg and hemoglobin is 58 g/L. A group and screen has been sent, but the cross-match takes 30-45 min and she requires red cells immediately. Which red cells should be transfused?",
+   "options": [
+    {
+     "id": "a",
+     "text": "O negative red cells"
+    },
+    {
+     "id": "b",
+     "text": "O positive red cells"
+    },
+    {
+     "id": "c",
+     "text": "AB positive red cells"
+    },
+    {
+     "id": "d",
+     "text": "Fully cross-matched red cells once the cross-match is complete"
+    },
+    {
+     "id": "e",
+     "text": "Red cells of the same group and Rh status as the recipient once the group and screen returns"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes ranks red cell selection: first-line is fully cross-matched blood, second-line is donor blood of the same group and Rh status as the recipient, and third-line is O negative blood for females of reproductive age and O positive blood for all others. Because the cross-match takes 30-45 min and she is exsanguinating, the third-line option applies, and she is a female of reproductive age.",
+   "optionExplanations": {
+    "b": "O positive is the third-line choice for all others, but it risks Rh sensitization in a female of reproductive age.",
+    "c": "AB positive red cells are not a listed emergency option and carry both A and B antigens.",
+    "d": "Fully cross-matched blood is first-line but is not always available in emergency situations, and a 30-45 min delay is unacceptable here.",
+    "e": "Waiting for group-specific blood is second-line and still delays transfusion in a patient who needs red cells immediately."
+   },
+   "topic": "Red Blood Cell Transfusion",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "H",
+    "name": "Hematology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 709,
+    "reference": "H55 — Selection of Red Cells for Transfusion"
+   }
+  },
+  {
+   "id": "TN-H-026",
+   "type": "single-best-answer",
+   "question": "A 74-year-old man taking warfarin for atrial fibrillation has a routine INR of 11.5. He has no bleeding, no bruising, and no recent trauma, and he is hemodynamically stable. He has no planned surgical or invasive procedure. What is the most appropriate next step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Hold warfarin and give oral vitamin K 2.5 to 5 mg"
+    },
+    {
+     "id": "b",
+     "text": "Omit the next 1-2 doses of warfarin without giving vitamin K"
+    },
+    {
+     "id": "c",
+     "text": "Hold warfarin and give vitamin K 10 mg by slow IV infusion"
+    },
+    {
+     "id": "d",
+     "text": "Hold warfarin and give four-factor prothrombin complex concentrate"
+    },
+    {
+     "id": "e",
+     "text": "Continue warfarin at a lower dose without giving vitamin K"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes recommends that for an INR above 10.0 without bleeding, warfarin is held and oral vitamin K 2.5 to 5 mg is administered, with more frequent INR monitoring, additional vitamin K as needed, and resumption of warfarin at a lower dose once the INR is therapeutic. This patient has an INR of 11.5 with no bleeding, which fits that category exactly.",
+   "optionExplanations": {
+    "b": "Omitting the next 1-2 doses, with or without oral vitamin K 1-2.5 mg, is the recommendation for an INR of 4.5 to 10.0 without bleeding.",
+    "c": "Vitamin K 10 mg by slow IV infusion is reserved for serious or life-threatening bleeding on warfarin.",
+    "d": "Four-factor prothrombin complex concentrate supplements IV vitamin K only in serious or life-threatening bleeding; it is not indicated for non-emergent reversal.",
+    "e": "Simply lowering the dose is appropriate for an INR minimally above therapeutic up to 4.5, not for an INR above 10.0."
+   },
+   "topic": "Warfarin Management",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "H",
+    "name": "Hematology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 714,
+    "reference": "H60 — Recommended Management of a Supratherapeutic INR"
    }
   }
  ]
