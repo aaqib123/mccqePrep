@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 10,
+ "count": 17,
  "questions": [
   {
    "id": "TN-ELOM-001",
@@ -468,6 +468,328 @@
     "document": "Toronto Notes 2025",
     "page": 43,
     "reference": "ELOM23 — Physician-Industry Relations"
+   }
+  },
+  {
+   "id": "TN-ELOM-011",
+   "type": "single-best-answer",
+   "question": "A 68-year-old man insured under his home province's health plan is visiting family in another province when he develops crushing chest pain and is taken to a local emergency department, where he is admitted with an acute coronary syndrome. His daughter asks who is responsible for paying for the emergency hospital and physician services he is receiving outside his home province. Which principle of the Canada Health Act governs this situation?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Public administration"
+    },
+    {
+     "id": "b",
+     "text": "Comprehensiveness"
+    },
+    {
+     "id": "c",
+     "text": "Universality"
+    },
+    {
+     "id": "d",
+     "text": "Portability"
+    },
+    {
+     "id": "e",
+     "text": "Accessibility"
+    }
+   ],
+   "correctAnswer": "d",
+   "explanation": "Under the principle of portability, emergency health services must be available to Canadians who are outside their home province, and they are paid for by the home province. This patient is receiving emergency hospital and physician services away from home, so portability is the principle engaged. Provincial and territorial plans must comply with the five principles of the Canada Health Act to receive federal transfer payments, and the federal government can reduce its contributions to provinces that violate them.",
+   "optionExplanations": {
+    "a": "Public administration requires that provincial/territorial health insurance programs be administered on a not-for-profit basis by public authorities; it says nothing about care received out of province.",
+    "b": "Comprehensiveness requires plans to cover all medically necessary diagnostic, physician, and hospital services, but does not address where the services are delivered.",
+    "c": "Universality requires that all eligible residents be entitled to healthcare services; the issue here is cross-provincial payment, not entitlement.",
+    "e": "Accessibility requires reasonable access to medically necessary hospital and physician services without financial or other barriers within a plan's own jurisdiction."
+   },
+   "topic": "Canada Health Act and Health System Organization",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "ELOM",
+    "name": "Ethical, Legal, and Organizational Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 23,
+    "reference": "ELOM3 — Principles of the Canada Health Act"
+   }
+  },
+  {
+   "id": "TN-ELOM-012",
+   "type": "single-best-answer",
+   "question": "At morning rounds your team is divided over whether it is ethical to allow an inpatient to refuse a treatment the team considers life-saving. The discussion has become heated and judgmental about the patient's motives, two nurses feel their concerns have not been heard, and no one has looked at what hospital or regulatory college policy applies. What is the most appropriate next step for the most responsible physician?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Work through the case with a structured ethics framework such as IDEA, involving all relevant interprofessional colleagues, reviewing applicable hospital and college policies, and consulting a bioethicist or ethics committee"
+    },
+    {
+     "id": "b",
+     "text": "Take a vote among the team members present at rounds and proceed with the majority position"
+    },
+    {
+     "id": "c",
+     "text": "Ask the hospital's legal department to decide whether the refusal may be honoured"
+    },
+    {
+     "id": "d",
+     "text": "Defer to the opinion of the most senior physician on the team and close the discussion"
+    },
+    {
+     "id": "e",
+     "text": "Transfer the patient's care to a colleague who does not share the team's concerns"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Ethical issues are identifiable by the presence of a moral dilemma and are best navigated with an ethics framework; many hospitals have adopted the IDEA framework (Identify the facts, Determine the relevant ethical principles, Explore the options, Act on your decision and evaluate). The source directs the team to discuss the issue as objectively and non-judgmentally as possible, involve all relevant interprofessional colleagues, consider what hospital, university, regulatory college policies and laws apply, and consult a bioethicist and/or the appropriate ethics committees or boards. That is exactly what has not yet happened here.",
+   "optionExplanations": {
+    "b": "A vote does not separate facts from assumptions carrying provider bias, and it ignores the applicable policies and law the framework requires you to consider.",
+    "c": "Legal advice is one input, but the source frames this as an ethics process led by the team with bioethics support, not a question delegated to counsel.",
+    "d": "Closing the discussion silences the interprofessional colleagues the framework requires you to involve.",
+    "e": "Transfer is contemplated only where an option lies outside a physician's own moral boundaries, not as a way to avoid working through a team disagreement."
+   },
+   "topic": "Ethics Frameworks and Managing Ethical Dilemmas",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "ELOM",
+    "name": "Ethical, Legal, and Organizational Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 22,
+    "reference": "ELOM2 — Managing Controversial and Ethical Issues in Practice (IDEA Framework)"
+   }
+  },
+  {
+   "id": "TN-ELOM-013",
+   "type": "single-best-answer",
+   "question": "A 26-year-old at 30 weeks gestation with a comorbid substance use disorder declines admission to an inpatient treatment program and declines the medication you recommend. She understands and appreciates the risks to herself and to the fetus, and you judge her to have capacity. A nurse asks whether she can be kept on the ward and treated so that the fetus is protected. What is the most appropriate action?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Continue to offer voluntary treatment and support, and explain that she cannot be detained and treated to protect the fetus"
+    },
+    {
+     "id": "b",
+     "text": "Apply for a court order authorizing her detention and treatment in the interests of the fetus"
+    },
+    {
+     "id": "c",
+     "text": "Report the pregnancy to child welfare authorities so that the fetus can be apprehended"
+    },
+    {
+     "id": "d",
+     "text": "Tell her that the recommended treatment will be given once she loses capacity during labour"
+    },
+    {
+     "id": "e",
+     "text": "Certify her under mental health legislation on the basis of the substance use disorder alone"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "An individual with capacity has the right to consent or refuse to consent to any medical recommendation irrespective of whether or not they are gestating, and the fetus does not have legal rights until it is born alive and with complete delivery. Winnipeg Child and Family Services (Northwest Area) v. G. (D.F.) established that a pregnant person with a comorbid substance use disorder cannot be detained and treated to protect the fetus. The correct response is to keep offering treatment while respecting reproductive autonomy, since coercing an individual into accepting medical advice is an unacceptable infringement of personal autonomy.",
+   "optionExplanations": {
+    "b": "The Supreme Court of Canada rejected exactly this in Winnipeg Child and Family Services; detention and treatment to protect the fetus is not available.",
+    "c": "The fetus has no legal rights until born alive and with complete delivery, so there is nothing for child welfare to apprehend at this stage.",
+    "d": "Threatening treatment at a future point of incapacity is coercive and disregards her capable refusal of the recommendation.",
+    "e": "Mental health certification requires that the patient meet the statutory criteria; a substance use disorder in a capable patient who is simply refusing a recommendation does not establish them."
+   },
+   "topic": "Reproductive Autonomy in Pregnancy",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "ELOM",
+    "name": "Ethical, Legal, and Organizational Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 37,
+    "reference": "ELOM17 — Reproductive Technologies: Legal Issues and Arguments"
+   }
+  },
+  {
+   "id": "TN-ELOM-014",
+   "type": "single-best-answer",
+   "question": "A 42-year-old woman consents to genetic testing, which confirms a pathogenic variant for a chronic condition for which surveillance is available. Her sister, who is also your patient, is likely predisposed to the same genetic condition. Your patient refuses to let you tell her sister, citing family conflict and fear of unjust social discrimination if the result is disclosed. What is the most appropriate action?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Maintain confidentiality, continue working with her toward consenting to disclosure, offer genetic counselling, and consult bioethics and legal counsel if complexities arise"
+    },
+    {
+     "id": "b",
+     "text": "Disclose the result to the sister at her next visit, because a duty to warn family members overrides confidentiality once a heritable risk is identified"
+    },
+    {
+     "id": "c",
+     "text": "Disclose the result to the sister, because the Genetic Non-Discrimination Act authorizes disclosure of test results to at-risk relatives"
+    },
+    {
+     "id": "d",
+     "text": "Document the refusal in the chart and raise the issue no further"
+    },
+    {
+     "id": "e",
+     "text": "Ask the laboratory to notify the sister's family physician of the result on your behalf"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Genetic testing requires informed consent, and consent to testing is distinct from consent to disclosure of the genetic information that results. A physician may in some specific circumstances breach confidentiality to warn family members where harm can be prevented, but in general the patient's consent is required unless the harm rises to the level of imminent risk of serious bodily harm or death — that is, an acute life-threatening condition rather than a chronic one. Because this is a chronic condition, disclosure without consent is not justified; the source recommends genetic counselling for complex information and consultation with legal counsel and bioethics if complexities arise.",
+   "optionExplanations": {
+    "b": "The threshold for breaching confidentiality is an imminent risk of serious bodily harm or death, not any identified heritable risk.",
+    "c": "The Genetic Non-Discrimination Act, in force since 2017, addresses discrimination on the basis of genetic information; it is not an authority to disclose a patient's results.",
+    "d": "Taking no further action abandons the ethical tension between the duty of confidentiality and the interests of at-risk family members rather than working through it.",
+    "e": "Routing the disclosure through the laboratory or another physician is still a disclosure without the patient's consent."
+   },
+   "topic": "Genetic Testing and Disclosure to Relatives",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "ELOM",
+    "name": "Ethical, Legal, and Organizational Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 39,
+    "reference": "ELOM19 — Prenatal/Antenatal Genetic Testing: Legal Aspects"
+   }
+  },
+  {
+   "id": "TN-ELOM-015",
+   "type": "single-best-answer",
+   "question": "You are the principal investigator of a clinical study that has received Research Ethics Board approval. The first eligible participant is a long-standing patient from your own clinic, who tells you she will \"do whatever you think is best, doctor.\" Recruitment is behind schedule. What is the most appropriate way to proceed?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Arrange for a member of the research team who is not her treating physician to be the primary point of contact for recruiting and consenting her"
+    },
+    {
+     "id": "b",
+     "text": "Obtain and document her written consent yourself, after emphasizing that participation is voluntary"
+    },
+    {
+     "id": "c",
+     "text": "Enrol her now and complete the consent discussion at her next scheduled clinic visit"
+    },
+    {
+     "id": "d",
+     "text": "Ask the Research Ethics Board to waive consent for participants who are already your patients"
+    },
+    {
+     "id": "e",
+     "text": "Exclude her from the study, since a patient of an investigator may not participate in that investigator's research"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "An ethical dilemma arises for physician researchers when their obligation to patients as their physician conflicts with their obligations and incentives as a researcher. The source states that physicians pursuing research should not be the primary point of contact responsible for recruiting and consenting their own patients, because of the possibility of therapeutic misconception and feelings of undue influence or lack of voluntariness. Her deference to your judgment is precisely the signal of undue influence that this rule is designed to address, and REB offices may themselves have requirements about who can recruit and consent.",
+   "optionExplanations": {
+    "b": "A verbal reassurance about voluntariness does not remove the undue influence inherent in the treating physician being the one who recruits and consents.",
+    "c": "REB approval and informed consent must precede participation; enrolling first and consenting later inverts the process.",
+    "d": "Respect for persons, expressed through informed consent, is a foundational research ethics principle; a conflict of interest is not a ground to seek its waiver.",
+    "e": "The safeguard is that the treating physician not be the primary recruiter and consenter, not that their patients are barred from participating."
+   },
+   "topic": "Research Ethics",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "ELOM",
+    "name": "Ethical, Legal, and Organizational Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 42,
+    "reference": "ELOM22 — Research Ethics"
+   }
+  },
+  {
+   "id": "TN-ELOM-016",
+   "type": "single-best-answer",
+   "question": "A 6-year-old girl is brought to your emergency department after a motor vehicle collision. She is in hemorrhagic shock from a liver laceration and continues to bleed despite crystalloid resuscitation. Her parents are at the bedside, are capable, and refuse blood transfusion on religious grounds. The trauma team is ready to transfuse. What is the most appropriate action?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Transfuse the child, acting in her best interests given the acuity of the situation, and involve legal counsel, bioethics, and child welfare authorities as soon as possible"
+    },
+    {
+     "id": "b",
+     "text": "Respect the parents' refusal, since as the child's substitute decision-makers their decision is determinative"
+    },
+    {
+     "id": "c",
+     "text": "Withhold transfusion until an application to the Consent and Capacity Board can be heard"
+    },
+    {
+     "id": "d",
+     "text": "Withhold transfusion until a court order authorizing it has been obtained"
+    },
+    {
+     "id": "e",
+     "text": "Continue crystalloid and blood-conserving measures only, and transfer her to a centre willing to negotiate further with the parents"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Where substitute decision-makers make decisions that are not in the best interests of an incapable child, physicians may have grounds for administering treatment, depending on the acuity of the clinical situation. The source gives the refusal of blood transfusion on religious grounds for a child in hemorrhagic shock as the paradigm high-acuity scenario in which physicians have a stronger obligation to act in the child's best interests; in lower-acuity scenarios such as refusal of childhood immunization there is a stronger obligation to respect the decision-makers' autonomy. Consulting legal counsel, bioethics, and one's college remains advisable, but it cannot precede life-saving treatment here.",
+   "optionExplanations": {
+    "b": "A substitute decision-maker's authority is bounded by the child's best interests and previously expressed wishes; a decision outside those bounds may be challenged.",
+    "c": "Applications to a review board may be essential in less acute cases, but the child is exsanguinating and cannot wait for a hearing.",
+    "d": "Seeking a court order first is appropriate to lower-acuity disputes, not to a child in hemorrhagic shock with ongoing bleeding.",
+    "e": "Transfer delays definitive treatment and does not discharge your obligation to act in this child's best interests."
+   },
+   "topic": "Refusal of Treatment on Behalf of a Child",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "ELOM",
+    "name": "Ethical, Legal, and Organizational Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 44,
+    "reference": "ELOM24 — Conscientious Objection: Patients Refusing Treatment"
+   }
+  },
+  {
+   "id": "TN-ELOM-017",
+   "type": "single-best-answer",
+   "question": "A 45-year-old Métis man in your practice cannot afford the medication you have prescribed and has no private insurance. He has heard that Indigenous patients receive federal drug coverage and asks you to enrol him in the Non-Insured Health Benefits program so that his prescription and his transport to appointments are paid for. What is the most appropriate response?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Explain that NIHB access extends only to individuals registered under the Indian Act, individuals recognized as Inuk, and children under 18 months of a registered parent, and help him pursue provincial or territorial health insurance, social programs, or private insurance"
+    },
+    {
+     "id": "b",
+     "text": "Enrol him in NIHB, since all First Nations, Inuit, and Métis individuals in Canada are eligible for the program"
+    },
+    {
+     "id": "c",
+     "text": "Advise him to apply for registration under the Indian Act, which will make him eligible for NIHB coverage"
+    },
+    {
+     "id": "d",
+     "text": "Reassure him that once NIHB eligibility is confirmed, coverage of any medication his physician prescribes is guaranteed"
+    },
+    {
+     "id": "e",
+     "text": "Refer him to the First Nations Health Authority, which administers the NIHB program across Canada"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The federal Non-Insured Health Benefits program, managed by the First Nations and Inuit Health Branch of Indigenous Services Canada, relies on state-imposed definitions of Indigenous identity: access extends only to individuals registered under the Indian Act, individuals recognized as Inuk by the Inuit Land Claim Organization, and children under 18 months of age whose parent is registered First Nations or recognized Inuk. Access to care for non-status First Nations and Métis patients is consequently denied under NIHB criteria, despite similar social determinants of health and barriers to care. Clients deemed ineligible must rely on provincial or territorial health insurance, social programs, or private insurance plans.",
+   "optionExplanations": {
+    "b": "Métis and non-status First Nations patients are excluded by the NIHB eligibility criteria; enrolment on the basis of Indigenous identity alone is not possible.",
+    "c": "Indian Act registration is defined under section 6 of the Act and is not open to Métis patients simply on application; this advice sets him up for a further barrier.",
+    "d": "NIHB eligibility does not guarantee access to care — there are strict criteria for covered medications and procedures, and criteria change frequently.",
+    "e": "The First Nations Health Authority is a British Columbia body established as a step toward Indigenous self-determination in healthcare; it does not administer NIHB nationally."
+   },
+   "topic": "Indigenous Health Coverage and Jurisdictions",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "ELOM",
+    "name": "Ethical, Legal, and Organizational Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 50,
+    "reference": "ELOM30 — Indigenous Health Coverage and Jurisdictions"
    }
   }
  ]

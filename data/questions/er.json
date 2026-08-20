@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 22,
+ "count": 34,
  "questions": [
   {
    "id": "TN-ER-001",
@@ -1020,6 +1020,558 @@
     "document": "Toronto Notes 2025",
     "page": 288,
     "reference": "ER42 — Nephrolithiasis (Renal Colic): Management"
+   }
+  },
+  {
+   "id": "TN-ER-023",
+   "type": "single-best-answer",
+   "question": "A 46-year-old man presents 3 h after stepping on a nail in a barn. There is a puncture wound on the sole of his right foot contaminated with soil and manure. He cannot recall ever receiving a tetanus-containing vaccine and has no immunization records. The wound is irrigated copiously and debrided. Which of the following is the most appropriate tetanus prophylaxis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Tdap (or Td) alone"
+    },
+    {
+     "id": "b",
+     "text": "Tetanus immune globulin alone"
+    },
+    {
+     "id": "c",
+     "text": "Tdap (or Td) plus tetanus immune globulin"
+    },
+    {
+     "id": "d",
+     "text": "No tetanus toxoid and no tetanus immune globulin"
+    },
+    {
+     "id": "e",
+     "text": "Tetanus immune globulin now, with Tdap (or Td) only if the wound later becomes infected"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "Toronto Notes' guidelines for tetanus prophylaxis divide wounds into clean, minor wounds and all other wounds, the latter including wounds contaminated with dirt, feces, soil, and saliva as well as puncture wounds. For a patient with an unknown vaccination history or fewer than 3 doses, an \"all other wounds\" injury requires both a tetanus toxoid-containing vaccine (Tdap or Td) and tetanus immunoglobulin (TIG). This soil-contaminated puncture wound in a man with unknown vaccination history therefore requires both, in addition to early irrigation and debridement, which are the most important factors in decreasing infection risk.",
+   "optionExplanations": {
+    "a": "Toxoid alone is adequate only for a clean, minor wound in a patient with unknown or fewer than 3 doses; a contaminated puncture wound also requires TIG.",
+    "b": "TIG alone leaves the patient without active immunization; the toxoid series must also be started.",
+    "d": "Withholding both is appropriate only for a patient with 3 or more prior doses and a clean, minor wound, which is not the case here.",
+    "e": "Prophylaxis is given at presentation on the basis of wound type and vaccination history, not withheld pending signs of infection."
+   },
+   "topic": "Wound Management and Tetanus Prophylaxis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "ER",
+    "name": "Emergency Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 263,
+    "reference": "ER17 — Wound Management"
+   }
+  },
+  {
+   "id": "TN-ER-024",
+   "type": "single-best-answer",
+   "question": "A 61-year-old woman is found unresponsive at home and brought in by paramedics. She is not rousable, respiratory rate is 6/min, and her pupils are constricted to pinpoint bilaterally. Point-of-care capillary blood glucose is 6.4 mmol/L. She is placed on oxygen and bag-valve-mask ventilation is started. Which of the following universal antidotes is most appropriate to give next?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Naloxone 0.4 mg IV, titrated up to 10 mg"
+    },
+    {
+     "id": "b",
+     "text": "D50W 50 mL IV"
+    },
+    {
+     "id": "c",
+     "text": "Thiamine 100 mg IV"
+    },
+    {
+     "id": "d",
+     "text": "Atropine IV"
+    },
+    {
+     "id": "e",
+     "text": "Flumazenil IV"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "In the patient with a decreased level of consciousness, the universal antidotes are given by the mnemonic DONT: D50W if hypoglycemic on point-of-care capillary blood glucose, oxygen if needed, naloxone 0.4 mg up to 10 mg IV if opioid overdose is suspected, and thiamine 100 mg IV if there is a history of EtOH or the patient looks malnourished. Constricted (pinpoint) fixed pupils are listed as a toxic-metabolic finding of opioids such as heroin and fentanyl, and this patient's hypoventilation with a normal glucose points to opioid toxicity, so naloxone is the appropriate antidote.",
+   "optionExplanations": {
+    "b": "D50W is indicated only if the point-of-care capillary glucose is low; hers is normal at 6.4 mmol/L.",
+    "c": "Thiamine is given if there is a history of EtOH use or the patient appears malnourished, and would not reverse this respiratory depression.",
+    "d": "Atropine is an anticholinergic agent and is associated with dilated rather than constricted pupils; it does not treat opioid toxicity.",
+    "e": "Flumazenil is a benzodiazepine antagonist and would not reverse opioid-induced hypoventilation and miosis."
+   },
+   "topic": "Altered Level of Consciousness",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "ER",
+    "name": "Emergency Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 267,
+    "reference": "ER21 — Altered Level of Consciousness"
+   }
+  },
+  {
+   "id": "TN-ER-025",
+   "type": "single-best-answer",
+   "question": "A 58-year-old man taking metoprolol for hypertension develops generalized urticaria, severe wheezing and hypotension within minutes of a wasp sting. He has received two doses of epinephrine 1:1000 0.5 mg IM into the anterolateral thigh, large volumes of crystalloid, and diphenhydramine 50 mg IV. He remains hypotensive at 78/44 mmHg with persistent wheeze. Which of the following medications is most appropriate to give next?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Glucagon IV"
+    },
+    {
+     "id": "b",
+     "text": "Methylprednisolone 125 mg IV"
+    },
+    {
+     "id": "c",
+     "text": "Cetirizine 10 mg IV"
+    },
+    {
+     "id": "d",
+     "text": "Salbutamol 1 cc via MDI"
+    },
+    {
+     "id": "e",
+     "text": "A further identical dose of epinephrine 1:1000 0.5 mg IM"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states that patients on ß-blockers may not respond to epinephrine in an anaphylactic reaction and may benefit from glucagon for reversal. This man has anaphylaxis with hypotension and respiratory compromise after exposure to a known allergen, and has failed repeated IM epinephrine and fluid resuscitation while on metoprolol, so glucagon is the appropriate next agent.",
+   "optionExplanations": {
+    "b": "Glucocorticoids are adjuncts in severe reactions but have no immediate effect on epinephrine-refractory shock caused by ß-blockade.",
+    "c": "Antihistamines relieve cutaneous symptoms and do not reverse hypotension or bronchospasm.",
+    "d": "Inhaled salbutamol may help bronchospasm but does nothing for the epinephrine-unresponsive hypotension.",
+    "e": "Repeating the same IM dose is unlikely to work in a patient on a ß-blocker who has already failed two doses; escalation to IV epinephrine titration or glucagon is required."
+   },
+   "topic": "Anaphylaxis and Allergic Reactions",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "ER",
+    "name": "Emergency Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 275,
+    "reference": "ER29 — Anaphylaxis and Allergic Reactions"
+   }
+  },
+  {
+   "id": "TN-ER-026",
+   "type": "single-best-answer",
+   "question": "A 29-year-old woman has heavy vaginal bleeding 40 min after an uncomplicated vaginal delivery. Blood pressure is 88/54 mmHg and heart rate is 122 bpm. The uterus is palpable above the umbilicus and feels soft and boggy. The placenta was delivered intact and inspection of the genital tract shows no laceration. Two large bore IVs are started, 4 units of blood are typed and crossed, and OB/GYN is called. Which of the following is the best initial treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Oxytocin 10 units IM, or 40 units in 1 L wide open until the uterus is firm"
+    },
+    {
+     "id": "b",
+     "text": "Tranexamic acid IV"
+    },
+    {
+     "id": "c",
+     "text": "Tamponade with a Bakri tube or Foley catheter"
+    },
+    {
+     "id": "d",
+     "text": "Bimanual or speculum removal of retained products of conception"
+    },
+    {
+     "id": "e",
+     "text": "Visual inspection and surgical repair of genital tract trauma"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes' approach to postpartum hemorrhage is to manage ABCs with two large bore IVs, type and cross 4 units, and consult OB/GYN immediately, then treat by cause. For uterine atony the treatment is oxytocin 10 units IM or 40 units in 1 L run wide open until the uterus is firm. A soft, boggy uterus above the umbilicus after an intact placenta with no visible laceration identifies atony as the cause here.",
+   "optionExplanations": {
+    "b": "TXA may be helpful when coagulopathy is the cause of postpartum bleeding, not as the first agent for atony.",
+    "c": "Tamponade with a Bakri tube or Foley catheter is reserved for when other measures are not successful.",
+    "d": "Retained products are managed bimanually or by speculum, but the placenta was delivered intact here.",
+    "e": "Repair addresses genital tract trauma, which has been excluded on inspection."
+   },
+   "topic": "Obstetric Emergencies in the Emergency Department",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "ER",
+    "name": "Emergency Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 287,
+    "reference": "ER41 — Vaginal Bleeding and the Pregnant Patient in the ED"
+   }
+  },
+  {
+   "id": "TN-ER-027",
+   "type": "single-best-answer",
+   "question": "A 68-year-old woman presents with 6 h of severe pain in the right eye with nausea, blurred vision and haloes around lights. The right eye is red. The pupil is fixed and mid-dilated and does not react to light, the anterior chamber appears shallow, and intraocular pressure measures 44 mmHg. Visual acuity is reduced in that eye. Which of the following is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Acute angle closure glaucoma"
+    },
+    {
+     "id": "b",
+     "text": "Corneal abrasion"
+    },
+    {
+     "id": "c",
+     "text": "Orbital cellulitis"
+    },
+    {
+     "id": "d",
+     "text": "Central retinal artery occlusion"
+    },
+    {
+     "id": "e",
+     "text": "Retinal detachment"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes describes acute angle closure glaucoma as a unilateral red, painful eye with decreased visual acuity and haloes around lights, a fixed mid-dilated pupil, a shallow anterior chamber, and a marked increase in intraocular pressure to about 40 mmHg. All of these features are present, and management is an ophthalmology consult for laser iridotomy along with pressure-lowering medications.",
+   "optionExplanations": {
+    "b": "Corneal abrasion causes pain, tearing and foreign body sensation with a de-epithelialized area that stains with fluorescein, not a fixed mid-dilated pupil or an intraocular pressure of 44 mmHg.",
+    "c": "Orbital cellulitis presents with lid erythema and edema, fever, proptosis and ophthalmoplegia.",
+    "d": "Central retinal artery occlusion causes sudden painless monocular vision loss with a cherry red spot and retinal pallor.",
+    "e": "Retinal detachment is painless, with flashes, floaters and curtains of peripheral vision loss and a decreased intraocular pressure."
+   },
+   "topic": "Ophthalmologic Emergencies",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "ER",
+    "name": "Emergency Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 289,
+    "reference": "ER43 — Select Ophthalmologic Emergencies"
+   }
+  },
+  {
+   "id": "TN-ER-028",
+   "type": "single-best-answer",
+   "question": "An 82-year-old sedentary woman is brought in from her poorly ventilated apartment during a heat wave. Rectal temperature is 41.2°C, her skin is dry and hot, and she is delirious after a witnessed seizure. Blood pressure is 104/62 mmHg. Her airway is secured because of the seizure and aspiration risk. Which of the following is the best initial treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Rapid cooling with water mist and standing fans"
+    },
+    {
+     "id": "b",
+     "text": "Antipyretic therapy with ASA"
+    },
+    {
+     "id": "c",
+     "text": "Rest in a cool environment with oral salt and electrolyte solutions"
+    },
+    {
+     "id": "d",
+     "text": "An epinephrine infusion"
+    },
+    {
+     "id": "e",
+     "text": "Fluid resuscitation with IV normal saline before any cooling"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Classical heat stroke occurs in the setting of high ambient temperatures in older, sedentary patients, with dry hot skin, a temperature usually above 40.5°C and altered mental status, seizures, delirium or coma. Treatment is to cool the body temperature with water mist and standing fans (ice water immersion is also effective, with close rectal temperature monitoring to avoid hypothermic overshoot), secure the airway because of seizure and aspiration risk, and give fluid resuscitation only if the patient is still hypotensive after that therapy.",
+   "optionExplanations": {
+    "b": "Antipyretics such as ASA are to be avoided in heat stroke; the hyperthermia is not mediated by a raised hypothalamic set point.",
+    "c": "Rest in a cool environment with oral salt and electrolyte solutions is the treatment of heat exhaustion, in which the temperature is below 40.5°C and there is no coma or seizure.",
+    "d": "ß-agonists such as epinephrine and peripheral vasoconstriction are to be avoided in heat stroke.",
+    "e": "Fluid resuscitation is given if the patient remains hypotensive after cooling; it does not replace immediate cooling in a patient at 41.2°C."
+   },
+   "topic": "Heat Exhaustion and Heat Stroke",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "ER",
+    "name": "Emergency Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 291,
+    "reference": "ER45 — Heat Exhaustion and Heat Stroke"
+   }
+  },
+  {
+   "id": "TN-ER-029",
+   "type": "single-best-answer",
+   "question": "A 70 kg man sustains flame burns in a house fire. Using the rule of nines, the burned area is estimated at 36% total body surface area, and the burns are blistered with white exposed dermis and areas of charred leathery skin. He is hemodynamically stable after two large bore IVs are inserted. Using the Parkland formula, which of the following volumes of Ringer's lactate should be given in the first 8 h?",
+   "options": [
+    {
+     "id": "a",
+     "text": "1260 mL"
+    },
+    {
+     "id": "b",
+     "text": "2520 mL"
+    },
+    {
+     "id": "c",
+     "text": "5040 mL"
+    },
+    {
+     "id": "d",
+     "text": "10 080 mL"
+    },
+    {
+     "id": "e",
+     "text": "20 160 mL"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "The Parkland formula gives Ringer's lactate 4 cc/kg per % BSA burned, with half in the first 8 h and half in the next 16 h. For a 70 kg man with 36% BSA burned this is 4 x 70 x 36 = 10 080 mL over 24 h, so 5040 mL is given in the first 8 h. Maintenance fluids are also required if the patient cannot tolerate PO hydration, and urine output of 40-50 cc/h (0.5 cc/kg/h) is the best measure of adequate resuscitation.",
+   "optionExplanations": {
+    "a": "This corresponds to 1 cc/kg/% BSA halved and underestimates the requirement.",
+    "b": "This is a quarter of the 24 h requirement rather than the half due in the first 8 h.",
+    "d": "10 080 mL is the total 24 h requirement, not the first 8 h volume.",
+    "e": "This is double the calculated 24 h requirement and risks over-resuscitation."
+   },
+   "topic": "Burns",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "ER",
+    "name": "Emergency Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 292,
+    "reference": "ER46 — Burns"
+   }
+  },
+  {
+   "id": "TN-ER-030",
+   "type": "single-best-answer",
+   "question": "A 41-year-old woman is pulled from a fire in an enclosed basement. She is comatose with soot on the oral and nasal membranes and sooty sputum. She is intubated and given 100% oxygen. Blood pressure remains 76/40 mmHg, serum lactate is 14 mmol/L with a severe metabolic acidosis, and carboxyhemoglobin is only mildly elevated. Which of the following treatments is most appropriate now?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Hydroxocobalamin 70 mg/kg IV over 15 min"
+    },
+    {
+     "id": "b",
+     "text": "Hyperbaric oxygen"
+    },
+    {
+     "id": "c",
+     "text": "Nebulized N-acetylcysteine"
+    },
+    {
+     "id": "d",
+     "text": "Nebulized bronchodilators"
+    },
+    {
+     "id": "e",
+     "text": "Systemic antibiotics"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "In inhalation injury Toronto Notes states that a high lactate should raise consideration of cyanide toxicity, and that cyanide poisoning is treated with hydroxocobalamin 70 mg/kg IV over 15 min (max 5 g) up to two doses, along with hemodynamic support. The classic cherry red skin and bitter almond odour are often absent clinically, so the profound shock and lactic acidosis out of keeping with a mildly elevated carboxyhemoglobin is the clue here. Labs should be obtained immediately because hydroxocobalamin alters test results.",
+   "optionExplanations": {
+    "b": "Hyperbaric oxygen is a controversial adjunct for CO poisoning and would not treat the cyanide toxicity driving her shock and lactate.",
+    "c": "Mucolytics such as N-acetylcysteine are part of the treatment of direct thermal injury to the airway, not of systemic cyanide toxicity.",
+    "d": "Bronchodilators address smoke-induced bronchospasm but do nothing for the metabolic acidosis and hypotension.",
+    "e": "Antibiotics have no role in the acute management of cyanide toxicity."
+   },
+   "topic": "Inhalation Injury",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "ER",
+    "name": "Emergency Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 293,
+    "reference": "ER47 — Inhalation Injury"
+   }
+  },
+  {
+   "id": "TN-ER-031",
+   "type": "single-best-answer",
+   "question": "A 33-year-old woman is bitten by her cat on the dorsum of the right hand 4 h ago. There are two puncture wounds with surrounding erythema but no tendon, joint or bony injury and normal neurovascular status. Her tetanus immunization is up to date. The wounds are cleaned and copiously irrigated. Which of the following antibiotics is the most appropriate prophylaxis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Amoxicillin + clavulanic acid"
+    },
+    {
+     "id": "b",
+     "text": "Cefalexin"
+    },
+    {
+     "id": "c",
+     "text": "Clindamycin"
+    },
+    {
+     "id": "d",
+     "text": "Trimethoprim-sulfamethoxazole"
+    },
+    {
+     "id": "e",
+     "text": "Doxycycline"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes recommends a 3-5 d course of antibiotics for all bite wounds to the hand, and considers it for other bites when high-risk factors are present. For dog and cat bites the pathogens are Pasteurella multocida, S. aureus and S. viridans, and first line therapy is amoxicillin + clavulanic acid, specifically not cefalexin because it does not cover Pasteurella spp. or Eikenella corrodens. This hand bite from a cat, where 10-50% become infected, therefore warrants amoxicillin + clavulanic acid.",
+   "optionExplanations": {
+    "b": "Cefalexin is explicitly not recommended because it does not cover Pasteurella spp. or Eikenella corrodens.",
+    "c": "Clindamycin lacks reliable activity against Pasteurella multocida, the key cat bite pathogen.",
+    "d": "Trimethoprim-sulfamethoxazole does not provide the oral anaerobic and streptococcal coverage needed for bite wounds.",
+    "e": "Doxycycline is not the recommended first line agent for dog and cat bites in this source."
+   },
+   "topic": "Mammalian Bites",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "ER",
+    "name": "Emergency Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 294,
+    "reference": "ER48 — Bites"
+   }
+  },
+  {
+   "id": "TN-ER-032",
+   "type": "single-best-answer",
+   "question": "A 24-year-old woman is brought in 90 min after ingesting a bottle of her amitriptyline in a suicide attempt. She is drowsy but rousable, blood pressure is 92/58 mmHg and heart rate is 128 bpm. The cardiac monitor shows a wide QRS complex measuring 140 ms. She then has a brief generalized seizure. Which of the following is the best initial treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Sodium bicarbonate bolus"
+    },
+    {
+     "id": "b",
+     "text": "Flumazenil"
+    },
+    {
+     "id": "c",
+     "text": "Physostigmine"
+    },
+    {
+     "id": "d",
+     "text": "Glucagon IV"
+    },
+    {
+     "id": "e",
+     "text": "Digoxin-specific antibody fragments"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "For tricyclic antidepressant overdose Toronto Notes lists aggressive supportive care with a NaHCO3 bolus for wide QRS or seizures, along with cardiac and hypotension support and seizure control. A wide QRS complex is also listed as an ECG finding of TCA poisoning in the initial laboratory diagnosis of poisoning. This patient's wide QRS and seizure after amitriptyline ingestion is the specific indication for sodium bicarbonate.",
+   "optionExplanations": {
+    "b": "Flumazenil is contraindicated in combined TCA and benzodiazepine overdose and is otherwise limited to iatrogenic benzodiazepine oversedation.",
+    "c": "Physostigmine is used for severe antimuscarinic effects of anticholinergic poisoning, not for TCA-induced QRS widening.",
+    "d": "IV glucagon is an antidote for ß-blocker and calcium channel blocker toxicity.",
+    "e": "Digoxin-specific antibody fragments are used for life-threatening dysrhythmias from digoxin toxicity."
+   },
+   "topic": "Toxicology — Specific Antidotes",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "ER",
+    "name": "Emergency Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 299,
+    "reference": "ER53 — Specific Antidotes and Treatments for Common Toxins"
+   }
+  },
+  {
+   "id": "TN-ER-033",
+   "type": "single-best-answer",
+   "question": "A 52-year-old man with daily heavy alcohol intake presents 18 h after his last drink with generalized tremor, anxiety, agitation, insomnia and paroxysmal sweats. He is fully oriented with no hallucinations or delirium. Heart rate is 118 bpm, blood pressure 156/92 mmHg, temperature 37.2°C, and his CIWA score is 18. Which of the following is the best initial treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Diazepam 10-20 mg PO/IV, repeated hourly and titrated to CIWA score"
+    },
+    {
+     "id": "b",
+     "text": "Haloperidol 5 mg IM"
+    },
+    {
+     "id": "c",
+     "text": "Phenobarbital"
+    },
+    {
+     "id": "d",
+     "text": "Magnesium sulfate 4 g IV over 1-2 h"
+    },
+    {
+     "id": "e",
+     "text": "Thiamine 200 mg IM"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "In alcohol withdrawal the goal is to treat withdrawal symptoms early to prevent seizures and delirium tremens. Toronto Notes gives diazepam 10-20 mg IV/PO or lorazepam 2-4 mg IV/PO q1h (if known liver dysfunction) until two sequential CIWA scores are below 10, increasing dosing frequency according to clinical response. This man has mild withdrawal with generalized tremor, anxiety, agitation and autonomic hyperactivity and a CIWA of 18, so benzodiazepines are the initial treatment.",
+   "optionExplanations": {
+    "b": "Antipsychotics are not the treatment of alcohol withdrawal and do not prevent withdrawal seizures.",
+    "c": "Phenobarbital is added when there is no improvement with benzodiazepines, not as the initial agent.",
+    "d": "Magnesium sulfate 4 g IV is given only if the patient is hypomagnesemic.",
+    "e": "Thiamine is given to prevent Wernicke's encephalopathy but does not control withdrawal symptoms."
+   },
+   "topic": "Alcohol Related Emergencies",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "ER",
+    "name": "Emergency Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 300,
+    "reference": "ER54 — Alcohol Related Emergencies"
+   }
+  },
+  {
+   "id": "TN-ER-034",
+   "type": "single-best-answer",
+   "question": "A 27-year-old man with schizophrenia is brought in by police for bizarre behaviour. He is pacing and shouting, appears to be responding to voices, and is escalating in agitation, though he has not threatened or struck anyone. He is willing to speak with staff and acknowledges he has not taken his medication. Vital signs and capillary blood glucose are normal. Security is present. Which of the following is the most appropriate next step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Offer olanzapine 5-10 mg PO"
+    },
+    {
+     "id": "b",
+     "text": "Apply physical restraints and administer haloperidol 5 mg IM"
+    },
+    {
+     "id": "c",
+     "text": "Administer lorazepam 2 mg IM without discussing it with the patient"
+    },
+    {
+     "id": "d",
+     "text": "Withhold all medication until a psychiatry consultant has assessed him"
+    },
+    {
+     "id": "e",
+     "text": "Obtain a CT head before offering any treatment for agitation"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "In acute psychosis the ED approach is violence prevention: remain calm, empathic and reassuring, ensure the safety of staff and patients with extra staff or security on hand, and treat agitation by offering medication to the patient whenever possible rather than administering it with force, since this helps calm and engage the patient. Suggested agents are benzodiazepines (lorazepam 2 mg PO/IM/SL) or antipsychotics (olanzapine 5-10 mg PO/IM, haloperidol 5 mg PO/IM). This cooperative but escalating patient should therefore be offered oral medication.",
+   "optionExplanations": {
+    "b": "Physical and chemical restraint is reserved for patients with escalating agitation or overt violent behaviour who cannot be engaged, which does not yet apply.",
+    "c": "Giving medication by force when the patient is willing to engage forgoes the calming effect of offering it and is not the recommended first approach.",
+    "d": "Escalating agitation should be treated in the ED; psychiatry or Crisis Intervention Team consultation follows rather than replaces treatment.",
+    "e": "CT head is obtained when a neurological etiology is suspected, and this known psychotic patient has normal vitals and glucose and needs his agitation addressed."
+   },
+   "topic": "Psychiatric Emergencies and Agitation",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "ER",
+    "name": "Emergency Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 302,
+    "reference": "ER56 — Psychiatric Emergencies"
    }
   }
  ]

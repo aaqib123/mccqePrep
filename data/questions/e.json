@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 18,
+ "count": 30,
  "questions": [
   {
    "id": "TN-E-001",
@@ -836,6 +836,558 @@
     "document": "Toronto Notes 2025",
     "page": 355,
     "reference": "E47 — Table 34. Treatment of Osteoporosis in Women and Men"
+   }
+  },
+  {
+   "id": "TN-E-019",
+   "type": "single-best-answer",
+   "question": "A 47-year-old man with type 1 diabetes uses a basal-bolus regimen with basal insulin at bedtime and rapid-acting insulin before breakfast, lunch, and dinner. His glucose log shows readings of 12-14 mmol/L every morning before breakfast, while his lunch, supper, and bedtime readings are all at target. He has had no nocturnal hypoglycemia. Which insulin adjustment is most appropriate?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Increase the bedtime basal insulin"
+    },
+    {
+     "id": "b",
+     "text": "Increase the AM rapid-acting insulin"
+    },
+    {
+     "id": "c",
+     "text": "Increase the lunch rapid-acting insulin"
+    },
+    {
+     "id": "d",
+     "text": "Increase the supper rapid-acting insulin"
+    },
+    {
+     "id": "e",
+     "text": "Change to a pre-mixed insulin regimen, two-thirds before breakfast and one-third before dinner"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes pairs each hyperglycemic reading with a specific insulin correction: a high AM sugar is corrected by increasing bedtime basal insulin, a high lunch sugar by increasing AM rapid/regular insulin, a high supper sugar by increasing lunch rapid/regular insulin or AM basal insulin, and a high bedtime sugar by increasing supper rapid/regular insulin. This man's only elevated value is his fasting morning glucose, so the bedtime basal insulin should be increased.",
+   "optionExplanations": {
+    "b": "Increasing the AM rapid/regular insulin is the correction for a high lunch sugar, which is already at target.",
+    "c": "Increasing the lunch rapid/regular insulin is the correction for a high supper sugar.",
+    "d": "Increasing the supper rapid/regular insulin is the correction for a high bedtime sugar.",
+    "e": "A pre-mixed regimen is an alternative insulin regimen, not the targeted correction for isolated high AM sugars, and it gives less flexibility for basal titration."
+   },
+   "topic": "Insulin Therapy",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "E",
+    "name": "Endocrinology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 320,
+    "reference": "E12 — Table 9. Titrating Insulin Doses"
+   }
+  },
+  {
+   "id": "TN-E-020",
+   "type": "single-best-answer",
+   "question": "A 63-year-old man with type 2 diabetes and established heart failure takes metformin 1000 mg twice daily. His A1C remains above target at 8.4% and further glucose lowering is required. His eGFR is 65 mL/min/1.73 m2 and he has had no severe hypoglycemia. Which antihyperglycemic agent should be added?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Empagliflozin"
+    },
+    {
+     "id": "b",
+     "text": "Sitagliptin"
+    },
+    {
+     "id": "c",
+     "text": "Saxagliptin"
+    },
+    {
+     "id": "d",
+     "text": "Exenatide ER"
+    },
+    {
+     "id": "e",
+     "text": "Acarbose"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "When A1C is above target in a person with established cardiovascular or renal disease, Toronto Notes directs adding or substituting an antihyperglycemic agent with demonstrated cardiorenal benefits. For heart failure, SGLT2i (canagliflozin, dapagliflozin, empagliflozin) are the agents with proven benefit and lower rates of hospitalization for heart failure in outcome trials; they may be initiated if eGFR >30 mL/min/1.73 m2, which this man meets.",
+   "optionExplanations": {
+    "b": "Sitagliptin is a DPP4i with CV safety but no proven cardiorenal benefit in high-risk populations.",
+    "c": "Saxagliptin is a DPP4i carrying a risk of heart failure and is a poor choice in this patient.",
+    "d": "Exenatide ER is a GLP1-RA with CV safety but no proven cardiorenal benefit, unlike dulaglutide, liraglutide, and semaglutide.",
+    "e": "Acarbose lowers glucose but has no demonstrated cardiorenal benefit in outcome trials."
+   },
+   "topic": "Diabetes Pharmacotherapy",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "E",
+    "name": "Endocrinology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 323,
+    "reference": "E15 — Figure 9. Treatment Approach for Patients Living with Diabetes"
+   }
+  },
+  {
+   "id": "TN-E-021",
+   "type": "single-best-answer",
+   "question": "A 51-year-old sedentary man living in Canada attends a periodic health review. Waist circumference is 108 cm and blood pressure is 138/88 mmHg. Fasting bloodwork shows triglycerides 2.4 mmol/L, HDL-cholesterol 0.85 mmol/L, and fasting glucose 6.0 mmol/L. He takes no medications and has no chest pain. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Metabolic syndrome"
+    },
+    {
+     "id": "b",
+     "text": "Type 2 diabetes mellitus"
+    },
+    {
+     "id": "c",
+     "text": "Isolated elevated waist circumference without metabolic syndrome"
+    },
+    {
+     "id": "d",
+     "text": "Familial hypertriglyceridemia"
+    },
+    {
+     "id": "e",
+     "text": "Syndrome X related to angina pectoris with normal coronary arteries"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Metabolic syndrome is a postulated syndrome related to insulin resistance associated with hyperglycemia, hyperinsulinemia, HTN, central obesity, and dyslipidemia, and 3 of 5 measures are required for the diagnosis. In Canada and the USA the thresholds for men are waist circumference >102 cm, TG >=1.7 mmol/L, HDL-C <1.0 mmol/L, blood pressure >=130/85 mmHg, and fasting glucose >=5.6 mmol/L. This man meets all five measures.",
+   "optionExplanations": {
+    "b": "A fasting glucose of 6.0 mmol/L meets the metabolic syndrome threshold of >=5.6 mmol/L but does not establish diabetes here.",
+    "c": "Elevated waist circumference is only one of the five measures; he meets four others as well.",
+    "d": "His triglyceride elevation is modest and occurs with four other components, which defines a clustered metabolic disorder rather than an isolated lipid disorder.",
+    "e": "Metabolic syndrome is not to be confused with syndrome X related to angina pectoris with normal coronary arteries; he has no angina."
+   },
+   "topic": "Metabolic Syndrome",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "E",
+    "name": "Endocrinology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 326,
+    "reference": "E18 — Metabolic Syndrome"
+   }
+  },
+  {
+   "id": "TN-E-022",
+   "type": "single-best-answer",
+   "question": "A 66-year-old man with small cell carcinoma of the lung is admitted with headache, nausea, and muscle cramps. He is euvolemic with no edema. Serum sodium is 121 mEq/L, plasma osmolality 258 mOsm/kg, urine sodium 68 mEq/L, and urine osmolality 480 mOsm/kg. Adrenal, renal, and thyroid function are normal. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Syndrome of inappropriate ADH secretion"
+    },
+    {
+     "id": "b",
+     "text": "Cerebral salt wasting"
+    },
+    {
+     "id": "c",
+     "text": "Central diabetes insipidus"
+    },
+    {
+     "id": "d",
+     "text": "Nephrogenic diabetes insipidus"
+    },
+    {
+     "id": "e",
+     "text": "Psychogenic polydipsia"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The diagnostic criteria for SIADH are hyponatremia (serum Na <135 mEq/L) with plasma hypo-osmolality (<275 mOsm/kg), urine Na concentration >40 mEq/L, urine osmolality >100 mOsm/kg, euvolemia with no edema, and absence of adrenal, renal, or thyroid insufficiency. Ectopic ADH production by tumours including small cell carcinoma of the lung is a listed cause, and this man satisfies every criterion.",
+   "optionExplanations": {
+    "b": "Cerebral salt wasting mimics the findings of SIADH but its hallmark is hypovolemia, and it typically occurs after subarachnoid hemorrhage.",
+    "c": "Central DI causes passage of large volumes of dilute urine with hypernatremia, not concentrated urine with hyponatremia.",
+    "d": "Nephrogenic DI reflects collecting tubules resistant to ADH and again produces large volumes of dilute urine.",
+    "e": "Psychogenic polydipsia is excluded by his concentrated urine osmolality of 480 mOsm/kg and high urine sodium."
+   },
+   "topic": "SIADH",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "E",
+    "name": "Endocrinology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 330,
+    "reference": "E22 — Syndrome of Inappropriate ADH Secretion"
+   }
+  },
+  {
+   "id": "TN-E-023",
+   "type": "single-best-answer",
+   "question": "A 54-year-old woman is found to have a 2.5 cm firm nodule in the right lobe of the thyroid. She has mild palpitations and has lost weight. TSH is 0.01 mU/L and free T4 is elevated. There is no neck pain and no cervical lymphadenopathy. Which investigation is most appropriate to guide management of this nodule?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Radioisotope thyroid scan (Technetium-99)"
+    },
+    {
+     "id": "b",
+     "text": "Ultrasound-guided fine needle aspiration biopsy"
+    },
+    {
+     "id": "c",
+     "text": "Serum calcitonin"
+    },
+    {
+     "id": "d",
+     "text": "Plasma thyroglobulin"
+    },
+    {
+     "id": "e",
+     "text": "Anti-thyroid peroxidase antibodies"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "U/S is the first line tool for identification of thyroid nodules that require FNAB, but the stated exception is hyperthyroid patients with thyroid nodules, where a radioisotope thyroid scan (Technetium-99) and RAIU identify hyperfunctioning nodules, which generally do not need to be biopsied. A hot nodule carries a very low chance of malignancy and treatment is directed at the hyperthyroidism, whereas a cold nodule requires further workup with U/S then FNAB if sonographic features are concerning.",
+   "optionExplanations": {
+    "b": "FNAB is the pathway for a nodule in a euthyroid patient; here the scan must first determine whether the nodule is hot, in which case biopsy is generally unnecessary.",
+    "c": "Serum calcitonin is not routinely done to investigate thyroid nodules and is ordered when MTC is suspected, such as in MEN 2A or 2B or a pathogenic RET mutation.",
+    "d": "Plasma thyroglobulin is used to monitor for residual thyroid tissue post-thyroidectomy and for thyroid cancer recurrence, not to characterize a new nodule.",
+    "e": "TPOAb are increased in Hashimoto's disease and are a normal variant in 10-20% of individuals; they do not characterize a nodule."
+   },
+   "topic": "Thyroid Nodules",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "E",
+    "name": "Endocrinology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 333,
+    "reference": "E25 — Thyroid Imaging/Scans"
+   }
+  },
+  {
+   "id": "TN-E-024",
+   "type": "single-best-answer",
+   "question": "A 29-year-old woman who is 8 weeks pregnant has uncontrolled hyperthyroidism and needs an antithyroid medication. She has had no rash, pruritus, hepatitis, or agranulocytosis, and her liver enzymes are normal. Radioactive iodine is not an option and she declines thyroidectomy during the pregnancy. What is the most appropriate initial treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Propylthiouracil"
+    },
+    {
+     "id": "b",
+     "text": "Methimazole"
+    },
+    {
+     "id": "c",
+     "text": "Radioactive iodine I-131 ablation"
+    },
+    {
+     "id": "d",
+     "text": "A beta-blocker alone"
+    },
+    {
+     "id": "e",
+     "text": "Prednisone"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The thionamides PTU and MMI inhibit thyroid hormone synthesis by inhibiting peroxidase-catalyzed reactions, and PTU also inhibits peripheral deiodination of T4 to T3. In pregnancy Toronto Notes directs use of PTU during the first 16 wk of pregnancy and MMI after: MMI is contraindicated in the first trimester due to the risk of aplasia cutis, while MMI is preferred in the second and third trimesters given the potential risk of hepatotoxicity with PTU then. At 8 wk she should receive PTU.",
+   "optionExplanations": {
+    "b": "MMI is contraindicated in the first trimester because of the risk of aplasia cutis, although it is preferred after 16 wk.",
+    "c": "Thyroid ablation with radioactive I-131 is contraindicated in pregnancy.",
+    "d": "Symptomatic treatment with beta-blockers controls adrenergic symptoms but does not inhibit thyroid hormone synthesis.",
+    "e": "Prednisone is used for ophthalmopathy and severe orbitopathy, not for control of thyroid hormone synthesis."
+   },
+   "topic": "Graves' Disease",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "E",
+    "name": "Endocrinology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 336,
+    "reference": "E28 — Graves' Disease: Treatment"
+   }
+  },
+  {
+   "id": "TN-E-025",
+   "type": "single-best-answer",
+   "question": "A 64-year-old man is in the ICU on day 6 of treatment for severe illness from septic shock requiring vasopressors. He has no known thyroid disease and takes no thyroid medication. Thyroid testing shows a low free T3, a low TSH, and a low-normal free T4. He is normothermic, alert, and has no goitre. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Non-thyroidal illness (sick euthyroid syndrome)"
+    },
+    {
+     "id": "b",
+     "text": "Secondary hypothyroidism"
+    },
+    {
+     "id": "c",
+     "text": "Primary hypothyroidism"
+    },
+    {
+     "id": "d",
+     "text": "Myxedema coma"
+    },
+    {
+     "id": "e",
+     "text": "Toxic multinodular goitre"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Non-thyroidal illness describes changes in the regulation of the hypothalamic-pituitary-thyroid axis and in thyroid hormone metabolism and transport among patients with severe illness, trauma, surgery, or starvation, and is not due to intrinsic thyroid, pituitary, or hypothalamic disease. The characteristic sequence is an initially decreased free T3 followed by decreased TSH and, if severe illness, decreased free T4, with TSH transiently high on recovery. Treatment is of the underlying disease; thyroid hormone replacement has not been shown to be beneficial.",
+   "optionExplanations": {
+    "b": "This pattern is not due to intrinsic pituitary or hypothalamic disease; thyroid function tests normalize once the patient is well.",
+    "c": "An intrinsic thyroid defect would raise TSH, whereas his TSH is low.",
+    "d": "Decreased mental status and hypothermia are the hallmark features of myxedema coma; he is alert and normothermic.",
+    "e": "A toxic multinodular goitre causes hyperthyroidism with a raised free T4 and a nodular gland, neither of which is present."
+   },
+   "topic": "Non-Thyroidal Illness",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "E",
+    "name": "Endocrinology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 340,
+    "reference": "E32 — Non-Thyroidal Illness (Sick Euthyroid Syndrome)"
+   }
+  },
+  {
+   "id": "TN-E-026",
+   "type": "single-best-answer",
+   "question": "A 46-year-old man has hypertension that remains uncontrolled on three antihypertensive agents. He has no Cushingoid features and no paroxysmal symptoms. His physician suspects a mineralocorticoid excess syndrome such as an aldosterone-producing adrenal adenoma (Conn's syndrome) and has held the medications known to interfere with testing. Which investigation is the most appropriate screening test?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Aldosterone:renin ratio"
+    },
+    {
+     "id": "b",
+     "text": "Low-dose overnight 1 mg dexamethasone suppression test"
+    },
+    {
+     "id": "c",
+     "text": "Cosyntropin stimulation test"
+    },
+    {
+     "id": "d",
+     "text": "IV infusion of 500 mL/h of normal saline for 4 h with measurement of plasma aldosterone"
+    },
+    {
+     "id": "e",
+     "text": "24 h urine free cortisol"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "A positive screen for primary aldosteronism is an elevated aldosterone:renin ratio in the presence of a high aldosterone, and multiple medications that interfere with screening and confirmatory tests may need to be held prior to testing. Confirmation of PA then requires demonstrating lack of aldosterone suppression with expansion of ECFV.",
+   "optionExplanations": {
+    "b": "The low-dose overnight DXM suppression test screens for hypercortisolism by testing pituitary-adrenal suppressibility, not aldosterone excess.",
+    "c": "The cosyntropin stimulation test diagnoses glucocorticoid deficiency by measuring stimulated plasma cortisol.",
+    "d": "ECFV expansion with normal saline is the confirmatory test performed after a positive screen; plasma aldosterone >277 pmol/L is consistent with PA.",
+    "e": "Elevated 24 h urine free cortisol demonstrates overproduction of cortisol, not aldosterone."
+   },
+   "topic": "Primary Aldosteronism",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "E",
+    "name": "Endocrinology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 343,
+    "reference": "E35 — Tests of Mineralocorticoid Suppressibility"
+   }
+  },
+  {
+   "id": "TN-E-027",
+   "type": "single-best-answer",
+   "question": "A 42-year-old man has two years of epigastric pain from recurrent peptic ulcers and esophagitis. He has had two episodes of nephrolithiasis, and serum calcium and PTH are both elevated. He also describes erectile dysfunction and decreased libido; MRI shows a pituitary adenoma and PRL is markedly elevated. His father had similar problems. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Multiple endocrine neoplasia type 1"
+    },
+    {
+     "id": "b",
+     "text": "Multiple endocrine neoplasia type 2A (Sipple's syndrome)"
+    },
+    {
+     "id": "c",
+     "text": "Multiple endocrine neoplasia type 2B"
+    },
+    {
+     "id": "d",
+     "text": "Familial medullary thyroid cancer"
+    },
+    {
+     "id": "e",
+     "text": "Sporadic parathyroid adenoma"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "MEN 1 is an autosomal dominant neoplastic syndrome on chromosome 11 that affects the 3 Ps: pituitary, parathyroid, and pancreas. Primary hyperparathyroidism occurs in about 95% and causes nephrolithiasis and symptoms of hypercalcemia, entero-pancreatic tumours such as gastrinoma cause epigastric pain from peptic ulcers and esophagitis, and prolactinomas are the most common functional pituitary tumour in MEN 1, producing erectile dysfunction and decreased libido. His father's history fits the autosomal dominant inheritance.",
+   "optionExplanations": {
+    "b": "MEN 2A involves medullary thyroid cancer, pheochromocytoma, and primary parathyroid hyperplasia, not pituitary or entero-pancreatic tumours.",
+    "c": "MEN 2B involves MTC, pheochromocytoma, mucosal neuromas with intestinal ganglioneuromas, and a marfanoid habitus.",
+    "d": "Familial MTC is MTC without other clinical manifestations of MEN 2A or MEN 2B.",
+    "e": "A sporadic parathyroid adenoma would explain the hypercalcemia and stones but not the gastrinoma or the prolactinoma."
+   },
+   "topic": "Multiple Endocrine Neoplasia",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "E",
+    "name": "Endocrinology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 349,
+    "reference": "E41 — Multiple Endocrine Neoplasia / Table 26. MEN Classification"
+   }
+  },
+  {
+   "id": "TN-E-028",
+   "type": "single-best-answer",
+   "question": "A 58-year-old woman feels well but routine bloodwork shows a total corrected serum calcium of 2.88 mmol/L, confirmed on repeat testing. PTH is elevated and serum phosphate is low. She takes no medications, including no lithium or thiazide diuretics, has no history of malignancy, and her chest x-ray is normal. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Primary hyperparathyroidism"
+    },
+    {
+     "id": "b",
+     "text": "Humoral hypercalcemia of malignancy mediated by PTHrP"
+    },
+    {
+     "id": "c",
+     "text": "Hypervitaminosis D"
+    },
+    {
+     "id": "d",
+     "text": "Granulomatous disease such as sarcoidosis"
+    },
+    {
+     "id": "e",
+     "text": "Milk alkali syndrome"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Hypercalcemia is defined as a total corrected serum Ca2+ >2.6 mmol/L, and the initial investigation is PTH. A normal or high PTH with a low phosphate identifies primary hyperparathyroidism, which is due to a solitary adenoma in 81%, hyperplasia in 15%, and carcinoma in 4%. The PTH-independent causes of hypercalcemia sit on the low PTH branch of the differential.",
+   "optionExplanations": {
+    "b": "Humoral mediation by PTHrP produces hypercalcemia with a low PTH and a low phosphate, and she has no malignancy.",
+    "c": "Hypervitaminosis D from excessive intake of vitamin D or its metabolites raises calcidiol with a suppressed PTH.",
+    "d": "Granulomatous disease such as tuberculosis, sarcoid, or lymphoma causes extra-renal production of calcitriol by macrophages with a low PTH; her chest x-ray is normal.",
+    "e": "Milk alkali syndrome is hypercalcemia with metabolic alkalosis and renal insufficiency and suppresses PTH."
+   },
+   "topic": "Primary Hyperparathyroidism",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "E",
+    "name": "Endocrinology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 351,
+    "reference": "E43 — Hypercalcemia / Figure 20. Differential Diagnosis of Hypercalcemia"
+   }
+  },
+  {
+   "id": "TN-E-029",
+   "type": "single-best-answer",
+   "question": "A 33-year-old man is investigated for decreased libido, sparse facial hair, and gynecomastia. Testes are small and firm. Two morning fasting total testosterone measurements are below the laboratory reference range, confirming the diagnosis of hypogonadism. LH and FSH are both high, and semen analysis shows azoospermia. What is the most appropriate next investigation?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Karyotype"
+    },
+    {
+     "id": "b",
+     "text": "MRI of the hypothalamic-pituitary region"
+    },
+    {
+     "id": "c",
+     "text": "Prolactin level"
+    },
+    {
+     "id": "d",
+     "text": "Iron saturation"
+    },
+    {
+     "id": "e",
+     "text": "Repeat morning fasting free testosterone"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "In the diagnostic approach to testosterone deficiency, a low total testosterone is confirmed by repeating the morning fasting measurement, after which LH and FSH are measured. High LH and FSH indicate primary hypogonadism from primary testicular failure, and the next step is to obtain a karyotype to diagnose Klinefelter syndrome when there is a clinical indication. His small firm testes, gynecomastia, and azoospermia are that indication.",
+   "optionExplanations": {
+    "b": "Pituitary MRI is part of the workup when LH and FSH are low or inappropriately normal, indicating secondary hypogonadism.",
+    "c": "Prolactin is measured in secondary hypogonadism to look for hyperprolactinemia as a reversible functional cause.",
+    "d": "Iron saturation is measured in secondary hypogonadism to look for hemochromatosis.",
+    "e": "The diagnosis of hypogonadism is already confirmed by two low morning fasting total testosterone measurements."
+   },
+   "topic": "Male Hypogonadism",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "E",
+    "name": "Endocrinology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 360,
+    "reference": "E52 — Figure 24. Diagnostic Approach to Testosterone Deficiency"
+   }
+  },
+  {
+   "id": "TN-E-030",
+   "type": "single-best-answer",
+   "question": "A 68-year-old man started on spironolactone six months ago reports bilateral breast enlargement with mild pain. Examination shows concentric, rubbery, firm tissue extending from each nipple that is not fixed to underlying tissue, with no skin dimpling or retraction and no nipple discharge. Testes are normal in size and there are no stigmata of liver disease. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Drug-induced gynecomastia from spironolactone"
+    },
+    {
+     "id": "b",
+     "text": "Pseudogynecomastia (lipomastia)"
+    },
+    {
+     "id": "c",
+     "text": "Male breast carcinoma"
+    },
+    {
+     "id": "d",
+     "text": "Gynecomastia due to cirrhosis"
+    },
+    {
+     "id": "e",
+     "text": "Gynecomastia due to a testicular germ-cell neoplasm"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "True gynecomastia is benign proliferation of the glandular component of the male breast, forming a concentric, rubbery, firm mass extending from the nipple that is not fixed to underlying tissue. Drugs such as spironolactone, cimetidine, digoxin, ketoconazole, and antiandrogens are listed causes, acting through decreased androgen activity or increased estrogen activity. His examination and the temporal relation to spironolactone make drug-induced gynecomastia the most likely diagnosis.",
+   "optionExplanations": {
+    "b": "Pseudogynecomastia or lipomastia is enlargement of soft adipose tissue, especially in obese individuals, rather than the firm rubbery glandular tissue described.",
+    "c": "Red flags for breast cancer are a unilateral, eccentric, hard or fixed mass, skin dimpling or retraction, and nipple discharge or crusting, none of which is present.",
+    "d": "Cirrhosis causes gynecomastia through reduced ability of the liver to metabolize and inactivate estrogens, but he has no stigmata of liver disease.",
+    "e": "Testicular and germ-cell neoplasms cause gynecomastia, but his testes are normal on examination."
+   },
+   "topic": "Gynecomastia",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "E",
+    "name": "Endocrinology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 362,
+    "reference": "E54 — Gynecomastia"
    }
   }
  ]

@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 12,
+ "count": 21,
  "questions": [
   {
    "id": "TN-U-001",
@@ -560,6 +560,420 @@
     "document": "Toronto Notes 2025",
     "page": 1560,
     "reference": "U30 — Testicular Tumours, Investigations and Management"
+   }
+  },
+  {
+   "id": "TN-U-013",
+   "type": "single-best-answer",
+   "question": "A 58-year-old woman with three prior vaginal deliveries reports involuntary leakage of small amounts of urine whenever she coughs, sneezes, or lifts boxes at work. There is no preceding urge to void, no nocturia, and no dysuria. Urinalysis and urine culture are negative and post-void residual is 25 mL. A cough test reproduces the leakage. Which is the most likely type of urinary incontinence?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Stress incontinence from sphincter incompetence and urethral hypermobility"
+    },
+    {
+     "id": "b",
+     "text": "Urgency incontinence from detrusor overactivity"
+    },
+    {
+     "id": "c",
+     "text": "Mixed incontinence"
+    },
+    {
+     "id": "d",
+     "text": "Overflow incontinence associated with urinary retention"
+    },
+    {
+     "id": "e",
+     "text": "Transient incontinence due to atrophic vaginitis"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes defines stress incontinence as leakage with sudden increases in intra-abdominal pressure (cough, sneeze, exertion), with sphincter incompetence and urethral hypermobility as the etiology, and it is common in middle-aged and older women. This patient leaks only with cough, sneeze, and exertion, has a positive cough test, and has no urgency and a low post-void residual, so the other patterns do not fit.",
+   "optionExplanations": {
+    "b": "Urgency incontinence is leakage preceded by a strong, sudden urge to void from detrusor overactivity or bladder hypersensitivity, which she does not describe.",
+    "c": "Mixed incontinence requires leakage with urgency as well as with increased intra-abdominal pressure; she has no urgency component.",
+    "d": "Overflow incontinence is leakage associated with urinary retention, which is excluded by a post-void residual of 25 mL.",
+    "e": "Atrophic vaginitis is a transient, reversible cause of incontinence in the elderly, but her leakage is provoked strictly by exertion and her examination and urinalysis are otherwise unremarkable."
+   },
+   "topic": "Urinary Incontinence",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "U",
+    "name": "Urology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1536,
+    "reference": "U6 — Urinary Incontinence"
+   }
+  },
+  {
+   "id": "TN-U-014",
+   "type": "single-best-answer",
+   "question": "A 29-year-old man sustained a complete T6 spinal cord injury 8 months ago. He now has recurrent urinary tract infections and leaks between catheterizations. Urodynamic testing with electromyography demonstrates involuntary detrusor contractions occurring against a simultaneously contracting external sphincter, with high storage pressures and incomplete emptying. Which is the most likely form of neurogenic lower urinary tract dysfunction?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Detrusor sphincter dyssynergia from a suprasacral spinal cord lesion"
+    },
+    {
+     "id": "b",
+     "text": "Neurogenic detrusor overactivity from a lesion above the pontine micturition centre"
+    },
+    {
+     "id": "c",
+     "text": "Detrusor atony/areflexia from a lesion of the sacral cord"
+    },
+    {
+     "id": "d",
+     "text": "Peripheral autonomic neuropathy with deficient bladder sensation"
+    },
+    {
+     "id": "e",
+     "text": "Muscular lesion of the detrusor and striated sphincter"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes attributes detrusor sphincter dyssynergia to a suprasacral lesion of the spinal cord, such as trauma, with loss of coordination between detrusor and sphincter so that the detrusor contracts on a closed sphincter, along with a component of detrusor overactivity. A complete T6 injury is suprasacral but below the pontine micturition centre, which produces exactly this uncoordinated pattern and the high storage pressures seen here.",
+   "optionExplanations": {
+    "b": "A lesion above the pontine micturition centre (stroke, tumour, MS, Parkinson's disease) causes loss of voluntary inhibition of voiding, but the pathway inferior to the centre keeps bladder and sphincter coordinated.",
+    "c": "Detrusor atony/areflexia follows a lesion of the sacral cord or peripheral nerves and gives a flaccid bladder that fails to contract, not involuntary detrusor contractions.",
+    "d": "Peripheral autonomic neuropathy, as in diabetes, causes deficient bladder sensation with increasing residual urine rather than sphincter contraction against a contracting detrusor.",
+    "e": "A muscular lesion of the detrusor or sphincter is not a consequence of spinal cord trauma and would not generate this coordinated-loss pattern."
+   },
+   "topic": "Neurogenic Bladder",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "U",
+    "name": "Urology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1539,
+    "reference": "U9 — Neurogenic Bladder"
+   }
+  },
+  {
+   "id": "TN-U-015",
+   "type": "single-best-answer",
+   "question": "A 74-year-old man presents with a tender distended bladder and a creatinine of 320 micromol/L. A urethral catheter drains 1400 mL immediately. Over the next 6 hours he passes more than 300 cc of urine per hour and his serum sodium and potassium are falling. He is normotensive and tolerating oral intake poorly. Which is the most appropriate next step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Admit, monitor urine output q2 h and electrolytes q6-12 h, and replace every 1 mL of urine output with 0.5 mL of IV half normal saline"
+    },
+    {
+     "id": "b",
+     "text": "Replace urine output millilitre for millilitre with IV 5% dextrose in water"
+    },
+    {
+     "id": "c",
+     "text": "Replace urine output millilitre for millilitre with IV normal saline"
+    },
+    {
+     "id": "d",
+     "text": "Withhold all fluid replacement and recheck creatinine in 24 hours as an outpatient"
+    },
+    {
+     "id": "e",
+     "text": "Give IV furosemide to maintain the diuresis"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Post-obstructive diuresis is polyuria of more than 3 L/24 h or more than 200 cc/h for two consecutive hours after relief of obstructive uropathy. Toronto Notes directs admission with close monitoring of hemodynamic status and of sodium and potassium q6-12 h, monitoring urine output q2 h, and ensuring total fluid intake is less than urine output by replacing every 1 mL of urine output with 0.5 mL of IV half normal saline. This man meets the volume criterion and has falling electrolytes, so he needs admission and controlled replacement rather than matched or absent replacement.",
+   "optionExplanations": {
+    "b": "Glucose-containing fluid replacement should be avoided because it causes an iatrogenic diuresis.",
+    "c": "Matching urine output millilitre for millilitre perpetuates the diuresis; total fluid intake must be kept below urine output.",
+    "d": "He is losing sodium and needs admission with electrolytes followed q6-12 h and creatinine and BUN followed to baseline; oral fluids alone are only adequate for physiologic post-obstructive diuresis.",
+    "e": "A diuretic worsens the sodium-wasting nephropathy that underlies pathologic post-obstructive diuresis."
+   },
+   "topic": "Post-Obstructive Diuresis",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "U",
+    "name": "Urology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1541,
+    "reference": "U11 — Post-Obstructive Diuresis"
+   }
+  },
+  {
+   "id": "TN-U-016",
+   "type": "single-best-answer",
+   "question": "A 44-year-old man presents with 2 days of fever, chills, and malaise together with pelvic and perineal pain, urinary frequency, and dysuria. His temperature is 38.9 C. Digital rectal examination reveals an exquisitely tender prostate. Urinalysis shows pyuria and urine culture grows Escherichia coli. There is no flank pain and no costovertebral angle tenderness. Which is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Acute bacterial prostatitis (category I)"
+    },
+    {
+     "id": "b",
+     "text": "Chronic bacterial prostatitis (category II)"
+    },
+    {
+     "id": "c",
+     "text": "Chronic pelvic pain syndrome (category III)"
+    },
+    {
+     "id": "d",
+     "text": "Asymptomatic prostatitis (category IV)"
+    },
+    {
+     "id": "e",
+     "text": "Acute pyelonephritis"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes classifies category I prostatitis as an acute infection, most often E. coli, presenting with LUTS and pelvic pain plus systemic signs of fever, chills, and malaise, with positive bacterial cultures. This man has exactly that combination with an acutely tender prostate, so category I acute bacterial prostatitis is the diagnosis.",
+   "optionExplanations": {
+    "b": "Chronic bacterial prostatitis produces LUTS, pelvic pain, and recurrent UTIs with no systemic signs, whereas this man is febrile and acutely unwell.",
+    "c": "Chronic pelvic pain syndrome is symptoms without evidence of infection; his urine culture is positive.",
+    "d": "Category IV is incidental inflammation with no symptoms, detected when investigating an elevated PSA or infertility.",
+    "e": "Acute pyelonephritis is a clinical diagnosis of flank pain, fever, and elevated WBC with CVA tenderness, which he does not have."
+   },
+   "topic": "Prostatitis",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "U",
+    "name": "Urology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1546,
+    "reference": "U16 — Prostatitis/Prostatodynia"
+   }
+  },
+  {
+   "id": "TN-U-017",
+   "type": "single-best-answer",
+   "question": "A 58-year-old man develops 3 days of progressive left scrotal pain and swelling radiating along the cord to the flank, 2 weeks after cystoscopy and catheterization. He is febrile with scrotal erythema and tenderness, and his pain is relieved by lifting the testicle. Doppler ultrasound shows increased vascularity of the epididymis and a reactive hydrocele. Which organism is the most likely cause?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Escherichia coli"
+    },
+    {
+     "id": "b",
+     "text": "Neisseria gonorrhoeae"
+    },
+    {
+     "id": "c",
+     "text": "Chlamydia trachomatis"
+    },
+    {
+     "id": "d",
+     "text": "Mycobacterium tuberculosis"
+    },
+    {
+     "id": "e",
+     "text": "Treponema pallidum"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes divides the infectious causes of epididymitis by age: under 35 years the usual organisms are Neisseria gonorrhoeae or Chlamydia trachomatis, while at 35 years or older, or with penetrative anal intercourse, GI organisms, especially E. coli, predominate. Instrumentation and catheterization are listed risk factors, and this man's age, recent cystoscopy, Prehn's sign, increased vascularity on ultrasound, and reactive hydrocele all fit epididymitis from E. coli.",
+   "optionExplanations": {
+    "b": "Gonococcal infection is the typical cause in men under 35 years with unprotected sexual contact and purulent urethral discharge.",
+    "c": "Chlamydia is likewise the pathogen of the under-35 age group, not of post-instrumentation epididymitis in an older man.",
+    "d": "Tuberculosis is listed among other, uncommon causes and would present far more indolently.",
+    "e": "Syphilis is a rare listed cause and does not produce an acute febrile epididymitis after catheterization."
+   },
+   "topic": "Epididymitis and Orchitis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "U",
+    "name": "Urology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1547,
+    "reference": "U17 — Epididymitis and Orchitis"
+   }
+  },
+  {
+   "id": "TN-U-018",
+   "type": "single-best-answer",
+   "question": "A 23-year-old man with sickle cell disease presents with a painful rigid erection of 7 hours' duration that began in the absence of sexual excitement. There is no history of trauma. The corpora cavernosa are rigid and tender while the glans is soft, and cavernosal blood gas analysis confirms ischemic, low-flow priapism. Which is the most appropriate initial treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Needle aspiration and decompression of the corpora with intracorporeal phenylephrine injection q3-5 min"
+    },
+    {
+     "id": "b",
+     "text": "Selective arterial embolization"
+    },
+    {
+     "id": "c",
+     "text": "Immediate surgical shunt"
+    },
+    {
+     "id": "d",
+     "text": "Oral phosphodiesterase-5 inhibitor"
+    },
+    {
+     "id": "e",
+     "text": "Observation with analgesia alone, as the episode is generally self-limited"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes defines priapism as a prolonged erection lasting more than 4 hours in the absence of sexual excitement and lists thromboembolic causes such as sickle cell disease among the ischemic forms. For low-flow priapism the treatment is needle aspirated decompression and intracorporeal phenylephrine injection q3-5 min, with a surgical shunt only if there is no response. This patient's confirmed ischemic priapism therefore calls for aspiration and phenylephrine first.",
+   "optionExplanations": {
+    "b": "Arterial embolization is considered for non-ischemic high-flow priapism, which is typically post-traumatic and often painless.",
+    "c": "A surgical shunt is reserved for cases that fail aspiration and intracorporeal phenylephrine.",
+    "d": "PDE5 inhibitors are contraindicated in men with a history of priapism or conditions predisposing to it, such as sickle cell disease.",
+    "e": "It is high-flow priapism that is generally self-limited; ischemic priapism risks necrosis and requires urgent decompression."
+   },
+   "topic": "Priapism",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "U",
+    "name": "Urology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1563,
+    "reference": "U33 — Penile Complaints"
+   }
+  },
+  {
+   "id": "TN-U-019",
+   "type": "single-best-answer",
+   "question": "A 33-year-old man and his partner have failed to conceive after 18 months of unprotected and properly timed intercourse. He reports learning difficulties and poor school performance as a child. Examination shows gynecomastia, sparse androgenic hair, and small, firm testes with palpable vas deferens bilaterally. Two semen analyses show azoospermia with a normal ejaculate volume of 3 mL. Which is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Klinefelter syndrome"
+    },
+    {
+     "id": "b",
+     "text": "Varicocele"
+    },
+    {
+     "id": "c",
+     "text": "Congenital bilateral absence of the vas deferens"
+    },
+    {
+     "id": "d",
+     "text": "Kallmann syndrome"
+    },
+    {
+     "id": "e",
+     "text": "Retrograde ejaculation"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes describes the Klinefelter triad as small, firm testes, gynecomastia, and azoospermia, and notes that poor school performance or learning disabilities on social history is suggestive of Klinefelter syndrome. This man meets the definition of infertility, failure to conceive after 1 year of unprotected and properly timed intercourse, and has the full triad, making Klinefelter syndrome the best fit.",
+   "optionExplanations": {
+    "b": "Varicocele is the commonest testicular factor in infertile males but is found on Valsalva during scrotal exam and does not cause gynecomastia with small, firm testes.",
+    "c": "Congenital absence of the vas deferens, linked to CFTR mutation, is an obstructive cause and is excluded by palpable vas deferens bilaterally.",
+    "d": "Kallmann syndrome is a congenital hypothalamic hypogonadism affecting the HPT axis and would not produce this triad with normal-volume ejaculate.",
+    "e": "Retrograde ejaculation, secondary to surgery or medications, characteristically reduces ejaculate volume, which is normal here."
+   },
+   "topic": "Male Infertility",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "U",
+    "name": "Urology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1567,
+    "reference": "U37 — Infertility and Andrology"
+   }
+  },
+  {
+   "id": "TN-U-020",
+   "type": "single-best-answer",
+   "question": "A male neonate born at 38 weeks after a pregnancy complicated by oligohydramnios has a palpable abdominal mass from a distended bladder and a weak urinary stream. Prenatal ultrasound showed bilateral hydronephrosis, a thickened trabeculated bladder, and a dilated posterior urethra. He is now dehydrated with a rising creatinine. Which is the most appropriate next step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Immediate catheterization to relieve the obstruction"
+    },
+    {
+     "id": "b",
+     "text": "Cystoscopic resection of the valves now"
+    },
+    {
+     "id": "c",
+     "text": "Vesicostomy"
+    },
+    {
+     "id": "d",
+     "text": "Bilateral ureteral reimplantation"
+    },
+    {
+     "id": "e",
+     "text": "Antibiotic prophylaxis with repeat ultrasound in 3 months"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Posterior urethral valves are the most common congenital obstructive urethral lesion in male infants, recognized prenatally by bilateral hydronephrosis, a thickened and trabeculated bladder, a dilated posterior urethra, and oligohydramnios in a male fetus. Toronto Notes directs immediate catheterization to relieve the obstruction, followed by cystoscopic resection of the valves once the baby is stable. This unstable, dehydrated neonate therefore needs the catheter first.",
+   "optionExplanations": {
+    "b": "Cystoscopic resection follows catheterization and is done once the baby is stable, not while he is dehydrated with a rising creatinine.",
+    "c": "Vesicostomy is indicated only if resection of the valves is not possible.",
+    "d": "Ureteral reimplantation is a treatment for vesicoureteral reflux, not for the urethral obstruction causing his findings.",
+    "e": "Deferring drainage risks worsening renal insufficiency and urosepsis in an obstructed neonate."
+   },
+   "topic": "Posterior Urethral Valves",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "U",
+    "name": "Urology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1570,
+    "reference": "U40 — Posterior Urethral Valves"
+   }
+  },
+  {
+   "id": "TN-U-021",
+   "type": "single-best-answer",
+   "question": "A 31-year-old man is brought to hospital after a motor vehicle collision. He has a pelvic fracture, has been unable to void for 6 hours, and has a distended bladder. Examination shows blood at the urinary meatus, a scrotal hematoma, and a high riding prostate on digital rectal examination. Bladder drainage and accurate monitoring of urine output are required. Which is the most appropriate method?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Suprapubic catheterization"
+    },
+    {
+     "id": "b",
+     "text": "Insertion of a 16 Fr two-way Foley catheter per urethra"
+    },
+    {
+     "id": "c",
+     "text": "Insertion of a Coude tip catheter per urethra"
+    },
+    {
+     "id": "d",
+     "text": "Intermittent urethral catheterization"
+    },
+    {
+     "id": "e",
+     "text": "Condom catheter"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes lists blood at the urinary meatus, scrotal hematoma, pelvic fracture, and a high riding prostate as contraindications to catheterization in trauma, and gives suprapubic catheterization as the route when there is urethral disruption or obstruction. All four contraindications are present here, so the urethra must not be instrumented and a suprapubic catheter should be used to drain the bladder and monitor urine output.",
+   "optionExplanations": {
+    "b": "A standard transurethral Foley passed blindly through a disrupted urethra risks converting a partial injury into a complete one and is contraindicated by these findings.",
+    "c": "The Coude catheter has an angled tip to navigate around an enlarged prostate in BPH; it is still a transurethral catheter and is equally contraindicated.",
+    "d": "Intermittent catheterization is also transurethral and does not permit the accurate continuous monitoring of urine output required.",
+    "e": "A condom catheter cannot relieve retention or provide accurate urine output measurement."
+   },
+   "topic": "Bladder Catheterization",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "U",
+    "name": "Urology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1574,
+    "reference": "U44 — Bladder Catheterization"
    }
   }
  ]

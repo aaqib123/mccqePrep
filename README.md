@@ -1,6 +1,6 @@
 # MCCQE Part I Practice Exam
 
-A static, self-contained mock exam for MCCQE Part I preparation. **482 single-best-answer clinical vignettes** across 32 specialties, each with a worked explanation grounded in *Toronto Notes 2025* (41st edition).
+A static, self-contained mock exam for MCCQE Part I preparation. **655 single-best-answer clinical vignettes** across 32 specialties, each with a worked explanation grounded in *Toronto Notes 2025* (41st edition).
 
 **→ [Take an exam](https://aaqib123.github.io/mccqePrep/)**
 
@@ -14,12 +14,12 @@ Pick a preset, choose how many questions you want, and sit it. Questions are sam
 
 | Preset | Focus | Default | Pool |
 |---|---|---:|---:|
-| **Full mock exam** | Mixed questions from every chapter | 40 | 482 |
-| **Internal medicine** | Cardio, resp, GI, endo, nephro, heme, ID, neuro, rheum, geri | 30 | 174 |
-| **Surgery** | General/thoracic, ortho, neurosurg, plastics, uro, vascular, ENT, ophtho, anesthesia | 30 | 122 |
-| **Acute and emergency care** | The unwell patient in front of you | 25 | 108 |
-| **Primary care and population health** | FM, psych, derm, public health, palliative, ethics | 30 | 84 |
-| **Women's and children's health** | Obstetrics, gynecology, pediatrics | 25 | 64 |
+| **Full mock exam** | Mixed questions from every chapter | 40 | 655 |
+| **Internal medicine** | Cardio, resp, GI, endo, nephro, heme, ID, neuro, rheum, geri | 30 | 221 |
+| **Surgery** | General/thoracic, ortho, neurosurg, plastics, uro, vascular, ENT, ophtho, anesthesia | 30 | 185 |
+| **Acute and emergency care** | The unwell patient in front of you | 25 | 148 |
+| **Primary care and population health** | FM, psych, derm, public health, palliative, ethics | 30 | 114 |
+| **Women's and children's health** | Obstetrics, gynecology, pediatrics | 25 | 85 |
 
 You can also build a custom paper by selecting individual chapters.
 
@@ -37,12 +37,12 @@ Progress is held in memory for the sitting. Closing the tab ends the attempt.
 
 | | |
 |---|---:|
-| Questions | 482 |
+| Questions | 655 |
 | Chapters | 32 |
-| Distinct topics | ~460 |
+| Distinct topics | ~625 |
 | Difficulty | ~25% easy, ~51% medium, ~24% hard |
 
-Every question carries a chapter, topic, difficulty rating, and an explanation that states the reasoning rather than just naming the answer. Chapter weighting roughly tracks each specialty's footprint on the exam — Cardiology, Hematology and Pediatrics carry 26 questions each; Medical Genetics carries 4.
+Every question carries a chapter, topic, difficulty rating, and an explanation that states the reasoning rather than just naming the answer. Chapter weighting roughly tracks each specialty's footprint on the exam — Pediatrics carries 47 questions and Cardiology 38; Medical Genetics carries 4.
 
 <details>
 <summary>Full chapter list</summary>
@@ -50,36 +50,36 @@ Every question carries a chapter, topic, difficulty rating, and an explanation t
 | Code | Chapter | Q |
 |---|---|---:|
 | A | Anesthesia | 14 |
-| C | Cardiology and Cardiac Surgery | 26 |
+| C | Cardiology and Cardiac Surgery | 38 |
 | CP | Clinical Pharmacology | 6 |
-| D | Dermatology | 14 |
-| E | Endocrinology | 18 |
-| ELOM | Ethical, Legal, and Organizational Medicine | 10 |
-| ER | Emergency Medicine | 22 |
+| D | Dermatology | 28 |
+| E | Endocrinology | 30 |
+| ELOM | Ethical, Legal, and Organizational Medicine | 17 |
+| ER | Emergency Medicine | 34 |
 | FM | Family Medicine | 18 |
 | G | Gastroenterology | 18 |
 | GM | Geriatric Medicine | 8 |
-| GS | General and Thoracic Surgery | 18 |
+| GS | General and Thoracic Surgery | 34 |
 | GY | Gynecology | 18 |
 | H | Hematology | 26 |
-| ID | Infectious Diseases | 18 |
+| ID | Infectious Diseases | 29 |
 | MG | Medical Genetics | 4 |
 | MI | Medical Imaging | 12 |
-| N | Neurology | 18 |
+| N | Neurology | 30 |
 | NP | Nephrology | 14 |
 | NS | Neurosurgery | 23 |
 | OB | Obstetrics | 20 |
-| OP | Ophthalmology | 10 |
-| OR | Orthopedic Surgery | 12 |
-| OT | Otolaryngology | 10 |
-| P | Pediatrics | 26 |
-| PH | Public Health and Preventive Medicine | 8 |
+| OP | Ophthalmology | 22 |
+| OR | Orthopedic Surgery | 26 |
+| OT | Otolaryngology | 22 |
+| P | Pediatrics | 47 |
+| PH | Public Health and Preventive Medicine | 17 |
 | PL | Plastic Surgery | 17 |
 | PM | Palliative Medicine | 6 |
 | PS | Psychiatry | 22 |
 | R | Respirology | 16 |
 | RH | Rheumatology | 12 |
-| U | Urology | 12 |
+| U | Urology | 21 |
 | VS | Vascular Surgery | 6 |
 
 </details>
@@ -143,7 +143,7 @@ Questions were authored against the full text of *Toronto Notes 2025*, extracted
 
 Worth knowing before you rely on it:
 
-- 482 questions is a study aid, not exam-scale coverage. A real MCCQE Part I sitting draws on far more material.
+- 655 questions is a study aid, not exam-scale coverage. A real MCCQE Part I sitting draws on far more material.
 - Explanations reflect *Toronto Notes 2025*. Guidelines move; verify anything clinically important against a current primary source.
 - Text-only. There are no images, ECGs, or radiographs, which are a real part of the exam.
 - A score here is a rough signal about recall of this reference, not a predicted exam result.

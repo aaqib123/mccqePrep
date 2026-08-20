@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 10,
+ "count": 22,
  "questions": [
   {
    "id": "TN-OP-001",
@@ -468,6 +468,558 @@
     "document": "Toronto Notes 2025",
     "page": 1074,
     "reference": "OP34 — Diabetic Retinopathy"
+   }
+  },
+  {
+   "id": "TN-OP-011",
+   "type": "single-best-answer",
+   "question": "A 29-year-old man has 3 days of a painful, red left eye with marked photophobia and mildly blurred vision. There is no discharge. Visual acuity is 20/40 on the left. The injection is perilimbal, the left pupil is smaller than the right, keratic precipitates are seen on the corneal endothelium, and there are cells and flare in the anterior chamber. Intraocular pressure is 12 mmHg and he has no nausea. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Acute iritis"
+    },
+    {
+     "id": "b",
+     "text": "Viral conjunctivitis"
+    },
+    {
+     "id": "c",
+     "text": "Bacterial conjunctivitis"
+    },
+    {
+     "id": "d",
+     "text": "Acute angle-closure glaucoma"
+    },
+    {
+     "id": "e",
+     "text": "Keratitis with corneal ulcer"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes' table of common differential diagnoses of red eye separates the causes by discharge, pupil, injection pattern, cornea and IOP. Acute iritis has no discharge, dull achy pain with marked photophobia, ciliary flush (perilimbal injection), a smaller pupil, keratic precipitates, cells and flare in the anterior chamber, and no nausea or vomiting. This man's findings match that column exactly.",
+   "optionExplanations": {
+    "b": "Viral conjunctivitis produces serous or mucoid discharge with diffuse conjunctival injection, a normal pupil, no photophobia and no anterior chamber cells.",
+    "c": "Bacterial conjunctivitis gives purulent discharge with diffuse conjunctival injection, a normal pupil and normal intraocular pressure.",
+    "d": "Acute glaucoma causes a markedly increased intraocular pressure with a cloudy cornea, a pupil fixed in mid-dilation, coloured haloes and nausea and vomiting.",
+    "e": "Keratitis with a corneal ulcer shows a corneal infiltrate with edema and purulent discharge if bacterial, rather than a clear cornea with keratic precipitates alone."
+   },
+   "topic": "Red Eye Differential Diagnosis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "OP",
+    "name": "Ophthalmology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1044,
+    "reference": "OP4 — Common Differential Diagnoses of Red Eye"
+   }
+  },
+  {
+   "id": "TN-OP-012",
+   "type": "single-best-answer",
+   "question": "A 32-year-old man reports 3 weeks of painless blurred vision with floaters in both eyes. Over the past 2 years he has had recurrent oral ulcers and genital ulcers. Visual acuity is 20/80 bilaterally. There is no conjunctival or scleral injection and the anterior chambers are quiet, but posterior segment examination shows vitreous cells and opacities with patches of chorioretinal inflammation. What is the most likely underlying diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Sarcoidosis"
+    },
+    {
+     "id": "b",
+     "text": "Behcet's disease"
+    },
+    {
+     "id": "c",
+     "text": "Ankylosing spondylitis"
+    },
+    {
+     "id": "d",
+     "text": "Ocular toxoplasmosis"
+    },
+    {
+     "id": "e",
+     "text": "Ocular syphilis"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Toronto Notes classifies uveitis anatomically: posterior uveitis is painless, often has no conjunctival or scleral injection, and presents with decreased visual acuity, floaters, and vitreous cells and opacities with inflammation of the choroid and retina. Among the autoimmune causes listed, Behcet's disease is defined by the triad of oral ulcers, genital ulcers, and posterior uveitis, which is precisely this man's presentation.",
+   "optionExplanations": {
+    "a": "Sarcoidosis is listed as a secondary cause of intermediate uveitis and can cause granulomatous inflammation, but it is not associated with recurrent oral and genital ulcers.",
+    "c": "Ankylosing spondylitis is an HLA-B27 associated cause of anterior uveitis, which presents with photophobia, ocular pain and ciliary flush rather than painless vitreous inflammation.",
+    "d": "Toxoplasmosis is the most common parasitic cause of posterior uveitis but does not produce recurrent oral and genital ulceration.",
+    "e": "Syphilis is a bacterial cause of posterior uveitis; its ulcers are painless genital chancres and it lacks the recurrent oral ulcer triad."
+   },
+   "topic": "Uveitis",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "OP",
+    "name": "Ophthalmology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1060,
+    "reference": "OP20 — Uveitis: Anatomic Classification"
+   }
+  },
+  {
+   "id": "TN-OP-013",
+   "type": "single-best-answer",
+   "question": "A 58-year-old man with proliferative diabetic retinopathy has sudden painless loss of vision in the right eye that began this morning, preceded by a shower of many floaters. Visual acuity is hand motion. The eye is white and painless and the pupil reacts to light. On direct ophthalmoscopy there is no red reflex and the retina cannot be visualized. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Posterior vitreous detachment"
+    },
+    {
+     "id": "b",
+     "text": "Rhegmatogenous retinal detachment"
+    },
+    {
+     "id": "c",
+     "text": "Vitreous hemorrhage"
+    },
+    {
+     "id": "d",
+     "text": "Dislocated lens"
+    },
+    {
+     "id": "e",
+     "text": "Retinal vein occlusion"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "Toronto Notes lists proliferative diabetic retinopathy first among the etiologies of vitreous hemorrhage, which causes sudden loss of visual acuity that may be preceded by a shower of many floaters and/or flashes of light. On ophthalmoscopy there is no red reflex if the hemorrhage is large and the retina is not visible because of blood in the vitreous. B-scan ultrasound is then used to rule out retinal detachment.",
+   "optionExplanations": {
+    "a": "Posterior vitreous detachment causes floaters and flashes but does not obliterate the red reflex or reduce acuity to hand motion.",
+    "b": "Retinal detachment is a listed cause of vitreous hemorrhage, but detachment alone leaves the red reflex intact and the retina visible on ophthalmoscopy.",
+    "d": "A dislocated lens produces decreased acuity with monocular diplopia, iridodonesis and phacodonesis, and an abnormal rather than absent red reflex.",
+    "e": "Retinal vein occlusion is listed as a cause of vitreous hemorrhage, but by itself the fundus remains visible."
+   },
+   "topic": "Vitreous Hemorrhage",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "OP",
+    "name": "Ophthalmology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1062,
+    "reference": "OP22 — Vitreous Hemorrhage"
+   }
+  },
+  {
+   "id": "TN-OP-014",
+   "type": "single-best-answer",
+   "question": "A 58-year-old man of African descent is asymptomatic but is found at a screening visit to have intraocular pressures of 24 mmHg in both eyes, with a vertical cup-to-disc ratio of 0.7 on the right and 0.4 on the left. His mother had glaucoma. Which of the following additional findings would constitute another major risk factor for primary open-angle glaucoma?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Myopia"
+    },
+    {
+     "id": "b",
+     "text": "Hypertension"
+    },
+    {
+     "id": "c",
+     "text": "Diabetes mellitus"
+    },
+    {
+     "id": "d",
+     "text": "Thin central cornea"
+    },
+    {
+     "id": "e",
+     "text": "Hyperthyroidism"
+    }
+   ],
+   "correctAnswer": "d",
+   "explanation": "Toronto Notes divides primary open-angle glaucoma risk factors into major and minor. The major risk factors are ocular hypertension (IOP >21 mmHg), age, African descent, family history, and a thin central cornea as shown in the OHTS trial. Myopia, hypertension, diabetes, hyperthyroidism, chronic corticosteroid use and previous ocular trauma are listed as minor risk factors. This man already has elevated IOP, African descent, a family history and an increased vertical cup-to-disc ratio with asymmetry between the eyes.",
+   "optionExplanations": {
+    "a": "Myopia is listed among the minor risk factors for primary open-angle glaucoma.",
+    "b": "Hypertension appears only under the minor risk factors.",
+    "c": "Diabetes mellitus is listed as a minor risk factor.",
+    "e": "Hyperthyroidism (Graves' disease) is listed as a minor risk factor."
+   },
+   "topic": "Primary Open-Angle Glaucoma",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "OP",
+    "name": "Ophthalmology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1067,
+    "reference": "OP27 — Primary Open-Angle Glaucoma"
+   }
+  },
+  {
+   "id": "TN-OP-015",
+   "type": "single-best-answer",
+   "question": "A 64-year-old woman with migraines and sleep apnea is referred for progressive optic disc cupping. Examination shows notching of the neuroretinal rim in both eyes and arcuate scotomas on visual field testing. Gonioscopy shows open angles. Intraocular pressure measured at several different times of day ranges from 15 to 18 mmHg. She has never used topical or systemic steroids and has no history of ocular trauma. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Primary open-angle glaucoma"
+    },
+    {
+     "id": "b",
+     "text": "Normal tension glaucoma"
+    },
+    {
+     "id": "c",
+     "text": "Primary angle-closure glaucoma"
+    },
+    {
+     "id": "d",
+     "text": "Steroid-induced glaucoma"
+    },
+    {
+     "id": "e",
+     "text": "Pigmentary glaucoma"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Toronto Notes defines normal tension glaucoma as glaucomatous optic neuropathy with IOP in the normal range, often found in women over 60, and associated with migraines, peripheral vasospasm, systemic nocturnal hypotension and sleep apnea, with optic nerve damage attributed to vascular insufficiency. This woman has rim notching and arcuate scotomas, which are characteristic glaucomatous findings, yet her IOP never exceeds the normal range.",
+   "optionExplanations": {
+    "a": "Primary open-angle glaucoma is characterized by an insidious, painless, gradual rise in IOP; her pressures remain in the normal range.",
+    "c": "In angle-closure the peripheral iris bows forward and obstructs the trabecular meshwork, whereas gonioscopy here shows open angles.",
+    "d": "Steroid-induced glaucoma requires exposure to topical, periocular, systemic or inhaled steroids, which she has never used.",
+    "e": "Pigmentary glaucoma results from pigment dispersion syndrome with iris pigment deposited in the trabecular meshwork, and typically raises IOP."
+   },
+   "topic": "Normal Tension Glaucoma",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "OP",
+    "name": "Ophthalmology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1068,
+    "reference": "OP28 — Normal Tension Glaucoma"
+   }
+  },
+  {
+   "id": "TN-OP-016",
+   "type": "single-best-answer",
+   "question": "A 34-year-old woman has noticed for 2 weeks that her right pupil is larger than the left. There is no ptosis, eye movements are full and visual acuity is normal. The right pupil is irregular, reacts poorly to light but constricts slowly to a near target, and the anisocoria is greater in bright light. One drop of dilute pilocarpine 0.125% constricts the right pupil but has no effect on the left. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Adie's tonic pupil"
+    },
+    {
+     "id": "b",
+     "text": "Third nerve palsy"
+    },
+    {
+     "id": "c",
+     "text": "Horner's syndrome"
+    },
+    {
+     "id": "d",
+     "text": "Argyll-Robertson pupil"
+    },
+    {
+     "id": "e",
+     "text": "Pharmacologic dilation"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes' summary of conditions causing anisocoria describes Adie's tonic pupil as an irregular pupil that is larger in bright light, from a lesion in the ciliary ganglion, reacting poorly to light but better to accommodation, with anisocoria greater in light. Denervation hypersensitivity means a dilute (0.125%) solution of pilocarpine constricts the tonic pupil but has no effect on a normal pupil, which is exactly what happened here.",
+   "optionExplanations": {
+    "b": "In CN III palsy the pupil is round and fixed acutely at 7-9 mm, with ptosis and the eye deviated down and out; her lids and motility are normal.",
+    "c": "Horner's syndrome is an abnormal miotic pupil with ptosis and anhidrosis, and the anisocoria is greater in dark rather than in light.",
+    "d": "Argyll-Robertson pupils are miotic and usually bilateral from a midbrain lesion, not a unilateral mydriatic pupil.",
+    "e": "A pharmacologically dilated pupil is round, fixed at 7-8 mm and will not constrict with pilocarpine."
+   },
+   "topic": "Anisocoria",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "OP",
+    "name": "Ophthalmology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1071,
+    "reference": "OP31 — Summary of Conditions Causing Anisocoria"
+   }
+  },
+  {
+   "id": "TN-OP-017",
+   "type": "single-best-answer",
+   "question": "A 47-year-old man has 3 days of left-sided neck pain and a drooping left upper eyelid. The left pupil measures 2 mm and the right 4 mm, the difference being greater in dim light, and both react briskly to light. There is reduced sweating over the left side of his face. Extraocular movements are full and visual acuity is normal. What is the most appropriate next investigation?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Urgent imaging of the carotid arteries"
+    },
+    {
+     "id": "b",
+     "text": "Instillation of topical cocaine 4-10%"
+    },
+    {
+     "id": "c",
+     "text": "Instillation of topical hydroxyamphetamine 1%"
+    },
+    {
+     "id": "d",
+     "text": "Chest imaging to look for a Pancoast tumour"
+    },
+    {
+     "id": "e",
+     "text": "MRI of the brainstem for a lateral medullary infarct"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Miosis, anhidrosis and ptosis with anisocoria greater in dim light define Horner's syndrome. Toronto Notes lists its causes as mostly idiopathic, with brainstem infarct (lateral medullary syndrome), Pancoast tumour, neck surgery and carotid artery dissection, and states explicitly that carotid artery dissection must be ruled out in an acute Horner's syndrome less than 14 days old. His neck pain and 3-day history make this the priority.",
+   "optionExplanations": {
+    "b": "Cocaine confirms the diagnosis pharmacologically but is rarely used in practice because of availability, and it does not identify the life-threatening cause.",
+    "c": "Hydroxyamphetamine localizes the lesion to a preganglionic or postganglionic site but is not available in Canada or the USA.",
+    "d": "Pancoast tumour is a recognized cause but is not the urgent consideration in an acute Horner's syndrome with ipsilateral neck pain.",
+    "e": "A brainstem infarct is a listed cause, but it would be expected to produce other neurologic findings and does not take priority over excluding dissection."
+   },
+   "topic": "Horner's Syndrome",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "OP",
+    "name": "Ophthalmology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1072,
+    "reference": "OP32 — Horner's Syndrome"
+   }
+  },
+  {
+   "id": "TN-OP-018",
+   "type": "single-best-answer",
+   "question": "A 27-year-old woman has 5 days of progressively blurred vision in the right eye. Colour vision is markedly decreased in that eye, there is a central scotoma, and a right relative afferent pupillary defect is present. The fundus is otherwise unremarkable. MRI demonstrates white matter demyelinating lesions of the right optic nerve. What is the best initial treatment for her optic neuritis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Oral corticosteroids alone"
+    },
+    {
+     "id": "b",
+     "text": "IV corticosteroids with a taper to oral form"
+    },
+    {
+     "id": "c",
+     "text": "Topical corticosteroid drops"
+    },
+    {
+     "id": "d",
+     "text": "IV antibiotics"
+    },
+    {
+     "id": "e",
+     "text": "Observation without pharmacologic treatment"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Toronto Notes lists blurred vision with decreased colour vision from optic neuritis, a central scotoma from damage to the papillomacular bundle, a relative afferent pupillary defect, and white matter demyelinating lesions of the optic nerve on MRI as ocular features of multiple sclerosis. The stated treatment for optic neuritis is IV steroids with a taper to the oral form, and oral steroids must not be given in isolation because of the increased risk of developing multiple sclerosis.",
+   "optionExplanations": {
+    "a": "Toronto Notes states explicitly that optic neuritis should not be treated with oral steroids in isolation because of the increased risk of developing multiple sclerosis.",
+    "c": "Topical corticosteroid drops do not reach the optic nerve and are used for anterior segment inflammation.",
+    "d": "There is no infectious cause here; the MRI shows demyelinating lesions of the optic nerve.",
+    "e": "Withholding treatment forgoes the recommended IV steroid course with oral taper for optic neuritis."
+   },
+   "topic": "Optic Neuritis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "OP",
+    "name": "Ophthalmology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1076,
+    "reference": "OP36 — Multiple Sclerosis: Ocular Manifestations"
+   }
+  },
+  {
+   "id": "TN-OP-019",
+   "type": "single-best-answer",
+   "question": "A 74-year-old woman awoke with painless loss of vision in the left eye. For 3 weeks she has had headache with tenderness over the temporal artery and constitutional symptoms. CBC shows thrombocytosis and both ESR and CRP are markedly elevated. Giant cell arteritis is suspected clinically. What is the next best step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Arrange temporal artery biopsy and withhold treatment until the result is available"
+    },
+    {
+     "id": "b",
+     "text": "Start high dose corticosteroids immediately and arrange temporal artery biopsy"
+    },
+    {
+     "id": "c",
+     "text": "Start low dose acetylsalicylic acid and repeat inflammatory markers in 1 week"
+    },
+    {
+     "id": "d",
+     "text": "Refer for carotid Doppler ultrasound before starting any treatment"
+    },
+    {
+     "id": "e",
+     "text": "Observe and reassess if the fellow eye becomes involved"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Toronto Notes states that if a diagnosis of giant cell arteritis is suspected clinically, STAT treatment should be started and a temporal artery biopsy performed to confirm the diagnosis within 2 weeks of the initial presentation. High dose corticosteroids are given to prevent further ischemic complications and to improve systemic symptoms. Her thrombocytosis with elevated ESR and CRP supports the diagnosis, and treatment must not wait for the biopsy.",
+   "optionExplanations": {
+    "a": "Delaying steroids until biopsy results are available risks further ischemic complications; biopsy can still confirm the diagnosis within 2 weeks of presentation.",
+    "c": "Acetylsalicylic acid and repeat blood work do not prevent further ischemic damage in giant cell arteritis.",
+    "d": "Carotid imaging does not diagnose giant cell arteritis and delays the definitive corticosteroid treatment.",
+    "e": "Observation is unacceptable because untreated giant cell arteritis carries a very high risk of ischemic complications."
+   },
+   "topic": "Giant Cell Arteritis",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "OP",
+    "name": "Ophthalmology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1077,
+    "reference": "OP37 — Giant Cell Arteritis/Temporal Arteritis"
+   }
+  },
+  {
+   "id": "TN-OP-020",
+   "type": "single-best-answer",
+   "question": "A 5-year-old girl who has never worn glasses fails a preschool vision screen. Visual acuity is 20/60 in the right eye and 20/20 in the left. The eyes are straight on cover and cover-uncover testing, the media are clear and the fundi are normal. Cycloplegic refraction shows +4.00 D in the right eye and +0.50 D in the left. What is the best initial management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Spectacle correction of the refractive error"
+    },
+    {
+     "id": "b",
+     "text": "Immediate part-time occlusion patching of the left eye"
+    },
+    {
+     "id": "c",
+     "text": "Atropine penalization of the left eye"
+    },
+    {
+     "id": "d",
+     "text": "Strabismus surgery on the right eye"
+    },
+    {
+     "id": "e",
+     "text": "Vision therapy and training exercises"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "This is anisometropic amblyopia: asymmetric refractive errors with reduced best-corrected acuity in the more hyperopic eye and no strabismus or structural abnormality. Toronto Notes states that anisometropia is treated with glasses to correct the refractive error, and that patching or atropine is required only if a visual acuity difference persists after using glasses for 3-6 months. Treatment is most effective in early childhood, so she should be started now.",
+   "optionExplanations": {
+    "b": "Occlusion therapy is reserved for a persisting acuity difference after 3-6 months of spectacle wear, and over-treatment risks reverse amblyopia in the better-seeing eye.",
+    "c": "Atropine penalization of the good eye is an alternative to patching but, like patching, follows a trial of glasses in anisometropia.",
+    "d": "Her eyes are straight on cover testing, so there is no strabismus to operate on.",
+    "e": "Toronto Notes states there is no proven value for vision therapy or training in the treatment of strabismus or amblyopia."
+   },
+   "topic": "Amblyopia",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "OP",
+    "name": "Ophthalmology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1079,
+    "reference": "OP39 — Amblyopia"
+   }
+  },
+  {
+   "id": "TN-OP-021",
+   "type": "single-best-answer",
+   "question": "A 16-month-old boy, born at term, is brought in because his left pupil appeared white in recent family photographs. On direct ophthalmoscopy the red reflex is absent on the left, and that eye turns inward. Dilated fundus examination of the left eye shows nodular, cream-coloured masses with intralesional blood vessels. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Congenital cataract"
+    },
+    {
+     "id": "b",
+     "text": "Coats disease"
+    },
+    {
+     "id": "c",
+     "text": "Retinoblastoma"
+    },
+    {
+     "id": "d",
+     "text": "Persistent fetal vasculature"
+    },
+    {
+     "id": "e",
+     "text": "Retinopathy of prematurity"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "Leukocoria is a white pupillary reflex with an absent red reflex and warrants urgent referral to an ophthalmologist. Toronto Notes states that retinoblastoma, the most common primary intraocular malignancy in children, often presents with leukocoria and/or strabismus, and that fundus examination shows nodular, white or cream-coloured masses with intralesional blood vessels. B-scan ultrasound or MRI may demonstrate a calcified mass.",
+   "optionExplanations": {
+    "a": "Cataract is in the differential of leukocoria but opacifies the lens rather than producing a vascularized retinal mass.",
+    "b": "Coats disease is exudative retinal telangiectasis and does not produce nodular cream-coloured masses with intralesional vessels.",
+    "d": "Persistent fetal vasculature causes leukocoria from retrolental tissue, not a nodular retinal tumour.",
+    "e": "Retinopathy of prematurity requires prematurity and low birth weight; this child was born at term."
+   },
+   "topic": "Leukocoria",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "OP",
+    "name": "Ophthalmology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1080,
+    "reference": "OP40 — Leukocoria and Retinoblastoma"
+   }
+  },
+  {
+   "id": "TN-OP-022",
+   "type": "single-best-answer",
+   "question": "A 26-year-old construction worker splashed liquid drain cleaner, an alkali, into his right eye 10 minutes ago. He has severe pain and blepharospasm and the cornea appears hazy. He arrives in the emergency department holding the eye shut and no irrigation has been performed. What is the next best step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Immediate copious irrigation with water or balanced saline solution until physiologic pH is reached"
+    },
+    {
+     "id": "b",
+     "text": "Instillation of a dilute acid to neutralize the alkali"
+    },
+    {
+     "id": "c",
+     "text": "Topical antibiotic ointment and patching of the eye"
+    },
+    {
+     "id": "d",
+     "text": "Topical corticosteroid drops to reduce inflammation"
+    },
+    {
+     "id": "e",
+     "text": "Topical cycloplegic drops to relieve iris spasm"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes directs immediate irrigation with water or balanced saline solution for chemical burns, with the eyelids retracted and an IV drip run until physiologic pH is reached, tested with litmus paper, followed by swabbing the upper and lower fornices to remove particulate matter. Alkali burns carry a worse prognosis than acid burns and can progress for weeks even when the cornea initially looks clear, so irrigation must not be delayed.",
+   "optionExplanations": {
+    "b": "Toronto Notes states not to attempt to neutralize an acid with a base or vice versa.",
+    "c": "Topical antibiotics and patching are part of subsequent treatment but come after irrigation to physiologic pH.",
+    "d": "Topical steroids are prescribed by an ophthalmologist later to decrease inflammation, and are not the immediate step.",
+    "e": "Cycloplegics decrease iris spasm and help prevent secondary glaucoma, but they follow irrigation."
+   },
+   "topic": "Chemical Burns",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "OP",
+    "name": "Ophthalmology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1083,
+    "reference": "OP43 — Chemical Burns"
    }
   }
  ]

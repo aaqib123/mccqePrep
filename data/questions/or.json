@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 12,
+ "count": 26,
  "questions": [
   {
    "id": "TN-OR-001",
@@ -560,6 +560,650 @@
     "document": "Toronto Notes 2025",
     "page": 1135,
     "reference": "OR47 — Developmental Dysplasia of the Hip"
+   }
+  },
+  {
+   "id": "TN-OR-013",
+   "type": "single-best-answer",
+   "question": "A 24-year-old man is in hospital after high energy trauma in an MVC, with closed femoral and tibial fractures. Thirty-six hours later he develops SOB and a decreased level of consciousness. Oxygen saturation is 85%, a petechial rash is seen over the chest, and platelets have fallen to 78 x 10^9/L. There is no hypotension or hypovolemia and hemoglobin is unchanged. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Pulmonary embolism from a deep vein thrombosis"
+    },
+    {
+     "id": "b",
+     "text": "Fat embolism syndrome"
+    },
+    {
+     "id": "c",
+     "text": "Hemorrhagic shock from occult bleeding"
+    },
+    {
+     "id": "d",
+     "text": "Sepsis from a missed open fracture"
+    },
+    {
+     "id": "e",
+     "text": "Tetanus infection"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Complications of the trauma patient include hemorrhage, fat embolism syndrome, venous thromboembolism (DVT and PE), neurological and vascular damage, and sepsis and/or tetanus infection especially if a missed open fracture. Fat embolism syndrome is characterized by SOB, hypoxemia, petechial rash, thrombocytopenia and neurological symptoms, and all of these features are present here after high energy trauma with long bone fractures. Hemorrhage is the life-threatening complication that produces signs and symptoms of hypovolemic shock, which this patient does not have.",
+   "optionExplanations": {
+    "a": "Venous thromboembolism causes dyspnea and hypoxemia but does not explain the petechial rash and thrombocytopenia.",
+    "c": "Hemorrhage produces signs and symptoms of hypovolemic shock; his blood pressure and hemoglobin are stable.",
+    "d": "Sepsis from a missed open fracture is a recognized complication, but both fractures are closed and there is no source or fever described.",
+    "e": "Tetanus is described as a complication of missed open fractures and does not cause hypoxemia with a petechial rash."
+   },
+   "topic": "Fat Embolism Syndrome",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "OR",
+    "name": "Orthopedic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1097,
+    "reference": "OR9 — Orthopedic Emergencies: Trauma Patient Workup"
+   }
+  },
+  {
+   "id": "TN-OR-014",
+   "type": "single-best-answer",
+   "question": "A 62-year-old man presents with 2 days of acute onset monoarticular knee pain and refusal to bear weight. His temperature is 38.6 C. The knee is erythematous, warm and swollen, with pain on both active and passive range of motion. WBC, ESR and CRP are elevated and blood cultures have been drawn. Knee x-ray shows no fracture, tumour or metabolic bone disease. What is the most appropriate next investigation?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Joint aspiration for cell count, crystals, Gram stain and culture and sensitivity"
+    },
+    {
+     "id": "b",
+     "text": "MRI of the knee"
+    },
+    {
+     "id": "c",
+     "text": "Serum uric acid level"
+    },
+    {
+     "id": "d",
+     "text": "Bone scan of the lower limbs"
+    },
+    {
+     "id": "e",
+     "text": "Repeat knee x-ray in 48 hours"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "An acutely painful, erythematous, warm, swollen joint with pain on active and passive ROM, fever and inability to bear weight is investigated with x-ray, inflammatory markers and blood cultures plus joint aspirate. The aspirate in septic arthritis is cloudy yellow with WBC greater than 50000 and more than 90% neutrophils, protein above 4.4 mg/dL, joint glucose below 60% of blood glucose, no crystals and a positive Gram stain. Empiric IV antibiotics are then adjusted according to the aspirate culture and sensitivity results.",
+   "optionExplanations": {
+    "b": "MRI is not part of the described workup and would delay the aspirate needed to confirm infection and guide antibiotics.",
+    "c": "A serum uric acid level does not distinguish infection from crystal disease; the aspirate is examined for crystals directly.",
+    "d": "A bone scan adds nothing acutely and does not provide fluid for Gram stain and culture.",
+    "e": "The x-ray has already served its purpose of ruling out fracture, tumour and metabolic bone disease; repeating it delays diagnosis."
+   },
+   "topic": "Septic Arthritis",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "OR",
+    "name": "Orthopedic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1100,
+    "reference": "OR12 — Septic Arthritis"
+   }
+  },
+  {
+   "id": "TN-OR-015",
+   "type": "single-best-answer",
+   "question": "A 35-year-old man falls and injures his right arm. Radiographs show a transverse fracture of the middle third of the humeral shaft with 20 degrees of varus angulation and 1 cm of shortening. The skin is intact. He has a drop wrist with sensory impairment over the dorsum of the hand. The radial pulse is normal, the forearm is soft and the forearm bones are uninjured. What is the most appropriate management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Hanging cast with collar and cuff sling until swelling subsides, then a Sarmiento functional brace"
+    },
+    {
+     "id": "b",
+     "text": "Urgent surgical exploration and repair of the radial nerve"
+    },
+    {
+     "id": "c",
+     "text": "ORIF with plate fixation of the humeral shaft"
+    },
+    {
+     "id": "d",
+     "text": "Intramedullary rod insertion"
+    },
+    {
+     "id": "e",
+     "text": "Application of an external fixator"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "In general humeral shaft fractures are treated non-operatively, and the acceptable deformities for non-operative treatment are less than 20 degrees of anterior angulation, less than 30 degrees of varus angulation and less than 3 cm of shortening, since compensatory shoulder ROM tolerates residual deformity. This fracture is within those limits, so a hanging cast followed by a Sarmiento functional brace is appropriate. Radial nerve palsy accompanying a humeral shaft fracture is expected to recover spontaneously in 3-4 months, with EMG reserved for those that do not.",
+   "optionExplanations": {
+    "b": "A radial nerve palsy with a closed humeral shaft fracture is expected to recover spontaneously in 3-4 months, with EMG if it does not; exploration is not the first move.",
+    "c": "Plating is the most common operative option but is reserved for the NO CAST indications, pathological fracture or a floating elbow, none of which is present.",
+    "d": "Intramedullary rod insertion is an operative alternative and carries the same requirement for an operative indication.",
+    "e": "External fixation of the humeral shaft is rare and is not indicated for a closed fracture with acceptable alignment."
+   },
+   "topic": "Humeral Shaft Fracture",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "OR",
+    "name": "Orthopedic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1106,
+    "reference": "OR18 — Humeral Shaft Fracture"
+   }
+  },
+  {
+   "id": "TN-OR-016",
+   "type": "single-best-answer",
+   "question": "A 7-year-old boy falls off the monkey bars onto an outstretched hand. His elbow is swollen and tender with ecchymosis and dimpling of the skin in the antecubital fossa. He cannot perform the a-ok sign and reports numbness in the volar aspect of the first three digits. The radial pulse is present. Radiographs show a displaced extension-type fracture proximal to the capitulum and trochlea, with disruption of the anterior humeral line. What is the most appropriate treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Closed reduction with percutaneous pinning, followed by a limb cast with the elbow flexed less than 90 degrees"
+    },
+    {
+     "id": "b",
+     "text": "Closed reduction with a long arm plaster slab in 90 degrees of flexion for 3 weeks"
+    },
+    {
+     "id": "c",
+     "text": "Collar and cuff sling with early range of motion"
+    },
+    {
+     "id": "d",
+     "text": "Open reduction and internal fixation with plates and screws"
+    },
+    {
+     "id": "e",
+     "text": "Total elbow arthroplasty"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Supracondylar fractures are most common in the pediatric population, over 96% are extension injuries from a FOOSH, and median nerve injury is commonly associated with the extension type. Non-operative treatment with a long arm plaster slab applies only to nondisplaced type 1 fractures; displacement greater than 50%, vascular injury or an open fracture are operative indications. Treatment is closed reduction plus percutaneous pinning followed by a limb cast with the elbow flexed less than 90 degrees.",
+   "optionExplanations": {
+    "b": "A long arm plaster slab in 90 degrees of flexion is reserved for the nondisplaced pediatric type 1 supracondylar fracture.",
+    "c": "A sling does not maintain reduction of a displaced supracondylar fracture and risks cubitus varus malalignment.",
+    "d": "ORIF is necessary in adults; children are managed with closed reduction and percutaneous pinning.",
+    "e": "Total elbow arthroplasty is an option for complex bicolumnar distal humerus fractures in the elderly, not for a child."
+   },
+   "topic": "Supracondylar Humerus Fracture",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "OR",
+    "name": "Orthopedic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1107,
+    "reference": "OR19 — Supracondylar Fracture"
+   }
+  },
+  {
+   "id": "TN-OR-017",
+   "type": "single-best-answer",
+   "question": "A 6-year-old girl falls onto a hyperextended elbow. She has pain, swelling and decreased rotation of the forearm, with a palpable lump at the radial head. Radiographs of the elbow, wrist and forearm show a fracture of the proximal third of the ulna angled apex anterior, with the radial head dislocated anteriorly. The distal radioulnar joint is intact. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Monteggia fracture"
+    },
+    {
+     "id": "b",
+     "text": "Galeazzi fracture"
+    },
+    {
+     "id": "c",
+     "text": "Nightstick fracture"
+    },
+    {
+     "id": "d",
+     "text": "Combined radius and ulna shaft fracture"
+    },
+    {
+     "id": "e",
+     "text": "Isolated traumatic radial head dislocation"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "A Monteggia fracture is a fracture of the proximal ulna with radial head dislocation and proximal radioulnar joint injury, classically from a fall on the hyperextended elbow, a direct blow to the posterior forearm or hyperpronation. The typical deformity is an ulna angled apex anterior with the radial head dislocated anteriorly, and the injury is more common with a better prognosis in the pediatric age group. Posterior interosseous nerve injury is the most common associated nerve injury and is observed for 3 months as most resolve spontaneously.",
+   "optionExplanations": {
+    "b": "A Galeazzi fracture is a fracture of the distal radial shaft with disruption of the DRUJ, which is intact here.",
+    "c": "A nightstick fracture is an isolated ulnar fracture without dislocation of the radial head.",
+    "d": "A combined radius and ulna shaft fracture involves both shafts without radial head dislocation.",
+    "e": "The radial head dislocation here is accompanied by a proximal ulna fracture, so it is not an isolated dislocation."
+   },
+   "topic": "Monteggia Fracture",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "OR",
+    "name": "Orthopedic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1110,
+    "reference": "OR22 — Monteggia Fracture"
+   }
+  },
+  {
+   "id": "TN-OR-018",
+   "type": "single-best-answer",
+   "question": "A 68-year-old woman with osteoporotic bone falls onto an outstretched hand. She has a dinner fork deformity of the wrist with swelling, ecchymosis and tenderness, and a normal neurovascular examination. Radiographs show an extra-articular transverse distal radius fracture about 2 cm proximal to the radiocarpal joint, with dorsal displacement and an ulnar styloid fracture. There is no intra-articular extension. What is the best initial treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Hematoma block with closed reduction and application of a dorsal slab or below elbow cast"
+    },
+    {
+     "id": "b",
+     "text": "Open reduction and internal fixation"
+    },
+    {
+     "id": "c",
+     "text": "Percutaneous pinning of the distal radius"
+    },
+    {
+     "id": "d",
+     "text": "External fixation of the wrist"
+    },
+    {
+     "id": "e",
+     "text": "Sling immobilization alone with early range of motion"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "This is a Colles fracture, the most common fracture in those over 40 yr, especially women and those with osteoporotic bone. Initial treatment is non-operative: a hematoma block or conscious sedation, closed reduction by traction with extension then traction with ulnar deviation, pronation and flexion of the distal fragment, and a dorsal slab or below elbow cast for 5-6 wk, with post-reduction films obtained immediately. Percutaneous pinning, external fixation or ORIF are reserved for failed closed reduction or loss of reduction.",
+   "optionExplanations": {
+    "b": "ORIF is indicated for failed closed reduction or loss of reduction, not as the initial treatment of an extra-articular fracture.",
+    "c": "Percutaneous pinning is an operative option used after closed reduction fails.",
+    "d": "External fixation is likewise reserved for failed or lost reduction.",
+    "e": "A dorsally displaced fracture requires reduction and casting; a sling alone will not restore radial height, inclination or volar tilt."
+   },
+   "topic": "Colles' Fracture",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "OR",
+    "name": "Orthopedic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1111,
+    "reference": "OR23 — Colles' Fracture"
+   }
+  },
+  {
+   "id": "TN-OR-019",
+   "type": "single-best-answer",
+   "question": "A 42-year-old man has 3 weeks of leg dominant pain radiating down the lateral aspect of the leg. On examination he has weakness of extensor hallucis longus and of hip abduction, numbness over the first dorsal webspace and the lateral leg, and he cannot heel walk. Knee and ankle reflexes are normal. Straight leg raise reproduces his symptoms. Which nerve root is most likely involved?",
+   "options": [
+    {
+     "id": "a",
+     "text": "L3"
+    },
+    {
+     "id": "b",
+     "text": "L4"
+    },
+    {
+     "id": "c",
+     "text": "L5"
+    },
+    {
+     "id": "d",
+     "text": "S1"
+    },
+    {
+     "id": "e",
+     "text": "S2"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "The L5 root supplies extensor hallucis longus and gluteus medius (hip abduction), gives sensation to the first dorsal webspace and lateral leg, and is screened by heel walking, with the medial hamstring reflex and a positive straight leg raise. L4 would give quadriceps and tibialis anterior weakness with medial malleolus numbness, a lost knee reflex and a positive femoral stretch test, and S1 would give weak plantar flexion, lateral foot numbness and a lost ankle reflex.",
+   "optionExplanations": {
+    "a": "An L3 lesion would not produce the extensor hallucis longus and hip abduction weakness with first dorsal webspace numbness described.",
+    "b": "L4 involvement causes knee extension and ankle dorsiflexion weakness, medial malleolus numbness and loss of the knee reflex, none of which is present.",
+    "d": "S1 involvement causes weak ankle plantar flexion and eversion, lateral foot numbness and a lost ankle reflex; his ankle reflex is normal.",
+    "e": "S2 is not the root tested by heel walking or by first dorsal webspace sensation."
+   },
+   "topic": "Lumbar Radiculopathy",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "OR",
+    "name": "Orthopedic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1114,
+    "reference": "OR26 — Thoracolumbar Spine: Lumbar Radiculopathy"
+   }
+  },
+  {
+   "id": "TN-OR-020",
+   "type": "single-best-answer",
+   "question": "A 71-year-old man describes bilateral back and leg pain brought on by standing and walking. The pain eases when he sits or leans forward over a shopping cart, with relief taking about 10 minutes, and the distance he can walk varies from day to day. He has mild motor weakness in both legs. Pedal pulses are normal and symmetric. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Spinal stenosis with neurogenic claudication"
+    },
+    {
+     "id": "b",
+     "text": "Vascular claudication"
+    },
+    {
+     "id": "c",
+     "text": "Mechanical back pain"
+    },
+    {
+     "id": "d",
+     "text": "Degenerative disc disease"
+    },
+    {
+     "id": "e",
+     "text": "Lumbar disc herniation"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Spinal stenosis is narrowing of the spinal canal and presents with bilateral back and leg pain, neurogenic claudication and possible motor weakness. Neurogenic claudication is aggravated by standing and walking with a variable walking distance, is alleviated by a change in position such as flexion, sitting or lying down, and takes about 10 min to settle, whereas vascular claudication is reproducible with exercise and relieved within 2 min of stopping. CT or MRI demonstrating narrowing of the spinal canal confirms the diagnosis.",
+   "optionExplanations": {
+    "b": "Vascular claudication is reproducible for a set walking distance, relieved in about 2 min by stopping, and would not be relieved simply by leaning forward; his pulses are normal.",
+    "c": "Mechanical back pain is back dominant pain without nerve impingement and without neurological signs.",
+    "d": "Degenerative disc disease causes axial back pain worse with axial loading and flexion, not pain relieved by flexion.",
+    "e": "Lumbar disc herniation typically gives back or leg dominant pain with tenderness between spinous processes and a positional flexion injury history, not positional claudication."
+   },
+   "topic": "Spinal Stenosis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "OR",
+    "name": "Orthopedic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1115,
+    "reference": "OR27 — Spinal Stenosis"
+   }
+  },
+  {
+   "id": "TN-OR-021",
+   "type": "single-best-answer",
+   "question": "A 46-year-old man is struck by a car. His left knee is grossly unstable and deformed with a large effusion and severe pain. The foot is cool, the dorsalis pedis pulse is diminished and the ABI is 0.6. He has a foot drop. Radiographs show posterior displacement of the tibia relative to the femur with an avulsion of the fibular head. What is the next best step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Urgent closed reduction and immobilization, with reassessment of neurovascular status"
+    },
+    {
+     "id": "b",
+     "text": "CT angiogram of the limb before any attempt at reduction"
+    },
+    {
+     "id": "c",
+     "text": "Immediate multiligament reconstruction in the operating room"
+    },
+    {
+     "id": "d",
+     "text": "Application of a hinged knee brace with serial ABI measurements"
+    },
+    {
+     "id": "e",
+     "text": "MRI of the knee to define the pattern of ligamentous injury"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "A dislocated knee is by definition caused by tears of multiple ligaments and may present with an ischemic limb, neurological deficit or compartment syndrome. Treatment begins with urgent closed reduction and immobilization, followed by assessment and management of neurovascular injuries and compartment syndrome; an abnormal vascular exam or ABI below 0.9 then prompts arteriogram or CT angiogram, and emergent operative repair is indicated for vascular injury, open injury, an irreducible or grossly unstable dislocation, or compartment syndrome. Ligament reconstruction is typically performed in a delayed fashion.",
+   "optionExplanations": {
+    "b": "Angiography is obtained after reduction; delaying reduction of an ischemic dislocated knee to image first prolongs the ischemia.",
+    "c": "Ligament reconstruction to restore knee stability is typically performed in a delayed fashion, not at initial presentation.",
+    "d": "Bracing and observation ignore the ischemic limb, which requires reduction and vascular assessment.",
+    "e": "MRI does not address the vascular emergency and would delay reduction."
+   },
+   "topic": "Knee Dislocation",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "OR",
+    "name": "Orthopedic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1125,
+    "reference": "OR37 — Dislocated Knee"
+   }
+  },
+  {
+   "id": "TN-OR-022",
+   "type": "single-best-answer",
+   "question": "A 38-year-old roofer falls 4 m from a ladder and lands on both heels. Both heels are swollen and exquisitely tender and he cannot walk. He also reports discomfort in his lower back. Radiographs of both feet show bilateral intra-articular calcaneal fractures. Distal pulses and sensation are intact and the compartments are soft. Which additional investigation is most appropriate?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Radiographs of the thoracic and lumbar spine"
+    },
+    {
+     "id": "b",
+     "text": "Canale view of the foot"
+    },
+    {
+     "id": "c",
+     "text": "MRI of both hindfeet"
+    },
+    {
+     "id": "d",
+     "text": "Ultrasound of the Achilles tendons"
+    },
+    {
+     "id": "e",
+     "text": "Bone scan of both feet"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Calcaneal fractures are caused by high energy axial loading, typically a fall from height onto the heels, and 10% are associated with compression fractures of the thoracic or lumbar spine, so spine injury must be ruled out. With a history of significant trauma from axial loading of the lower limb, spinal injuries and talar or calcaneal fractures should all be considered. His back discomfort makes thoracolumbar imaging the priority.",
+   "optionExplanations": {
+    "b": "The Canale view is used to image a suspected talar fracture, and the calcaneal fractures are already confirmed.",
+    "c": "MRI does not add to management here; CT is the modality used to assess intra-articular extension of calcaneal fractures.",
+    "d": "There is no clinical suggestion of an Achilles injury, and this would miss the associated spine fracture.",
+    "e": "A bone scan does not evaluate the thoracolumbar spine acutely and adds nothing to a radiographically confirmed fracture."
+   },
+   "topic": "Calcaneal Fracture",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "OR",
+    "name": "Orthopedic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1130,
+    "reference": "OR42 — Calcaneal Fracture"
+   }
+  },
+  {
+   "id": "TN-OR-023",
+   "type": "single-best-answer",
+   "question": "A 44-year-old recreational squash player felt sudden pain and heard an audible pop at the back of the ankle while pushing off. He cannot plantarflex against resistance and has an apprehensive toe off when walking. There is a palpable gap about 4 cm above the insertion on the heel. With the patient prone, squeezing the calf produces no plantar flexion. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Achilles tendon rupture"
+    },
+    {
+     "id": "b",
+     "text": "Achilles tendonitis"
+    },
+    {
+     "id": "c",
+     "text": "Retrocalcaneal bursitis"
+    },
+    {
+     "id": "d",
+     "text": "Haglund deformity"
+    },
+    {
+     "id": "e",
+     "text": "Calcaneal fracture"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Achilles tendon rupture follows sudden forced plantar flexion or violent dorsiflexion during stop-and-go sports such as squash, tennis and basketball, and presents with an audible pop, sudden pain with push-off, inability to plantarflex, a palpable gap and apprehensive toe off. Absence of passive plantar flexion when the calf is squeezed with the patient prone is a positive Thompson test, indicating a ruptured tendon. The most common site of rupture is 2-6 cm from the insertion, where the blood supply is poorest.",
+   "optionExplanations": {
+    "b": "Achilles tendonitis causes chronic posterior heel pain, swelling and a thickened tendon, without a palpable gap or a positive Thompson test.",
+    "c": "Retrocalcaneal bursitis presents as a painful heel bump associated with chronic tendonitis, not an acute pop with loss of plantar flexion.",
+    "d": "A Haglund deformity is a painful bony heel bump, and passive plantar flexion on calf squeeze would be preserved.",
+    "e": "A calcaneal fracture follows high energy axial loading onto the heel and would show marked heel swelling and bony injury on x-ray."
+   },
+   "topic": "Achilles Tendon Rupture",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "OR",
+    "name": "Orthopedic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1131,
+    "reference": "OR43 — Achilles Tendon Rupture"
+   }
+  },
+  {
+   "id": "TN-OR-024",
+   "type": "single-best-answer",
+   "question": "A 7-month-old infant who is not yet walking is brought in with a swollen, painful right thigh. The caregiver states the infant rolled off a couch onto a carpeted floor. Radiographs show a right femur fracture, a metaphyseal corner fracture of the distal tibia, and healing posterior rib fractures at different stages of healing. The infant is otherwise well and hemodynamically stable. What is the next best step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Admit the child to hospital, contact the appropriate authorities, engage social work, and treat the injuries as normal"
+    },
+    {
+     "id": "b",
+     "text": "Apply a hip spica cast and discharge home with outpatient orthopedic follow-up"
+    },
+    {
+     "id": "c",
+     "text": "Reassure the caregiver that the stated mechanism explains the injuries and discharge"
+    },
+    {
+     "id": "d",
+     "text": "Splint the limb and repeat radiographs in 2 weeks before deciding on further action"
+    },
+    {
+     "id": "e",
+     "text": "Treat the femur fracture and arrange routine community follow-up without further inquiry"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "In children the clinician must always consider non-accidental injury and confirm that the stated mechanism is compatible with the injury presentation, with a high index of suspicion for fractures in non-ambulating children under 1 yr and for x-ray evidence of healing fractures at different sites and different stages of healing. A metaphyseal corner fracture is the hallmark of non-accidental trauma, and a femur fracture under 1 yr and posterior rib fractures are also suspicious. When non-accidental injury is suspected, admit the child to hospital, contact the appropriate authorities, engage allied health such as social work, and treat the injuries as normal.",
+   "optionExplanations": {
+    "b": "Discharging the infant home returns the child to a potentially unsafe environment despite hallmark features of non-accidental trauma.",
+    "c": "A low energy roll off a couch is not compatible with a femur fracture, a metaphyseal corner fracture and healing posterior rib fractures in a non-ambulating infant.",
+    "d": "Fractures at different sites and stages of healing are already documented; delaying protection of the child is unsafe.",
+    "e": "Treating only the fracture omits the mandatory reporting and multidisciplinary response required for suspected non-accidental injury."
+   },
+   "topic": "Non-Accidental Injury in Children",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "OR",
+    "name": "Orthopedic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1133,
+    "reference": "OR45 — Fractures in Children"
+   }
+  },
+  {
+   "id": "TN-OR-025",
+   "type": "single-best-answer",
+   "question": "A 13-year-old boy who plays competitive basketball has 3 months of anterior knee pain exacerbated by jumping and kneeling and relieved by rest. There is a tender lump over the tibial tuberosity and pain on resisted leg extension. There is no effusion, no warmth and no fever, and the knee is stable. Lateral knee x-ray shows fragmentation of the tibial tubercle. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Osgood-Schlatter disease"
+    },
+    {
+     "id": "b",
+     "text": "Patellar tendon rupture"
+    },
+    {
+     "id": "c",
+     "text": "Septic arthritis of the knee"
+    },
+    {
+     "id": "d",
+     "text": "Osteochondritis dissecans of the knee"
+    },
+    {
+     "id": "e",
+     "text": "Osteosarcoma of the proximal tibia"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Osgood-Schlatter disease is inflammation of the patellar ligament at its insertion on the tibial tuberosity, caused by repetitive tensile stress producing a minor avulsion and tibial tubercle apophysitis, and it affects boys 12-15 yr more than girls. It presents with a tender lump over the tibial tuberosity, pain on resisted leg extension and anterior knee pain exacerbated by jumping or kneeling and relieved by rest, with lateral knee x-ray showing fragmentation of the tibial tubercle. It is a benign, self-limited condition managed by avoiding aggravating activities such as basketball, plus NSAIDs, rest and strengthening.",
+   "optionExplanations": {
+    "b": "A patellar tendon rupture causes acute inability to extend the knee, not months of activity-related pain with a tender tubercle.",
+    "c": "Septic arthritis would present with fever, an erythematous warm swollen joint and pain on passive motion.",
+    "d": "Osteochondritis dissecans is avascular necrosis of subchondral bone and would not produce a tender lump at the tibial tuberosity with tubercle fragmentation.",
+    "e": "A malignant bone tumour causes progressive night pain with a soft tissue mass and aggressive radiographic features, which are absent here."
+   },
+   "topic": "Osgood-Schlatter Disease",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "OR",
+    "name": "Orthopedic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1136,
+    "reference": "OR48 — Osgood-Schlatter Disease"
+   }
+  },
+  {
+   "id": "TN-OR-026",
+   "type": "single-best-answer",
+   "question": "A 16-year-old boy has 3 months of progressive pain around the right knee that is worse at night, with poorly defined swelling and decreased range of motion. Radiographs of the distal femur show a destructive blastic lesion with a sunburst pattern, periosteal reaction lifting the cortex off the bone, and an adjacent soft tissue mass. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Osteosarcoma"
+    },
+    {
+     "id": "b",
+     "text": "Ewing's sarcoma"
+    },
+    {
+     "id": "c",
+     "text": "Chondrosarcoma"
+    },
+    {
+     "id": "d",
+     "text": "Multiple myeloma"
+    },
+    {
+     "id": "e",
+     "text": "Metastatic carcinoma"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The majority of osteosarcomas occur in the 2nd decade of life and have a predilection for sites of rapid growth, most often the distal femur, followed by the proximal tibia and proximal humerus. It causes progressive pain, night pain, poorly defined swelling and decreased ROM, and radiographs show a characteristic blastic and destructive lesion with a sunburst pattern, periosteal reaction (Codman's triangle) and a soft tissue mass. Staging includes a bone scan for skeletal metastases and CT chest for pulmonary metastases before neo-adjuvant chemotherapy and limb salvage resection.",
+   "optionExplanations": {
+    "b": "Ewing's sarcoma occurs between ages 5-25 yr but gives a moth-eaten destructive lesion with onion-skinning and often mimics infection with fever, erythema and raised inflammatory markers.",
+    "c": "Chondrosarcoma typically arises after age 40 in primary cases and shows irregular popcorn calcification in the medullary cavity.",
+    "d": "Multiple myeloma occurs in 90% of cases after age 40 and produces multiple punched-out lesions without surrounding sclerosis.",
+    "e": "Metastatic carcinoma is the common bone lesion of adults over 40 yr and would be unusual in a 16-year-old."
+   },
+   "topic": "Malignant Bone Tumours",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "OR",
+    "name": "Orthopedic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1140,
+    "reference": "OR52 — Osteosarcoma"
    }
   }
  ]

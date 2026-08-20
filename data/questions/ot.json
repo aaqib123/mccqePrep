@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 10,
+ "count": 22,
  "questions": [
   {
    "id": "TN-OT-001",
@@ -468,6 +468,558 @@
     "document": "Toronto Notes 2025",
     "page": 1190,
     "reference": "OT46 — Acute Epiglottitis"
+   }
+  },
+  {
+   "id": "TN-OT-011",
+   "type": "single-best-answer",
+   "question": "A 24-year-old man who swims daily has three days of right otalgia, itching, and aural fullness. Pain is aggravated by traction of the pinna and by pressure over the tragus, and it worsens with chewing. The external auditory canal is edematous and erythematous with scant otorrhea, and the tympanic membrane appears normal where it can be seen. He is afebrile. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Acute otitis externa"
+    },
+    {
+     "id": "b",
+     "text": "Acute otitis media"
+    },
+    {
+     "id": "c",
+     "text": "Chronic otitis externa"
+    },
+    {
+     "id": "d",
+     "text": "Cerumen impaction"
+    },
+    {
+     "id": "e",
+     "text": "Exostoses of the external auditory canal"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Otitis externa is inflammation of the external auditory canal or auricle, and acute disease presents with otalgia, itching, fullness, ear canal pain on chewing, and tenderness aggravated by traction of the pinna or pressure over the tragus, with canal edema, erythema, and possible otorrhea. Water in the ear canal from swimming is a listed risk factor. Pulling on the pinna is extremely painful in otitis externa but is usually well tolerated in otitis media.",
+   "optionExplanations": {
+    "b": "Pulling on the pinna is usually well tolerated in otitis media, and the findings here are canal edema and erythema rather than middle ear disease.",
+    "c": "Chronic otitis externa gives pruritus with an atrophic, scaly canal lining and a wide meatus, with no pain on movement of the auricle.",
+    "d": "Cerumen impaction causes conductive hearing loss, fullness, itching and discharge, but not an edematous erythematous canal that is tender on tragal pressure.",
+    "e": "Exostoses are bony protuberances of the canal that are usually an incidental finding and cause symptoms only by producing cerumen impaction or otitis externa."
+   },
+   "topic": "Otitis Externa",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "OT",
+    "name": "Otolaryngology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1160,
+    "reference": "OT16 — Otitis Externa"
+   }
+  },
+  {
+   "id": "TN-OT-012",
+   "type": "single-best-answer",
+   "question": "A 74-year-old man with poorly controlled diabetes has four weeks of severe left otalgia and purulent otorrhea that is refractory to two courses of topical drops. Granulation tissue is seen on the floor of the left auditory canal. He now has a new left peripheral facial nerve palsy and a temperature of 38.2 degrees Celsius. What is the most appropriate next step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Hospitalization for IV antibiotics with debridement and temporal bone imaging"
+    },
+    {
+     "id": "b",
+     "text": "Continue topical antimicrobial drops and keep the external auditory canal dry"
+    },
+    {
+     "id": "c",
+     "text": "Start an oral antibiotic as an outpatient and review in one week"
+    },
+    {
+     "id": "d",
+     "text": "Prescribe analgesics and treat an underlying dermatologic condition"
+    },
+    {
+     "id": "e",
+     "text": "Arrange an outpatient technetium scan and withhold treatment until the result returns"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Malignant (necrotizing) otitis externa is osteomyelitis of the mastoid or temporal bone, occurring in elderly patients with diabetes mellitus and in the immunocompromised, most commonly caused by Pseudomonas aeruginosa. It presents with otalgia and purulent otorrhea refractory to medical therapy plus granulation or necrotic tissue on the floor of the auditory canal, and cranial nerve palsy (most commonly CN VII) is a recognized complication. It is a medical emergency requiring hospitalization, debridement and IV antibiotics, with high resolution temporal bone CT or gadolinium-enhanced MRI.",
+   "optionExplanations": {
+    "b": "Topical therapy has already failed; refractory otalgia and otorrhea with granulation tissue signal skull base osteomyelitis rather than simple otitis externa.",
+    "c": "Oral antibiotics are used when infection spreads beyond the ear canal in ordinary otitis externa, but osteomyelitis with a cranial nerve palsy needs admission and IV therapy.",
+    "d": "Treating an underlying dermatologic cause applies to chronic otitis externa, not to a necrotizing infection with bone involvement.",
+    "e": "Technetium scanning helps demonstrate sites of osteomyelitis, but imaging must not delay hospitalization and IV antibiotics in this emergency."
+   },
+   "topic": "Malignant (Necrotizing) Otitis Externa",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "OT",
+    "name": "Otolaryngology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1161,
+    "reference": "OT17 — Malignant (Necrotizing) Otitis Externa"
+   }
+  },
+  {
+   "id": "TN-OT-013",
+   "type": "single-best-answer",
+   "question": "A 37-year-old woman reports 18 months of malodourous unilateral right otorrhea with progressive hearing loss and aural fullness. She had ventilation tubes as a child. Otoscopy shows a retraction pocket of the pars flaccida containing keratinous debris, with granulation tissue at its margin. The audiogram shows a conductive loss, and non-contrast CT of the temporal bones shows erosion of the ossicles. What is the most appropriate definitive treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Mastoidectomy with tympanoplasty and ossicular reconstruction"
+    },
+    {
+     "id": "b",
+     "text": "Insertion of a ventilation tube"
+    },
+    {
+     "id": "c",
+     "text": "A prolonged course of oral antibiotics"
+    },
+    {
+     "id": "d",
+     "text": "Topical antibiotic and corticosteroid drops"
+    },
+    {
+     "id": "e",
+     "text": "Observation with a repeat audiogram in six months"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Acquired cholesteatoma is frequently associated with retraction pockets in the pars flaccida or pars tensa and presents with progressive predominantly conductive hearing loss, otalgia, aural fullness, and malodourous unilateral otorrhea, often with granulation tissue on otoscopy and a history of otitis media or ventilation tubes. The associated chronic inflammatory process causes progressive destruction of surrounding bony structures, such as the ossicular erosion causing this conductive loss. Investigation is audiogram plus non-contrast CT of the temporal bones, and treatment is surgical: mastoidectomy with tympanoplasty and ossicular reconstruction.",
+   "optionExplanations": {
+    "b": "A ventilation tube does not remove keratinized squamous epithelium, and previous tubes are part of the history that predisposed to cholesteatoma.",
+    "c": "Antibiotics may temporarily reduce discharge but cannot halt the progressive bony destruction produced by cholesteatoma.",
+    "d": "Topical drops treat canal and middle ear infection but leave the cholesteatoma sac and its erosive potential in place.",
+    "e": "Observation risks ossicular and inner ear erosion, facial paralysis, mastoiditis, and intracranial complications such as meningitis."
+   },
+   "topic": "Cholesteatoma",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "OT",
+    "name": "Otolaryngology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1162,
+    "reference": "OT18 — Cholesteatoma"
+   }
+  },
+  {
+   "id": "TN-OT-014",
+   "type": "single-best-answer",
+   "question": "A 55-year-old woman woke two days ago with sudden loss of hearing in the left ear accompanied by tinnitus and aural fullness. She has no vertigo, ataxia, weakness, or other focal neurological signs. Audiometry confirms a left sensorineural loss of 45 dB affecting three consecutive frequencies, with a normal right ear. History, physical examination and screening investigations reveal no underlying cause. What is the best initial treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Oral prednisone 1 mg/kg/d for 7-14 days"
+    },
+    {
+     "id": "b",
+     "text": "Oral acyclovir"
+    },
+    {
+     "id": "c",
+     "text": "Oral amoxicillin-clavulanate"
+    },
+    {
+     "id": "d",
+     "text": "Intratympanic gentamicin"
+    },
+    {
+     "id": "e",
+     "text": "Oral cyclophosphamide"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Sudden sensorineural hearing loss presents as sudden onset of significant SNHL, usually unilateral, with tinnitus, vertigo or aural fullness, and is idiopathic in 80-90% of cases once other causes are ruled out. When idiopathic, treatment is intratympanic or oral corticosteroids (prednisone 1 mg/kg/d for 7-14 d), started within 3 d if possible and up to 14 d after onset. This woman is 2 days from onset with an audiogram confirming loss of at least 30 dB across three consecutive frequencies, so steroids should begin now.",
+   "optionExplanations": {
+    "b": "Antivirals treat the underlying cause only when an infectious etiology such as HSV or herpes-zoster is identified; here the workup was unremarkable.",
+    "c": "There is no bacterial infection to treat, and antibiotics do not alter the course of idiopathic sudden sensorineural hearing loss.",
+    "d": "Gentamicin is an ototoxic aminoglycoside that damages sensory hair cells and would worsen the loss.",
+    "e": "Cytotoxic medication is reserved for steroid non-responders in autoimmune inner ear disease, not as initial therapy for sudden hearing loss."
+   },
+   "topic": "Sudden Sensorineural Hearing Loss",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "OT",
+    "name": "Otolaryngology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1164,
+    "reference": "OT20 — Sudden Sensorineural Hearing Loss"
+   }
+  },
+  {
+   "id": "TN-OT-015",
+   "type": "single-best-answer",
+   "question": "A 19-year-old woman has four consecutive springs of nasal congestion, nasal itch, watery rhinorrhea, sneezing and hyposmia, with redness, tearing and itching of the eyes. Her mother has asthma. Examination shows congested gray-blue turbinates and a transverse crease across the nasal tip. Allergen avoidance and nasal saline irrigation have not controlled her symptoms. What is the most appropriate initial pharmacological treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Intranasal corticosteroid"
+    },
+    {
+     "id": "b",
+     "text": "Oral decongestant"
+    },
+    {
+     "id": "c",
+     "text": "Leukotriene receptor antagonist"
+    },
+    {
+     "id": "d",
+     "text": "Allergen immunotherapy"
+    },
+    {
+     "id": "e",
+     "text": "Oral corticosteroid"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Allergic rhinitis is an IgE-mediated hypersensitivity of the nasal mucosa presenting with nasal congestion, nasal itch, watery rhinorrhea, sneezing and hyposmia, often with allergic conjunctivitis, congested gray/blue turbinates and a nasal tip transverse crease. Seasonal disease is caused by pollen from trees, grass and ragweed. After allergen identification and avoidance and nasal saline irrigation, the intranasal corticosteroid is the mainstay of treatment.",
+   "optionExplanations": {
+    "b": "Decongestants are listed among other therapies only and carry the risk of rhinitis medicamentosa.",
+    "c": "A leukotriene receptor antagonist is an adjunct rather than the mainstay of pharmacological treatment.",
+    "d": "Allergen immunotherapy is reserved for patients not controlled by standard measures, not as initial drug therapy.",
+    "e": "Oral corticosteroids are among the other therapies and are inappropriate as first-line treatment for seasonal symptoms."
+   },
+   "topic": "Allergic Rhinitis",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "OT",
+    "name": "Otolaryngology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1168,
+    "reference": "OT24 — Allergic Rhinitis"
+   }
+  },
+  {
+   "id": "TN-OT-016",
+   "type": "single-best-answer",
+   "question": "A 32-year-old elementary school teacher has six months of gradually worsening hoarseness that is worst at the end of the day and improves over the weekend. She does not smoke or drink alcohol and has no dysphagia, weight loss or neck mass. Laryngoscopy shows bilateral symmetric lesions at the junction of the anterior one-third and posterior two-thirds of the vocal cords, with normal cord mobility. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Vocal cord nodules"
+    },
+    {
+     "id": "b",
+     "text": "Vocal cord polyp"
+    },
+    {
+     "id": "c",
+     "text": "Laryngeal carcinoma"
+    },
+    {
+     "id": "d",
+     "text": "Unilateral vocal cord paralysis"
+    },
+    {
+     "id": "e",
+     "text": "Retention cyst of the vocal cord"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Vocal cord nodules are a vocal cord callus, bilateral by definition and symmetric, arising from chronic voice strain and occurring frequently in singers, children, bartenders and school teachers. Hoarseness is worst at the end of the day, and laryngoscopy shows bilateral symmetric nodules at the junction of the anterior one-third and posterior two-thirds of the cords, the point of maximal cord vibration. Primary treatment is voice rest and voice therapy with hydration and avoidance of irritants.",
+   "optionExplanations": {
+    "b": "A polyp is unilateral and asymmetrical, of acute onset, and typically a soft smooth pedicled or sessile lesion on the anterior one-third of one cord.",
+    "c": "Laryngeal carcinoma would be suggested by smoking and alcohol exposure with a mass lesion, not by symmetric bilateral lesions with normal mobility.",
+    "d": "Vocal cord paralysis produces a breathy voice with the affected cord in the paramedian position and impaired mobility, whereas mobility is normal here.",
+    "e": "A retention cyst is a solitary lesion and does not produce paired symmetric swellings at the point of maximal vibration on both cords."
+   },
+   "topic": "Vocal Cord Nodules and Polyps",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "OT",
+    "name": "Otolaryngology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1173,
+    "reference": "OT29 — Vocal Cord Nodules"
+   }
+  },
+  {
+   "id": "TN-OT-017",
+   "type": "single-best-answer",
+   "question": "A 45-year-old man has three months of intermittent left submandibular swelling and pain that begin within minutes of starting a meal and settle over the next hour. He is afebrile with no suppurative drainage from the duct punctum. There is tenderness over the involved gland, and digital palpation of the floor of the mouth reveals a firm calculus. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Sialolithiasis"
+    },
+    {
+     "id": "b",
+     "text": "Acute bacterial sialadenitis"
+    },
+    {
+     "id": "c",
+     "text": "Pleomorphic adenoma"
+    },
+    {
+     "id": "d",
+     "text": "Warthin's tumour"
+    },
+    {
+     "id": "e",
+     "text": "Mumps parotitis"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Sialolithiasis is a ductal stone leading to chronic sialadenitis, with 80% occurring in the submandibular gland. It presents with pain and tenderness over the involved gland and intermittent swelling related to meals, and digital palpation reveals the presence of the calculus. Ultrasound is the first investigation, and if a stone is identified CT is used for localization.",
+   "optionExplanations": {
+    "b": "Acute sialadenitis produces acute onset pain and marked gland edema with fever, leukocytosis and suppurative drainage from the punctum, none of which are present.",
+    "c": "Pleomorphic adenoma is a benign salivary neoplasm presenting as a persistent mass rather than swelling that fluctuates with meals.",
+    "d": "Warthin's tumour is a benign parotid neoplasm, often bilateral, and does not cause a palpable ductal calculus.",
+    "e": "Mumps usually presents with bilateral parotid enlargement, not unilateral submandibular swelling with a palpable stone."
+   },
+   "topic": "Salivary Gland Disease",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "OT",
+    "name": "Otolaryngology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1175,
+    "reference": "OT31 — Sialolithiasis"
+   }
+  },
+  {
+   "id": "TN-OT-018",
+   "type": "single-best-answer",
+   "question": "A 61-year-old man with a 40 pack-year smoking history is seen with a firm, painless 3 cm lateral neck mass that he first noticed eight weeks ago. It has not changed after a course of antibiotics. He is afebrile, the mass is non-tender and does not correspond to a normal neck structure such as the hyoid or a prominent carotid bulb, and there is no dental or throat pain. What is the most likely cause of this neck mass?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Metastatic malignancy from an unknown primary"
+    },
+    {
+     "id": "b",
+     "text": "Reactive lymphadenopathy secondary to tonsillitis"
+    },
+    {
+     "id": "c",
+     "text": "Branchial cleft cyst"
+    },
+    {
+     "id": "d",
+     "text": "Thyroglossal duct cyst"
+    },
+    {
+     "id": "e",
+     "text": "Sialadenitis"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Any neck mass persisting for more than 2 wk should be investigated for possible neoplastic causes, once it is confirmed not to be a normal neck structure. In patients over 40 the order of prevalence of acquired causes of a neck lump is neoplastic first, then inflammatory, then congenital, the reverse of the pattern under 40. A firm, painless, persistent lateral neck mass in an older smoker fits metastatic malignancy, listed among neoplastic causes as unknown primary.",
+   "optionExplanations": {
+    "b": "Reactive lymphadenopathy is secondary to tonsillitis or pharyngitis and would be expected to be tender and to settle rather than persist unchanged for eight weeks.",
+    "c": "Branchial cleft cysts are congenital lateral neck masses, and congenital causes are the least likely group in patients over 40.",
+    "d": "A thyroglossal duct cyst is a congenital midline mass, whereas this lesion is lateral and arose in a man over 40.",
+    "e": "Sialadenitis is an inflammatory salivary gland condition with painful glandular swelling, not a painless persistent neck lump."
+   },
+   "topic": "Approach to a Neck Mass",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "OT",
+    "name": "Otolaryngology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1176,
+    "reference": "OT32 — Approach to a Neck Mass"
+   }
+  },
+  {
+   "id": "TN-OT-019",
+   "type": "single-best-answer",
+   "question": "A 5-year-old boy is brought in with heavy snoring, witnessed pauses in breathing, and sleeping with his neck hyperextended. During the day he mouth breathes, is excessively sleepy, has morning headaches, and his teacher reports inattention and hyperactivity. He is otherwise healthy. Examination shows large tonsils and an open-mouthed appearance with a high arched palate. What is the most appropriate investigation to confirm the diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Polysomnography"
+    },
+    {
+     "id": "b",
+     "text": "Flexible nasopharyngoscopy"
+    },
+    {
+     "id": "c",
+     "text": "Lateral soft tissue x-ray of the nasopharynx"
+    },
+    {
+     "id": "d",
+     "text": "Overnight home pulse oximetry"
+    },
+    {
+     "id": "e",
+     "text": "Chest radiograph"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Sleep-disordered breathing in children is a spectrum from snoring to obstructive sleep apnea, peaking between 2 and 8 yr when the tonsils and adenoids are largest relative to the pharyngeal airway, with nighttime heavy snoring, apneic pauses and neck hyperextension and daytime mouth breathing, sleepiness, ADHD-like symptoms and morning headache. Polysomnography is the test that establishes and grades the diagnosis, with an apnea-hypopnea index above 1/h considered abnormal and severity in children graded as mild 2-4/h, moderate 6-10/h and severe more than 10/h.",
+   "optionExplanations": {
+    "b": "Flexible nasopharyngoscopy assesses the nasopharynx and adenoids anatomically but does not quantify apneas and hypopneas.",
+    "c": "A lateral soft tissue x-ray shows the adenoid shadow, and palate elevation can make the adenoid look larger, so it cannot confirm obstructive sleep apnea.",
+    "d": "Pulse oximetry alone does not generate an apnea-hypopnea index and is not the diagnostic study named for this presentation.",
+    "e": "A chest radiograph does not assess upper airway obstruction during sleep."
+   },
+   "topic": "Sleep-Disordered Breathing in Children",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "OT",
+    "name": "Otolaryngology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1186,
+    "reference": "OT42 — Sleep-Disordered Breathing in Children"
+   }
+  },
+  {
+   "id": "TN-OT-020",
+   "type": "single-best-answer",
+   "question": "A 22-year-old man has five days of sore throat, now with severe left-sided odynophagia, dysphagia, drooling and a muffled hot potato voice. Temperature is 38.7 degrees Celsius. He can barely open his mouth. There is extensive peritonsillar swelling on the left with edema of the soft palate, deviation of the uvula to the right, and tender cervical lymphadenitis. His airway is patent. What is the most appropriate next step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Surgical drainage by incision or needle aspiration with culture and sensitivity"
+    },
+    {
+     "id": "b",
+     "text": "Oral antibiotics alone with review in 48 hours"
+    },
+    {
+     "id": "c",
+     "text": "Immediate tonsillectomy"
+    },
+    {
+     "id": "d",
+     "text": "Warm saline irrigation and analgesia alone"
+    },
+    {
+     "id": "e",
+     "text": "Admission for IV fluids and observation without intervention"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Peritonsillar abscess is a cellulitis of the space behind the tonsillar capsule extending onto the soft palate and leading to abscess, most common in the 15-30 yr age group, with trismus the most reliable indicator plus uvular deviation, dysphonia, fever, drooling and extensive peritonsillar swelling. After securing the airway, treatment is surgical drainage by incision or needle aspiration with culture and sensitivity, followed by empiric oral antibiotics to a 14-day course modified by the culture results.",
+   "optionExplanations": {
+    "b": "Antibiotics are given after drainage and modified by culture results; medical therapy alone leaves the collection undrained and risks rupture and aspiration pneumonia.",
+    "c": "Elective tonsillectomy is considered after resolution of the infection and may even be deferred until after a second episode.",
+    "d": "Warm saline irrigation is an adjunct, not a substitute for drainage of the abscess.",
+    "e": "Observation risks airway obstruction, spontaneous rupture with aspiration pneumonia, and spread into the parapharyngeal or carotid space."
+   },
+   "topic": "Peritonsillar Abscess",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "OT",
+    "name": "Otolaryngology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1187,
+    "reference": "OT43 — Peritonsillar Abscess (Quinsy)"
+   }
+  },
+  {
+   "id": "TN-OT-021",
+   "type": "single-best-answer",
+   "question": "An 18-month-old girl had a sudden episode of coughing and choking two hours ago while eating peanuts. She is now alert and stable with an intermittent cough. She is afebrile with a normal white blood cell count. There is a unilateral wheeze with decreased breath sounds on the right, and she has been kept NPO. What is the most appropriate investigation?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Right and left decubitus chest radiographs"
+    },
+    {
+     "id": "b",
+     "text": "Inspiratory-expiratory chest radiograph"
+    },
+    {
+     "id": "c",
+     "text": "Lateral soft tissue radiograph of the neck"
+    },
+    {
+     "id": "d",
+     "text": "CT of the chest"
+    },
+    {
+     "id": "e",
+     "text": "Barium swallow"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "An aspirated foreign body such as a peanut is usually stuck at the right main bronchus and produces unilateral 'asthma' with wheeze and decreased breath sounds, of sudden onset and not necessarily febrile or with an elevated WBC. Any patient with a suspected foreign body should be kept NPO immediately. In a younger patient the imaging of choice is right and left decubitus chest x-rays, where lack of lung deflation while resting on the dependent side suggests a foreign body blocking a bronchus.",
+   "optionExplanations": {
+    "b": "Inspiratory-expiratory chest x-ray is the study for an older, stable patient who can cooperate with the breathing manoeuvre.",
+    "c": "A lateral neck film addresses an ingested foreign body stuck at the cricopharyngeus, whereas this child has bronchial signs.",
+    "d": "CT of the chest is not the described initial imaging for suspected aspirated foreign body in a young child.",
+    "e": "Barium swallow assesses the esophagus and is hazardous in a child who must be kept NPO pending airway endoscopy."
+   },
+   "topic": "Airway Foreign Body",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "OT",
+    "name": "Otolaryngology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1191,
+    "reference": "OT47 — Foreign Body"
+   }
+  },
+  {
+   "id": "TN-OT-022",
+   "type": "single-best-answer",
+   "question": "A 54-year-old man with untreated caries of the lower molars has two days of worsening throat and neck pain, trismus, odynophagia and fever. He is sitting forward drooling, with erythema and swelling of the submandibular region and floor of the mouth, purulent oral discharge, dysphonia and inspiratory stridor. Oxygen saturation is 93% on room air. What is the most appropriate next step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Secure the airway"
+    },
+    {
+     "id": "b",
+     "text": "CT of the neck with contrast"
+    },
+    {
+     "id": "c",
+     "text": "Maximum dose IV systemic antimicrobials"
+    },
+    {
+     "id": "d",
+     "text": "Surgical drainage with extraction of the infected tooth"
+    },
+    {
+     "id": "e",
+     "text": "Lateral cervical view plain radiograph"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Deep neck space infections most commonly arise from infection of the mandibular teeth in adults, often have a rapid onset and may progress to fatal complications, presenting with sore throat, trismus, dysphagia and odynophagia, swelling of the face and neck, purulent oral discharge, and stridor and dyspnea, with dysphonia and hoarseness as late findings. Ludwig's angina is the prototypical infection of the submandibular and sublingual space. Treatment order is to secure the airway first, then source control, then maximum doses of IV systemic antimicrobials.",
+   "optionExplanations": {
+    "b": "CT with contrast is part of the diagnostic workup, but imaging must wait because the worst place to lose an airway is during imaging.",
+    "c": "IV antimicrobials are essential but follow airway control and source control in a patient who already has stridor.",
+    "d": "Source control by drainage and tooth extraction is definitive but is performed after the airway is secured.",
+    "e": "A lateral cervical radiograph is a diagnostic step and does not address the immediate threat of airway loss."
+   },
+   "topic": "Deep Neck Space Infection",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "OT",
+    "name": "Otolaryngology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1192,
+    "reference": "OT48 — Deep Neck Space Infection"
    }
   }
  ]

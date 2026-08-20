@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 14,
+ "count": 28,
  "questions": [
   {
    "id": "TN-D-001",
@@ -652,6 +652,650 @@
     "document": "Toronto Notes 2025",
     "page": 230,
     "reference": "D42 — Malignant Melanoma"
+   }
+  },
+  {
+   "id": "TN-D-015",
+   "type": "single-best-answer",
+   "question": "A 34-year-old woman has a 3-month history of an itchy eruption on both earlobes and on the wrist under her watch strap. Examination shows erythema with a papulovesicular eruption and swelling limited to the areas in contact with her jewellery, with normal surrounding skin. She has no history of atopy. What is the most appropriate investigation?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Patch testing"
+    },
+    {
+     "id": "b",
+     "text": "Potassium hydroxide preparation of skin scrapings"
+    },
+    {
+     "id": "c",
+     "text": "Punch biopsy for direct immunofluorescence"
+    },
+    {
+     "id": "d",
+     "text": "Serum total IgE level"
+    },
+    {
+     "id": "e",
+     "text": "Bacterial swab for culture and sensitivity"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes classifies allergic contact dermatitis as a cell-mediated delayed (type IV) hypersensitivity reaction producing erythema with a papulovesicular eruption, swelling, and pruritus in areas exposed to the allergen, with nickel listed among the common allergens. Patch testing is used to determine the specific allergen so that the allergen and its cross-reactants can be avoided, with topical corticosteroids BID prn for symptoms. This woman's eruption is confined to sites of jewellery contact, which is the pattern of an acquired allergen susceptibility rather than a toxic irritant injury.",
+   "optionExplanations": {
+    "b": "A potassium hydroxide preparation looks for a dermatophyte, which does not produce swelling confined to jewellery contact sites.",
+    "c": "Direct immunofluorescence is used for immunobullous disease, not for identifying a contact allergen.",
+    "d": "A total IgE level does not identify the responsible contact allergen in a delayed type IV reaction.",
+    "e": "Bacterial culture is used when secondary infection is suspected, and it will not identify the causative allergen."
+   },
+   "topic": "Contact Dermatitis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "D",
+    "name": "Dermatology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 206,
+    "reference": "D18 — Contact Dermatitis"
+   }
+  },
+  {
+   "id": "TN-D-016",
+   "type": "single-best-answer",
+   "question": "A 46-year-old man reports 6 months of an itchy, flaky scalp. Examination shows diffuse involvement of the scalp margin with yellow to white flakes and underlying erythema, together with greasy erythematous scaling in the nasolabial folds and eyebrows. There is no hair loss and no nail change. What is the best initial treatment for his scalp?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Ketoconazole 2% shampoo"
+    },
+    {
+     "id": "b",
+     "text": "Oral terbinafine 250 mg daily"
+    },
+    {
+     "id": "c",
+     "text": "Permethrin 1% cream rinse"
+    },
+    {
+     "id": "d",
+     "text": "Oral prednisone taper"
+    },
+    {
+     "id": "e",
+     "text": "Topical calcipotriol solution"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes describes adult seborrheic dermatitis as diffuse involvement of the scalp margin with yellow to white flakes, pruritus, and underlying erythema, with additional involvement of the nasolabial folds and eyebrows, and attributes it to Malassezia species. For the scalp, management is ketoconazole 2% shampoo, ciclopirox shampoo, selenium sulfide or zinc pyrithione shampoo, or a steroid lotion. His greasy scaling in sebaceous gland-rich sites fits this diagnosis, so an antifungal shampoo is the appropriate first step.",
+   "optionExplanations": {
+    "b": "Oral terbinafine is reserved for onychomycosis and tinea capitis, not for seborrheic dermatitis.",
+    "c": "Permethrin treats scabies and pediculosis, neither of which produces greasy scaling of the nasolabial folds.",
+    "d": "Systemic corticosteroids are not indicated for localized seborrheic dermatitis of the scalp.",
+    "e": "Topical vitamin D analogues are used for psoriasis rather than as first-line therapy for seborrheic dermatitis."
+   },
+   "topic": "Seborrheic Dermatitis",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "D",
+    "name": "Dermatology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 207,
+    "reference": "D19 — Seborrheic Dermatitis"
+   }
+  },
+  {
+   "id": "TN-D-017",
+   "type": "single-best-answer",
+   "question": "A 19-year-old man develops a widespread eruption 2 weeks after an episode of streptococcal pharyngitis. Examination shows discrete, scattered, salmon-pink small scaling papules over the trunk and legs, sparing the palms and soles. There is no herald patch, no mucosal lesion, and no lymphadenopathy. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Guttate psoriasis"
+    },
+    {
+     "id": "b",
+     "text": "Pityriasis rosea"
+    },
+    {
+     "id": "c",
+     "text": "Secondary syphilis"
+    },
+    {
+     "id": "d",
+     "text": "Nummular dermatitis"
+    },
+    {
+     "id": "e",
+     "text": "Tinea corporis"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes describes guttate psoriasis as discrete, scattered salmon-pink small scaling papules distributed diffusely, usually on the trunk and legs and sparing the palms and soles, with an often antecedent streptococcal pharyngitis. Management is broadband UVB phototherapy, sunlight and emollients, with penicillin V, erythromycin, or azithromycin if group A streptococcus is grown on throat culture. The drop-like papules appearing shortly after pharyngitis in this young man match that description.",
+   "optionExplanations": {
+    "b": "Pityriasis rosea begins with a herald patch and produces oval plaques following skin tension lines rather than drop-like salmon-pink papules after pharyngitis.",
+    "c": "Secondary syphilis characteristically involves the palms and soles and is accompanied by generalized lymphadenopathy and constitutional symptoms.",
+    "d": "Nummular dermatitis produces coin-shaped, dry, scaly, pruritic plaques rather than showers of small scaling papules.",
+    "e": "Tinea corporis produces a scaly annular plaque with an active margin, not a diffuse scattered papular eruption."
+   },
+   "topic": "Psoriasis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "D",
+    "name": "Dermatology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 210,
+    "reference": "D22 — Psoriasis / Guttate Psoriasis"
+   }
+  },
+  {
+   "id": "TN-D-018",
+   "type": "single-best-answer",
+   "question": "A 31-year-old man has several months of an intensely pruritic, burning eruption. Examination shows grouped papules, vesicles, and urticarial wheals on an erythematous base, bilaterally symmetrical over the extensor elbows and knees, sacrum, and buttocks, with numerous excoriations. Immunofluorescence of perilesional skin shows IgA deposits. What is the best initial treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Oral dapsone"
+    },
+    {
+     "id": "b",
+     "text": "Oral prednisone"
+    },
+    {
+     "id": "c",
+     "text": "Oral doxycycline"
+    },
+    {
+     "id": "d",
+     "text": "Topical clobetasol propionate"
+    },
+    {
+     "id": "e",
+     "text": "Oral acyclovir"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes describes dermatitis herpetiformis as grouped papules, vesicles, and urticarial wheals on an erythematous base with intense pruritus, burning and excoriations, symmetrically distributed on the extensor elbows and knees, sacrum, and buttocks, with immunofluorescence showing IgA deposits in perilesional skin. Management is dapsone, with sulfapyridine if dapsone is contraindicated or poorly tolerated, plus a gluten-free diet for life, which also reduces the risk of intestinal lymphoma in the 90% who have gluten-sensitive enteropathy.",
+   "optionExplanations": {
+    "b": "Systemic corticosteroids are not the recommended treatment for dermatitis herpetiformis.",
+    "c": "Doxycycline is used for acne, rosacea, and bullous pemphigoid, not for this IgA-mediated eruption.",
+    "d": "A potent topical steroid does not address the underlying gluten-sensitive enteropathy or control the eruption.",
+    "e": "Despite the name, this is not a herpesvirus infection and antivirals have no role."
+   },
+   "topic": "Bullous Disease",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "D",
+    "name": "Dermatology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 212,
+    "reference": "D24 — Dermatitis Herpetiformis"
+   }
+  },
+  {
+   "id": "TN-D-019",
+   "type": "single-best-answer",
+   "question": "A 6-year-old boy finished a course of cefaclor for otitis media 12 days ago. He now has a symmetrical urticarial cutaneous eruption with low grade fever, malaise, arthralgia, and lymphadenopathy. There is no facial edema, no mucosal involvement, and no bronchospasm. Liver enzymes and eosinophil count are normal. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Serum sickness-like reaction"
+    },
+    {
+     "id": "b",
+     "text": "Drug reaction with eosinophilia and systemic symptoms"
+    },
+    {
+     "id": "c",
+     "text": "Exanthematous drug reaction"
+    },
+    {
+     "id": "d",
+     "text": "Drug-induced urticaria with angioedema"
+    },
+    {
+     "id": "e",
+     "text": "Erythema multiforme"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes describes a serum sickness-like reaction as a symmetrical cutaneous eruption that is usually urticarial, accompanied by malaise, low grade fever, arthralgia, and lymphadenopathy, appearing 1-3 weeks after drug initiation and resolving 2-3 weeks after withdrawal. It is more prevalent in children, and cefaclor is the common causative agent in children. Management is to discontinue the offending drug with or without topical or oral corticosteroids.",
+   "optionExplanations": {
+    "b": "DRESS presents with a morbilliform rash, facial edema, and internal organ involvement such as hepatitis and hematologic abnormalities, which are absent here.",
+    "c": "An exanthematous drug reaction produces erythematous macules and papules rather than an urticarial eruption with arthralgia and lymphadenopathy.",
+    "d": "Drug-induced urticaria and angioedema involves wheals with swelling of the face and mucous membranes and may be accompanied by anaphylaxis.",
+    "e": "Erythema multiforme produces target lesions rather than a symmetrical urticarial eruption with a serum sickness picture."
+   },
+   "topic": "Drug Eruptions",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "D",
+    "name": "Dermatology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 213,
+    "reference": "D25 — Drug Eruptions / Serum Sickness-Like Reaction"
+   }
+  },
+  {
+   "id": "TN-D-020",
+   "type": "single-best-answer",
+   "question": "A 24-year-old man has 4 weeks of intense pruritus that is worst at night. Examination shows superficial linear burrows in the finger web spaces and wrists, with inflammatory papules and nodules in the axillae and groin and excoriated crusted papules on the buttocks. The head and neck are spared. His roommate has similar itching. What is the best initial treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Permethrin 5% cream applied from the neck down to the soles, left on 8-14 hours, and repeated in 7 days"
+    },
+    {
+     "id": "b",
+     "text": "Clotrimazole cream applied twice daily for 4 weeks"
+    },
+    {
+     "id": "c",
+     "text": "Oral cephalexin for 10 days"
+    },
+    {
+     "id": "d",
+     "text": "Mid-potency topical corticosteroid twice daily alone"
+    },
+    {
+     "id": "e",
+     "text": "Oral prednisone tapered over 2 weeks"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes characterizes scabies by superficial linear burrows, intense pruritus that is especially nocturnal, and inflammatory papules and nodules in the axilla and groin, affecting the axillae, groin, buttocks, hands and feet, particularly the web spaces, while sparing the head and neck except in infants. Management is to bathe and then apply permethrin 5% cream from the neck down to the soles of the feet, left on for 8-14 h, with a second treatment 7 days later, plus treating family and close contacts and laundering linens.",
+   "optionExplanations": {
+    "b": "Topical antifungals treat dermatophyte infection and have no effect on Sarcoptes scabiei.",
+    "c": "Oral antibiotics only address secondary bacterial infection and do not eradicate the mite.",
+    "d": "Mid-potency topical steroids and antihistamines are for symptom control after permethrin, since pruritus may persist 2-3 weeks after effective treatment.",
+    "e": "Systemic steroids do not eradicate the infestation and will not prevent transmission to contacts."
+   },
+   "topic": "Infestations",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "D",
+    "name": "Dermatology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 221,
+    "reference": "D33 — Scabies"
+   }
+  },
+  {
+   "id": "TN-D-021",
+   "type": "single-best-answer",
+   "question": "A 27-year-old man presents with a genital lesion he noticed 10 days ago. Examination shows a single red, indurated, painless ulcer with a raised border and scanty serous exudate, with non-tender regional lymphadenopathy. Dark field examination of fluid from the lesion shows spirochetes. What is the best initial treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Penicillin G 2.4 million units IM as a single dose"
+    },
+    {
+     "id": "b",
+     "text": "Penicillin G 2.4 million units IM weekly for 3 weeks"
+    },
+    {
+     "id": "c",
+     "text": "Ceftriaxone 1 g IM every 24 hours"
+    },
+    {
+     "id": "d",
+     "text": "Doxycycline 100 mg PO twice daily for 14 days"
+    },
+    {
+     "id": "e",
+     "text": "Valacyclovir 1 g PO twice daily for 3 days"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes describes primary syphilis as a single red, indurated, painless chancre developing into a painless ulcer with a raised border and scanty serous exudate at the site of inoculation, with regional non-tender lymphadenopathy appearing less than a week after onset, and dark field examination showing the spirochete in chancre fluid. Treatment of primary syphilis is penicillin G 2.4 million units IM as a single dose.",
+   "optionExplanations": {
+    "b": "Weekly penicillin G for 3 weeks is the regimen listed for tertiary syphilis, which occurs 3-7 years after the secondary stage.",
+    "c": "Ceftriaxone 1 g IM or IV every 24 h is the treatment listed for disseminated gonococcal infection, which causes hemorrhagic tender pustules on a purpuric background.",
+    "d": "Doxycycline is not the regimen Toronto Notes gives for primary syphilis.",
+    "e": "Antivirals treat herpes simplex, which produces multiple painful lesions rather than a single painless indurated chancre."
+   },
+   "topic": "Sexually Transmitted Infections",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "D",
+    "name": "Dermatology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 226,
+    "reference": "D38 — Sexually Transmitted Infections / Syphilis"
+   }
+  },
+  {
+   "id": "TN-D-022",
+   "type": "single-best-answer",
+   "question": "A 72-year-old man with a lifetime of heavy sun exposure describes several rough spots on his hairless scalp and on the helices of both ears. Examination shows ill-defined, scaly, erythematous papules with white to yellow scale on sun-damaged skin. They are easier to appreciate on palpation than on inspection, with a gritty, sandpaper-like texture. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Actinic keratoses"
+    },
+    {
+     "id": "b",
+     "text": "Seborrheic keratoses"
+    },
+    {
+     "id": "c",
+     "text": "Superficial basal cell carcinoma"
+    },
+    {
+     "id": "d",
+     "text": "Squamous cell carcinoma in situ"
+    },
+    {
+     "id": "e",
+     "text": "Discoid lupus erythematosus"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes describes actinic keratoses as ill-defined, scaly, erythematous papules or plaques on sun-damaged skin, with an initial rough erythematous papule bearing white to yellow scale that is often easier to appreciate on palpation than inspection because of its gritty, sandpaper-like texture, on sites of sun exposure such as the hairless scalp and helices of the ears in men. Risk of transformation to SCC is under 1 in 1000 per year but is higher if the lesion persists.",
+   "optionExplanations": {
+    "b": "Seborrheic keratoses are a listed differential but are stuck-on waxy lesions rather than gritty scaly papules on sun-damaged skin.",
+    "c": "Superficial basal cell carcinoma is in the differential but presents as a discrete lesion rather than multiple gritty rough papules across chronically sun-exposed skin.",
+    "d": "Squamous cell carcinoma in situ presents as a sharply demarcated erythematous patch or thin plaque with scale or crusting, typically 1-3 cm.",
+    "e": "Discoid lupus produces erythematous plaques with keratotic scale, follicular plugging, and atrophic scarring."
+   },
+   "topic": "Pre-Malignant Skin Conditions",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "D",
+    "name": "Dermatology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 227,
+    "reference": "D39 — Pre-Malignant Skin Conditions / Actinic Keratoses"
+   }
+  },
+  {
+   "id": "TN-D-023",
+   "type": "single-best-answer",
+   "question": "A 68-year-old renal transplant recipient reports a lesion on the helix of his right ear that has enlarged over 3 months. Examination shows a 1.5 cm hyperkeratotic, indurated, pink papule and plaque with surface scale and crust and early ulceration, growing outward. It has enlarged much faster than a previous lesion excised from his cheek. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Squamous cell carcinoma"
+    },
+    {
+     "id": "b",
+     "text": "Keratoacanthoma"
+    },
+    {
+     "id": "c",
+     "text": "Bowen's disease"
+    },
+    {
+     "id": "d",
+     "text": "Hypertrophic actinic keratosis"
+    },
+    {
+     "id": "e",
+     "text": "Nodular basal cell carcinoma"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes describes cutaneous squamous cell carcinoma as a hyperkeratotic indurated pink, red, or skin-coloured papule, plaque, or nodule with surface scale or crust and possible ulceration, enlarging more rapidly than BCC and growing exophytically, on sites such as the face, ears, scalp, forearms, and dorsum of the hands. SCC is the most common cutaneous malignancy in immunocompromised patients such as organ transplant recipients, with increased mortality compared with the non-immunocompromised population.",
+   "optionExplanations": {
+    "b": "Keratoacanthoma is a rapidly growing dome-shaped volcano-like nodule with a central keratin-filled crater, which is not described here.",
+    "c": "Bowen's disease is a sharply demarcated erythematous patch or thin plaque with scale, without induration or exophytic growth.",
+    "d": "A hypertrophic actinic keratosis is a thicker rough papule or plaque, but it is pre-malignant and does not ulcerate or grow rapidly.",
+    "e": "Basal cell carcinoma enlarges more slowly than SCC and does not typically produce a hyperkeratotic crusted surface."
+   },
+   "topic": "Skin Cancer",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "D",
+    "name": "Dermatology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 229,
+    "reference": "D41 — Squamous Cell Carcinoma"
+   }
+  },
+  {
+   "id": "TN-D-024",
+   "type": "single-best-answer",
+   "question": "A 27-year-old woman has noticed two round patches of complete hair loss on her scalp over 6 weeks. The underlying skin is smooth and non-scaly with no erythema or pustules. At the margins there are short hairs with tapered fractured shafts resembling exclamation marks. Her fingernails show fine stippling and pitting. She has autoimmune thyroid disease. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Alopecia areata"
+    },
+    {
+     "id": "b",
+     "text": "Telogen effluvium"
+    },
+    {
+     "id": "c",
+     "text": "Trichotillomania"
+    },
+    {
+     "id": "d",
+     "text": "Androgenetic alopecia"
+    },
+    {
+     "id": "e",
+     "text": "Anagen effluvium"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes describes alopecia areata as an autoimmune disorder with patches of complete hair loss, often localized to the scalp, that may be associated with dystrophic nail changes of fine stippling and pitting and with an exclamation mark pattern in which hairs are fractured with tapered shafts. It may be associated with other autoimmune conditions including thyroid disease, pernicious anemia, vitiligo, and Addison's disease, and localized disease carries an excellent prognosis with topical or intralesional steroids.",
+   "optionExplanations": {
+    "b": "Telogen effluvium produces a uniform decrease in hair density after a precipitant rather than discrete patches of complete loss.",
+    "c": "Trichotillomania produces irregular patches with remaining hairs broken at varying lengths from compulsive pulling.",
+    "d": "Androgenetic alopecia in women causes widening of the central part in a Christmas tree pattern, not discrete round bald patches.",
+    "e": "Anagen effluvium follows chemotherapy or other agents that impair mitotic activity of the follicle and causes diffuse loss."
+   },
+   "topic": "Alopecia",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "D",
+    "name": "Dermatology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 233,
+    "reference": "D45 — Non-Scarring Alopecia / Alopecia Areata"
+   }
+  },
+  {
+   "id": "TN-D-025",
+   "type": "single-best-answer",
+   "question": "A 39-year-old woman is assessed for several months of fatigue. Examination of her nails shows bilateral spoon shaped nails affecting several fingers. There is no pitting, no onycholysis, no clubbing, and no nail fold change. The nail plates are otherwise intact and the skin examination is normal. Which underlying condition is most likely associated with this nail finding?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Iron deficiency"
+    },
+    {
+     "id": "b",
+     "text": "Psoriasis"
+    },
+    {
+     "id": "c",
+     "text": "Thyroid disease"
+    },
+    {
+     "id": "d",
+     "text": "Cyanotic heart disease"
+    },
+    {
+     "id": "e",
+     "text": "Scleroderma"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes defines koilonychia as spoon shaped nails and lists its associated diseases as iron deficiency, malnutrition, and diabetes mellitus. Nail plate changes are a useful marker of systemic disease, and in a fatigued patient with spoon shaped nails and no other nail plate or surface abnormality, iron deficiency is the association to pursue.",
+   "optionExplanations": {
+    "b": "Psoriasis is associated with pitting in a random pattern, onycholysis, and oil spots rather than koilonychia.",
+    "c": "Thyroid disease is listed as a cause of onycholysis, which is separation of the nail plate from the nail bed.",
+    "d": "Cyanotic heart disease is associated with clubbing, in which the proximal nail plate has greater than a 180 degree angle to the nail fold.",
+    "e": "Scleroderma is associated with pterygium inversum unguis and nail fold telangiectasias."
+   },
+   "topic": "Nail Disorders",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "D",
+    "name": "Dermatology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 234,
+    "reference": "D46 — Nails and Disorders of the Nail Apparatus"
+   }
+  },
+  {
+   "id": "TN-D-026",
+   "type": "single-best-answer",
+   "question": "A 26-year-old woman has 1 week of painful lumps on her shins with arthralgia, low grade fever, and malaise. Examination shows round, red, tender, poorly demarcated nodules asymmetrically arranged over both extensor lower legs, with no ulceration and no overlying blister. She takes no medications and has had no diarrhea. What is the most appropriate investigation?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Chest x-ray"
+    },
+    {
+     "id": "b",
+     "text": "Venous duplex ultrasound of the legs"
+    },
+    {
+     "id": "c",
+     "text": "Punch biopsy of a nodule"
+    },
+    {
+     "id": "d",
+     "text": "Serum antinuclear antibody"
+    },
+    {
+     "id": "e",
+     "text": "Blood cultures"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes describes erythema nodosum as an acute or chronic inflammation of subcutaneous fat producing round, red, tender, poorly demarcated nodules arranged asymmetrically on the extensor lower legs, associated with arthralgia, fever, and malaise. Investigations are a chest x-ray to rule out chest infection and sarcoidosis, plus throat culture, ASO titre, and PPD skin test. Because 40% are idiopathic and the remainder reflect an underlying cause such as sarcoidosis, tuberculosis, or streptococcal infection, imaging the chest is the key first step while the lesions resolve spontaneously over about 6 weeks.",
+   "optionExplanations": {
+    "b": "Duplex ultrasound assesses venous thrombosis, which does not produce multiple tender nodules on both shins.",
+    "c": "Erythema nodosum is a clinical diagnosis, and biopsy does not identify the underlying systemic cause.",
+    "d": "An antinuclear antibody is not among the listed investigations for erythema nodosum.",
+    "e": "Blood cultures are not part of the recommended workup for this panniculitis."
+   },
+   "topic": "Erythema Nodosum",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "D",
+    "name": "Dermatology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 239,
+    "reference": "D51 — Erythema Nodosum"
+   }
+  },
+  {
+   "id": "TN-D-027",
+   "type": "single-best-answer",
+   "question": "A 29-year-old woman has a mild eczematous dermatitis affecting both cheeks and both axillae. Emollients alone have not controlled it and she now needs a topical corticosteroid. She is worried about long term thinning of the skin and visible blood vessels at the treated sites. Which topical corticosteroid is most appropriate?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Hydrocortisone 1% cream"
+    },
+    {
+     "id": "b",
+     "text": "Hydrocortisone 17-valerate 0.2% cream"
+    },
+    {
+     "id": "c",
+     "text": "Betamethasone 17-valerate 0.1% cream"
+    },
+    {
+     "id": "d",
+     "text": "Fluocinonide 0.05% ointment"
+    },
+    {
+     "id": "e",
+     "text": "Clobetasol propionate 0.05% ointment"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes ranks weak topical steroids such as hydrocortisone for use on intertriginous areas, in children, and on the face and thin skin, while the very potent and extremely potent agents are listed for the palms and soles. Relative percutaneous absorption is much higher on the cheeks than the forearm, so potency must be reduced at these sites. Local side effects of topical steroids include atrophy, telangiectasia, striae, perioral dermatitis, and hypopigmentation, which is precisely what this patient wishes to avoid on the face and axillae.",
+   "optionExplanations": {
+    "b": "Hydrocortisone 17-valerate is a moderate potency steroid listed for the arm, leg, and trunk rather than the face or flexures.",
+    "c": "Betamethasone 17-valerate 0.1% is a potent steroid listed for the body and scalp and risks atrophy on facial and intertriginous skin.",
+    "d": "Fluocinonide 0.05% is a very potent agent listed for the palms and soles.",
+    "e": "Clobetasol propionate 0.05% is the most potent topical steroid and is reserved for palms and soles."
+   },
+   "topic": "Topical Steroids",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "D",
+    "name": "Dermatology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 240,
+    "reference": "D52 — Topical Steroids"
+   }
+  },
+  {
+   "id": "TN-D-028",
+   "type": "single-best-answer",
+   "question": "A 62-year-old man with stable congestive heart failure has thickened, crumbling, discoloured toenails and requests oral treatment. The diagnosis of onychomycosis has been confirmed before treatment. He has no liver disease, normal renal function, and takes no statin, beta-blocker, or antiarrhythmic agent. Topical therapy has already failed. Which oral therapy is most appropriate?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Terbinafine 250 mg PO once daily for 12 weeks"
+    },
+    {
+     "id": "b",
+     "text": "Itraconazole 200 mg PO twice daily for 3 days each month, repeated 3 times"
+    },
+    {
+     "id": "c",
+     "text": "Doxycycline 100 mg PO twice daily"
+    },
+    {
+     "id": "d",
+     "text": "Dapsone 50 mg PO once daily"
+    },
+    {
+     "id": "e",
+     "text": "Acitretin 25 mg PO once daily"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes lists terbinafine 250 mg PO once daily for onychomycosis, given for 12 weeks for toenails and 6 weeks for fingernails, with the diagnosis confirmed prior to treatment; it is contraindicated in pregnancy and in chronic or active liver disease, and it concentrates rapidly in skin, hair, and nails at fungicidal levels. Itraconazole is the alternative oral agent for onychomycosis but is contraindicated in congestive heart failure and carries serious hepatotoxicity, which makes terbinafine the appropriate choice in this man.",
+   "optionExplanations": {
+    "b": "Itraconazole is listed as contraindicated in CHF and carries a risk of serious hepatotoxicity and CYP3A4 inhibition.",
+    "c": "Doxycycline is indicated for acne vulgaris, rosacea, and bullous pemphigoid, not for a fungal nail infection.",
+    "d": "Dapsone is used for dermatitis herpetiformis and neutrophilic dermatoses and has no antifungal activity.",
+    "e": "Acitretin is used for severe psoriasis and disorders of hyperkeratinization such as ichthyosis."
+   },
+   "topic": "Dermatologic Therapies",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "D",
+    "name": "Dermatology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 242,
+    "reference": "D54 — Common Oral Therapies"
    }
   }
  ]

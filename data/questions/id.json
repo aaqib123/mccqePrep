@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 18,
+ "count": 29,
  "questions": [
   {
    "id": "TN-ID-001",
@@ -836,6 +836,512 @@
     "document": "Toronto Notes 2025",
     "page": 761,
     "reference": "ID43 — Table 30. Fever in the Returned Traveller"
+   }
+  },
+  {
+   "id": "TN-ID-019",
+   "type": "single-best-answer",
+   "question": "A 68-year-old man with rheumatoid arthritis presents with two days of a painful, swollen, warm right knee. He is unable to weight bear and has a markedly decreased range of motion. Temperature is 38.4degC. There is no history of trauma or prior joint surgery. Plain x-ray of the knee shows no bony destruction. What is the next best step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Arthrocentesis with synovial fluid cell count and differential, Gram stain, culture and sensitivity, and assessment for crystals"
+    },
+    {
+     "id": "b",
+     "text": "Intra-articular corticosteroid injection"
+    },
+    {
+     "id": "c",
+     "text": "MRI of the knee"
+    },
+    {
+     "id": "d",
+     "text": "Blood cultures alone with observation for 24 hours"
+    },
+    {
+     "id": "e",
+     "text": "Empiric oral antibiotics with outpatient follow-up in one week"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states that in suspected septic arthritis arthrocentesis is mandatory, and that synovial fluid analysis should include CBC and differential, Gram stain, C&S, and assessment for crystals; infectious fluid is opaque with increased WBCs, PMNs greater than 90%, and positive culture. Underlying joint disease such as rheumatoid arthritis is a listed risk factor for non-gonococcal septic arthritis, and delay in diagnosis and treatment may result in joint destruction.",
+   "optionExplanations": {
+    "b": "Intra-articular steroids are contraindicated until septic arthritis has been excluded.",
+    "c": "MRI is not the initial test; plain x-ray is used to assess for osteomyelitis and provide a baseline, and joint fluid is still required.",
+    "d": "Blood C&S is recommended but does not replace the mandatory arthrocentesis, and observation risks joint destruction.",
+    "e": "Empiric therapy in septic arthritis is with IV antibiotics after joint fluid is obtained, not oral outpatient therapy."
+   },
+   "topic": "Septic Arthritis",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "ID",
+    "name": "Infectious Diseases"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 732,
+    "reference": "ID14 — Septic Arthritis"
+   }
+  },
+  {
+   "id": "TN-ID-020",
+   "type": "single-best-answer",
+   "question": "A 64-year-old man on hemodialysis through a tunnelled central venous catheter presents with fever, rigors, and confusion. Blood cultures grow Gram-positive cocci. After 48 hours of piperacillin-tazobactam and vancomycin he remains febrile with persistently positive blood cultures. He is now normotensive off vasopressors, and no other focus of infection is identified. What is the next best step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Remove the infected central venous catheter"
+    },
+    {
+     "id": "b",
+     "text": "Add an aminoglycoside for drug-resistant Gram-negatives"
+    },
+    {
+     "id": "c",
+     "text": "Start IV hydrocortisone"
+    },
+    {
+     "id": "d",
+     "text": "Continue the same antibiotics and repeat blood cultures in a further 48 hours"
+    },
+    {
+     "id": "e",
+     "text": "Narrow therapy to a single agent based on susceptibilities"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Treatment of sepsis includes source control, defined in Toronto Notes as a procedure to control the focus of infection such as catheter removal or abscess drainage, alongside respiratory support, cardiovascular support, and empiric IV antibiotics. This man has persistent bacteremia on appropriate broad-spectrum coverage with an indwelling catheter as the only identified focus, so antibiotics alone will not clear the infection.",
+   "optionExplanations": {
+    "b": "An aminoglycoside is added for suspected drug-resistant Gram-negatives; his cultures grow Gram-positive cocci already covered by vancomycin.",
+    "c": "IV hydrocortisone is reserved for septic shock unresponsive to fluid resuscitation and vasopressors, and he is now normotensive off vasopressors.",
+    "d": "Waiting does not address the focus of infection and allows ongoing bacteremia.",
+    "e": "Narrowing once the organism and susceptibilities are known is appropriate eventually, but it does not control the source."
+   },
+   "topic": "Sepsis and Septic Shock",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "ID",
+    "name": "Infectious Diseases"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 739,
+    "reference": "ID21 — Sepsis"
+   }
+  },
+  {
+   "id": "TN-ID-021",
+   "type": "single-best-answer",
+   "question": "A 26-year-old man presents with five days of fever, pharyngitis, myalgias, arthralgias, and a diffuse rash. He has generalized lymphadenopathy and shallow oral ulcers. Three weeks earlier he had condomless sex with a new partner. Bloodwork shows lymphopenia and thrombocytopenia. A third-generation HIV antibody ELISA is negative. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Acute retroviral syndrome"
+    },
+    {
+     "id": "b",
+     "text": "EBV mononucleosis"
+    },
+    {
+     "id": "c",
+     "text": "CMV infection"
+    },
+    {
+     "id": "d",
+     "text": "Primary VZV infection"
+    },
+    {
+     "id": "e",
+     "text": "Disseminated Mycobacterium avium complex"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states that 40-90% of people with new HIV infection experience an acute non-specific illness 2-6 wk post-exposure lasting 10-15 d, which may include fever, pharyngitis, lymphadenopathy, rash, arthralgias, myalgias, headache, GI symptoms, and oral ulcers, with hematologic disturbances such as lymphopenia and thrombocytopenia. Anti-HIV antibodies are detectable only after a median of 3 wk, so a negative antibody screen during this window period does not exclude infection; this stage carries a high level of plasma viremia and high risk of transmission.",
+   "optionExplanations": {
+    "b": "EBV is associated with mononucleosis and oral hairy leukoplakia, but does not explain the recent high-risk sexual exposure with a negative antibody screen in the window period.",
+    "c": "CMV disease in Toronto Notes is described at CD4 counts under 50 cells/mm3, presenting as retinitis, colitis, cholangiopathy, or CNS disease.",
+    "d": "Primary VZV causes chicken pox with a vesicular rash, not oral ulcers with lymphopenia after a sexual exposure.",
+    "e": "MAC is a late opportunistic infection occurring at CD4 counts under 50 cells/mm3, not a seroconversion illness."
+   },
+   "topic": "Acute HIV Infection",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "ID",
+    "name": "Infectious Diseases"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 746,
+    "reference": "ID28 — HIV and AIDS"
+   }
+  },
+  {
+   "id": "TN-ID-022",
+   "type": "single-best-answer",
+   "question": "A 33-year-old man is newly diagnosed with HIV and is treatment-naive and asymptomatic. Baseline investigations show a CD4 count of 410 cells/mm3, an HIV viral load of 45,000 copies/mL, normal renal and hepatic function, and a positive HLA-B*5701 result. He is not of childbearing potential. Which is the most appropriate initial antiretroviral regimen?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Bictegravir/emtricitabine/tenofovir alafenamide"
+    },
+    {
+     "id": "b",
+     "text": "Dolutegravir/abacavir/lamivudine"
+    },
+    {
+     "id": "c",
+     "text": "Abacavir/lamivudine plus efavirenz"
+    },
+    {
+     "id": "d",
+     "text": "Zidovudine/lamivudine/abacavir"
+    },
+    {
+     "id": "e",
+     "text": "Lopinavir/ritonavir plus tenofovir disoproxil fumarate/emtricitabine"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes lists bictegravir/TAF/FTC first among recommended regimens for treatment-naive adults, noting that most initial regimens include an integrase strand transfer inhibitor and a pair of NRTIs. Dolutegravir/abacavir/lamivudine is recommended only in patients confirmed to be HLA-B*5701 negative, because abacavir causes drug-induced hypersensitivity; this man is HLA-B*5701 positive, so any abacavir-containing regimen must be avoided.",
+   "optionExplanations": {
+    "b": "This single tablet regimen is to be used only in HLA-B*5701 negative patients because it contains abacavir.",
+    "c": "It contains abacavir, and efavirenz-based regimens are associated with psychiatric events and vivid dreams rather than being first line.",
+    "d": "This combination tablet also contains abacavir, and zidovudine adds bone marrow suppression and myopathy.",
+    "e": "Protease inhibitor-based therapy is not among the recommended initial regimens and carries lipodystrophy, metabolic syndrome, and CYP3A4 interactions."
+   },
+   "topic": "Antiretroviral Therapy",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "ID",
+    "name": "Infectious Diseases"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 748,
+    "reference": "ID30 — Anti-Retroviral Drugs"
+   }
+  },
+  {
+   "id": "TN-ID-023",
+   "type": "single-best-answer",
+   "question": "A 27-year-old healthcare worker sustains a deep needle-stick injury while drawing blood from a patient known to be HIV positive. She is otherwise well and takes no medications. She presents to occupational health two hours after the exposure, and baseline HIV serology is drawn. What is the next best step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Start a 2- or 3-drug antiretroviral regimen immediately and continue it for 4 weeks"
+    },
+    {
+     "id": "b",
+     "text": "Start daily tenofovir/emtricitabine as ongoing pre-exposure prophylaxis"
+    },
+    {
+     "id": "c",
+     "text": "Give a double dose of antiretrovirals now, then single doses at 24 and 48 hours"
+    },
+    {
+     "id": "d",
+     "text": "Withhold antiretrovirals and repeat HIV serology in 3 months"
+    },
+    {
+     "id": "e",
+     "text": "Give antiretrovirals only if the source patient is found not to be virally suppressed on ART"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states that post-exposure prophylaxis after occupational exposure to HIV, such as a needle-stick injury, is a 2- or 3-drug regimen initiated immediately (less than 72 h after exposure) and continued for 4 wk. Universal blood and body precautions plus prompt PEP are the mainstays of preventing occupationally acquired HIV, and prophylaxis should not be delayed while further information is gathered.",
+   "optionExplanations": {
+    "b": "Daily TDF/FTC is a pre-exposure prophylaxis strategy for people at ongoing risk, not the response to a discrete exposure that has already occurred.",
+    "c": "Double dosing 12-24 h before exposure followed by doses at 24 and 48 h is the 2-1-1 on-demand PrEP schedule, which is taken around anticipated exposure.",
+    "d": "Deferring therapy forfeits the narrow window in which PEP must be started.",
+    "e": "PEP is started immediately after a significant exposure; waiting on source testing risks exceeding the 72 h window."
+   },
+   "topic": "HIV Post-Exposure Prophylaxis",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "ID",
+    "name": "Infectious Diseases"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 749,
+    "reference": "ID31 — Prevention of HIV Infection"
+   }
+  },
+  {
+   "id": "TN-ID-024",
+   "type": "single-best-answer",
+   "question": "A 47-year-old man who lives in Northern Ontario presents with three months of cough, chest pain, fever, night sweats, and weight loss. He has several verrucous skin lesions on his forearm that mimic skin cancer. Chest x-ray shows a lobar pneumonia. Direct examination of purulent sputum shows broad-based budding yeast. What is the most likely organism?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Blastomyces dermatitidis"
+    },
+    {
+     "id": "b",
+     "text": "Histoplasma capsulatum"
+    },
+    {
+     "id": "c",
+     "text": "Coccidioides immitis"
+    },
+    {
+     "id": "d",
+     "text": "Pneumocystis jirovecii"
+    },
+    {
+     "id": "e",
+     "text": "Cryptococcus neoformans"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes describes Blastomyces dermatitidis as endemic to states east of the Mississippi River, Northern Ontario, and along the Great Lakes, presenting with acute or chronic pneumonia with fever, cough, chest pain, chills, night sweats, and weight loss, and disseminating to skin as verrucous lesions that mimic skin cancer. Diagnosis is by direct examination of clinical specimens for characteristic broad-based budding yeast in sputum, tissue, or purulent material.",
+   "optionExplanations": {
+    "b": "Histoplasmosis is endemic to the Ohio and Mississippi River valleys and is diagnosed by antigen detection in urine and serum; disseminated disease occurs primarily in immunocompromised patients.",
+    "c": "Coccidioidomycosis causes valley fever in deserts of the southwest USA and northwest Mexico.",
+    "d": "PJP produces a non-productive cough with bilateral symmetrical interstitial infiltrates, not a lobar infiltrate with broad-based budding yeast.",
+    "e": "Cryptococcus is an encapsulated yeast acquired from soil contaminated with pigeon droppings and typically disseminates to the CNS in immunocompromised hosts."
+   },
+   "topic": "Endemic Mycoses",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "ID",
+    "name": "Infectious Diseases"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 751,
+    "reference": "ID33 — Endemic Mycoses"
+   }
+  },
+  {
+   "id": "TN-ID-025",
+   "type": "single-best-answer",
+   "question": "A 39-year-old man with untreated HIV and a CD4 count of 40 cells/mm3 presents with two weeks of headache, fever, and confusion. Lumbar puncture shows a raised opening pressure, and the CSF cryptococcal antigen test is positive. Culture is pending. What is the most appropriate initial antimicrobial therapy?",
+   "options": [
+    {
+     "id": "a",
+     "text": "IV amphotericin B plus flucytosine"
+    },
+    {
+     "id": "b",
+     "text": "Oral fluconazole alone"
+    },
+    {
+     "id": "c",
+     "text": "TMP/SMX"
+    },
+    {
+     "id": "d",
+     "text": "IV pentamidine"
+    },
+    {
+     "id": "e",
+     "text": "Clotrimazole troches"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states that in patients with HIV who have cryptococcal meningitis or severe pulmonary disease, amphotericin B (plus flucytosine) is used in the first 2 wk for induction therapy, followed by fluconazole for at least 8 wk as consolidation therapy and then a lower maintenance dose. Serial lumbar puncture or another method of managing increased ICP is an important adjunct, which this man needs given his raised opening pressure.",
+   "optionExplanations": {
+    "b": "Fluconazole is the consolidation and maintenance agent after induction, not initial therapy for cryptococcal meningitis.",
+    "c": "TMP/SMX is the preferred therapy for Pneumocystis jirovecii pneumonia, not cryptococcal disease.",
+    "d": "IV pentamidine is second line for severe PJP.",
+    "e": "Clotrimazole troches treat mild oral thrush."
+   },
+   "topic": "Cryptococcal Infection",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "ID",
+    "name": "Infectious Diseases"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 752,
+    "reference": "ID34 — Cryptococcus spp."
+   }
+  },
+  {
+   "id": "TN-ID-026",
+   "type": "single-best-answer",
+   "question": "A 31-year-old man returns from three weeks in rural sub-Saharan Africa, where he took no antimalarial prophylaxis. He has four days of paroxysms of high spiking fever and shaking chills lasting several hours, headache, myalgias, and diarrhea. He has hepatosplenomegaly. Bloodwork shows thrombocytopenia, elevated LDH, and anemia without leukocytosis. What is the most appropriate investigation?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Thick and thin blood smears with Giemsa stain, repeated every 12-24 hours"
+    },
+    {
+     "id": "b",
+     "text": "Rapid antigen detection test as the sole diagnostic test"
+    },
+    {
+     "id": "c",
+     "text": "Two sets of blood cultures"
+    },
+    {
+     "id": "d",
+     "text": "Stool for ova and parasites"
+    },
+    {
+     "id": "e",
+     "text": "Serologic antibody testing for Plasmodium species"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states that malaria is investigated with microscopy using blood smears every 12-24 h (three sets) to rule out infection: a thick smear with Giemsa stain detects the presence of organisms and a thin smear with Giemsa stain allows species identification and quantification of parasites. This man has the classic paroxysms of high spiking fever and shaking chills with the CBC triad of thrombocytopenia, elevated LDH, and anemia after travel to an endemic region.",
+   "optionExplanations": {
+    "b": "Rapid antigen detection tests are adjuncts; they do not identify the species or quantify parasitemia, which guides treatment of severe disease.",
+    "c": "Blood cultures do not grow Plasmodium species.",
+    "d": "Stool examination addresses intestinal parasites, not the erythrocytic infection responsible for these paroxysms.",
+    "e": "Serology does not distinguish current from past infection and is not the diagnostic test for acute malaria."
+   },
+   "topic": "Malaria",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "ID",
+    "name": "Infectious Diseases"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 755,
+    "reference": "ID37 — Plasmodium spp. (Malaria)"
+   }
+  },
+  {
+   "id": "TN-ID-027",
+   "type": "single-best-answer",
+   "question": "A 34-year-old woman presents with 12 hours of fever, rigors, vomiting, and altered mental status. Blood pressure is 82/50 mmHg. She underwent splenectomy after a motor vehicle collision two years ago, takes no medications, and has had no recent chemotherapy or hospitalization. Blood cultures are drawn before antibiotics. What is the most likely causative organism?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Streptococcus pneumoniae"
+    },
+    {
+     "id": "b",
+     "text": "Staphylococcus aureus"
+    },
+    {
+     "id": "c",
+     "text": "Aspergillus species"
+    },
+    {
+     "id": "d",
+     "text": "Nocardia species"
+    },
+    {
+     "id": "e",
+     "text": "Candida species"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes classifies asplenia and splenectomy as defects of humoral immunity, which make patients vulnerable to encapsulated organisms including S. pneumoniae, H. influenzae, N. meningitidis, Salmonella enterica serotype Typhi, and GBS. This woman is asplenic and presents with fulminant sepsis, so an encapsulated organism is the expected pathogen.",
+   "optionExplanations": {
+    "b": "Staphylococcus is listed among the catalase-producing organisms that infect patients with defects of neutrophil function, such as chemotherapy or chronic granulomatous disease.",
+    "c": "Aspergillus is a catalase-producing organism seen with defects of neutrophil function, and is also a cause of fungal superinfection in prolonged neutropenia.",
+    "d": "Nocardia is also a catalase-producing organism associated with impaired neutrophil function, not asplenia.",
+    "e": "Candida is described as a fungal superinfection in prolonged neutropenia or with concurrent antibiotic use, not a consequence of splenectomy."
+   },
+   "topic": "Infections in the Immunocompromised Host",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "ID",
+    "name": "Infectious Diseases"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 762,
+    "reference": "ID44 — Infections in the Immunocompromised Host"
+   }
+  },
+  {
+   "id": "TN-ID-028",
+   "type": "single-best-answer",
+   "question": "A 58-year-old woman is on day 10 of chemotherapy for acute myeloid leukemia. She develops a temperature of 38.6degC. Her absolute neutrophil count is 0.2. The exit site of her indwelling central venous catheter is erythematous and tender. She is normotensive, tolerating oral intake, and her chest x-ray is normal. What is the most appropriate empiric antimicrobial therapy?",
+   "options": [
+    {
+     "id": "a",
+     "text": "IV piperacillin-tazobactam plus IV vancomycin"
+    },
+    {
+     "id": "b",
+     "text": "IV piperacillin-tazobactam alone"
+    },
+    {
+     "id": "c",
+     "text": "IV vancomycin alone"
+    },
+    {
+     "id": "d",
+     "text": "IV piperacillin-tazobactam plus amphotericin B"
+    },
+    {
+     "id": "e",
+     "text": "Oral antibiotics at home with next-day follow-up"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "This is febrile neutropenia, defined as fever with an ANC below 1.0 (severe if below 0.5). Toronto Notes classifies patients who do not meet all the low-risk criteria as high risk, treated with IV monotherapy such as piperacillin-tazobactam, cefepime, ceftazidime, imipenem, or meropenem, with vancomycin IV added for catheter-related infection, MRSA, severe mucositis, or previous quinolone prophylaxis. Her tender catheter exit site is a catheter-related infection, so vancomycin is added.",
+   "optionExplanations": {
+    "b": "Monotherapy is the backbone, but the catheter-related infection is a specific indication to add vancomycin.",
+    "c": "Vancomycin alone leaves Gram-negative organisms uncovered; high-risk febrile neutropenia requires broad-spectrum IV monotherapy as the backbone.",
+    "d": "Empiric antifungal therapy such as amphotericin B is considered if fever persists through day 3-5 or fungal infection is suspected or proven.",
+    "e": "Home oral antibiotics apply only to low-risk patients with a solid tumour, no comorbidities, and neutropenia expected to last under 10 d."
+   },
+   "topic": "Febrile Neutropenia",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "ID",
+    "name": "Infectious Diseases"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 763,
+    "reference": "ID45 — Febrile Neutropenia"
+   }
+  },
+  {
+   "id": "TN-ID-029",
+   "type": "single-best-answer",
+   "question": "A 71-year-old woman with recurrent urinary infections is admitted with fever, rigors, and right flank pain, and requires fluid resuscitation. Urine and blood cultures grow E. coli producing an extended-spectrum B-lactamase. She has no penicillin hypersensitivity and normal renal function. Which antibiotic is the most appropriate definitive therapy?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Meropenem"
+    },
+    {
+     "id": "b",
+     "text": "Ceftriaxone"
+    },
+    {
+     "id": "c",
+     "text": "Cefazolin"
+    },
+    {
+     "id": "d",
+     "text": "Cefuroxime"
+    },
+    {
+     "id": "e",
+     "text": "Piperacillin-tazobactam"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes lists the carbapenems imipenem, meropenem, and ertapenem as covering GN organisms including Enterobacter and extended-spectrum B-lactamase producers plus anaerobes, with a stated indication of infections caused by GNB producing extended-spectrum B-lactamases. Cephalosporins such as ceftriaxone, cefuroxime, and cefazolin are inactivated by these enzymes, and only newer combinations such as ceftolozane-tazobactam and ceftazidime-avibactam are listed for resistant GN infections, so meropenem is the correct choice here.",
+   "optionExplanations": {
+    "b": "Ceftriaxone is a third-generation cephalosporin whose activity is lost to extended-spectrum beta-lactamases.",
+    "c": "Cefazolin is a first-generation cephalosporin with limited Gram-negative coverage, used mainly for skin and soft tissue infections and surgical prophylaxis.",
+    "d": "Cefuroxime is a second-generation agent used for respiratory and soft tissue infections and is not reliable against ESBL producers.",
+    "e": "Beta-lactamase inhibitor combinations are not the recommended treatment for ESBL producers, for which carbapenems or newer agents such as ceftolozane-tazobactam and ceftazidime-avibactam are used."
+   },
+   "topic": "Antimicrobial Resistance",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "ID",
+    "name": "Infectious Diseases"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 767,
+    "reference": "ID49 — Antibiotics"
    }
   }
  ]

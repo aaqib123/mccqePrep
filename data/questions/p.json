@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 26,
+ "count": 47,
  "questions": [
   {
    "id": "TN-P-001",
@@ -1204,6 +1204,972 @@
     "document": "Toronto Notes 2025",
     "page": 1286,
     "reference": "P90 — Childhood Epilepsy Syndromes"
+   }
+  },
+  {
+   "id": "TN-P-027",
+   "type": "single-best-answer",
+   "question": "A 14-month-old girl is brought for assessment of poor weight gain. Her weight has fallen from the 25th percentile to below the 3rd percentile over six months, while her height and head circumference have both tracked along the 50th percentile. She was born at term. Examination shows subcutaneous fat loss but no dysmorphic features and no evidence of chronic disease. Which of the following abnormalities does this growth pattern most suggest?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Caloric insufficiency from decreased intake"
+    },
+    {
+     "id": "b",
+     "text": "An endocrine disorder"
+    },
+    {
+     "id": "c",
+     "text": "A structural dystrophy"
+    },
+    {
+     "id": "d",
+     "text": "An intrauterine insult"
+    },
+    {
+     "id": "e",
+     "text": "A chromosomal abnormality identifiable on karyotype"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Failure to thrive is defined as weight <3rd percentile, a fall across two major percentile curves on the growth chart, or <80% of expected weight for height and age, and inadequate caloric intake is the most common factor in poor weight gain. The source's failure to thrive patterns table assigns decreased weight with normal height and normal head circumference to caloric insufficiency and decreased intake. This child's isolated weight deceleration with preserved height and head circumference fits that pattern.",
+   "optionExplanations": {
+    "b": "Endocrine disorders are suggested when both weight and height are decreased with a normal head circumference, not by isolated weight loss.",
+    "c": "Structural dystrophies also produce decreased weight and decreased height with a normal head circumference.",
+    "d": "An intrauterine insult is suggested when weight, height and head circumference are all decreased.",
+    "e": "Chromosomes/karyotype is one of the listed investigations, but this growth pattern points first to inadequate caloric intake rather than a chromosomal cause."
+   },
+   "topic": "Failure to Thrive",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "P",
+    "name": "Pediatrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1209,
+    "reference": "P13 — Failure to Thrive"
+   }
+  },
+  {
+   "id": "TN-P-028",
+   "type": "single-best-answer",
+   "question": "A 16-year-old girl attends clinic on her own. After you review confidentiality and its limits, she tells you that alcohol and cannabis are common at weekend parties at her school and that she has tried both. You would like to screen her formally for problematic substance use before deciding on further management. Which of the following is the most appropriate screening tool?",
+   "options": [
+    {
+     "id": "a",
+     "text": "CRAFFT screen"
+    },
+    {
+     "id": "b",
+     "text": "HEEADSSS psychosocial interview"
+    },
+    {
+     "id": "c",
+     "text": "SSHADESS interview"
+    },
+    {
+     "id": "d",
+     "text": "BEARS screening tool"
+    },
+    {
+     "id": "e",
+     "text": "m-CENTOR score"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The source describes the CRAFFT as a well-validated substance use screening tool for adolescents aged 12-21 yr, organized as Part A questions about alcohol, cannabis or other substance use in the last 12 mo, followed by Part B questions. The Drugs section of the adolescent history can be organized as a CRAFFT screen once substance use is disclosed. This adolescent has disclosed use, so the CRAFFT is the appropriate structured screen.",
+   "optionExplanations": {
+    "b": "HEEADSSS is the broad adolescent psychosocial assessment framework, not a validated substance use screening instrument.",
+    "c": "SSHADESS is a strength-based, trauma-informed approach to the adolescent history rather than a substance use screen.",
+    "d": "BEARS is a screening tool for sleep disturbances.",
+    "e": "The m-CENTOR score estimates the probability of streptococcal pharyngitis in a patient with sore throat."
+   },
+   "topic": "Adolescent Substance Use Screening",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "P",
+    "name": "Pediatrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1213,
+    "reference": "P17 — Adolescent Medicine: Adolescent History (HEEADSSS)"
+   }
+  },
+  {
+   "id": "TN-P-029",
+   "type": "single-best-answer",
+   "question": "A 4-year-old girl is referred after a murmur was heard at a routine visit. She has been asymptomatic and is growing well. On examination there is a grade 2/6 pulmonic outflow murmur with a widely split and fixed S2. ECG shows right axis deviation with mild right ventricular hypertrophy, and the chest x-ray shows increased pulmonary vasculature. Which of the following is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Atrial septal defect"
+    },
+    {
+     "id": "b",
+     "text": "Ventricular septal defect"
+    },
+    {
+     "id": "c",
+     "text": "Patent ductus arteriosus"
+    },
+    {
+     "id": "d",
+     "text": "Coarctation of the aorta"
+    },
+    {
+     "id": "e",
+     "text": "Aortic stenosis"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The source describes atrial septal defect as often asymptomatic in childhood with a grade 2-3/6 pulmonic outflow murmur and a widely split, fixed S2, an ECG showing right axis deviation, mild right ventricular hypertrophy or right bundle branch block, and a chest x-ray showing increased pulmonary vasculature and cardiac enlargement. This combination of a fixed split S2 with right-sided ECG changes in a well child is characteristic of an ASD.",
+   "optionExplanations": {
+    "b": "Ventricular septal defect is the most common congenital heart defect, but it is a left-to-right shunt at ventricular level and does not produce a widely split, fixed S2.",
+    "c": "Patent ductus arteriosus is another left-to-right shunt lesion but is not described with a fixed split S2.",
+    "d": "Coarctation of the aorta is an obstructive acyanotic lesion, not a left-to-right shunt with a fixed split S2.",
+    "e": "Aortic stenosis is an obstructive lesion producing a systolic ejection murmur at the right upper sternal border with an aortic ejection click."
+   },
+   "topic": "Atrial Septal Defect",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "P",
+    "name": "Pediatrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1217,
+    "reference": "P21 — Congenital Heart Disease: Atrial Septal Defect"
+   }
+  },
+  {
+   "id": "TN-P-030",
+   "type": "single-best-answer",
+   "question": "A 4-month-old boy with a known murmur becomes acutely distressed while crying. He develops paroxysms of rapid and deep breathing with increasing cyanosis, and the systolic ejection murmur at the lower left sternal border is quieter than at his last visit. He remains conscious. Which of the following is the most appropriate immediate manoeuvre while further therapy is prepared?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Place him in the knee-chest position and give oxygen"
+    },
+    {
+     "id": "b",
+     "text": "Give intravenous propranolol"
+    },
+    {
+     "id": "c",
+     "text": "Give intravenous phenylephrine"
+    },
+    {
+     "id": "d",
+     "text": "Give intravenous morphine sulfate"
+    },
+    {
+     "id": "e",
+     "text": "Proceed directly to surgical repair"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The source lists management of a hypoxic tet spell in tetralogy of Fallot as oxygen, knee-chest position, fluid bolus, morphine sulfate, propranolol and phenylephrine. It explains that squatting relieves a spell by increasing peripheral resistance and decreasing right-to-left shunting, which is exactly what the knee-chest position reproduces in an infant. Positioning plus oxygen is therefore the immediate manoeuvre while drug therapy is drawn up.",
+   "optionExplanations": {
+    "b": "Propranolol is part of spell management but follows positioning and oxygen rather than preceding them.",
+    "c": "Phenylephrine is listed for spell management but is not the immediate bedside manoeuvre.",
+    "d": "Morphine sulfate is used in spell management but is not the first action taken at the bedside.",
+    "e": "Surgical repair is performed at 4-6 mo of age, or earlier for marked cyanosis or tet spells, but it does not abort the acute spell."
+   },
+   "topic": "Tetralogy of Fallot",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "P",
+    "name": "Pediatrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1219,
+    "reference": "P23 — Cyanotic Congenital Heart Disease: Tetralogy of Fallot"
+   }
+  },
+  {
+   "id": "TN-P-031",
+   "type": "single-best-answer",
+   "question": "A 3-year-old boy is assessed for delay across all developmental domains. There has been no regression of skills. His head circumference, height and weight are normal, and the neurological examination and head-to-toe examination reveal no dysmorphic features or cutaneous findings. Formal vision and hearing testing have already been arranged. Which of the following is the most appropriate first-line investigation?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Chromosomal microarray and Fragile X DNA testing"
+    },
+    {
+     "id": "b",
+     "text": "Brain imaging"
+    },
+    {
+     "id": "c",
+     "text": "Serum ammonia, lactate and acylcarnitine profile"
+    },
+    {
+     "id": "d",
+     "text": "Ferritin, B12 and lead levels"
+    },
+    {
+     "id": "e",
+     "text": "Standardized psychoeducational assessment"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "For a child with developmental delay, the source states that investigations are guided by history, physical examination and the CPS stepwise algorithm, with referral for formal vision and hearing tests, and that the first line investigations are chromosomal microarray and Fragile X DNA testing. Brain imaging is reserved for microcephaly, macrocephaly, seizures or abnormal neurological findings, none of which are present here.",
+   "optionExplanations": {
+    "b": "Brain imaging is indicated for microcephaly, macrocephaly, seizures or abnormal neurological findings, which this child does not have.",
+    "c": "These are Tier 1 laboratory investigations for inborn errors of metabolism, ordered after or alongside first-line genetic testing rather than before it.",
+    "d": "Ferritin, B12 and lead are listed as additional investigations, not first line.",
+    "e": "Standardized psychoeducational assessment is used to characterize intellectual disability and is performed by psychologists, not as the first-line etiologic test."
+   },
+   "topic": "Global Developmental Delay",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "P",
+    "name": "Pediatrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1223,
+    "reference": "P27 — Developmental Delay: Investigations"
+   }
+  },
+  {
+   "id": "TN-P-032",
+   "type": "single-best-answer",
+   "question": "A 5-year-old boy adopted at birth is assessed for behavioural and learning difficulties. Nothing is known about the birth mother's alcohol consumption during pregnancy. Examination shows short palpebral fissures, a flattened philtrum and a thin upper lip. Multidisciplinary neurodevelopmental assessment documents impairment in four domains, including executive function and adaptive behaviour. Which of the following is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Fetal alcohol spectrum disorder with sentinel facial features"
+    },
+    {
+     "id": "b",
+     "text": "Fetal alcohol spectrum disorder without sentinel facial features"
+    },
+    {
+     "id": "c",
+     "text": "Alcohol related neurodevelopmental disorder"
+    },
+    {
+     "id": "d",
+     "text": "Alcohol related birth defects"
+    },
+    {
+     "id": "e",
+     "text": "Partial fetal alcohol syndrome"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The source states that FASD with sentinel facial features requires presence of the facial features, maternal alcohol consumption confirmed or unknown, and evidence of neurodevelopmental impairment, whereas FASD without sentinel facial features requires confirmed maternal alcohol consumption. The sentinel facial features are short palpebral fissures, flattened philtrum and thin upper lip, and having all three is highly specific for alcohol exposure. Because all three features and neurodevelopmental impairment in at least three domains are present, the diagnosis can be made even though maternal consumption is unknown.",
+   "optionExplanations": {
+    "b": "This diagnosis requires confirmed maternal alcohol consumption, which is not available for this adopted child.",
+    "c": "Diagnosis of ARND requires evidence of maternal alcohol consumption during pregnancy and cannot be definitively made in children under 3 yr.",
+    "d": "ARBD requires evidence of maternal alcohol consumption plus congenital anomalies, malformations or dysplasias of the cardiac, skeletal, renal, ocular or auditory systems.",
+    "e": "Partial FAS sits on the spectrum but the source's diagnostic criteria for a child with all three sentinel facial features and neurodevelopmental impairment define FASD with sentinel facial features."
+   },
+   "topic": "Fetal Alcohol Spectrum Disorder",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "P",
+    "name": "Pediatrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1226,
+    "reference": "P30 — Fetal Alcohol Spectrum Disorder: Diagnosis"
+   }
+  },
+  {
+   "id": "TN-P-033",
+   "type": "single-best-answer",
+   "question": "A 9-year-old boy meets diagnostic criteria for attention deficit hyperactivity disorder, with symptoms since age 6 that are present at home and at school and that interfere with academic and family functioning. Six months of psychoeducation, parent training and classroom management have not resolved his impairment, and his parents now agree to a trial of medication. Which of the following is the most appropriate first-line drug?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Methylphenidate"
+    },
+    {
+     "id": "b",
+     "text": "Atomoxetine"
+    },
+    {
+     "id": "c",
+     "text": "Guanfacine XR"
+    },
+    {
+     "id": "d",
+     "text": "Clonidine"
+    },
+    {
+     "id": "e",
+     "text": "Bupropion"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The source lists pharmacological treatment of ADHD as 1st line stimulants (methylphenidate, amphetamines), 2nd line atomoxetine and guanfacine XR, and 3rd line clonidine, bupropion and imipramine. It also notes that psychosocial intervention plus medication is considered first line for children aged 6 and older. This 9-year-old has had behavioural management without adequate response, so a first-line stimulant is appropriate.",
+   "optionExplanations": {
+    "b": "Atomoxetine is a second-line agent.",
+    "c": "Guanfacine XR is a second-line agent.",
+    "d": "Clonidine is a third-line agent.",
+    "e": "Bupropion is a third-line agent."
+   },
+   "topic": "Attention Deficit Hyperactivity Disorder",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "P",
+    "name": "Pediatrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1228,
+    "reference": "P32 — Attention Deficit Hyperactivity Disorder: Treatment"
+   }
+  },
+  {
+   "id": "TN-P-034",
+   "type": "single-best-answer",
+   "question": "A 9-year-old girl with newly diagnosed diabetes is four hours into treatment for diabetic ketoacidosis with isotonic fluid replacement and an insulin infusion. She develops a headache, becomes irritable and then drowsy, and her heart rate falls from 124 to 58 beats per minute. She has been incontinent of urine. Which of the following is the most appropriate next step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Give mannitol, restrict intravenous fluids and move her to the intensive care unit"
+    },
+    {
+     "id": "b",
+     "text": "Obtain urgent brain imaging before any other intervention"
+    },
+    {
+     "id": "c",
+     "text": "Increase the rate of intravenous fluid administration"
+    },
+    {
+     "id": "d",
+     "text": "Give an intravenous insulin bolus"
+    },
+    {
+     "id": "e",
+     "text": "Add glucose to the maintenance fluids and continue current therapy"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The source lists headache, bradycardia, irritability, decreased level of consciousness, incontinence and specific neurological signs as warning signs of neurological deterioration in diabetic ketoacidosis, and notes that 0.5-1% of DKA cases are complicated by cerebral edema. It directs that if cerebral edema is suspected, give mannitol, restrict IV fluids and move to the ICU, with imaging only after the patient is stabilized. This girl's headache, bradycardia, irritability and reduced consciousness are exactly that constellation.",
+   "optionExplanations": {
+    "b": "Imaging should only be done after the patient is stabilized, so it must not delay mannitol and fluid restriction.",
+    "c": "Fluids should be restricted, not increased, when cerebral edema is suspected.",
+    "d": "Insulin bolus is specifically avoided in pediatric DKA protocols.",
+    "e": "Adding glucose once blood glucose reaches a threshold is routine DKA care but does not address suspected cerebral edema."
+   },
+   "topic": "Diabetic Ketoacidosis",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "P",
+    "name": "Pediatrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1229,
+    "reference": "P33 — Diabetic Ketoacidosis"
+   }
+  },
+  {
+   "id": "TN-P-035",
+   "type": "single-best-answer",
+   "question": "A 13-year-old boy is seen because he is the shortest in his class. His height is below the 3rd percentile but his growth velocity has been 5 cm per year. He is prepubertal, has no dysmorphic features, headaches or vision changes, and his mid-parental height is average. His father reports having had his own growth spurt at age 16. Which of the following is the most appropriate investigation?",
+   "options": [
+    {
+     "id": "a",
+     "text": "AP x-ray of the left hand and wrist for bone age"
+    },
+    {
+     "id": "b",
+     "text": "TSH and free T4"
+    },
+    {
+     "id": "c",
+     "text": "Growth hormone testing"
+    },
+    {
+     "id": "d",
+     "text": "Karyotype"
+    },
+    {
+     "id": "e",
+     "text": "Celiac screen"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The source defines short stature as height below the 3rd percentile and notes that decreased growth velocity is often more worrisome than the actual height. Among investigations it lists an AP x-ray of the left hand and wrist for bone age, and states that constitutional delay of growth and puberty may be distinguished from familial short stature based upon delayed bone age. With a normal growth velocity, a normal mid-parental height and a family history of delayed puberty, bone age is the discriminating test.",
+   "optionExplanations": {
+    "b": "Thyroid testing falls under further endocrine investigations recommended for severe short stature or decreased growth velocity, neither of which is present.",
+    "c": "GH testing is reserved for severe short stature or decreased growth velocity, and there are no risk factors for GH deficiency here.",
+    "d": "Karyotype is considered when aneuploidy is suspected, which is not the case in a boy with no dysmorphic features.",
+    "e": "A celiac screen is part of the chronic illness workup pursued when growth velocity is decreased."
+   },
+   "topic": "Short Stature",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "P",
+    "name": "Pediatrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1230,
+    "reference": "P34 — Growth: Short Stature"
+   }
+  },
+  {
+   "id": "TN-P-036",
+   "type": "single-best-answer",
+   "question": "A 6-week-old term infant is brought in with prolonged jaundice, feeding difficulty, lethargy and constipation. On examination there is an umbilical hernia, macroglossia, large fontanelles, a puffy face with swollen eyes, and hypotonia. Blood glucose is normal and the genitalia are normal. Which of the following is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Primary congenital hypothyroidism"
+    },
+    {
+     "id": "b",
+     "text": "Central congenital hypothyroidism"
+    },
+    {
+     "id": "c",
+     "text": "Congenital adrenal hyperplasia"
+    },
+    {
+     "id": "d",
+     "text": "Biliary atresia"
+    },
+    {
+     "id": "e",
+     "text": "Down syndrome"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The source states that congenital hypothyroidism is usually asymptomatic in the neonatal period because maternal T4 crosses the placenta, and that prolonged jaundice, feeding difficulty, lethargy, constipation, umbilical hernia, macroglossia, large fontanelles, puffy face, swollen eyes and hypotonia develop over the first few months. Primary congenital hypothyroidism shows an elevated TSH with a low free T4, and thyroxine replacement should normalize hormone levels within 2 wk to avoid cognitive impairment.",
+   "optionExplanations": {
+    "b": "Central hypothyroidism is associated with hypoglycemia, micropenis, undescended testes and features of diabetes insipidus, none of which are present.",
+    "c": "Congenital adrenal hyperplasia is a cause of ambiguous genitalia in 46,XX disorders of sexual development, and this infant's genitalia are normal.",
+    "d": "Biliary atresia causes persistent jaundice but does not explain macroglossia, large fontanelles, umbilical hernia and hypotonia.",
+    "e": "Down syndrome is associated with congenital heart lesions such as ostium primum atrial septal defect, but the constellation described here is the classic evolving picture of congenital hypothyroidism."
+   },
+   "topic": "Congenital Hypothyroidism",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "P",
+    "name": "Pediatrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1232,
+    "reference": "P36 — Congenital Hypothyroidism: Clinical Features"
+   }
+  },
+  {
+   "id": "TN-P-037",
+   "type": "single-best-answer",
+   "question": "A 6-week-old exclusively breastfed boy is brought in because of small amounts of blood in his stools for the past week, with mildly loose stools. He is feeding well, gaining weight along the 50th percentile and afebrile, and his abdomen is soft and non-tender. There is no vomiting, urticaria or wheeze. Which of the following is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Food protein-induced allergic proctocolitis"
+    },
+    {
+     "id": "b",
+     "text": "Food protein-induced enterocolitis syndrome"
+    },
+    {
+     "id": "c",
+     "text": "IgE-mediated cow's milk allergy"
+    },
+    {
+     "id": "d",
+     "text": "Food protein-induced enteropathy"
+    },
+    {
+     "id": "e",
+     "text": "Celiac disease"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Cow's milk allergy may be IgE-mediated or non-IgE-mediated, and the source describes food protein-induced allergic proctocolitis as presenting with mild diarrhea and small amounts of bloody stools, commonly in the young infant. Management is to stop exposure, using a casein hydrolysate formula or having the mother sequentially remove cow's milk protein, all bovine protein, soy protein and legumes while continuing breastfeeding. A thriving 6-week-old with blood-streaked stools and no systemic features fits this pattern.",
+   "optionExplanations": {
+    "b": "FPIES presents with severe vomiting and diarrhea, anemia and hematochezia, not an otherwise well infant.",
+    "c": "IgE-mediated reactions occur within hours of exposure with skin, respiratory and gastrointestinal features such as urticaria, wheeze and vomiting.",
+    "d": "Food protein-induced enteropathy presents with failure to thrive, chronic diarrhea and hypoalbuminemia.",
+    "e": "Celiac disease in children presents at any age but often at 6-24 mo with the introduction of gluten in the diet, and this infant is exclusively breastfed."
+   },
+   "topic": "Cow's Milk Allergy",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "P",
+    "name": "Pediatrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1242,
+    "reference": "P46 — Cow's Milk Allergy"
+   }
+  },
+  {
+   "id": "TN-P-038",
+   "type": "single-best-answer",
+   "question": "A 3-year-old girl is brought in after her father felt a swelling in her abdomen while bathing her. She has been well, with no weight loss or fever. Examination reveals an asymptomatic, unilateral abdominal mass and a blood pressure above the 95th percentile for age. Urinalysis shows gross hematuria. Which of the following is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Wilms' tumour"
+    },
+    {
+     "id": "b",
+     "text": "Neuroblastoma"
+    },
+    {
+     "id": "c",
+     "text": "Hydronephrosis"
+    },
+    {
+     "id": "d",
+     "text": "Polycystic kidney disease"
+    },
+    {
+     "id": "e",
+     "text": "Clear cell sarcoma of the kidney"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The source states that 80% of children with Wilms' tumour present with an asymptomatic, unilateral abdominal mass, and that presentation may also include hypertension, gross hematuria, abdominal pain, vomiting, fever, urinary tract infection and anemia. Ultrasound is used to establish the presence of a renal tumour and contrast-enhanced CT or MRI to evaluate the extent of the mass or lung metastases. This well child with an incidentally noted unilateral mass, hypertension and gross hematuria fits the classic presentation.",
+   "optionExplanations": {
+    "b": "Neuroblastoma is listed in the differential diagnosis, but it typically presents with metastatic and paraneoplastic features rather than an isolated asymptomatic renal mass with gross hematuria.",
+    "c": "Hydronephrosis is in the differential for a renal mass but does not typically cause hypertension with gross hematuria in an otherwise well toddler.",
+    "d": "Polycystic kidney disease usually produces bilateral rather than unilateral renal enlargement.",
+    "e": "Clear cell sarcoma is the second most common pediatric renal tumour and is far less likely than Wilms' tumour in this presentation."
+   },
+   "topic": "Wilms' Tumour",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "P",
+    "name": "Pediatrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1253,
+    "reference": "P57 — Wilms' Tumour: Clinical Features"
+   }
+  },
+  {
+   "id": "TN-P-039",
+   "type": "single-best-answer",
+   "question": "A 5-year-old boy presents with fever, headache, photophobia and neck stiffness. He is drowsy with nuchal rigidity, a positive Kernig's sign and a purpuric rash. Because of concern about raised intracranial pressure, the lumbar puncture will be deferred until after imaging and stabilization. Blood cultures have been drawn. Which of the following is the most appropriate management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Give empiric ceftriaxone and vancomycin now, before the lumbar puncture"
+    },
+    {
+     "id": "b",
+     "text": "Give empiric ampicillin and cefotaxime now, before the lumbar puncture"
+    },
+    {
+     "id": "c",
+     "text": "Withhold antibiotics until CSF Gram stain and culture results are available"
+    },
+    {
+     "id": "d",
+     "text": "Give dexamethasone alone and observe until the lumbar puncture is done"
+    },
+    {
+     "id": "e",
+     "text": "Give acyclovir alone pending HSV PCR"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The source states that decision making around lumbar puncture should not delay empiric antibiotic therapy, and that signs of raised intracranial pressure are a contraindication to LP. For children 90 d and older the main pathogens are S. pneumoniae, N. meningitidis and H. influenzae, and empiric treatment is ceftriaxone plus vancomycin. Empiric antibiotics should therefore be started immediately in this child with a petechial or purpuric rash and meningismus.",
+   "optionExplanations": {
+    "b": "Ampicillin plus cefotaxime is the regimen for neonates aged 0-28 d, covering GBS, E. coli and Listeria.",
+    "c": "Empiric antibiotic therapy should be commenced while awaiting cultures or if LP is contraindicated or delayed.",
+    "d": "Adjuvant dexamethasone is given before antibiotics for Hib meningitis, but it does not replace empiric antibacterial therapy.",
+    "e": "Acyclovir is used for HSV meningitis, but bacterial meningitis cannot be excluded and must be treated empirically."
+   },
+   "topic": "Bacterial Meningitis",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "P",
+    "name": "Pediatrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1262,
+    "reference": "P66 — Meningitis: Management"
+   }
+  },
+  {
+   "id": "TN-P-040",
+   "type": "single-best-answer",
+   "question": "A 3-month-old girl who has received only one set of immunizations presents after 6 days of coryza, sneezing and a mild cough without fever. Over the last two days she has developed paroxysms of coughing, sometimes followed by vomiting, and has had two episodes of apnea after a coughing fit. No inspiratory whoop has been heard. Which of the following is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Pertussis"
+    },
+    {
+     "id": "b",
+     "text": "Bronchiolitis"
+    },
+    {
+     "id": "c",
+     "text": "Uncomplicated viral upper respiratory tract infection"
+    },
+    {
+     "id": "d",
+     "text": "Mumps"
+    },
+    {
+     "id": "e",
+     "text": "Foreign body aspiration"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The source describes pertussis as a prolonged respiratory illness with a catarrhal stage lasting 1-7 d of coryza, mild cough and sneezing with no or low-grade fever, followed by a paroxysmal stage of coughing fits sometimes followed by an inspiratory whoop and post-tussive emesis. It specifically notes that infants under 6 mo may present with post-tussive apnea and that the whoop is often absent. Incidence is greatest among children under 1 yr who are not fully immunized.",
+   "optionExplanations": {
+    "b": "Bronchiolitis is a lower respiratory illness with wheeze rather than discrete coughing paroxysms with post-tussive emesis and apnea.",
+    "c": "A simple upper respiratory tract infection does not progress to paroxysms of cough with post-tussive emesis and apnea.",
+    "d": "Mumps is characterized by parotitis with tender parotid swelling, and about one third of infections present as an upper respiratory tract infection without a paroxysmal cough.",
+    "e": "Foreign body aspiration causes sudden symptoms rather than a week-long catarrhal prodrome followed by paroxysmal coughing."
+   },
+   "topic": "Pertussis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "P",
+    "name": "Pediatrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1263,
+    "reference": "P67 — Pertussis"
+   }
+  },
+  {
+   "id": "TN-P-041",
+   "type": "single-best-answer",
+   "question": "An infant born at 28 weeks gestation is now 3 weeks old and receiving formula feeds in the neonatal intensive care unit. Over 12 hours he develops a distended abdomen with diminished bowel sounds, feeding intolerance with an increased amount of bile-stained gastric aspirate, and frank blood in the stool. Which of the following is the most appropriate initial investigation?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Abdominal x-ray"
+    },
+    {
+     "id": "b",
+     "text": "Abdominal ultrasound with Doppler"
+    },
+    {
+     "id": "c",
+     "text": "Blood culture"
+    },
+    {
+     "id": "d",
+     "text": "Arterial blood gas and lactate"
+    },
+    {
+     "id": "e",
+     "text": "Complete blood count with platelet count"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The source describes necrotizing enterocolitis as usually presenting at 2-3 wk of age in a preterm infant with a distended abdomen, diminished bowel sounds, feeding intolerance, bile-stained gastric aspirate and frank or occult blood in stool. The key investigation is an abdominal x-ray, on which pneumatosis intestinalis is the hallmark of NEC, along with free air, fixed loops, ileus, thickened bowel wall and portal venous gas; serial AXRs also detect early perforation. The other tests support the diagnosis but do not establish it.",
+   "optionExplanations": {
+    "b": "Abdominal ultrasound can show abnormal bowel wall thickness and portal venous gas and may be more sensitive than x-ray, but the x-ray remains the initial imaging study and detects free air.",
+    "c": "Blood culture is part of the workup but does not demonstrate pneumatosis intestinalis or perforation.",
+    "d": "Blood gas and lactate reflect severity, showing acidosis and hypoxia, rather than confirming the diagnosis.",
+    "e": "CBC may show high or low WBC and low platelets but is non-specific."
+   },
+   "topic": "Necrotizing Enterocolitis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "P",
+    "name": "Pediatrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1275,
+    "reference": "P79 — Necrotizing Enterocolitis"
+   }
+  },
+  {
+   "id": "TN-P-042",
+   "type": "single-best-answer",
+   "question": "A 3-day-old term infant is noted to have a rash. He is feeding well, afebrile and otherwise entirely well. Examination shows scattered yellow-white papules and pustules surrounded by erythema over the trunk and limbs, sparing the palms and soles. A smear of a lesion shows eosinophils. Which of the following is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Erythema toxicum neonatorum"
+    },
+    {
+     "id": "b",
+     "text": "Transient pustular melanosis"
+    },
+    {
+     "id": "c",
+     "text": "Milia"
+    },
+    {
+     "id": "d",
+     "text": "Neonatal acne"
+    },
+    {
+     "id": "e",
+     "text": "Congenital dermal melanocytosis"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The source describes erythema toxicum neonatorum as yellow-white papules or pustules surrounded by erythema with eosinophils within the lesions, a common rash that resolves in 5-7 d. No treatment is required. The eosinophils and the surrounding erythema distinguish it from the other benign neonatal skin conditions.",
+   "optionExplanations": {
+    "b": "Transient pustular melanosis has a hyperpigmented macular base with pustules and is seen more commonly in Black infants, often present at birth.",
+    "c": "Milia are 1-2 mm firm white pearly papules on the nasal bridge, cheeks and palate.",
+    "d": "Neonatal acne consists of inflammatory papules and pustules mainly on the face, self-resolving usually within 4 mo.",
+    "e": "Congenital dermal melanocytosis presents as slate grey patches, usually over the lower back, buttocks and lower limbs."
+   },
+   "topic": "Neonatal Skin Conditions",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "P",
+    "name": "Pediatrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1278,
+    "reference": "P82 — Skin Conditions of the Neonate"
+   }
+  },
+  {
+   "id": "TN-P-043",
+   "type": "single-best-answer",
+   "question": "A 4-year-old boy had abdominal pain and diarrhea that became bloody 6 days ago. He now has pallor, jaundice, petechiae and decreased urine output. Investigations show anemia with schistocytes on blood smear, thrombocytopenia, a rising creatinine and microscopic hematuria. Stool culture is positive for Shiga toxin-producing E. coli. Which of the following is the most appropriate management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Supportive care with attention to hydration, nutrition and blood products, avoiding antibiotics"
+    },
+    {
+     "id": "b",
+     "text": "Intravenous antibiotics directed at E. coli"
+    },
+    {
+     "id": "c",
+     "text": "Plasma exchange"
+    },
+    {
+     "id": "d",
+     "text": "Eculizumab"
+    },
+    {
+     "id": "e",
+     "text": "An antidiarrheal agent to reduce stool losses"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Hemolytic uremic syndrome is the simultaneous occurrence of non-immune microangiopathic hemolytic anemia, thrombocytopenia and acute renal injury, and STEC-HUS accounts for 90% of pediatric cases, typically developing 3-10 d after the onset of diarrhea. The source states that management is mainly supportive with nutrition, hydration, ventilation if necessary and blood products, and that in STEC-HUS antibiotics, NSAIDs and antidiarrheal agents should be avoided, with no treatments associated with improved outcomes. Dialysis is added only for symptomatic uremia, refractory electrolyte abnormality or severe fluid overload.",
+   "optionExplanations": {
+    "b": "Antibiotics are specifically avoided in STEC-HUS.",
+    "c": "Plasma exchange is reserved for atypical HUS, which accounts for 10% of pediatric cases.",
+    "d": "Eculizumab is used for atypical HUS caused by complement pathway mutations, not STEC-HUS.",
+    "e": "Antidiarrheal agents are specifically avoided in STEC-HUS."
+   },
+   "topic": "Hemolytic Uremic Syndrome",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "P",
+    "name": "Pediatrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1279,
+    "reference": "P83 — Hemolytic Uremic Syndrome: Management"
+   }
+  },
+  {
+   "id": "TN-P-044",
+   "type": "single-best-answer",
+   "question": "A 4-year-old boy presents with periorbital edema that is worst on waking and pretibial edema that increases over the day. His parents note foamy urine. Blood pressure is normal and there is no gross hematuria. Urine dipstick shows 4+ proteinuria, serum albumin is 18 g/L, total cholesterol is 8 mmol/L, and creatinine is normal. Which of the following is the best initial treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Oral prednisone 2 mg/kg/d"
+    },
+    {
+     "id": "b",
+     "text": "Intravenous albumin with furosemide"
+    },
+    {
+     "id": "c",
+     "text": "An ACE inhibitor"
+    },
+    {
+     "id": "d",
+     "text": "A cytotoxic agent"
+    },
+    {
+     "id": "e",
+     "text": "High-dose pulse corticosteroid"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The source describes nephrotic syndrome presenting with gravity-dependent periorbital and pretibial edema, foamy urine, 3 to 4+ proteinuria, hypoalbuminemia below 25 g/L and hypercholesterolemia above 5 mmol/L. Treatment of minimal change disease is oral prednisone 2 mg/kg/d or equivalent for up to 12 wk, and varicella status should be known before starting because prednisone can significantly exacerbate infection. This child has no features prompting renal biopsy such as hypertension, gross hematuria or impaired renal function.",
+   "optionExplanations": {
+    "b": "IV albumin and furosemide are not routinely given and are considered only for refractory edema or anasarca.",
+    "c": "ACE inhibitors or ARBs are used for persistent hypertension, and this boy's blood pressure is normal.",
+    "d": "Cytotoxic agents are considered if the child is steroid resistant.",
+    "e": "High-dose pulse corticosteroid is reserved for steroid-resistant disease."
+   },
+   "topic": "Nephrotic Syndrome",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "P",
+    "name": "Pediatrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1281,
+    "reference": "P85 — Nephrotic Syndrome: Management"
+   }
+  },
+  {
+   "id": "TN-P-045",
+   "type": "single-best-answer",
+   "question": "A 2-year-old boy is brought in at night with a one-day history of rhinorrhea, low-grade fever and hoarseness, now with a barking cough and inspiratory stridor when he becomes upset. He is non-toxic in appearance, is not drooling and has no dysphagia. Chest and neck x-ray shows subglottic narrowing. Which of the following is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Croup"
+    },
+    {
+     "id": "b",
+     "text": "Epiglottitis"
+    },
+    {
+     "id": "c",
+     "text": "Bacterial tracheitis"
+    },
+    {
+     "id": "d",
+     "text": "Foreign body aspiration"
+    },
+    {
+     "id": "e",
+     "text": "Retropharyngeal abscess"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The source describes croup, or laryngotracheitis, as affecting the subglottis, common in children 6-36 mo, and presenting with a non-toxic appearance, barking cough, stridor, hoarseness and a viral prodrome of rhinorrhea, pharyngitis and cough with low-grade fever. It is a clinical diagnosis, and the chest x-ray may show the steeple sign from subglottic narrowing. Mild-to-moderate disease is treated with corticosteroids and supportive care.",
+   "optionExplanations": {
+    "b": "Epiglottitis presents with a toxic appearance, rapid progression, drooling, dysphagia, dysphonia, distress, a tripod position, fever above 39 degrees and no cough.",
+    "c": "Bacterial tracheitis causes a toxic appearance with rapid progression, biphasic stridor and no response to corticosteroids and nebulized epinephrine.",
+    "d": "Foreign body aspiration is in the differential diagnosis of stridor but does not produce a viral prodrome with a barking cough and subglottic narrowing.",
+    "e": "Retropharyngeal abscess is a cause of stridor but does not cause a barking cough with subglottic narrowing."
+   },
+   "topic": "Croup",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "P",
+    "name": "Pediatrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1290,
+    "reference": "P94 — Common Upper Respiratory Tract Diseases in Children"
+   }
+  },
+  {
+   "id": "TN-P-046",
+   "type": "single-best-answer",
+   "question": "A 6-year-old boy develops a rash two weeks after an upper respiratory tract infection. Examination shows palpable purpura over the buttocks and lower extremities, painful edema of both ankles with arthritis, and crampy abdominal pain. Platelet count is normal and urinalysis shows microscopic hematuria. Which of the following is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Henoch-Schonlein purpura"
+    },
+    {
+     "id": "b",
+     "text": "Immune thrombocytopenic purpura"
+    },
+    {
+     "id": "c",
+     "text": "Systemic lupus erythematosus"
+    },
+    {
+     "id": "d",
+     "text": "Septic arthritis"
+    },
+    {
+     "id": "e",
+     "text": "Transient synovitis of the hip"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The source describes Henoch-Schonlein purpura as the most common childhood vasculitis with a peak incidence at 4-10 yr, often preceded by a URTI 1-3 wk before onset. The clinical triad is palpable purpura, abdominal pain and arthritis, with palpable non-thrombocytopenic purpura in the lower extremities and buttocks, arthritis involving large joints with painful edema, and renal involvement including microscopic hematuria. Diagnosis is mainly clinical, with no routine investigations performed.",
+   "optionExplanations": {
+    "b": "Immune thrombocytopenic purpura would produce a low platelet count, whereas HSP purpura is non-thrombocytopenic.",
+    "c": "Systemic lupus erythematosus more commonly presents after age 10 with a strong female predominance and multisystem autoimmune features.",
+    "d": "Septic arthritis is a medical emergency involving a single joint and does not cause palpable purpura over the buttocks.",
+    "e": "Transient synovitis of the hip causes a painful limp with full range of motion after a URTI but not purpura or abdominal pain."
+   },
+   "topic": "Henoch-Schonlein Purpura",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "P",
+    "name": "Pediatrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1294,
+    "reference": "P98 — Vasculitides: Henoch-Schonlein Purpura"
+   }
+  },
+  {
+   "id": "TN-P-047",
+   "type": "single-best-answer",
+   "question": "A 2-year-old girl has had fever for 6 days. She has bilateral non-exudative conjunctival injection, fissured lips with a strawberry tongue, a polymorphous rash, and erythema of the palms and soles with edema of the dorsum of the hands. Scarlet fever and measles have been excluded. A baseline echocardiogram has been arranged. Which of the following is the best initial treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "IVIG 2 g/kg with low dose ASA"
+    },
+    {
+     "id": "b",
+     "text": "Low dose ASA alone"
+    },
+    {
+     "id": "c",
+     "text": "IV pulse methylprednisolone"
+    },
+    {
+     "id": "d",
+     "text": "A second dose of IVIG"
+    },
+    {
+     "id": "e",
+     "text": "Antipyretics with repeat echocardiography in 2 wk"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Kawasaki disease is diagnosed with fever persisting at least 5 d plus 4 or more of conjunctival injection, oral mucous membrane changes, peripheral extremity changes, polymorphous rash and cervical lymphadenopathy, with exclusion of other diseases such as scarlet fever and measles. The source states that initial therapy is IVIG 2 g/kg with low dose ASA 3-5 mg/kg/d, and that IVIG given within 10 d of fever onset reduces the risk of coronary aneurysm formation. Coronary artery aneurysms occur in 20-25% of untreated children but under 5% of those treated within 10 d.",
+   "optionExplanations": {
+    "b": "Low dose ASA is given with IVIG, not instead of it, and does not reduce aneurysm risk on its own.",
+    "c": "IV pulse methylprednisolone is considered only after a second IVIG dose fails.",
+    "d": "A repeat IVIG dose is given if fever persists 24-36 h after the first dose, not as initial therapy.",
+    "e": "Observation with antipyretics forfeits the window in which IVIG within 10 d of fever onset reduces coronary aneurysm risk."
+   },
+   "topic": "Kawasaki Disease",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "P",
+    "name": "Pediatrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1295,
+    "reference": "P99 — Kawasaki Disease: Management"
    }
   }
  ]

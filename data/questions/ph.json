@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 8,
+ "count": 17,
  "questions": [
   {
    "id": "TN-PH-001",
@@ -376,6 +376,420 @@
     "document": "Toronto Notes 2025",
     "page": 1451,
     "reference": "PH33 — Appendix – Mandatory Reporting"
+   }
+  },
+  {
+   "id": "TN-PH-009",
+   "type": "single-best-answer",
+   "question": "A local public health unit is investigating a multi-province cluster of salmonellosis traced to a brand of frozen breaded chicken product still on grocery shelves. The medical officer of health wants the implicated product recalled from sale across Canada. Which organization holds the federal responsibility for food safety, labelling, and recalls?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Health Canada"
+    },
+    {
+     "id": "b",
+     "text": "Public Health Agency of Canada"
+    },
+    {
+     "id": "c",
+     "text": "Canadian Food Inspection Agency"
+    },
+    {
+     "id": "d",
+     "text": "Canadian Institutes of Health Research"
+    },
+    {
+     "id": "e",
+     "text": "The provincial public health agency (e.g. Public Health Ontario)"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "Toronto Notes divides public health legislation and responsibility between federal and provincial bodies. Federally, the Canadian Food Inspection Agency regulates federal food safety, labelling, and recalls, and deals with animal-related infections. A national recall of a contaminated food product is therefore a CFIA function, even though the outbreak investigation and follow-up of reported disease are carried out locally.",
+   "optionExplanations": {
+    "a": "Health Canada approves new drugs and medical devices, provides non-insured health benefits to status First Nations peoples and Inuit, and publishes Canada's Food Guide, but does not run food recalls.",
+    "b": "The Public Health Agency of Canada is the main federal agency responsible for public health and was created post-SARS; it responds to outbreaks and emergencies but does not regulate food labelling and recalls.",
+    "d": "The Canadian Institutes of Health Research was formed in 2000 to support research to improve health and the health care system; it has no regulatory role.",
+    "e": "Provincial agencies operate under each province's Public Health Act and support local units; recall of a federally regulated food product is not within provincial jurisdiction."
+   },
+   "topic": "Canadian Public Health System",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "PH",
+    "name": "Public Health and Preventive Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1421,
+    "reference": "PH3 — Legislation and Public Health in Canada"
+   }
+  },
+  {
+   "id": "TN-PH-010",
+   "type": "single-best-answer",
+   "question": "A medical officer of health is concerned about rising rates of childhood obesity in her catchment area. She presents local data to municipal council and successfully advocates for a by-law that removes sugar-sweetened beverages from vending machines in all city-owned recreation centres and arenas. Under the Ottawa Charter for Health Promotion (1986), which action does this best represent?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Building healthy public policy"
+    },
+    {
+     "id": "b",
+     "text": "Creating supportive environments"
+    },
+    {
+     "id": "c",
+     "text": "Strengthening community action"
+    },
+    {
+     "id": "d",
+     "text": "Developing personal skills"
+    },
+    {
+     "id": "e",
+     "text": "Re-orienting health services"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The Ottawa Charter states that governments and health care providers should be involved in a health promotion process that includes building healthy public policy, creating supportive environments, strengthening community action, developing personal skills, and re-orienting health services. Enacting a municipal by-law is legislative action at the level of government, which is the defining feature of building healthy public policy. Most health promotion is done at the population level by public health professionals and agencies through engaging stakeholders, formulating policy, and influencing upstream factors.",
+   "optionExplanations": {
+    "b": "Creating supportive environments refers to shaping the physical and social settings people live in rather than to the legislative act of passing a by-law; here the mechanism is policy formulation.",
+    "c": "Strengthening community action would involve mobilizing community groups to set and act on their own priorities, which is not what the medical officer of health did.",
+    "d": "Developing personal skills refers to health education that increases individual knowledge and capability, not to municipal legislation.",
+    "e": "Re-orienting health services refers to shifting the health care system itself toward prevention and promotion, not to a municipal by-law on vending machines."
+   },
+   "topic": "Health Promotion",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "PH",
+    "name": "Public Health and Preventive Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1422,
+    "reference": "PH4 — Ottawa Charter for Health Promotion"
+   }
+  },
+  {
+   "id": "TN-PH-011",
+   "type": "single-best-answer",
+   "question": "A provincial ministry is ranking chronic conditions in order to set funding priorities. It wants a single summary measure that counts both the years lost due to premature mortality and the years lost due to disability, whether the disability is physical or mental, so that a disabling but rarely fatal condition is not ranked as harmless. Which measure best meets this requirement?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Disability adjusted life year (DALY)"
+    },
+    {
+     "id": "b",
+     "text": "Quality adjusted life year (QALY)"
+    },
+    {
+     "id": "c",
+     "text": "Potential years of life lost (PYLL)"
+    },
+    {
+     "id": "d",
+     "text": "Standardized mortality ratio (SMR)"
+    },
+    {
+     "id": "e",
+     "text": "Infant mortality rate (IMR)"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "A disability adjusted life year is the number of years lost due to premature mortality plus the number of years lost due to disability, where 0 is a year of perfect health and 1 is death, and those disabilities can be physical or mental. Because it accounts for both premature death and time spent with disability, the DALY is the measure used to assess the burden of diseases in a population. The other options capture only mortality or serve an economic rather than a burden-of-disease purpose.",
+   "optionExplanations": {
+    "b": "A QALY weights years of life by quality, from 0 (death) to 1 (perfect health), and is usually used as an economic measure to assess the value for money of medical interventions.",
+    "c": "PYLL is calculated from the difference between the actual age at death and a standard or expected age at death, giving increased weighting to mortality at a younger age; it ignores disability.",
+    "d": "The SMR is observed deaths divided by expected deaths, an indirectly standardized mortality comparison rather than a measure of disease burden including disability.",
+    "e": "The IMR counts reported deaths among children under 1 yr of age per 1000 live births and is a specific mortality indicator."
+   },
+   "topic": "Measures of Disease Burden",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "PH",
+    "name": "Public Health and Preventive Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1431,
+    "reference": "PH13 — Measures of Disease Burden"
+   }
+  },
+  {
+   "id": "TN-PH-012",
+   "type": "single-best-answer",
+   "question": "A provincial registry has followed a chronic neurological disease for 15 yr. The number of new cases identified each year in the population has remained essentially unchanged over that period, yet point prevalence has nearly doubled. During the same interval a treatment was introduced that does not cure the disease but substantially prolongs survival. Which statement best explains the registry's findings?",
+   "options": [
+    {
+     "id": "a",
+     "text": "The incidence rate must in fact have increased, since the number of new cases in a population over a specific period of time drives prevalence"
+    },
+    {
+     "id": "b",
+     "text": "Prevalence is a function of the incidence rate and of disease duration from onset to termination, so longer survival alone can raise prevalence"
+    },
+    {
+     "id": "c",
+     "text": "The registry has switched from reporting point prevalence to period prevalence, which includes new cases and excludes cases that terminate"
+    },
+    {
+     "id": "d",
+     "text": "Prevalence is underestimating the true disease burden because cases with short disease duration are being missed"
+    },
+    {
+     "id": "e",
+     "text": "The apparent rise is an artefact of the crude rate and would disappear once the rate was age-standardized to a standard population"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "The incidence rate is the number of new cases in a population over a specific period of time, whereas prevalence is the total number of cases and is a function of the incidence rate and disease duration from onset to termination. A treatment that prolongs survival without curing lengthens duration, so cases accumulate and prevalence rises even with a flat incidence rate. This is also why prevalence favours the inclusion of chronic over acute cases and is used to measure disease burden for planning facilities and services.",
+   "optionExplanations": {
+    "a": "The registry counts new cases directly; a stable count of new cases means the incidence rate has not changed, and prevalence can rise without it.",
+    "c": "Point prevalence is assessed at one point in time and period prevalence over a period of time; a change in which is reported would not by itself double the estimate, and the stem states point prevalence was measured throughout.",
+    "d": "This statement is true of prevalence in general but describes underestimation of burden from short-duration cases, which would lower rather than raise the measured prevalence.",
+    "e": "Age standardization adjusts a crude rate using a standard population to allow comparison between dissimilar populations; nothing in the stem indicates a shift in age distribution."
+   },
+   "topic": "Measures of Disease Occurrence",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "PH",
+    "name": "Public Health and Preventive Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1430,
+    "reference": "PH12 — Measures of Disease Occurrence"
+   }
+  },
+  {
+   "id": "TN-PH-013",
+   "type": "single-best-answer",
+   "question": "A 58-year-old lifelong non-smoker is diagnosed with lung cancer. She lives alone in a rural house and sleeps in a finished basement bedroom; no one has ever smoked in the home and she has had no occupational dust or asbestos exposure. Her physician takes an environmental health history and notes that the local soil contains uranium. Which indoor air exposure most likely contributed to her cancer?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Radon"
+    },
+    {
+     "id": "b",
+     "text": "Ground-level ozone"
+    },
+    {
+     "id": "c",
+     "text": "Carbon monoxide"
+    },
+    {
+     "id": "d",
+     "text": "Sulphur dioxide"
+    },
+    {
+     "id": "e",
+     "text": "Second-hand tobacco smoke"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Radon is an ionizing radiation hazard that is naturally produced by soil containing uranium or radium and can contaminate indoor air; it is associated with approximately 20% of lung cancers. A basement sleeping area in a region with uranium-bearing soil is exactly the reservoir and route this describes, and the other indoor and outdoor air hazards listed on this page act mainly as airway irritants or systemic toxins.",
+   "optionExplanations": {
+    "b": "Ground-level ozone is the main component of smog, an outdoor chemical hazard that worsens asthma and irritates the upper airway.",
+    "c": "Carbon monoxide is a common byproduct of combustion that aggravates cardiac disease at low levels, causes headache, nausea, and dizziness at moderate levels, and is fatal at high levels.",
+    "d": "Sulphur dioxide and nitrogen oxides are fossil-fuel related, contribute to acid rain, and exacerbate breathing difficulties rather than causing lung cancer.",
+    "e": "Second-hand tobacco smoke does increase the risk of lung cancer, but the history states that no one has ever smoked in the home."
+   },
+   "topic": "Environmental Health",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "PH",
+    "name": "Public Health and Preventive Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1445,
+    "reference": "PH27 — Air"
+   }
+  },
+  {
+   "id": "TN-PH-014",
+   "type": "single-best-answer",
+   "question": "A trial of a community salt-reduction program reports a mean reduction in systolic blood pressure of 12 mmHg compared with usual care (95% CI 8 to 16 mmHg). A resident asks how this interval should be read. Which statement is the best interpretation of the reported confidence interval?",
+   "options": [
+    {
+     "id": "a",
+     "text": "95% of participants in the program had a blood pressure reduction between 8 and 16 mmHg"
+    },
+    {
+     "id": "b",
+     "text": "It is a range bound by upper and lower confidence limits containing the true population parameter; if the study were repeated 100 times, the 95% CI would contain that parameter 95 out of 100 times"
+    },
+    {
+     "id": "c",
+     "text": "There is a 95% probability that the null hypothesis of no difference is false"
+    },
+    {
+     "id": "d",
+     "text": "For the same critical value, a wider interval would indicate less variance in the data than a tighter interval"
+    },
+    {
+     "id": "e",
+     "text": "Because the interval excludes zero, the observed reduction must also be clinically significant"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Toronto Notes defines a confidence interval as a range of values, bound by the upper and lower confidence limits, that contains the true population parameter, and explains a 95% CI as meaning that if the study were repeated 100 times the interval would contain the population parameter 95 out of 100 times. The interval describes the precision of the estimate of the population parameter, not the spread of individual patients' responses.",
+   "optionExplanations": {
+    "a": "A confidence interval bounds the population parameter such as the mean; it is not a range within which a given percentage of individual observations fall.",
+    "c": "The probability of falsely rejecting the null hypothesis is denoted by the p-value; a confidence interval is not a probability statement about the null hypothesis.",
+    "d": "This is reversed: a wider confidence interval implies more variance than a tighter confidence interval given the same critical value.",
+    "e": "Statistical significance does not establish clinical significance; the source notes a 1 mmHg blood pressure reduction may be statistically significant yet not clinically useful once cost, availability, adherence, and side effects are considered."
+   },
+   "topic": "Confidence Intervals",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "PH",
+    "name": "Public Health and Preventive Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1438,
+    "reference": "PH20 — Confidence Interval"
+   }
+  },
+  {
+   "id": "TN-PH-015",
+   "type": "single-best-answer",
+   "question": "An outbreak of a diarrhoeal illness occurs in a town of 20 000 people. Over six weeks the public health unit identifies 400 people with the illness, of whom 12 die as a result of it. Using these figures, what is the case-fatality rate?",
+   "options": [
+    {
+     "id": "a",
+     "text": "0.06%"
+    },
+    {
+     "id": "b",
+     "text": "2%"
+    },
+    {
+     "id": "c",
+     "text": "3%"
+    },
+    {
+     "id": "d",
+     "text": "25%"
+    },
+    {
+     "id": "e",
+     "text": "30%"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "The case-fatality rate is the proportion of individuals with the disease who died as a result of the illness during a specified time period, calculated as (number of cases that died / total number of cases) x 100%. Here that is (12/400) x 100% = 3%. The CFR must be clearly differentiated from the mortality rate, which is the proportion of the whole population that died during the period.",
+   "optionExplanations": {
+    "a": "0.06% is 12/20 000, the crude mortality rate for the town, not the case-fatality rate.",
+    "b": "2% is 400/20 000, the attack rate: the proportion of an initially disease-free population that develops the disease over a specified time period.",
+    "d": "25% does not correspond to any of the numbers given and would require 100 deaths among the 400 cases.",
+    "e": "30% would be the result of dividing by the number of deaths rather than by the total number of cases."
+   },
+   "topic": "Outbreak Measures",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "PH",
+    "name": "Public Health and Preventive Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1442,
+    "reference": "PH24 — Managing Disease Outbreaks"
+   }
+  },
+  {
+   "id": "TN-PH-016",
+   "type": "single-best-answer",
+   "question": "A public health unit receives a report of a vomiting illness among members of a baseball team after a team dinner at a restaurant. The investigation team has been assembled, the observed number of cases has been compared with the number expected during a non-outbreak time frame to establish that an outbreak exists, and medical records and laboratory reports have been obtained to verify the diagnosis. According to the ten-step approach to controlling an outbreak, what should the team do next?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Define a case in terms of person, place, and time"
+    },
+    {
+     "id": "b",
+     "text": "Create a line list containing clinical, demographic, and exposure information for each case"
+    },
+    {
+     "id": "c",
+     "text": "Perform descriptive epidemiology and construct an epidemic curve"
+    },
+    {
+     "id": "d",
+     "text": "Conduct a case-control study to evaluate hypotheses about the exposure"
+    },
+    {
+     "id": "e",
+     "text": "Involve the media to address public concerns and call for public action"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "In the ten-step approach, once the investigation team is identified, the existence of an outbreak is established, and the diagnosis is verified, the next step is to define a case. A case definition has three components — person, place, and time — and it must exist before cases can be found systematically, because it determines who counts as a case for the line list and all later analysis.",
+   "optionExplanations": {
+    "b": "Finding cases systemically and creating a line list is the following step, and it cannot be done consistently until a case definition exists.",
+    "c": "Descriptive epidemiology and epidemic curves come after cases have been found and listed, and are used to develop hypotheses.",
+    "d": "Evaluating hypotheses with a case-control study, useful when not everyone exposed can be found and included, comes later in the ten-step sequence.",
+    "e": "Communicating findings, including involving the media, is one of the final steps once the investigation has produced findings to communicate."
+   },
+   "topic": "Outbreak Investigation",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "PH",
+    "name": "Public Health and Preventive Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1443,
+    "reference": "PH25 — Steps to Control an Outbreak"
+   }
+  },
+  {
+   "id": "TN-PH-017",
+   "type": "single-best-answer",
+   "question": "An occupational medicine physician is consulted about a metal fabrication shop where several workers have developed irritant contact dermatitis and headaches from a degreasing solvent. Safety data sheets confirm the solvent is the likely hazard, and a less hazardous water-based product could do the same job. Applying the hierarchy of controls for reduction of occupational exposures, which measure should be recommended as the most effective?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Remove the solvent from the process entirely by switching to the water-based product"
+    },
+    {
+     "id": "b",
+     "text": "Install local exhaust ventilation over the degreasing station to isolate workers from the hazard"
+    },
+    {
+     "id": "c",
+     "text": "Rotate workers through the degreasing station to limit each person's duration of contact"
+    },
+    {
+     "id": "d",
+     "text": "Issue chemical-resistant gloves and fit-tested respirators to all workers at the station"
+    },
+    {
+     "id": "e",
+     "text": "Provide annual training on reading safety data sheets and on symptoms of solvent exposure"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The hierarchy of controls ranks measures from most to least effective: elimination of the hazard, then substitution and engineering controls that isolate people from the hazard, then administrative controls that change the way people work, then personal protective equipment as the least effective option. Eliminating the solvent by replacing it with a less hazardous product removes the exposure at its source rather than relying on the worker, so it sits at the top of the hierarchy. This is also primary prevention, the recognition and control of exposure to hazards.",
+   "optionExplanations": {
+    "b": "Ventilation is an engineering control that isolates the worker from the hazard; effective, but ranked below removing the hazard altogether.",
+    "c": "Job rotation is an administrative control that changes the way people work and still leaves every worker exposed for part of the time.",
+    "d": "Gloves and respirators are personal protective equipment, the least effective level of the hierarchy because protection depends on correct and continuous use.",
+    "e": "Education about safety data sheets is an administrative control; it informs workers but does not reduce the exposure itself."
+   },
+   "topic": "Occupational Health",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "PH",
+    "name": "Public Health and Preventive Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1449,
+    "reference": "PH31 — Occupational Hazards"
    }
   }
  ]

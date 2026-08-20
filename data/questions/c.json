@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 26,
+ "count": 38,
  "questions": [
   {
    "id": "TN-C-001",
@@ -1204,6 +1204,558 @@
     "document": "Toronto Notes 2025",
     "page": 152,
     "reference": "C62 — Acute Pericarditis: Triage and Diagnosis"
+   }
+  },
+  {
+   "id": "TN-C-027",
+   "type": "single-best-answer",
+   "question": "A 71-year-old man is found to have asymptomatic atrial fibrillation on a routine preoperative ECG. He has never had a stroke or TIA, and has no hypertension, diabetes mellitus, heart failure, coronary artery disease, or peripheral arterial disease. Blood pressure is 122/74 mmHg. Echocardiography shows structurally normal valves and preserved left ventricular function. Which antithrombotic therapy is most appropriate?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Apixaban"
+    },
+    {
+     "id": "b",
+     "text": "Warfarin titrated to an INR of 2.0-3.0"
+    },
+    {
+     "id": "c",
+     "text": "ASA 81 mg daily"
+    },
+    {
+     "id": "d",
+     "text": "Clopidogrel 75 mg daily"
+    },
+    {
+     "id": "e",
+     "text": "ASA 81 mg daily plus clopidogrel 75 mg daily"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The CHADS-65 algorithm starts with age: a patient with AFib who is 65 or older receives oral anticoagulation regardless of other risk factors, and a DOAC is preferred over warfarin. Only patients who fail the age step and have no CHADS2 risk factors (prior stroke or TIA, hypertension, heart failure, diabetes mellitus) are considered for antiplatelet therapy, and then only if they have coronary or peripheral arterial disease. This man qualifies for oral anticoagulation on age alone.",
+   "optionExplanations": {
+    "b": "Warfarin would provide anticoagulation, but the algorithm explicitly states a DOAC is preferred over warfarin.",
+    "c": "Antiplatelet therapy is reserved for patients who do not meet the age or CHADS2 criteria for oral anticoagulation but have coronary or peripheral arterial disease.",
+    "d": "Clopidogrel alone is an antiplatelet option lower down the algorithm, not a substitute for oral anticoagulation in a patient aged 65 or older.",
+    "e": "Dual antiplatelet therapy is one of the antithrombotic options for the vascular disease branch of the algorithm, not for an anticoagulation-eligible patient."
+   },
+   "topic": "Anticoagulation in Atrial Fibrillation",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "C",
+    "name": "Cardiology and Cardiac Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 114,
+    "reference": "C24 — CHADS-65: CCS Algorithm for Oral Anticoagulation Therapy in AFib"
+   }
+  },
+  {
+   "id": "TN-C-028",
+   "type": "single-best-answer",
+   "question": "A 74-year-old woman becomes hypotensive six hours after implantation of a dual-chamber permanent pacemaker placed by subclavian venous access. Blood pressure is 84/56 mmHg and jugular venous pressure is elevated. Chest radiograph shows leads in the right atrium and right ventricle with no pneumothorax and no pocket swelling. Urgent echocardiography demonstrates a new pericardial effusion. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Pacemaker lead perforation with tamponade"
+    },
+    {
+     "id": "b",
+     "text": "Pneumothorax related to venous access"
+    },
+    {
+     "id": "c",
+     "text": "Pocket hematoma"
+    },
+    {
+     "id": "d",
+     "text": "Pacemaker syndrome"
+    },
+    {
+     "id": "e",
+     "text": "Pacemaker-mediated tachycardia"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Complications related to surgical pacemaker implantation include venous access injury, pocket hematomas, infection, and pacemaker leads causing perforation with possible pericardial effusion or tamponade. A new pericardial effusion with hypotension and elevated jugular venous pressure hours after implantation is lead perforation producing tamponade. The imaging excludes the other access-related complication, pneumothorax.",
+   "optionExplanations": {
+    "b": "Pneumothorax is a recognized venous access complication, but the chest radiograph excludes it and it would not produce a pericardial effusion.",
+    "c": "A pocket hematoma is a local complication at the generator site and would not cause a pericardial effusion.",
+    "d": "Pacemaker syndrome is a device-specific complication causing symptoms from suboptimal atrioventricular synchrony, not an acute effusion.",
+    "e": "Pacemaker-mediated tachycardia is described as benign and self-limited and presents as a tachyarrhythmia, not tamponade."
+   },
+   "topic": "Cardiac Pacing and Devices",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "C",
+    "name": "Cardiology and Cardiac Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 119,
+    "reference": "C29 — Pacemaker Complications"
+   }
+  },
+  {
+   "id": "TN-C-029",
+   "type": "single-best-answer",
+   "question": "A 62-year-old man arrives at a rural hospital that has no catheterization laboratory two hours after the onset of crushing chest pain. The ECG shows 3 mm of ST elevation in leads V2 to V5. He had an ischemic stroke six weeks ago. The nearest primary PCI centre is a three-hour transfer away. What is the most appropriate next step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Immediate transfer for primary PCI"
+    },
+    {
+     "id": "b",
+     "text": "Immediate thrombolysis at the local hospital"
+    },
+    {
+     "id": "c",
+     "text": "Thrombolysis followed by routine PCI within 24 h"
+    },
+    {
+     "id": "d",
+     "text": "Thrombolysis with rescue PCI only if ST elevation fails to resolve"
+    },
+    {
+     "id": "e",
+     "text": "Medical therapy alone with angiography deferred beyond 48 h"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Thrombolysis is used when symptom onset is under 12 h and primary PCI cannot be delivered within 120 min of STEMI diagnosis, but only if there are no contraindications. Ischemic stroke within 3 months is an absolute contraindication to thrombolysis in STEMI. With fibrinolysis excluded, the patient must be transferred for primary PCI despite the delay, since reperfusion therapy should not be withheld while awaiting further investigations.",
+   "optionExplanations": {
+    "b": "Ischemic stroke within 3 months is listed as an absolute contraindication to thrombolysis.",
+    "c": "A pharmacoinvasive strategy still requires fibrinolysis, which is absolutely contraindicated here.",
+    "d": "Rescue PCI follows failed thrombolytic therapy, so this option also requires giving a contraindicated thrombolytic.",
+    "e": "Deferring reperfusion contradicts the rule that reperfusion therapy is implemented as soon as STEMI is diagnosed."
+   },
+   "topic": "STEMI Reperfusion Therapy",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "C",
+    "name": "Cardiology and Cardiac Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 124,
+    "reference": "C34 — STEMI: Reperfusion Strategy and Contraindications for Thrombolysis"
+   }
+  },
+  {
+   "id": "TN-C-030",
+   "type": "single-best-answer",
+   "question": "A 66-year-old man had a non-ST elevation myocardial infarction four days ago and is taking ASA 81 mg daily and ticagrelor. He is now pain free and hemodynamically stable. Angiography shows severe left main and multivessel disease, and the surgical team plans coronary artery bypass grafting. How should his antiplatelet therapy be managed before the operation?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Discontinue ticagrelor 5 d before surgery and continue ASA"
+    },
+    {
+     "id": "b",
+     "text": "Discontinue ticagrelor 7 d before surgery and continue ASA"
+    },
+    {
+     "id": "c",
+     "text": "Discontinue both ticagrelor and ASA 5 d before surgery"
+    },
+    {
+     "id": "d",
+     "text": "Continue both ticagrelor and ASA up to the morning of surgery"
+    },
+    {
+     "id": "e",
+     "text": "Switch ticagrelor to prasugrel and discontinue prasugrel 5 d before surgery"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Prior to CABG, clopidogrel and ticagrelor should be discontinued for 5 d and prasugrel for 7 d before surgery. ASA 81 mg is continued indefinitely. Dual antiplatelet therapy is then re-started for 12 mo in patients with ACS within 48-72 h after CABG.",
+   "optionExplanations": {
+    "b": "Seven days is the pre-operative washout specified for prasugrel, not ticagrelor.",
+    "c": "ASA 81 mg is continued indefinitely rather than stopped before bypass surgery.",
+    "d": "Continuing ticagrelor to the day of surgery ignores the recommended 5 d discontinuation interval.",
+    "e": "Switching to prasugrel adds a longer 7 d washout requirement and offers no advantage before surgery."
+   },
+   "topic": "Perioperative Antiplatelet Therapy",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "C",
+    "name": "Cardiology and Cardiac Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 129,
+    "reference": "C39 — CABG and Antiplatelet Regimens"
+   }
+  },
+  {
+   "id": "TN-C-031",
+   "type": "single-best-answer",
+   "question": "A 63-year-old man with an LVEF of 30% still reports NYHA class III dyspnea. He is taking target doses of sacubitril/valsartan, bisoprolol, spironolactone, and dapagliflozin, and tolerates them well. He is in sinus rhythm with a resting heart rate of 82 bpm and a QRS duration of 96 msec. Creatinine and potassium are normal. Which additional drug is most appropriate?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Ivabradine"
+    },
+    {
+     "id": "b",
+     "text": "Digoxin"
+    },
+    {
+     "id": "c",
+     "text": "Hydralazine plus isosorbide dinitrate"
+    },
+    {
+     "id": "d",
+     "text": "Amiodarone"
+    },
+    {
+     "id": "e",
+     "text": "Metolazone"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Ivabradine selectively inhibits the If current and is recommended to prevent cardiovascular death and hospitalization in patients with HFrEF who remain symptomatic despite appropriate doses of guideline-directed medical therapy, with a resting heart rate above 70 bpm and in sinus rhythm. This patient meets all three criteria on a full regimen of ARNI, beta-blocker, mineralocorticoid receptor antagonist, and SGLT2 inhibitor.",
+   "optionExplanations": {
+    "b": "Digoxin improves symptoms and decreases hospitalizations but has no effect on mortality and is not the rate-directed choice here.",
+    "c": "Hydralazine plus isosorbide dinitrate is considered for Black patients with symptomatic HFrEF despite GDMT or for those intolerant of ACEI, ARB, or ARNI.",
+    "d": "Antiarrhythmic drugs such as amiodarone are used for CHF complicated by arrhythmia, which this patient does not have.",
+    "e": "Metolazone is added to furosemide for diuresis refractory to furosemide, not for persistent symptoms with a normal heart rate response."
+   },
+   "topic": "Heart Failure Pharmacotherapy",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "C",
+    "name": "Cardiology and Cardiac Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 133,
+    "reference": "C43 — Heart Failure: Pharmacological Therapy"
+   }
+  },
+  {
+   "id": "TN-C-032",
+   "type": "single-best-answer",
+   "question": "A 27-year-old previously healthy man develops fatigue, exertional dyspnea, and chest pain two weeks after a flu-like illness. He is tachycardic with an elevated JVP. Troponin and NT-proBNP are elevated, the ECG shows non-specific ST-T changes, and echocardiography shows a dilated, hypokinetic left ventricle. Coronary angiography excludes ischemic heart disease. What is the most likely underlying cause?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Viral myocarditis"
+    },
+    {
+     "id": "b",
+     "text": "Giant cell myocarditis"
+    },
+    {
+     "id": "c",
+     "text": "Chagas disease myocarditis"
+    },
+    {
+     "id": "d",
+     "text": "Hypersensitivity (eosinophilic) myocarditis"
+    },
+    {
+     "id": "e",
+     "text": "Acute rheumatic fever carditis"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Myocarditis is an inflammatory process involving the myocardium, and viral infection is the most common cause overall, with coxsackie A and B, parvovirus B19, adenovirus, influenza, and SARS-CoV-2 among the agents. The presentation of constitutional symptoms, acute CHF, elevated troponin and NT-proBNP, non-specific ST-T changes, and a hypokinetic ventricle after a viral prodrome fits viral myocarditis, and coronary angiography has excluded ischemic heart disease.",
+   "optionExplanations": {
+    "b": "Giant cell myocarditis is rare and typically presents with fulminant CHF and a very high 5 yr mortality, not a self-limited viral prodrome.",
+    "c": "Chagas disease is a parasitic cause of myocarditis and would require relevant exposure.",
+    "d": "Hypersensitivity or eosinophilic myocarditis follows drug exposure, insect or snake bites, and rarely mRNA vaccines.",
+    "e": "Acute rheumatic fever is listed among other causes of myocarditis but would be preceded by streptococcal pharyngitis and additional features of rheumatic fever."
+   },
+   "topic": "Myocarditis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "C",
+    "name": "Cardiology and Cardiac Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 136,
+    "reference": "C46 — Myocarditis"
+   }
+  },
+  {
+   "id": "TN-C-033",
+   "type": "single-best-answer",
+   "question": "A 29-year-old man with hypertrophic cardiomyopathy has had two episodes of unexplained syncope in the past year. His father died suddenly at age 42. Echocardiography shows a maximal wall thickness of 32 mm with no resting or provoked left ventricular outflow tract gradient, and an ejection fraction of 60%. He has never had a cardiac arrest or sustained ventricular tachycardia. What is the most appropriate management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Implantable cardioverter-defibrillator implantation"
+    },
+    {
+     "id": "b",
+     "text": "Invasive septal reduction therapy"
+    },
+    {
+     "id": "c",
+     "text": "Ambulatory ECG (Holter) monitoring alone"
+    },
+    {
+     "id": "d",
+     "text": "Cardiac MRI to quantify late gadolinium enhancement, then reassess"
+    },
+    {
+     "id": "e",
+     "text": "Routine transthoracic echocardiographic surveillance every 1-2 yr"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "In hypertrophic cardiomyopathy, an ICD is recommended after a prior event, and in the absence of a prior event an ICD is reasonable when at least one major risk factor is present: family history of sudden cardiac death, massive LVH, unexplained syncope, apical aneurysm, or EF 50% or less. This man has unexplained syncope, massive LVH, and a family history of sudden death, so ICD implantation is the appropriate step.",
+   "optionExplanations": {
+    "b": "Invasive septal reduction is considered when the peak LVOT gradient is at least 50 mmHg at rest or provoked with an insufficient response to medical management; he has no gradient.",
+    "c": "Holter monitoring is part of initial workup and SCD risk assessment, but he already has several major risk factors and needs definitive therapy.",
+    "d": "Extensive late gadolinium enhancement on CMR is used when no major risk factor is present; here major risk factors are already established.",
+    "e": "Surveillance echocardiography every 1-2 yr is routine monitoring and does not address his sudden cardiac death risk."
+   },
+   "topic": "Hypertrophic Cardiomyopathy",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "C",
+    "name": "Cardiology and Cardiac Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 138,
+    "reference": "C48 — Hypertrophic Cardiomyopathy: ICD Implantation in HCM"
+   }
+  },
+  {
+   "id": "TN-C-034",
+   "type": "single-best-answer",
+   "question": "A 46-year-old man who underwent mechanical aortic valve replacement two years ago is scheduled for a dental extraction. He has never had infective endocarditis, has no congenital heart disease, and takes warfarin. He asks whether he needs antibiotics before the procedure. What is the most appropriate management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Give infective endocarditis prophylaxis before the dental procedure"
+    },
+    {
+     "id": "b",
+     "text": "Give prophylaxis only if he later undergoes a genitourinary procedure"
+    },
+    {
+     "id": "c",
+     "text": "Withhold prophylaxis, as it is indicated only after a past episode of infective endocarditis"
+    },
+    {
+     "id": "d",
+     "text": "Withhold prophylaxis, as it is indicated only for unrepaired cyanotic congenital heart disease"
+    },
+    {
+     "id": "e",
+     "text": "Withhold prophylaxis, as prosthetic valve material is not itself an indication"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The AHA 2007 guidelines recommend infective endocarditis prophylaxis only for patients with prosthetic valve material, a past history of IE, specified congenital heart disease, or cardiac transplant recipients who develop valvulopathy. Prophylaxis is given only for dental, respiratory tract, and infected skin, skin structure, or musculoskeletal procedures, and specifically not for GI or GU procedures. This man has prosthetic valve material and is having a dental procedure, so prophylaxis is indicated.",
+   "optionExplanations": {
+    "b": "GI and GU procedures are specifically excluded from the list of procedures requiring prophylaxis.",
+    "c": "Past infective endocarditis is one qualifying condition, but prosthetic valve material is another and applies here.",
+    "d": "Congenital heart disease is one qualifying category among several; it is not the only one.",
+    "e": "Prosthetic valve material is explicitly the first listed indication for prophylaxis."
+   },
+   "topic": "Infective Endocarditis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "C",
+    "name": "Cardiology and Cardiac Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 144,
+    "reference": "C54 — Valvular Heart Disease: Infective Endocarditis"
+   }
+  },
+  {
+   "id": "TN-C-035",
+   "type": "single-best-answer",
+   "question": "A 54-year-old woman with a mechanical mitral valve has three days of rapidly worsening dyspnea and now has acute pulmonary edema. She admits to missing doses of warfarin and her INR is 1.2. On auscultation the prosthetic closing clicks are muffled and there is a new stenotic murmur. Transesophageal echocardiography confirms an obstructive thrombus on the prosthesis. What is the most appropriate next step?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Urgent fibrinolytic therapy or emergency surgery"
+    },
+    {
+     "id": "b",
+     "text": "Increase the warfarin dose and target a higher INR goal"
+    },
+    {
+     "id": "c",
+     "text": "Add low-dose daily aspirin to her vitamin K antagonist"
+    },
+    {
+     "id": "d",
+     "text": "Switch from warfarin to a direct oral anticoagulant"
+    },
+    {
+     "id": "e",
+     "text": "Observe with repeat transthoracic echocardiography in 3 mo"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Mechanical valve thrombosis is often associated with inadequate anticoagulation and leads to rapid valve dysfunction, with rapid onset of symptoms, acute pulmonary edema, a stenotic murmur, and muffled closing clicks. When a thrombosed valve is left-sided and symptoms of valve obstruction are present, it must be treated urgently with either fibrinolytic therapy or emergency surgery. This patient has a symptomatic obstructed left-sided mechanical prosthesis.",
+   "optionExplanations": {
+    "b": "Increasing the INR goal is considered for a thromboembolic event occurring while already in therapeutic range, not for an acutely obstructed valve.",
+    "c": "Adding low-dose aspirin is a secondary prevention measure after a thromboembolic event on a therapeutic INR, not acute therapy for valve obstruction.",
+    "d": "Mechanical valves require anticoagulation with a vitamin K antagonist and INR monitoring, and switching agents does not relieve acute obstruction.",
+    "e": "Observation is unsafe: symptomatic left-sided mechanical valve thrombosis requires urgent treatment."
+   },
+   "topic": "Prosthetic Valve Complications",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "C",
+    "name": "Cardiology and Cardiac Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 145,
+    "reference": "C55 — Prosthetic Valve Management: Valve Thrombosis"
+   }
+  },
+  {
+   "id": "TN-C-036",
+   "type": "single-best-answer",
+   "question": "A 63-year-old woman with pulmonary hypertension reports fatigue, peripheral edema, and abdominal swelling. Her jugular venous pressure is elevated with prominent \"cv\" waves and a positive abdominojugular reflux. There is a holosystolic murmur at the left lower sternal border that is accentuated by inspiration, and a left parasternal lift. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Tricuspid regurgitation"
+    },
+    {
+     "id": "b",
+     "text": "Tricuspid stenosis"
+    },
+    {
+     "id": "c",
+     "text": "Pulmonary stenosis"
+    },
+    {
+     "id": "d",
+     "text": "Pulmonary regurgitation"
+    },
+    {
+     "id": "e",
+     "text": "Rheumatic mitral stenosis"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Tricuspid regurgitation is leakage of blood across the tricuspid valve, and its physical signs are an elevated JVP with \"cv\" waves, positive abdominojugular reflux, a holosystolic murmur at the left lower sternal border accentuated by inspiration, and a left parasternal lift. Symptoms are peripheral edema, fatigue, palpitations, dyspnea on exertion, and ascites. Pulmonary hypertension is a listed etiology.",
+   "optionExplanations": {
+    "b": "Tricuspid stenosis produces prominent \"a\" waves in the JVP and a diastolic rumble at the 4th left intercostal space, not a holosystolic murmur.",
+    "c": "Pulmonary stenosis gives a systolic murmur at the 2nd left intercostal space with a pulmonary ejection click and a right-sided S4.",
+    "d": "Pulmonary regurgitation gives an early diastolic murmur at the left lower sternal border, or a Graham Steell murmur, not a holosystolic murmur.",
+    "e": "Mitral stenosis in rheumatic heart disease usually accompanies tricuspid stenosis and produces a diastolic murmur, not these right-sided systolic findings."
+   },
+   "topic": "Tricuspid Valve Disease",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "C",
+    "name": "Cardiology and Cardiac Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 149,
+    "reference": "C59 — Valvular Heart Disease: Tricuspid Regurgitation"
+   }
+  },
+  {
+   "id": "TN-C-037",
+   "type": "single-best-answer",
+   "question": "A 28-year-old woman describes intermittent stabbing chest discomfort, palpitations, and fatigue. She is thin with pectus excavatum. On auscultation there is a mid-systolic click followed by a mid to late systolic murmur at the apex; the murmur is accentuated by Valsalva and diminishes when she squats. Blood pressure is 104/64 mmHg. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Mitral valve prolapse"
+    },
+    {
+     "id": "b",
+     "text": "Aortic stenosis"
+    },
+    {
+     "id": "c",
+     "text": "Aortic regurgitation"
+    },
+    {
+     "id": "d",
+     "text": "Acute mitral regurgitation"
+    },
+    {
+     "id": "e",
+     "text": "Hypertrophic obstructive cardiomyopathy"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "A mid-systolic click is diagnostic of mitral valve prolapse and is caused by billowing of the mitral leaflet into the left atrium with tensing of redundant valve tissue; it is followed by a mid to late systolic murmur at the apex that is accentuated by Valsalva and diminished by squatting. Mitral valve prolapse is associated with connective tissue disorders, pectus excavatum, and other musculoskeletal abnormalities, and may present with atypical chest discomfort, palpitations, and fatigue.",
+   "optionExplanations": {
+    "b": "Aortic stenosis generates a crescendo-decrescendo systolic murmur with a diminished S2, not a mid-systolic click.",
+    "c": "Aortic regurgitation produces a decrescendo murmur beginning after S2 in diastole.",
+    "d": "Acute mitral regurgitation gives a short holosystolic murmur between S1 and S2 with a tall JVP v-wave and usually acute hemodynamic decompensation.",
+    "e": "Hypertrophic obstructive cardiomyopathy causes a harsh systolic murmur without the diagnostic mid-systolic click of a billowing mitral leaflet."
+   },
+   "topic": "Mitral Valve Prolapse",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "C",
+    "name": "Cardiology and Cardiac Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 150,
+    "reference": "C60 — Valvular Heart Disease: Mitral Valve Prolapse"
+   }
+  },
+  {
+   "id": "TN-C-038",
+   "type": "single-best-answer",
+   "question": "A 68-year-old man is undergoing coronary artery bypass grafting on cardiopulmonary bypass. Heparin was given before the pump suckers were started, and the activated clotting time was maintained above 480 s with repeat boluses every 30 min. Grafting is complete and the patient has now been separated from bypass. Which drug should be given to reverse his anticoagulation?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Protamine"
+    },
+    {
+     "id": "b",
+     "text": "Vitamin K"
+    },
+    {
+     "id": "c",
+     "text": "Tranexamic acid"
+    },
+    {
+     "id": "d",
+     "text": "Fresh frozen plasma"
+    },
+    {
+     "id": "e",
+     "text": "Desmopressin"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "During cardiopulmonary bypass, heparin is administered so that the ACT exceeds 400 s before the pump suckers are turned on and 480 s before bypass is initiated, with the ACT measured every 30 min and additional heparin boluses given to keep it above 480 s. Anticoagulation is reversed following separation from bypass by administering protamine, which neutralizes heparin.",
+   "optionExplanations": {
+    "b": "Vitamin K reverses vitamin K antagonists, not the heparin used for cardiopulmonary bypass.",
+    "c": "Tranexamic acid is an intraoperative pharmacological adjunct for blood conservation, not a heparin antidote.",
+    "d": "Fresh frozen plasma replaces clotting factors and does not neutralize circulating heparin.",
+    "e": "Desmopressin addresses platelet dysfunction and has no effect on heparin activity."
+   },
+   "topic": "Cardiopulmonary Bypass",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "C",
+    "name": "Cardiology and Cardiac Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 159,
+    "reference": "C69 — Cardiopulmonary Bypass: Mechanics"
    }
   }
  ]

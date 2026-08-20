@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 18,
+ "count": 30,
  "questions": [
   {
    "id": "TN-N-001",
@@ -836,6 +836,558 @@
     "document": "Toronto Notes 2025",
     "page": 907,
     "reference": "N37 — Motor Neuron Disease: Amyotrophic Lateral Sclerosis"
+   }
+  },
+  {
+   "id": "TN-N-019",
+   "type": "single-best-answer",
+   "question": "A 29-year-old woman reports four months of drooping eyelids and double vision that are absent on waking and worsen through the day. Prolonged talking and eating bring on dysarthria, dysphonia and dysphagia. Facial and limb weakness increase with sustained effort and recover after rest. Sensation is normal and deep tendon reflexes are preserved throughout. Where does the lesion most likely localize?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Neuromuscular junction"
+    },
+    {
+     "id": "b",
+     "text": "Peripheral nerve"
+    },
+    {
+     "id": "c",
+     "text": "Muscle"
+    },
+    {
+     "id": "d",
+     "text": "Spinal nerve root"
+    },
+    {
+     "id": "e",
+     "text": "Upper motor neuron (corticospinal tract)"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes localizes fluctuating, fatigable symptoms with facial and limb weakness, bulbar involvement (dysarthria, dysphonia, dysphagia) and ocular involvement (diplopia, ptosis) to the neuromuscular junction, where reflexes are usually preserved unless the disease is severe or advanced, or the diagnosis is LEMS. This woman's diurnal fatigability, ocular and bulbar weakness, normal sensation and preserved reflexes match that pattern exactly.",
+   "optionExplanations": {
+    "b": "Peripheral nerve lesions give length-dependent stocking-glove sensory loss or deficits respecting the distribution of a specific nerve; this woman has no sensory loss.",
+    "c": "Muscle disease usually produces symmetric proximal weakness without sensory deficits, with myalgia and atrophy, rather than fatigable ocular and bulbar weakness.",
+    "d": "A single nerve root lesion produces weakness and sensory change in one myotome and dermatome, not fluctuating generalized ocular and bulbar weakness.",
+    "e": "An upper motor neuron lesion produces spasticity and hyperreflexia rather than fatigable weakness with preserved reflexes and normal sensation."
+   },
+   "topic": "Lesion Localization — Neuromuscular Junction",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "N",
+    "name": "Neurology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 873,
+    "reference": "N3 — Approach to Neurological Localization"
+   }
+  },
+  {
+   "id": "TN-N-020",
+   "type": "single-best-answer",
+   "question": "A 22-year-old man presents with 12 hours of fever, severe headache, photophobia and neck stiffness. Lumbar puncture yields cloudy CSF with an opening pressure of 32 cmH2O, protein 1.8 g/L, glucose low relative to serum, and a WBC count of 2200 x 10^6/L that is predominantly neutrophils. No xanthochromia is seen. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Bacterial meningitis"
+    },
+    {
+     "id": "b",
+     "text": "Viral meningitis"
+    },
+    {
+     "id": "c",
+     "text": "Granulomatous infection (tuberculous or fungal)"
+    },
+    {
+     "id": "d",
+     "text": "Subarachnoid hemorrhage"
+    },
+    {
+     "id": "e",
+     "text": "Idiopathic intracranial hypertension"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes gives bacterial meningitis a cloudy CSF with high protein, normal or low glucose, a high WBC count that is predominantly neutrophils, and a high CSF opening pressure; the normal adult opening pressure is 6-25 cmH2O. Every element of this profile is present here. Antibiotics should not be delayed while waiting for an LP when bacterial meningitis is suspected.",
+   "optionExplanations": {
+    "b": "Viral meningitis gives clear CSF with normal or high protein, normal glucose, a predominantly lymphocytic pleocytosis and usually a normal opening pressure.",
+    "c": "Granulomatous infection gives clear CSF with high protein, low glucose and a predominantly lymphocytic pleocytosis rather than a neutrophilic one.",
+    "d": "Subarachnoid hemorrhage gives xanthochromic or grossly bloody CSF with a high RBC count that is equal in tube #1 and tube #4, and normal glucose.",
+    "e": "Idiopathic intracranial hypertension gives clear CSF with normal protein, glucose and cell count, with only the opening pressure raised."
+   },
+   "topic": "CSF Interpretation",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "N",
+    "name": "Neurology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 879,
+    "reference": "N9 — Lumbar Puncture and CSF Analysis"
+   }
+  },
+  {
+   "id": "TN-N-021",
+   "type": "single-best-answer",
+   "question": "A 54-year-old woman has one day of severe headache and double vision. The left eye rests down and out, there is complete ptosis of the left upper lid, and the left pupil is 6 mm and unreactive to light. The right eye and pupil are normal and the remainder of the neurological examination, including the other cranial nerves, is unremarkable. What is the most likely cause?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Posterior communicating artery aneurysm"
+    },
+    {
+     "id": "b",
+     "text": "Microvascular ischemia of the oculomotor nerve"
+    },
+    {
+     "id": "c",
+     "text": "Midbrain infarction"
+    },
+    {
+     "id": "d",
+     "text": "Cavernous sinus thrombosis"
+    },
+    {
+     "id": "e",
+     "text": "Miller-Fisher variant of Guillain-Barre syndrome"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Parasympathetic axons for the pupillary constrictor travel in the periphery of CN III, while the smaller vessels at the centre of the nerve are at greater risk for ischemia; Toronto Notes therefore teaches that a CN III palsy with a reactive pupil suggests an ischemic cause (pupil sparing), whereas a CN III palsy with mydriasis suggests a compressive cause. This woman has a painful complete third nerve palsy with a down and out eye, ptosis and mydriasis, and posterior communicating artery aneurysm heads the compressive differential.",
+   "optionExplanations": {
+    "b": "Microvascular ischemia is associated with vascular risk factors and characteristically spares the pupil, which is not the case here.",
+    "c": "A nuclear or midbrain lesion often includes bilateral superior rectus paralysis and ptosis with contralateral pyramidal signs, which are absent.",
+    "d": "A cavernous sinus lesion typically causes palsies of CN III, IV, VI, V1 and V2 together with orbital pain and proptosis, not an isolated third nerve palsy.",
+    "e": "The Miller-Fisher variant is a demyelinating cause of ophthalmoplegia and would not present as an isolated acute painful unilateral third nerve palsy with a fixed dilated pupil."
+   },
+   "topic": "Cranial Nerve III Palsy",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "N",
+    "name": "Neurology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 882,
+    "reference": "N12 — CN III: Oculomotor Nerve"
+   }
+  },
+  {
+   "id": "TN-N-022",
+   "type": "single-best-answer",
+   "question": "A 38-year-old man wakes with weakness of the right side of his face. He cannot wrinkle the right side of his forehead or close the right eyelid, the right nasolabial fold is flattened, and he reports hyperacusis and loss of taste from the anterior two-thirds of the tongue. There are no vesicles in the ear canal and the ear examination is normal. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Bell's palsy"
+    },
+    {
+     "id": "b",
+     "text": "Herpes zoster oticus (Ramsay Hunt syndrome)"
+    },
+    {
+     "id": "c",
+     "text": "Otitis media with mastoiditis"
+    },
+    {
+     "id": "d",
+     "text": "Lyme meningitis"
+    },
+    {
+     "id": "e",
+     "text": "Contralateral hemispheric stroke"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "A lower motor neuron facial nerve lesion causes ipsilateral paralysis of the whole hemiface, including inability to wrinkle the forehead and close the eyelid, with decreased lacrimation, decreased salivation, hyperacusis from stapedius paralysis and loss of taste from the anterior two-thirds of the tongue. Toronto Notes lists Bell's palsy (idiopathic) as the cause of 80-90% of cases, and there are none of the features here that would point to the alternatives.",
+   "optionExplanations": {
+    "b": "Ramsay Hunt syndrome is herpes zoster oticus, and this man has no vesicles in the ear canal.",
+    "c": "Otitis media or mastoiditis would be expected to produce abnormal ear findings, which are absent.",
+    "d": "Lyme meningitis is a listed cause of facial palsy but would usually be accompanied by meningitic features and an exposure history.",
+    "e": "An upper motor neuron lesion causes contralateral facial paralysis with forehead sparing, because of bilateral upper motor neuron input to the facial motor nucleus for frontalis."
+   },
+   "topic": "Cranial Nerve VII Palsy",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "N",
+    "name": "Neurology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 883,
+    "reference": "N13 — CN VII: Facial Nerve"
+   }
+  },
+  {
+   "id": "TN-N-023",
+   "type": "single-best-answer",
+   "question": "A 66-year-old hypertensive man has five days of continuous vertigo that he rates as only mild. Examination shows purely vertical nystagmus that is unchanged by gaze fixation, and dysmetria of the left arm on finger-to-nose testing. He has no hearing loss and no tinnitus, and the symptoms have not adapted or settled since onset. What is the most likely cause of his nystagmus?",
+   "options": [
+    {
+     "id": "a",
+     "text": "A central lesion of the brainstem or cerebellum"
+    },
+    {
+     "id": "b",
+     "text": "Benign paroxysmal positional vertigo"
+    },
+    {
+     "id": "c",
+     "text": "Vestibular neuritis"
+    },
+    {
+     "id": "d",
+     "text": "Meniere's disease"
+    },
+    {
+     "id": "e",
+     "text": "Ototoxic medication"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes separates central from peripheral nystagmus: central nystagmus is often purely vertical, horizontal or torsional, is unaffected by gaze fixation, causes only mild vertigo, rarely has auditory symptoms, commonly has other neurological signs and often persists. Peripheral vestibular nystagmus has horizontal and torsional components, is unidirectional with the fast phase away from the lesion, decreases with gaze fixation, causes severe vertigo with common auditory symptoms, and adapts within days. This man's purely vertical, fixation-resistant nystagmus with limb dysmetria and no auditory symptoms is central.",
+   "optionExplanations": {
+    "b": "BPPV is a peripheral cause and would give brief positional symptoms with severe vertigo and nystagmus that decreases with gaze fixation.",
+    "c": "Vestibular neuritis is a peripheral vestibular disorder producing severe vertigo that adapts within days, without cerebellar signs.",
+    "d": "Meniere's disease is peripheral and characteristically includes auditory symptoms, which are absent here.",
+    "e": "Ototoxic medications damage the peripheral vestibular system and would not produce purely vertical nystagmus with ipsilateral limb dysmetria."
+   },
+   "topic": "Vertigo and Nystagmus",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "N",
+    "name": "Neurology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 887,
+    "reference": "N17 — Nystagmus"
+   }
+  },
+  {
+   "id": "TN-N-024",
+   "type": "single-best-answer",
+   "question": "A 78-year-old woman is brought by her daughter with three years of insidiously progressive forgetfulness. She repeats questions, misplaces objects, and can no longer manage her finances or her medications. The earliest deficits were in memory and learning; she now also has word-finding difficulty and impaired visuospatial ability. Her social behaviour remains appropriate, and there is no parkinsonism and no hallucination. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Major neurocognitive disorder due to Alzheimer's disease"
+    },
+    {
+     "id": "b",
+     "text": "Frontotemporal neurocognitive disorder"
+    },
+    {
+     "id": "c",
+     "text": "Neurocognitive disorder with Lewy bodies"
+    },
+    {
+     "id": "d",
+     "text": "Vascular neurocognitive disorder"
+    },
+    {
+     "id": "e",
+     "text": "Creutzfeldt-Jakob disease"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The core features of Alzheimer's disease are an insidious onset and gradual progression of cognitive and behavioural symptoms, with a typical amnestic presentation: impairment in memory and learning in the mild phase, with visuoconstructional/perceptual-motor ability and language also impaired in the moderate-severe phase, while social cognition tends to be preserved until late in the course. This woman's three-year amnestic decline with later language and visuospatial involvement and preserved social behaviour fits that description.",
+   "optionExplanations": {
+    "b": "Frontotemporal neurocognitive disorder has an earlier onset and presents with behavioural or language change rather than an amnestic decline with preserved social behaviour.",
+    "c": "Neurocognitive disorder with Lewy bodies features visual hallucinations, parkinsonism and fluctuating cognition, none of which are present.",
+    "d": "Vascular neurocognitive disorder is temporally related to cerebrovascular events and is dominated by slowed processing and frontal-executive deficits.",
+    "e": "Creutzfeldt-Jakob disease is rapidly progressive with myoclonus, ataxia and akinetic mutism, not a three-year amnestic course."
+   },
+   "topic": "Alzheimer's Disease",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "N",
+    "name": "Neurology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 894,
+    "reference": "N24 — Major or Mild Neurocognitive Disorder due to Alzheimer's Disease"
+   }
+  },
+  {
+   "id": "TN-N-025",
+   "type": "single-best-answer",
+   "question": "A 59-year-old man is brought in by his wife after two years of personality change. He makes socially inappropriate remarks to strangers, has stopped initiating conversation and needs prompting for everything, shows no response to his wife's distress, checks the door locks in a fixed ritual each hour, and binge eats sweets and occasionally inedible objects. Learning, memory and navigation are relatively preserved. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Behavioural variant frontotemporal neurocognitive disorder"
+    },
+    {
+     "id": "b",
+     "text": "Semantic variant primary progressive aphasia"
+    },
+    {
+     "id": "c",
+     "text": "Major neurocognitive disorder due to Alzheimer's disease"
+    },
+    {
+     "id": "d",
+     "text": "Neurocognitive disorder with Lewy bodies"
+    },
+    {
+     "id": "e",
+     "text": "Vascular neurocognitive disorder"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Behavioural variant FTD is the most common variant and requires at least three of five persistent or recurrent features: behavioural disinhibition, apathy or inertia, loss of sympathy or empathy, perseverative/stereotyped/compulsive-ritualistic behaviour, and hyperorality with dietary changes such as binge eating or eating inedible objects. Frontotemporal disorders show deficits in executive function with relative sparing of learning, memory and perceptual-motor function, which is exactly this man's profile — he has all five features.",
+   "optionExplanations": {
+    "b": "Semantic variant primary progressive aphasia presents with fluent speech, anomia and impaired single word comprehension, not with disinhibition and hyperorality.",
+    "c": "Alzheimer's disease typically presents with an amnestic decline, and social cognition tends to be preserved until late.",
+    "d": "Neurocognitive disorder with Lewy bodies is defined by visual hallucinations, parkinsonism, fluctuating cognition and REM sleep behaviour disorder.",
+    "e": "Vascular neurocognitive disorder requires cognitive deficits temporally related to cerebrovascular events with neuroimaging evidence of cerebrovascular disease."
+   },
+   "topic": "Frontotemporal Neurocognitive Disorder",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "N",
+    "name": "Neurology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 896,
+    "reference": "N26 — Major or Mild Frontotemporal Neurocognitive Dementia"
+   }
+  },
+  {
+   "id": "TN-N-026",
+   "type": "single-best-answer",
+   "question": "A 63-year-old man describes a six-year history of hand tremor that appears when he holds a cup or a newspaper and disappears when his hands are in his lap. His father had the same tremor. Examination shows a fine 8 Hz tremor of the outstretched arms that also involves the head and voice. There is no bradykinesia, rigidity or cerebellar sign. Which drug is the most appropriate treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Propranolol"
+    },
+    {
+     "id": "b",
+     "text": "Levodopa/carbidopa"
+    },
+    {
+     "id": "c",
+     "text": "Pramipexole"
+    },
+    {
+     "id": "d",
+     "text": "Amantadine"
+    },
+    {
+     "id": "e",
+     "text": "Baclofen"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes classifies a 6-12 Hz fine tremor that is worse with sustained posture such as outstretched arms, affects upper limb, head, lower limb and tongue, and is associated with an autosomal dominant family history, as an action-postural tremor, with essential tremor at the head of the differential. Treatment for action-postural tremor is propranolol, primidone, topiramate and other antiseizure medications, with surgery (thalamotomy, DBS) reserved for refractory cases.",
+   "optionExplanations": {
+    "b": "Levodopa/carbidopa is the treatment listed for a resting tremor, which is a 3-6 Hz pill-rolling tremor worse at rest, and alcohol does not improve the resting tremor of Parkinson's disease.",
+    "c": "Dopamine agonists target parkinsonian resting tremor, and this man has no bradykinesia or rigidity.",
+    "d": "Amantadine is not among the listed treatments for action-postural tremor.",
+    "e": "Baclofen is a muscle relaxant used for spasticity and dystonia, not for action-postural tremor."
+   },
+   "topic": "Tremor",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "N",
+    "name": "Neurology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 902,
+    "reference": "N32 — Tremor"
+   }
+  },
+  {
+   "id": "TN-N-027",
+   "type": "single-best-answer",
+   "question": "A 34-year-old pregnant woman reports three months of nocturnal paresthesias in the right thumb, index finger, long finger and the lateral half of the ring finger, with decreased grip strength. Tapping lightly over the median nerve at the wrist reproduces her symptoms, and holding both wrists in forced flexion for 45 seconds does the same. There is early thenar muscle atrophy. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Carpal tunnel syndrome"
+    },
+    {
+     "id": "b",
+     "text": "C6 radiculopathy"
+    },
+    {
+     "id": "c",
+     "text": "Ulnar neuropathy at the elbow"
+    },
+    {
+     "id": "d",
+     "text": "Lower trunk brachial plexopathy (Klumpke's palsy)"
+    },
+    {
+     "id": "e",
+     "text": "Distal symmetric polyneuropathy"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Carpal tunnel syndrome is the most common mononeuropathy and results from compression of the median nerve as it passes through the carpal tunnel at the wrist. Its symptoms are paresthesias in the thumb, index finger, long finger and lateral half of the ring finger with decreased grip strength, and its signs are Tinel's sign, a positive Phalen's test and thenar muscle atrophy; pregnancy is a listed risk factor. This woman has the full symptom and sign complex, and diagnosis is clinical, supported by EMG/NCS.",
+   "optionExplanations": {
+    "b": "Radiculopathy is injury of a spinal nerve root and produces paresthesia in a dermatome with weakness in the corresponding myotome, not a median nerve distribution reproduced by Tinel's and Phalen's tests.",
+    "c": "Ulnar entrapment occurs at the elbow in the cubital tunnel and affects the ulnar side of the hand, not the thumb, index and long fingers.",
+    "d": "A lower trunk (C8, T1) brachial plexus injury is a plexopathy typically caused by trauma, tumour infiltration or thoracic outlet syndrome.",
+    "e": "Polyneuropathy is a symmetric, distal-predominant, length-dependent process with a stocking-glove distribution, not a unilateral single-nerve deficit."
+   },
+   "topic": "Mononeuropathy — Carpal Tunnel Syndrome",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "N",
+    "name": "Neurology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 908,
+    "reference": "N38 — Peripheral Neuropathies: Mononeuropathy"
+   }
+  },
+  {
+   "id": "TN-N-028",
+   "type": "single-best-answer",
+   "question": "A 52-year-old man has five months of sensorimotor weakness and numbness of both arms and legs that has fluctuated, worsening for weeks then partially remitting. Reflexes are absent throughout. EMG and nerve conduction studies show demyelination, and lumbar puncture shows increased CSF protein. Vasculitis and paraproteinemia have been excluded. Which is the most appropriate first-line treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Prednisone"
+    },
+    {
+     "id": "b",
+     "text": "Plasmapheresis"
+    },
+    {
+     "id": "c",
+     "text": "IVIG"
+    },
+    {
+     "id": "d",
+     "text": "Azathioprine"
+    },
+    {
+     "id": "e",
+     "text": "Pyridostigmine"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Chronic inflammatory demyelinating polyneuropathy is a chronic relapsing sensorimotor polyneuropathy or polyradiculopathy with increased protein in CSF and demyelination shown on EMG/NCS, and its course is fluctuating in contrast with the acute onset of GBS. Toronto Notes states that first-line treatment is prednisone, with plasmapheresis, IVIG and azathioprine as alternatives. This man's fluctuating five-month demyelinating polyneuropathy with raised CSF protein is CIDP.",
+   "optionExplanations": {
+    "b": "Plasmapheresis is listed as an alternative to prednisone rather than the first-line choice.",
+    "c": "IVIG is an alternative treatment, not the first-line agent in this source.",
+    "d": "Azathioprine is listed among the alternatives, generally after first-line corticosteroids.",
+    "e": "Pyridostigmine is an acetylcholinesterase inhibitor for neuromuscular junction disease and has no role in a demyelinating polyneuropathy."
+   },
+   "topic": "Chronic Inflammatory Demyelinating Polyneuropathy",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "N",
+    "name": "Neurology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 909,
+    "reference": "N39 — Peripheral Neuropathies: Polyneuropathy and CIDP"
+   }
+  },
+  {
+   "id": "TN-N-029",
+   "type": "single-best-answer",
+   "question": "A 32-year-old man reports two years of difficulty releasing his grip after a handshake, and weakness that is greater distally than proximally with a steppage gait. He has ptosis, facial weakness, frontal balding and a drooping, dull appearance. Tapping the thenar muscles with a reflex hammer produces delayed relaxation. ECG shows first-degree heart block. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Myotonic dystrophy"
+    },
+    {
+     "id": "b",
+     "text": "Becker muscular dystrophy"
+    },
+    {
+     "id": "c",
+     "text": "Inclusion body myositis"
+    },
+    {
+     "id": "d",
+     "text": "Polymyositis"
+    },
+    {
+     "id": "e",
+     "text": "McArdle's disease"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Myotonic dystrophy type 1 gives ptosis, facial weakness and frontal baldness with atrophy of facial, levator palpebrae and masticatory muscles producing a drooping, dull appearance; weakness is distal more than proximal, in contrast to other myopathies, with a steppage gait. Myotonia is delayed relaxation of muscles after exertion, elicited by tapping on the thenar muscles with a hammer, and 90% of patients have cardiac conduction defects such as first-degree heart block.",
+   "optionExplanations": {
+    "b": "Becker muscular dystrophy causes early-onset progressive proximal muscle weakness with calf pseudohypertrophy and reduced dystrophin, without myotonia.",
+    "c": "Inclusion body myositis characteristically weakens the quadriceps and deep finger flexors and shows inclusion bodies on biopsy.",
+    "d": "Polymyositis produces proximal muscle weakness with myalgias and raised creatine kinase, with endomysial infiltrates and necrosis on biopsy.",
+    "e": "McArdle's disease causes exercise-related myalgias, cramping and myoglobinuria rather than fixed distal weakness with myotonia."
+   },
+   "topic": "Myotonic Dystrophy",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "N",
+    "name": "Neurology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 912,
+    "reference": "N42 — Myopathies: Myotonic Dystrophy Type 1"
+   }
+  },
+  {
+   "id": "TN-N-030",
+   "type": "single-best-answer",
+   "question": "An 8-year-old girl has many episodes each day in which she stops mid-sentence and stares blankly for about 10 seconds with fluttering eyelids, then resumes what she was doing with no recollection. There is no aura, no convulsive movement and no post-ictal confusion. EEG confirms absence seizures. Which anticonvulsant is most appropriate?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Ethosuximide"
+    },
+    {
+     "id": "b",
+     "text": "Carbamazepine"
+    },
+    {
+     "id": "c",
+     "text": "Phenytoin"
+    },
+    {
+     "id": "d",
+     "text": "Levetiracetam"
+    },
+    {
+     "id": "e",
+     "text": "Gabapentin"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "In the Toronto Notes table of common medications for neurological disorders, ethosuximide is the anticonvulsant indicated for absence seizures, started at 500 mg/d PO and increased by 250 mg every 4-7 days to a maximum of 1.5 g/d in divided doses. Its main cautions are CNS depression, blood dyscrasias, an SLE-like reaction and Stevens-Johnson syndrome. This girl's brief staring spells with abrupt recovery and no post-ictal confusion are absence seizures.",
+   "optionExplanations": {
+    "b": "Carbamazepine is listed for partial seizures with secondary generalization and for generalized tonic-clonic seizures, not for absence seizures.",
+    "c": "Phenytoin is listed for partial and tonic-clonic seizures and for status epilepticus, not for absence seizures.",
+    "d": "Levetiracetam is not the agent this source identifies for absence seizures.",
+    "e": "Gabapentin is used for neuropathic pain in this source and is not an option for absence seizures."
+   },
+   "topic": "Antiepileptic Drug Selection",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "N",
+    "name": "Neurology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 928,
+    "reference": "N58 — Common Medications for Neurological Disorders"
    }
   }
  ]

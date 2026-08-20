@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 18,
+ "count": 34,
  "questions": [
   {
    "id": "TN-GS-001",
@@ -836,6 +836,742 @@
     "document": "Toronto Notes 2025",
     "page": 557,
     "reference": "GS65 — Benign Breast Lesions / Proliferative Lesions Without Atypia"
+   }
+  },
+  {
+   "id": "TN-GS-019",
+   "type": "single-best-answer",
+   "question": "A 24-year-old woman presents with 10 hours of severe lower abdominal pain of acute onset, nausea, and anorexia. Temperature is 37.8°C and blood pressure is 116/74 mmHg. There is right lower quadrant tenderness with localized guarding. She is unsure of the date of her last menstrual period. Which investigation is indicated specifically because of her age and sex?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Serum troponins"
+    },
+    {
+     "id": "b",
+     "text": "Serum lipase and amylase"
+    },
+    {
+     "id": "c",
+     "text": "β-hCG"
+    },
+    {
+     "id": "d",
+     "text": "ALP, ALT, AST, and bilirubin"
+    },
+    {
+     "id": "e",
+     "text": "Serum lactate"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "Toronto Notes lists the tests to order in all patients presenting with an acute abdomen, and β-hCG is specified for women of childbearing age. This patient has severe abdominal pain of acute onset requiring urgent medical attention, and pregnancy must be excluded before further imaging or operative planning. The other listed tests are ordered for specific diagnoses rather than because of age and sex.",
+   "optionExplanations": {
+    "a": "Troponins are a key test when cardiac causes of abdominal pain such as MI are considered, not a sex-specific test.",
+    "b": "Lipase/amylase is the key test for suspected pancreatitis, ordered irrespective of sex.",
+    "d": "ALP, ALT, AST, and bilirubin are ordered when hepatobiliary pathology is suspected.",
+    "e": "Lactate is ordered to assess for ischemia and is not specific to women of childbearing age."
+   },
+   "topic": "Acute Abdomen",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "GS",
+    "name": "General and Thoracic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 496,
+    "reference": "GS4 — Acute Abdominal Pain"
+   }
+  },
+  {
+   "id": "TN-GS-020",
+   "type": "single-best-answer",
+   "question": "A 68-year-old man presents with 6 hours of painless bright red blood per rectum. He has no hematemesis or melena and the nasogastric aspirate is clear. Blood pressure is 124/76 mmHg after 1 L of crystalloid and hemoglobin is 108 g/L. Which is the most appropriate initial investigation to detect and potentially stop the source of bleeding?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Barium enema"
+    },
+    {
+     "id": "b",
+     "text": "Colonoscopy"
+    },
+    {
+     "id": "c",
+     "text": "Mesenteric angiography"
+    },
+    {
+     "id": "d",
+     "text": "Wireless capsule endoscopy"
+    },
+    {
+     "id": "e",
+     "text": "Tagged RBC scan"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Bright red blood per rectum with a clear nasogastric aspirate indicates a lower GI bleed, arising distal to the ligament of Treitz. Toronto Notes states that initial management of LGIB is colonoscopy to detect and potentially stop the source of bleeding, and that barium enema should NOT be performed if bleeding continues. Angiography or an RBC scan are used to determine the source as indicated once colonoscopy has not localized it.",
+   "optionExplanations": {
+    "a": "Barium enema should not be performed in ongoing lower GI bleeding.",
+    "c": "Angiography is used to determine the source as indicated, not as the initial test.",
+    "d": "Capsule endoscopy is reserved for obscure bleeding with no source found after colonoscopy and endoscopy.",
+    "e": "An RBC scan localizes but does not treat, and is used when colonoscopy has not identified the source."
+   },
+   "topic": "Gastrointestinal Bleeding",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "GS",
+    "name": "General and Thoracic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 498,
+    "reference": "GS6 — Gastrointestinal Bleeding"
+   }
+  },
+  {
+   "id": "TN-GS-021",
+   "type": "single-best-answer",
+   "question": "A 63-year-old man is on postoperative day 5 following a colon resection with a primary bowel anastomosis. He develops a temperature of 39.2°C with tachycardia, hypotension, oliguria, and abdominal pain. The wound looks clean and there is no crepitus. Which is the most likely cause of his postoperative fever?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Atelectasis"
+    },
+    {
+     "id": "b",
+     "text": "Malignant hyperthermia"
+    },
+    {
+     "id": "c",
+     "text": "Leakage at the bowel anastomosis"
+    },
+    {
+     "id": "d",
+     "text": "Drug fever"
+    },
+    {
+     "id": "e",
+     "text": "Transfusion reaction"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "Toronto Notes uses the timing of postoperative fever to identify the cause: fever on POD #3-7 is likely infectious, and the listed causes include UTI, surgical site infection, IV site/line infection, septic thrombophlebitis, and leakage at a bowel anastomosis, described as tachycardia, hypotension, oliguria, and abdominal pain. This patient's day 5 fever with exactly that constellation after a bowel anastomosis fits anastomotic leakage.",
+   "optionExplanations": {
+    "a": "Atelectasis causes fever on POD #1-2 and does not produce hypotension with abdominal pain.",
+    "b": "Malignant hyperthermia occurs hours after surgery, not on POD #5.",
+    "d": "Drug fever is a POD #8+ consideration and would not explain oliguria and abdominal pain.",
+    "e": "Reaction to blood products received during surgery causes fever on POD #1, not day 5."
+   },
+   "topic": "Postoperative Complications",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "GS",
+    "name": "General and Thoracic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 500,
+    "reference": "GS8 — Postoperative Fever"
+   }
+  },
+  {
+   "id": "TN-GS-022",
+   "type": "single-best-answer",
+   "question": "A 61-year-old asymptomatic man attends for a periodic health visit. He has a 35 pack-year smoking history and quit 4 years ago. Physical examination and spirometry are normal and he has no respiratory symptoms. According to the Canadian Task Force on Preventive Health Care, which is the most appropriate lung cancer screening investigation?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Annual chest x-ray"
+    },
+    {
+     "id": "b",
+     "text": "Annual low-dose CT for up to 3 years"
+    },
+    {
+     "id": "c",
+     "text": "Sputum cytology every 6 months"
+    },
+    {
+     "id": "d",
+     "text": "Endobronchial ultrasound with guided biopsy"
+    },
+    {
+     "id": "e",
+     "text": "No screening investigation is indicated"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "The Canadian Task Force on Preventive Health (2016) recommends screening with low-dose CT for high-risk patients only: age 55-74 yr, at least a 30 pack-year smoking history, and a current smoker or one who quit within the last 15 yr, with annual screening low-dose CT up to 3 yr. This man meets all three criteria, so annual low-dose CT is indicated.",
+   "optionExplanations": {
+    "a": "Chest x-ray is not the recommended screening modality for high-risk patients.",
+    "c": "Sputum cytology is not part of the recommended screening strategy.",
+    "d": "EBUS is used for diagnosis and staging of known lesions and for guided biopsies of lymph nodes and tumours, not for screening.",
+    "e": "He satisfies all of the high-risk criteria, so screening is recommended."
+   },
+   "topic": "Lung Cancer",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "GS",
+    "name": "General and Thoracic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 507,
+    "reference": "GS15 — Lung Cancer"
+   }
+  },
+  {
+   "id": "TN-GS-023",
+   "type": "single-best-answer",
+   "question": "A 25-year-old tall thin man who smokes develops sudden pleuritic left chest pain and dyspnea. He is tachypneic and tachycardic with blood pressure 76/48 mmHg. The trachea is deviated to the right, the left hemithorax is hyperresonant with diminished breath sounds, and neck veins are distended. Which is the most appropriate immediate management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Observation with supplemental O2"
+    },
+    {
+     "id": "b",
+     "text": "Needle decompression followed by chest tube insertion"
+    },
+    {
+     "id": "c",
+     "text": "Simple aspiration of the pleural space"
+    },
+    {
+     "id": "d",
+     "text": "Chest tube insertion after a confirmatory CXR"
+    },
+    {
+     "id": "e",
+     "text": "VATS bullectomy with pleurodesis"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Contralateral tracheal deviation, hyperresonance, ipsilateral diminished breath sounds, and shock indicate a tension pneumothorax. Toronto Notes directs that for an unstable/tension pneumothorax the treatment is needle decompression then chest tube, with VATS bullectomy and pleurodesis reserved for when this is unsuccessful. Treatment must not be delayed for imaging.",
+   "optionExplanations": {
+    "a": "Observation plus O2 applies only to a stable, small (<3 cm), minimally symptomatic pneumothorax.",
+    "c": "Aspiration or chest tube is for the symptomatic or large but stable primary spontaneous pneumothorax, not for a patient in shock.",
+    "d": "Waiting for a confirmatory CXR delays decompression in a patient who is already hypotensive.",
+    "e": "VATS bullectomy and pleurodesis follow only if needle decompression and chest tube are unsuccessful."
+   },
+   "topic": "Pneumothorax",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "GS",
+    "name": "General and Thoracic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 510,
+    "reference": "GS18 — Pneumothorax"
+   }
+  },
+  {
+   "id": "TN-GS-024",
+   "type": "single-best-answer",
+   "question": "A 63-year-old man with 12 years of GERD and Barrett's esophagus reports 3 months of progressive dysphagia, first to solids and now to liquids, with odynophagia, hoarseness, and 8 kg of weight loss. A barium swallow shows narrowing of the lower third of the esophagus. Which is the most appropriate next investigation?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Endoscopic biopsy"
+    },
+    {
+     "id": "b",
+     "text": "Repeat barium swallow in 3 months"
+    },
+    {
+     "id": "c",
+     "text": "Esophageal manometry"
+    },
+    {
+     "id": "d",
+     "text": "CT chest alone"
+    },
+    {
+     "id": "e",
+     "text": "24-hour esophageal pH monitoring"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Barrett's esophagus is the most important risk factor for adenocarcinoma in the lower third of the esophagus, and progressive mechanical dysphagia to solids then liquids with weight loss is the classic presentation. Toronto Notes states that barium swallow showing narrowing is suggestive but not diagnostic, and that endoscopic biopsy is required to assess location, resectability, and confirm the diagnosis.",
+   "optionExplanations": {
+    "b": "Repeating a test that is suggestive but not diagnostic delays tissue diagnosis in a patient with constitutional symptoms.",
+    "c": "Manometry assesses motility disorders and will not confirm carcinoma.",
+    "d": "CT contributes to staging but does not confirm the diagnosis, which requires biopsy.",
+    "e": "pH monitoring documents reflux but does not diagnose esophageal carcinoma."
+   },
+   "topic": "Esophageal Carcinoma",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "GS",
+    "name": "General and Thoracic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 513,
+    "reference": "GS21 — Esophageal Carcinoma"
+   }
+  },
+  {
+   "id": "TN-GS-025",
+   "type": "single-best-answer",
+   "question": "A 58-year-old man who had a gastrectomy 4 months ago describes episodes beginning about 20 minutes after eating: epigastric cramping, bloating, nausea, and emesis, together with dizziness, palpitations, and diaphoresis. Episodes are worst after sweetened drinks and settle within an hour. He is afebrile, is not jaundiced, and the abdomen is soft. Which is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Afferent loop syndrome"
+    },
+    {
+     "id": "b",
+     "text": "Alkaline reflux gastritis"
+    },
+    {
+     "id": "c",
+     "text": "Early dumping syndrome"
+    },
+    {
+     "id": "d",
+     "text": "Blind-loop syndrome"
+    },
+    {
+     "id": "e",
+     "text": "Postvagotomy diarrhea"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "Early dumping syndrome occurs 15-30 min postprandially when rapid emptying of hyperosmotic chyme distends the jejunum and stimulates release of vasoactive hormones. Toronto Notes describes exactly this picture: postprandial epigastric cramping, bloating, emesis, nausea, and vasomotor symptoms of dizziness, palpitations, tachycardia, and diaphoresis. Treatment is frequent small meals high in fibre and protein and low in carbohydrates, avoiding liquids with meals.",
+   "optionExplanations": {
+    "a": "Afferent loop syndrome causes early postprandial distention with RUQ pain and bilious vomiting from obstruction of the afferent limb, without vasomotor symptoms.",
+    "b": "Alkaline reflux gastritis results from bilious duodenal contents refluxing into the stomach and does not cause postprandial vasomotor symptoms.",
+    "d": "Blind-loop syndrome from bacterial overgrowth presents with anemia, diarrhea, malnutrition, and hypocalcemia rather than discrete post-meal attacks.",
+    "e": "Postvagotomy diarrhea is caused by bile salts in the colon inhibiting water resorption and produces diarrhea, not postprandial cramping with palpitations."
+   },
+   "topic": "Complications of Gastric Surgery",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "GS",
+    "name": "General and Thoracic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 521,
+    "reference": "GS29 — Dumping Syndrome"
+   }
+  },
+  {
+   "id": "TN-GS-026",
+   "type": "single-best-answer",
+   "question": "A 76-year-old woman has a 12-hour history of a tender, irreducible 2 cm groin lump with overlying erythema. She has vomited once but continues to pass flatus and stool, her abdomen is soft and non-distended, and an abdominal x-ray shows no dilated bowel loops. Which type of hernia best explains the absence of obstructive findings?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Sliding hernia"
+    },
+    {
+     "id": "b",
+     "text": "Pantaloon hernia"
+    },
+    {
+     "id": "c",
+     "text": "Littre's hernia"
+    },
+    {
+     "id": "d",
+     "text": "Richter's hernia"
+    },
+    {
+     "id": "e",
+     "text": "Spigelian hernia"
+    }
+   ],
+   "correctAnswer": "d",
+   "explanation": "In a Richter's hernia only part of the bowel circumference, usually the antimesenteric border, is incarcerated or strangulated, so the lumen remains patent and the patient may not be obstructed. Toronto Notes warns that a strangulated Richter's hernia may self-reduce and thus be overlooked, leaving a gangrenous segment at risk of perforation in the absence of obstructive symptoms.",
+   "optionExplanations": {
+    "a": "In a sliding hernia part of the wall of the hernia sac is formed by a retroperitoneal structure, usually colon; it does not explain strangulation without obstruction.",
+    "b": "A pantaloon hernia is a combined direct and indirect hernia with peritoneum draped over the inferior epigastric vessels.",
+    "c": "Littre's hernia involves a Meckel's diverticulum within the sac.",
+    "e": "A Spigelian hernia is a ventral hernia through the linea semilunaris, not a groin hernia."
+   },
+   "topic": "Abdominal Hernia",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "GS",
+    "name": "General and Thoracic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 526,
+    "reference": "GS34 — Abdominal Hernia: Classification and Complications"
+   }
+  },
+  {
+   "id": "TN-GS-027",
+   "type": "single-best-answer",
+   "question": "A 71-year-old man presents with 5 days of progressive abdominal distention, obstipation, and colicky pain. He describes 3 months of narrowed stools and 7 kg of weight loss. Abdominal x-ray shows a dilated colon with a cut-off in the descending colon and CT confirms a large bowel obstruction. Which is the most likely underlying cause?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Adenocarcinoma"
+    },
+    {
+     "id": "b",
+     "text": "Volvulus"
+    },
+    {
+     "id": "c",
+     "text": "Diverticulitis with stricture"
+    },
+    {
+     "id": "d",
+     "text": "Inflammatory bowel disease stricture"
+    },
+    {
+     "id": "e",
+     "text": "Incarcerated hernia"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes lists the top three causes of large bowel obstruction in order as cancer (60%), volvulus (10-15%), and diverticulitis (10%). Adenocarcinoma is an intramural cause of LBO, and this man's months of narrowed stools and weight loss preceding the obstruction point to an obstructing colonic malignancy. CEA should be drawn if malignancy is suspected.",
+   "optionExplanations": {
+    "b": "Volvulus accounts for only 10-15% of LBO and typically presents acutely without months of narrowed stools and weight loss.",
+    "c": "Diverticulitis causing edema and stricture accounts for about 10% of large bowel obstructions.",
+    "d": "An IBD stricture is an uncommon intramural cause and would usually follow a known history of inflammatory bowel disease.",
+    "e": "An extramural hernia containing sigmoid colon is an uncommon cause and would be evident as a groin mass."
+   },
+   "topic": "Large Bowel Obstruction",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "GS",
+    "name": "General and Thoracic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 529,
+    "reference": "GS37 — Large Bowel Obstruction"
+   }
+  },
+  {
+   "id": "TN-GS-028",
+   "type": "single-best-answer",
+   "question": "A 66-year-old man presents with tenesmus and bright red rectal bleeding. Colonoscopy and biopsy show an adenocarcinoma of the distal rectum, and MRI demonstrates involvement of the anal sphincter complex. CT chest, abdomen, and pelvis shows no distant spread. The surgeon determines that adequate distal margins cannot be obtained. Which operation is most appropriate?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Low anterior resection with total mesorectal excision"
+    },
+    {
+     "id": "b",
+     "text": "Abdominoperineal resection"
+    },
+    {
+     "id": "c",
+     "text": "Transanal minimally invasive surgery"
+    },
+    {
+     "id": "d",
+     "text": "Colectomy with primary anastomosis"
+    },
+    {
+     "id": "e",
+     "text": "Proximal diversion with an ostomy alone"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Toronto Notes states that low anterior resection is the curative procedure of choice for rectal cancer if adequate distal margins of about 2 cm can be obtained, and that abdominoperineal resection is used if adequate distal margins cannot be obtained. APR involves removal of the distal sigmoid colon, rectum, and anus, and requires a permanent end colostomy.",
+   "optionExplanations": {
+    "a": "LAR requires adequate distal margins, which cannot be achieved here.",
+    "c": "TAMIS is local excision for select T1 or lesser lesions, polyps, or Tis that cannot be resected by colonoscopy.",
+    "d": "Colectomy with primary anastomosis is the usual operation for colon cancer, not for a sphincter-involving rectal tumour.",
+    "e": "Proximal diversion with an ostomy is a palliative procedure for obstruction, not a curative resection."
+   },
+   "topic": "Colorectal Carcinoma",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "GS",
+    "name": "General and Thoracic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 536,
+    "reference": "GS44 — Colorectal Carcinoma: Treatment"
+   }
+  },
+  {
+   "id": "TN-GS-029",
+   "type": "single-best-answer",
+   "question": "An 82-year-old institutionalized man with chronic constipation presents with 2 days of colicky abdominal pain, marked distention, and vomiting. He is afebrile with no peritoneal signs and a normal lactate. Abdominal x-ray shows a massively dilated loop with a coffee-bean sign whose central cleft points to the left lower quadrant. Which is the most appropriate next step?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Decompression by flexible sigmoidoscopy with insertion of a rectal tube"
+    },
+    {
+     "id": "b",
+     "text": "Right colectomy with ileotransverse colonic anastomosis"
+    },
+    {
+     "id": "c",
+     "text": "Emergency laparotomy with resection"
+    },
+    {
+     "id": "d",
+     "text": "Barium enema decompression"
+    },
+    {
+     "id": "e",
+     "text": "Observation with serial abdominal x-rays alone"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "A coffee-bean sign whose central cleft points to the left lower quadrant indicates a sigmoid volvulus. Toronto Notes directs that sigmoid volvulus is managed by decompression with rigid or flexible sigmoidoscopy and insertion of a rectal tube past the obstruction, with subsequent elective surgery recommended in medically fit patients because of a 50-70% recurrence rate. Urgent surgery is reserved for strangulation, perforation, or unsuccessful endoscopic decompression.",
+   "optionExplanations": {
+    "b": "Right colectomy with ileotransverse anastomosis is the operation for cecal volvulus, where the cleft points to the RLQ.",
+    "c": "Urgent surgery is indicated for strangulation, perforation, or failed endoscopic decompression, none of which is present.",
+    "d": "Non-operative decompression by barium enema is used for cecal volvulus discussions but carries a high perforation risk and is not the treatment of choice here.",
+    "e": "Observation alone leaves the closed-loop obstruction untreated."
+   },
+   "topic": "Volvulus",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "GS",
+    "name": "General and Thoracic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 537,
+    "reference": "GS45 — Volvulus"
+   }
+  },
+  {
+   "id": "TN-GS-030",
+   "type": "single-best-answer",
+   "question": "A 52-year-old woman has a 2-day history of right upper quadrant pain, dark urine, acholic stool, and fluctuating jaundice. She is afebrile with a normal white count. Bilirubin is mildly elevated with raised ALP and GGT, and lipase is normal. Ultrasound shows gallstones and a dilated common bile duct but no ductal stone. Which is the most appropriate next investigation?",
+   "options": [
+    {
+     "id": "a",
+     "text": "MRCP"
+    },
+    {
+     "id": "b",
+     "text": "ERCP"
+    },
+    {
+     "id": "c",
+     "text": "Percutaneous transhepatic cholangiography"
+    },
+    {
+     "id": "d",
+     "text": "Repeat ultrasound in 6 weeks"
+    },
+    {
+     "id": "e",
+     "text": "HIDA scan"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Her fluctuating jaundice, acholic stool, dark urine, and cholestatic liver tests with a dilated duct suggest choledocholithiasis. Toronto Notes identifies MRCP as 90% sensitive and the non-invasive diagnostic test of choice, visualizing the ampullary region and the biliary and pancreatic anatomy. Proceeding directly to ERCP is reserved for a CBD stone seen on U/S, clinical ascending cholangitis, or bilirubin >4 mg/dL with a dilated CBD, none of which she has.",
+   "optionExplanations": {
+    "b": "ERCP is diagnostic and therapeutic but invasive, with complications including ERCP pancreatitis; it is reserved for a visualized stone, cholangitis, or marked hyperbilirubinemia with a dilated duct.",
+    "c": "PTC is used for proximal bile duct obstruction or when ERCP fails or is not available.",
+    "d": "Delaying investigation risks cholangitis and gallstone pancreatitis.",
+    "e": "A HIDA scan is most useful for confirming a non-filling gallbladder in cholecystitis, not for CBD stones."
+   },
+   "topic": "Biliary Disease",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "GS",
+    "name": "General and Thoracic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 549,
+    "reference": "GS57 — Choledocholithiasis"
+   }
+  },
+  {
+   "id": "TN-GS-031",
+   "type": "single-best-answer",
+   "question": "A 46-year-old woman is admitted with epigastric pain radiating to the back, nausea, and vomiting. Lipase is markedly elevated and ALT is 210 IU/L. Ultrasound shows multiple gallstones with no duct dilatation. She is treated with NPO, hydration, analgesia, and early enteral nutrition, and after 48 hours is afebrile, anicteric, and tolerating diet. Which is the most appropriate next step?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Cholecystectomy during the same admission"
+    },
+    {
+     "id": "b",
+     "text": "Urgent ERCP with sphincterotomy"
+    },
+    {
+     "id": "c",
+     "text": "Elective cholecystectomy in 3 months"
+    },
+    {
+     "id": "d",
+     "text": "Drain placement and debridement"
+    },
+    {
+     "id": "e",
+     "text": "Discharge with a course of antibiotics"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "An elevated ALT above 150 IU/L strongly suggests a gallstone etiology of pancreatitis, which accounts for 45% of acute pancreatitis. Toronto Notes states the stone often passes spontaneously and that cholecystectomy should be performed during the same admission, because 25-60% of patients have recurrence if no surgery is done.",
+   "optionExplanations": {
+    "b": "Urgent ERCP with sphincterotomy is needed only if a CBD stone is impacted or there is cholangitis.",
+    "c": "Deferring surgery for months exposes her to a 25-60% recurrence risk.",
+    "d": "Drain placement and debridement are reserved for necrotizing pancreatitis refractory to medical management or sepsis.",
+    "e": "Antibiotics are not indicated for the initial diagnosis and are reserved for clear signs of infection on imaging."
+   },
+   "topic": "Pancreatitis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "GS",
+    "name": "General and Thoracic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 552,
+    "reference": "GS60 — Gallstone Pancreatitis"
+   }
+  },
+  {
+   "id": "TN-GS-032",
+   "type": "single-best-answer",
+   "question": "A 67-year-old man reports 2 months of jaundice, dark urine, steatorrhea, anorexia, and 9 kg of weight loss. Diabetes was diagnosed 3 months ago. On examination he is cachectic with a palpable, nontender, distended gallbladder. ALP and bilirubin are elevated and CA 19-9 is markedly raised. Which is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Ductal adenocarcinoma of the head of the pancreas"
+    },
+    {
+     "id": "b",
+     "text": "Adenocarcinoma of the body or tail of the pancreas"
+    },
+    {
+     "id": "c",
+     "text": "Intraductal papillary mucinous neoplasm"
+    },
+    {
+     "id": "d",
+     "text": "Mucinous cystic neoplasm"
+    },
+    {
+     "id": "e",
+     "text": "Pancreatic neuroendocrine tumour"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states that vague abdominal pain with weight loss plus jaundice in a patient over 50 yr is pancreatic cancer until proven otherwise, and that pancreatic head tumours, which comprise 70% of cases, typically present with jaundice, steatorrhea, and weight loss along with anorexia, dark urine, cachexia, Courvoisier's sign, and recent onset DM. Ductal adenocarcinoma is the most common type at 75-80%, and CA 19-9 is the most useful serum marker.",
+   "optionExplanations": {
+    "b": "Body or tail tumours account for 30%, tend to present later with weight loss and vague mid-epigastric pain, and fewer than 10% are jaundiced.",
+    "c": "IPMN is a distinct pathology and does not classically present with Courvoisier's sign and cachexia.",
+    "d": "Mucinous cystic neoplasm is an uncommon cystic lesion rather than the classic obstructing head mass.",
+    "e": "Pancreatic NETs are usually functional or non-functional lesions that do not typically produce this obstructive jaundice picture."
+   },
+   "topic": "Pancreatic Cancer",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "GS",
+    "name": "General and Thoracic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 554,
+    "reference": "GS62 — Pancreatic Cancer"
+   }
+  },
+  {
+   "id": "TN-GS-033",
+   "type": "single-best-answer",
+   "question": "A 62-year-old woman whose menopause occurred at age 51 has completed breast conserving surgery and radiation for a 2.5 cm invasive carcinoma with two positive axillary nodes. The tumour is estrogen receptor positive, progesterone receptor positive, and HER2 negative. She has no metastatic disease. Which adjuvant systemic agent is most appropriate?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Tamoxifen"
+    },
+    {
+     "id": "b",
+     "text": "Anastrozole"
+    },
+    {
+     "id": "c",
+     "text": "Trastuzumab"
+    },
+    {
+     "id": "d",
+     "text": "Goserelin"
+    },
+    {
+     "id": "e",
+     "text": "Megestrol acetate"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Hormonal therapy is indicated for ER positive disease that is node-positive or high-risk node-negative. Toronto Notes specifies selective estrogen receptor modulators such as tamoxifen if premenopausal, or aromatase inhibitors such as anastrozole if postmenopausal, for an optimal duration of 5-10 yr. This postmenopausal, ER positive, node-positive patient should receive an aromatase inhibitor.",
+   "optionExplanations": {
+    "a": "Tamoxifen is the SERM option chosen for premenopausal patients.",
+    "c": "Trastuzumab is added to chemotherapy for HER2 positive breast cancer; her tumour is HER2 negative.",
+    "d": "Goserelin achieves ovarian ablation, which is an option in premenopausal women.",
+    "e": "Progestins such as megestrol acetate are an alternative hormonal option, not first-line adjuvant therapy."
+   },
+   "topic": "Breast",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "GS",
+    "name": "General and Thoracic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 562,
+    "reference": "GS70 — Breast Cancer: Adjuvant/Neoadjuvant Therapy"
+   }
+  },
+  {
+   "id": "TN-GS-034",
+   "type": "single-best-answer",
+   "question": "A 54-year-old woman has a 3 cm right adrenal mass discovered on CT performed for flank pain. On further questioning she describes episodic headaches, palpitations, and diaphoresis, and her blood pressure today is 172/98 mmHg. Which is the most appropriate investigation?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Plasma metanephrines"
+    },
+    {
+     "id": "b",
+     "text": "1 mg overnight dexamethasone suppression test"
+    },
+    {
+     "id": "c",
+     "text": "AM aldosterone and AM plasma renin activity"
+    },
+    {
+     "id": "d",
+     "text": "FNA biopsy of the adrenal mass"
+    },
+    {
+     "id": "e",
+     "text": "MRI of the adrenal glands"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "An adrenal mass greater than 1 cm found during investigation of unrelated symptoms is an incidentaloma and requires functional studies. Toronto Notes specifies plasma metanephrines, which are highly specific and sensitive, as the test for pheochromocytoma, with 24 h urine catecholamines if unavailable. Her episodic headaches, palpitations, diaphoresis, and hypertension make pheochromocytoma the functional tumour to exclude first.",
+   "optionExplanations": {
+    "b": "The 1 mg overnight dexamethasone suppression test screens for Cushing's, which her symptoms do not suggest.",
+    "c": "AM aldosterone with plasma renin activity screens for an aldosteronoma, which typically presents with hypertension and hypokalemia rather than paroxysmal spells.",
+    "d": "FNA biopsy is not appropriate in most cases; diagnostic adrenalectomy by a high volume endocrine surgeon is preferred if there is diagnostic uncertainty.",
+    "e": "MRI is not as good as CT for adrenal masses and does not need to be done after CT."
+   },
+   "topic": "Surgical Endocrinology",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "GS",
+    "name": "General and Thoracic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 563,
+    "reference": "GS71 — Adrenal Gland: Incidentaloma"
    }
   }
  ]
