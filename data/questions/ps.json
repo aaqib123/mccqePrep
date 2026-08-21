@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 22,
+ "count": 28,
  "questions": [
   {
    "id": "TN-PS-001",
@@ -1020,6 +1020,282 @@
     "document": "Toronto Notes 2025",
     "page": 1414,
     "reference": "PS60 — Table 22: Common Forms Under the Mental Health Act (in Ontario)"
+   }
+  },
+  {
+   "id": "TN-PS-023",
+   "type": "single-best-answer",
+   "question": "A 29-year-old woman who has taken paroxetine 20 mg daily for eight months stopped it abruptly three days ago because she felt well. She now describes dizziness, headache, chills, myalgia, nausea, irritability, mood lability, and insomnia. She is afebrile, her physical examination is unremarkable, and she denies low mood or suicidal ideation. What is the most appropriate next step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Restart paroxetine at the dose she was taking and then taper slowly over several weeks"
+    },
+    {
+     "id": "b",
+     "text": "Leave paroxetine stopped and treat the symptoms with an antiemetic and simple analgesia"
+    },
+    {
+     "id": "c",
+     "text": "Prescribe lorazepam for two weeks to cover the symptoms"
+    },
+    {
+     "id": "d",
+     "text": "Restart paroxetine at double the previous dose and stop it again in one week"
+    },
+    {
+     "id": "e",
+     "text": "Switch her immediately to venlafaxine extended-release at an equivalent dose"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Discontinuation syndrome is caused by abrupt cessation of antidepressants and is most common with paroxetine, fluvoxamine, and venlafaxine, the drugs with the shortest half-lives. Symptoms begin within 1-3 days and include anxiety, insomnia, irritability, mood lability, nausea and vomiting, dizziness, headache, tremor, chills, fatigue, and myalgia. Symptoms can be relieved within 24 hours by restarting the antidepressant at the same dosage the patient was taking initially and then initiating a slower taper over several weeks.",
+   "optionExplanations": {
+    "b": "Untreated, discontinuation symptoms may last 1-3 weeks, whereas restarting the drug relieves them within 24 hours and allows a controlled taper.",
+    "c": "A benzodiazepine does not address the cause; the source directs restarting the antidepressant and tapering more slowly.",
+    "d": "Doubling the dose is not what the source recommends, and stopping again after one week would simply reproduce an abrupt cessation.",
+    "e": "Venlafaxine is one of the agents most often implicated in discontinuation syndrome because of its short half-life, so switching to it does not solve the problem."
+   },
+   "topic": "Antidepressant Discontinuation Syndrome",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "PS",
+    "name": "Psychiatry"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1409,
+    "reference": "PS55 — Discontinuation Syndrome"
+   }
+  },
+  {
+   "id": "TN-PS-024",
+   "type": "single-best-answer",
+   "question": "A 46-year-old woman with bipolar I disorder has taken lithium 900 mg daily for four years with previously stable serum levels. Two weeks ago she began taking naproxen regularly for back pain. She now reports a worsening tremor, nausea, vomiting, diarrhea, stomach pain, headache, and marked lethargy. She is afebrile and her neurological examination shows no focal deficit. What is the most appropriate initial investigation?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Serum lithium level drawn 12 hours after her last dose"
+    },
+    {
+     "id": "b",
+     "text": "TSH and free T4"
+    },
+    {
+     "id": "c",
+     "text": "Non-contrast CT head"
+    },
+    {
+     "id": "d",
+     "text": "Electroencephalogram"
+    },
+    {
+     "id": "e",
+     "text": "Complete blood count with differential and platelets"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes lists NSAIDs, thiazides, ACEI, OCP, and metronidazole as agents that decrease lithium clearance and create a risk for lithium toxicity. Her new naproxen plus gastrointestinal upset, tremor, headache, and lethargy, all recognised lithium adverse effects, point to a rising level. Lithium serum levels are monitored and the dose adjusted accordingly, and the sample is always drawn 12 hours after the dose.",
+   "optionExplanations": {
+    "b": "Thyroid function and creatinine are monitored every 6 months on lithium, but thyroid testing will not explain an acute change after starting an NSAID.",
+    "c": "There is no focal deficit or head injury described, and imaging would not identify the drug interaction responsible.",
+    "d": "An EEG is not part of the monitoring the source describes for lithium and would not measure the level.",
+    "e": "Baseline CBC with differential and platelets is obtained before starting a mood stabilizer, and blood counts are the monitoring priority for carbamazepine rather than for suspected lithium toxicity."
+   },
+   "topic": "Mood Stabilizers",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "PS",
+    "name": "Psychiatry"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1410,
+    "reference": "PS56 — Mood Stabilizers"
+   }
+  },
+  {
+   "id": "TN-PS-025",
+   "type": "single-best-answer",
+   "question": "A 33-year-old woman at 26 weeks gestation is admitted with a depressive episode with psychotic features. She has refused food and fluids for five days and is clinically dehydrated. Two adequate antidepressant trials during previous episodes produced no response, and her obstetrician is concerned about medication safety and the need for a rapid response. What is the most appropriate treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Electroconvulsive therapy"
+    },
+    {
+     "id": "b",
+     "text": "Repetitive transcranial magnetic stimulation"
+    },
+    {
+     "id": "c",
+     "text": "Cognitive behavioural therapy alone"
+    },
+    {
+     "id": "d",
+     "text": "A trial of a third antidepressant at maximum dose"
+    },
+    {
+     "id": "e",
+     "text": "Deep brain stimulation"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "ECT is described as the fastest and most effective acute treatment of depression, and it is the induction of a generalized seizure using an electrical pulse through scalp electrodes while the patient is under general anesthesia with a muscle relaxant. Its indications include treatment-resistant depression with psychotic features and situations where medications may be unsafe or a rapid response is needed, such as cachexia, severe dehydration, high suicide risk, and pregnancy. There are no absolute contraindications.",
+   "optionExplanations": {
+    "b": "Repetitive transcranial magnetic stimulation does not match the efficacy of ECT and would not deliver the rapid response this dehydrated, psychotically depressed patient needs.",
+    "c": "Psychotherapy alone is inadequate for a depressive episode with psychotic features and refusal of food and fluids.",
+    "d": "She has already failed two adequate antidepressant trials, and a further medication trial neither acts rapidly nor addresses the concern about medication safety.",
+    "e": "Deep brain stimulation is listed among experimental treatments for depression, not as an acute treatment for this presentation."
+   },
+   "topic": "Electroconvulsive Therapy",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "PS",
+    "name": "Psychiatry"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1412,
+    "reference": "PS58 — Somatic Therapies: Electroconvulsive Therapy"
+   }
+  },
+  {
+   "id": "TN-PS-026",
+   "type": "single-best-answer",
+   "question": "A 38-year-old woman reports four months of low mood, tearfulness, and poor sleep that began after she separated from her husband, moved cities for a new job, and lost her mother. She has ongoing conflict with her adult daughter and feels she no longer has a role in her family. She has good insight, no psychotic symptoms, and no substance use. Which psychotherapy is most appropriate?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Interpersonal therapy"
+    },
+    {
+     "id": "b",
+     "text": "Dialectical behavioural therapy"
+    },
+    {
+     "id": "c",
+     "text": "Motivational enhancement therapy"
+    },
+    {
+     "id": "d",
+     "text": "Psychoanalytic psychotherapy"
+    },
+    {
+     "id": "e",
+     "text": "Supportive therapy"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Interpersonal therapy is indicated for mood disorders and focuses on how interpersonal relationships impact symptoms, addressing four key problem areas: grief and loss, role transitions, conflict, and interpersonal deficits. The ideal candidates are individuals with depression or bipolar disorder who have some insight and difficult social functioning, which describes this woman, whose episode is framed by bereavement, role transitions, and conflict. It is delivered as weekly sessions over 12-20 sessions.",
+   "optionExplanations": {
+    "b": "Dialectical behavioural therapy is indicated for borderline personality disorder and severe problems of emotional dysregulation, impulsivity, or self-harm, none of which are described.",
+    "c": "Motivational enhancement therapy is indicated for substance use disorders and maladaptive behaviour patterns, and she has no substance use.",
+    "d": "Psychoanalytic therapy suits patients who are psychologically minded and wish to understand themselves rather than just relieve symptoms, and it is time intensive over several years.",
+    "e": "Supportive therapy is aimed at individuals in crisis or with severe symptoms, such as adjustment disorders or severe psychotic or personality disorders, rather than this focal interpersonal presentation."
+   },
+   "topic": "Psychotherapy",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "PS",
+    "name": "Psychiatry"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1403,
+    "reference": "PS49 — Summary of Psychotherapeutic Modalities"
+   }
+  },
+  {
+   "id": "TN-PS-027",
+   "type": "single-best-answer",
+   "question": "A 67-year-old man is brought in by his wife because for the past year he has shouted and thrashed during sleep. Twice a week he punches and kicks, bruising her and injuring his own hand on the bedside table. When she wakes him he is immediately oriented and alert and describes a vivid dream of being attacked. He snores little and is not sleepy during the day. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Rapid eye movement sleep behaviour disorder"
+    },
+    {
+     "id": "b",
+     "text": "Non-rapid eye movement sleep arousal disorder with sleep terrors"
+    },
+    {
+     "id": "c",
+     "text": "Nightmare disorder"
+    },
+    {
+     "id": "d",
+     "text": "Obstructive sleep apnea hypopnea"
+    },
+    {
+     "id": "e",
+     "text": "Restless legs syndrome"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Rapid eye movement sleep behaviour disorder is described as arousal during sleep associated with vocalization and/or complex motor behaviours that can cause violent injuries, with rapid orientation and alertness on awakening. His enacted, injurious dream behaviour with immediate alertness fits this pattern. Management includes melatonin, clonazepam, and discontinuation of causative medications such as TCAs, SSRIs, and SNRIs.",
+   "optionExplanations": {
+    "b": "Sleep terrors involve incomplete awakening with a panicky scream, relative unresponsiveness to comfort, and amnesia for the episode, whereas he is rapidly oriented and recalls the dream.",
+    "c": "Nightmare disorder produces well-remembered dysphoric dreams with rapid orientation on awakening, but not the complex motor behaviours and injuries described.",
+    "d": "Obstructive sleep apnea hypopnea causes nonrestorative sleep and excessive daytime sleepiness with snoring and morning headaches, which he does not have.",
+    "e": "Restless legs syndrome is an uncomfortable, frequent urge to move the legs at night that is relieved by movement, not dream enactment."
+   },
+   "topic": "Sleep-Wake Disorders",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "PS",
+    "name": "Psychiatry"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1391,
+    "reference": "PS37 — Major DSM-5 Sleep-Wake Disorders"
+   }
+  },
+  {
+   "id": "TN-PS-028",
+   "type": "single-best-answer",
+   "question": "A 34-year-old woman has had six hospital admissions in two years for unexplained hypoglycemia. Extensive investigations have been unrevealing, and a nurse finds an insulin syringe hidden in her bag. She has no disability claim, no pending litigation, no legal charges, and no work she is avoiding, but she becomes animated and content when the ward team gathers at her bedside. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Factitious disorder"
+    },
+    {
+     "id": "b",
+     "text": "Malingering"
+    },
+    {
+     "id": "c",
+     "text": "Somatic symptom disorder"
+    },
+    {
+     "id": "d",
+     "text": "Illness anxiety disorder"
+    },
+    {
+     "id": "e",
+     "text": "Conversion disorder"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Factitious disorder is the intentional production or feigning of physical or psychological signs or symptoms; unlike malingering, these patients are not motivated by secondary gain but rather may seek sympathy, nurturance, and attention. Her covert insulin administration is an intentional, voluntary production of illness with no external incentive, and she is gratified by the attention of the care team.",
+   "optionExplanations": {
+    "b": "Malingering is the intentional production of false or grossly exaggerated symptoms motivated by secondary gain such as avoiding work, financial compensation, or obtaining drugs, and no external reward is present here.",
+    "c": "In somatic symptom and related disorders the symptoms are produced unconsciously and are not the result of malingering or factitious disorder, which are disorders of voluntary presentation.",
+    "d": "Illness anxiety centres on preoccupation with having a disease rather than deliberately inducing signs of one.",
+    "e": "Conversion symptoms are also produced unconsciously and lack objective medical support, whereas she is deliberately injecting insulin."
+   },
+   "topic": "Factitious Disorder and Malingering",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "PS",
+    "name": "Psychiatry"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1387,
+    "reference": "PS33 — Somatic Symptom and Related Disorders"
    }
   }
  ]

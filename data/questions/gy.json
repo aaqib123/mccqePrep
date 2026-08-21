@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 18,
+ "count": 24,
  "questions": [
   {
    "id": "TN-GY-001",
@@ -836,6 +836,282 @@
     "document": "Toronto Notes 2025",
     "page": 636,
     "reference": "GY42 — Endometrial Carcinoma"
+   }
+  },
+  {
+   "id": "TN-GY-019",
+   "type": "single-best-answer",
+   "question": "A 5-year-old girl is brought to clinic with 3 weeks of vulvar irritation, pruritus and scant discharge. She has daily bubble baths, wears tight nylon tights, and uses no diapers. She has taken no antibiotics. Examination shows vulvar erythema with no ulceration, no vaginal bleeding and no visible foreign body, and there is no concern of sexual abuse. Which is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Non-specific vulvovaginitis"
+    },
+    {
+     "id": "b",
+     "text": "Candida vulvovaginitis"
+    },
+    {
+     "id": "c",
+     "text": "Pinworm infestation"
+    },
+    {
+     "id": "d",
+     "text": "Lichen sclerosis"
+    },
+    {
+     "id": "e",
+     "text": "Retained vaginal foreign body"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Non-specific vulvovaginitis is responsible for 25-75% of vulvovaginitis in prepubertal patients and is the most common gynecological problem in this age group, not yeast. Predisposing factors include non-estrogenized thin mucosa, a more alkaline pH than in postmenarchal patients, poor hygiene, and irritation by bubble baths, shampoos and perfumed soaps. Treatment is enhanced hygiene and local measures such as white cotton underwear, sitz baths, avoiding bubble baths and avoiding tight-fitting clothes.",
+   "optionExplanations": {
+    "b": "Candida is expected in prepubertal children who are in diapers or on chronic antibiotics, neither of which applies here; the source stresses that the commonest prepubertal problem is non-specific vulvovaginitis, not yeast.",
+    "c": "Pinworms are a listed infectious cause but would typically be sought with a cellophane tape test; nothing here points to them over irritant, hygiene-related non-specific inflammation.",
+    "d": "Lichen sclerosis is a localized skin disorder producing white patches and thinning of the skin rather than simple vulvar erythema.",
+    "e": "A foreign body (most commonly toilet paper) is a recognised cause, but none was seen on examination and there is no purulent or bloody discharge to suggest one."
+   },
+   "topic": "Prepubertal Vulvovaginitis",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "GY",
+    "name": "Gynecology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 620,
+    "reference": "GY26 — Vulvovaginitis"
+   }
+  },
+  {
+   "id": "TN-GY-020",
+   "type": "single-best-answer",
+   "question": "A 26-year-old woman reports 1 week of yellow-green, malodourous, frothy vaginal discharge with dysuria, frequency and dyspareunia. Speculum examination shows petechiae on the vagina and cervix and an irritated, tender vulva. Vaginal pH is 4.5, and saline wet mount shows motile flagellated organisms with many WBCs. She is not pregnant and has one regular male partner. Which is the best initial treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Metronidazole 2 g PO in a single dose"
+    },
+    {
+     "id": "b",
+     "text": "Fluconazole 150 mg PO in a single dose"
+    },
+    {
+     "id": "c",
+     "text": "Clotrimazole vaginal suppositories for 7 d"
+    },
+    {
+     "id": "d",
+     "text": "Clindamycin 2% 5 g intravaginally at bedtime for 7 d"
+    },
+    {
+     "id": "e",
+     "text": "Boric acid vaginal suppositories"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Frothy yellow-green malodourous discharge, vaginal and cervical petechiae, and motile flagellated organisms with many WBCs on saline wet mount identify Trichomonas vaginalis. Treatment is metronidazole 2 g PO as a single dose, with metronidazole 500 mg BID x 7 d as an alternative, and trichomoniasis is treated even when asymptomatic. Because it is sexually transmitted, partner(s) must also be treated, and patients on metronidazole must be warned not to drink alcohol.",
+   "optionExplanations": {
+    "b": "Oral fluconazole treats candidiasis, which produces whitish 'cottage cheese' discharge with intense pruritus and hyphae and spores on KOH wet mount.",
+    "c": "Clotrimazole suppositories are an antifungal regimen for vulvovaginal candidiasis and have no activity against a flagellated protozoan.",
+    "d": "Intravaginal clindamycin is a bacterial vaginosis regimen; BV gives grey, thin, fishy-smelling discharge with clue cells and a paucity of WBCs, not petechiae and many WBCs.",
+    "e": "Boric acid suppositories are used as prophylaxis for recurrent candidal infection, not as treatment for trichomoniasis."
+   },
+   "topic": "Infectious Vulvovaginitis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "GY",
+    "name": "Gynecology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 621,
+    "reference": "GY27 — Infectious Vulvovaginitis"
+   }
+  },
+  {
+   "id": "TN-GY-021",
+   "type": "single-best-answer",
+   "question": "A 19-year-old woman has 2 months of bloating, early satiety and increased abdominal girth. Imaging shows a large unilateral solid ovarian mass with no ascites. Surgical pathology after resection confirms a dysgerminoma. Her gynecologic oncologist plans chemotherapy and wants a serum tumour marker to follow her response to treatment. Which tumour marker is most appropriate?",
+   "options": [
+    {
+     "id": "a",
+     "text": "LDH"
+    },
+    {
+     "id": "b",
+     "text": "AFP"
+    },
+    {
+     "id": "c",
+     "text": "Inhibin"
+    },
+    {
+     "id": "d",
+     "text": "β-hCG"
+    },
+    {
+     "id": "e",
+     "text": "CA-125"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Ovarian tumour markers are germ cell, epithelial or sex-cord stromal specific, and dysgerminoma produces LDH. Diagnosis of ovarian tumours requires surgical pathology, which here establishes the histology, so LDH is the marker used to follow disease.",
+   "optionExplanations": {
+    "b": "AFP is the marker of a yolk sac tumour (and, with β-hCG, of embryonal cell tumours), not dysgerminoma.",
+    "c": "Inhibin is the marker of granulosa cell tumours, a sex-cord stromal tumour.",
+    "d": "β-hCG is produced by choriocarcinoma and, together with AFP, by embryonal cell tumours.",
+    "e": "CA-125 marks serous and endometrioid epithelial cancers and has poor sensitivity and specificity, being elevated in general inflammatory states such as endometriosis."
+   },
+   "topic": "Ovarian Tumour Markers",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "GY",
+    "name": "Gynecology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 638,
+    "reference": "GY44 — Malignant Ovarian Tumours"
+   }
+  },
+  {
+   "id": "TN-GY-022",
+   "type": "single-best-answer",
+   "question": "A 44-year-old woman describes 8 months of progressive hirsutism, deepening of her voice and recession of her front hairline, with infrequent menses. Bimanual examination reveals a firm, mobile 7 cm right adnexal mass. Serum androgens are markedly elevated, and there is no ascites or pleural effusion. Which is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Sertoli-Leydig cell tumour"
+    },
+    {
+     "id": "b",
+     "text": "Granulosa-theca cell tumour"
+    },
+    {
+     "id": "c",
+     "text": "Fibroma/thecoma"
+    },
+    {
+     "id": "d",
+     "text": "Mucinous epithelial ovarian tumour"
+    },
+    {
+     "id": "e",
+     "text": "Krukenberg tumour"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Sertoli-Leydig cell tumours are androgen-producing sex cord stromal tumours that cause virilizing effects: hirsutism, deep voice and recession of the front hairline. Elevated androgens can be measured as tumour markers, which fits this adnexal mass with rapidly progressive virilization.",
+   "optionExplanations": {
+    "b": "Granulosa-theca cell tumours are estrogen-producing, giving feminizing effects such as precocious puberty, menorrhagia or postmenopausal bleeding and a risk of endometrial cancer, with inhibin as the marker.",
+    "c": "Fibroma/thecoma arises from mature fibroblasts in ovarian stroma and is non-functioning, occasionally associated with Meig's syndrome of benign ovarian tumour, ascites and pleural effusion.",
+    "d": "Mucinous epithelial tumours are often multilocular, may reach enormous size and resemble endocervical epithelium; they are not hormonally virilizing.",
+    "e": "A Krukenberg tumour is a metastatic ovarian tumour, usually from the GI tract, with signet-ring cells, and does not typically produce androgens."
+   },
+   "topic": "Sex Cord Stromal Ovarian Tumours",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "GY",
+    "name": "Gynecology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 640,
+    "reference": "GY46 — Ovarian Tumours"
+   }
+  },
+  {
+   "id": "TN-GY-023",
+   "type": "single-best-answer",
+   "question": "A 41-year-old woman at 11 weeks gestational age by dates has vaginal bleeding and vomiting severe enough to need intravenous fluids. Blood pressure is 152/98 mmHg. Uterine size is large for dates and no fetal heart activity is detected. Quantitative β-hCG is far above the expected value for gestational age, and ultrasound shows a snowstorm appearance with bilateral theca lutein cysts. Which is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Complete hydatidiform mole"
+    },
+    {
+     "id": "b",
+     "text": "Incomplete (partial) hydatidiform mole"
+    },
+    {
+     "id": "c",
+     "text": "Missed abortion"
+    },
+    {
+     "id": "d",
+     "text": "Threatened abortion"
+    },
+    {
+     "id": "e",
+     "text": "Normal intrauterine pregnancy with hyperemesis gravidarum"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "A complete mole shows diffuse trophoblastic hyperplasia with no fetus, a snowstorm ultrasound appearance from swelling of villi, and theca lutein cysts due to β-hCG mimicking LH. Vaginal bleeding, uterine size large for dates, hyperemesis gravidarum, preeclampsia and quantitative β-hCG abnormally high for gestational age are its classic features, and hypertension developing before 20 wk should raise suspicion of gestational trophoblastic disease. Maternal age >40 yr is a recognised risk factor.",
+   "optionExplanations": {
+    "b": "An incomplete mole is associated with fetal tissue, shows focal trophoblastic hyperplasia with multiple echogenic regions and no theca lutein cysts, and presents much like a spontaneous or missed abortion.",
+    "c": "Missed abortion would not explain a uterus large for dates, β-hCG far above the expected value, or the snowstorm appearance with theca lutein cysts.",
+    "d": "Threatened abortion presents with first trimester bleeding but not with markedly excessive β-hCG, excessive uterine size or molar ultrasound features.",
+    "e": "Hyperemesis gravidarum with a normal pregnancy would not produce absent fetal heart activity, a snowstorm ultrasound pattern or theca lutein cysts."
+   },
+   "topic": "Gestational Trophoblastic Disease",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "GY",
+    "name": "Gynecology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 647,
+    "reference": "GY53 — Gestational Trophoblastic Disease/Neoplasia"
+   }
+  },
+  {
+   "id": "TN-GY-024",
+   "type": "single-best-answer",
+   "question": "A 24-year-old woman requests termination of pregnancy. Ultrasound dates the pregnancy at 17 weeks gestational age. She is clinically well, has no bleeding disorder, takes no anticoagulants and has no IUD in situ. After counselling that included the option of carrying the pregnancy with or without adoption, she chooses a surgical rather than a medical approach. Which is the most appropriate procedure?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Manual vacuum aspiration with a handheld aspiration device"
+    },
+    {
+     "id": "b",
+     "text": "Suction dilatation and aspiration with curettage, without cervical preparation"
+    },
+    {
+     "id": "c",
+     "text": "Dilatation and evacuation after presurgical cervical preparation with laminaria tents"
+    },
+    {
+     "id": "d",
+     "text": "Medical induction of labour with misoprostol followed by oxytocin"
+    },
+    {
+     "id": "e",
+     "text": "Medical induction of labour with oxytocin alone"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "For a surgical termination between 14 and 24 wk gestational age, dilatation and evacuation is the procedure used, and presurgical preparation of the cervix with laminaria tents is required. Pain during the procedure is mitigated with appropriate analgesia, sedation or anesthesia including paracervical blocks. Counselling should include future contraception and family planning services, and follow-up should be ensured.",
+   "optionExplanations": {
+    "a": "Manual vacuum aspiration with a handheld device is used up to 12 wk gestational age, well below this gestation.",
+    "b": "Suction dilatation and aspiration is a procedure for <14 wk gestational age, and at 14-24 wk cervical preparation is required rather than omitted.",
+    "d": "Medical induction of labour with misoprostol followed by oxytocin is an option at 14-24 wk, but it is a medical rather than the surgical approach she has chosen.",
+    "e": "Induction with oxytocin alone is not the described regimen; misoprostol is given first, and induction of labour is the only option after 24 wk gestational age."
+   },
+   "topic": "Termination of Pregnancy",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "GY",
+    "name": "Gynecology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 614,
+    "reference": "GY20 — Termination of Pregnancy"
    }
   }
  ]

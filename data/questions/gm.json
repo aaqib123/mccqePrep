@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 8,
+ "count": 11,
  "questions": [
   {
    "id": "TN-GM-001",
@@ -376,6 +376,144 @@
     "document": "Toronto Notes 2025",
     "page": 589,
     "reference": "GM17 — Prescribing Cascade / Preventing Polypharmacy"
+   }
+  },
+  {
+   "id": "TN-GM-009",
+   "type": "single-best-answer",
+   "question": "A 79-year-old man who lives alone is brought by his daughter because of unintentional weight loss over the 6 mo prior to this visit. Since his wife died he has been forgetting meals and has dental problems. On examination his BMI is 21.0, with temporal wasting, muscle wasting, and loss of subcutaneous fat. He is afebrile with no localizing symptoms. Which of the following is the most appropriate initial investigation?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Whole-body FDG-PET scan"
+    },
+    {
+     "id": "b",
+     "text": "CT of the chest, abdomen, and pelvis to search for occult malignancy"
+    },
+    {
+     "id": "c",
+     "text": "CBC, electrolytes, calcium/albumin, magnesium, phosphate, creatinine, LFTs, vitamin B12, folate, and TSH"
+    },
+    {
+     "id": "d",
+     "text": "Upper gastrointestinal endoscopy with duodenal biopsy"
+    },
+    {
+     "id": "e",
+     "text": "Urinalysis, ESR, and chest radiograph"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "For unintentional weight loss and suspected malnutrition in an older adult, the source specifies an initial panel of CBC, electrolytes, Ca2+/albumin, Mg2+, PO4, creatinine, LFTs (INR, bilirubin), vitamin B12, folate, TSH, and lipid profile. His history of cognitive decline with forgetting meals, dental problems, and living alone are the listed functional and social contributors, and his BMI below 23.5 in a male together with temporal wasting and loss of subcutaneous fat are the physical findings that should raise concern. Broad imaging is not the described first step.",
+   "optionExplanations": {
+    "a": "Functional imaging is not among the investigations listed for malnutrition and weight loss in older adults.",
+    "b": "Cross-sectional imaging is not part of the described initial workup for unintentional weight loss; treatment is directed at underlying causes identified by assessment and baseline bloodwork.",
+    "d": "Endoscopy is not a first-line investigation here; referral described is to a speech language pathologist for swallowing assessment and to a nutritionist.",
+    "e": "Urinalysis, ESR, and CXR are described as investigations to consider only if indicated by the assessment, not as the initial panel."
+   },
+   "topic": "Malnutrition and Weight Loss",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "GM",
+    "name": "Geriatric Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 584,
+    "reference": "GM12 — Malnutrition and Weight Loss: Clinical Features, Investigations, and Treatment"
+   }
+  },
+  {
+   "id": "TN-GM-010",
+   "type": "single-best-answer",
+   "question": "An 84-year-old woman with dementia in a long-term care home has been passing loose stool frequently for 5 d. She is immobile and takes opioids for osteoarthritis pain. For months she has had <3 bowel movements per wk with straining, hard stools, and a sensation of incomplete evacuation. She is afebrile and rectal examination reveals hard stool in the rectum. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Clostridioides difficile colitis"
+    },
+    {
+     "id": "b",
+     "text": "Fecal impaction with overflow diarrhea"
+    },
+    {
+     "id": "c",
+     "text": "Irritable bowel syndrome"
+    },
+    {
+     "id": "d",
+     "text": "Laxative-induced diarrhea"
+    },
+    {
+     "id": "e",
+     "text": "Ischemic colitis"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "In older adults, chronic constipation may present as fecal impaction and over flow diarrhea, which is the pattern of hard stool in the rectum with loose stool escaping around it. Opioids, anticholinergics, immobility and non-optimal positioning, and dementia are all listed etiologies of constipation, and straining, hard stools, sensation of incomplete evacuation, and <3 bowel movements per wk satisfy the Rome IV diagnostic criteria. Alarm symptoms such as fever, hematochezia, or severe abdominal pain are absent.",
+   "optionExplanations": {
+    "a": "Fever is listed as an alarm symptom prompting a different work-up; she is afebrile and has hard stool palpable in the rectum, which points to impaction.",
+    "c": "The diagnosis of chronic constipation requires that the patient not meet Rome IV criteria for IBS, and her picture is impaction with overflow rather than a functional bowel disorder.",
+    "d": "Her longstanding pattern is constipation with hard stools rather than laxative excess, and chronic laxative use is something the source discourages rather than the explanation for this presentation.",
+    "e": "Hematochezia, severe abdominal pain, and acute onset would be the alarm features suggesting another colonic diagnosis; none are present."
+   },
+   "topic": "Constipation",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "GM",
+    "name": "Geriatric Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 576,
+    "reference": "GM4 — Presentations in Older Adults: Constipation"
+   }
+  },
+  {
+   "id": "TN-GM-011",
+   "type": "single-best-answer",
+   "question": "An 82-year-old woman living in her own home in Ontario attends clinic with her grown son, on whom she relies for bathing, shopping, and banking. She is withdrawn with poor eye contact, appears malnourished, and has unexplained bruises. When the son leaves the room she says he has threatened her and used her money against her will. She is alert and gives a coherent history. What is the most appropriate next step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Arrange urgent placement in a long-term care home to separate her from her son"
+    },
+    {
+     "id": "b",
+     "text": "Report the suspected abuse to the provincial authority, since reporting is mandatory in Ontario for every older adult"
+    },
+    {
+     "id": "c",
+     "text": "Ask the son to answer the Elder Abuse Suspicion Index questions on her behalf"
+    },
+    {
+     "id": "d",
+     "text": "Assess her decision-making capacity regarding any proposed intervention and address imminent safety"
+    },
+    {
+     "id": "e",
+     "text": "Defer any intervention until the bruises are documented by a second clinician at a follow-up visit"
+    }
+   ],
+   "correctAnswer": "d",
+   "explanation": "Management of suspected elder abuse begins with assessing the patient's decision-making capacity regarding any proposed intervention and addressing imminent safety, then referral to local resources, creating an emergency safety plan, and offering assistance with reporting abuse. Her presentation combines the listed victim characteristics of physical or emotional dependence on a caregiver with the findings of withdrawn nature, poor eye contact, malnourishment, and bruises, and the perpetrator here is her grown child, the most common relationship in police-reported family violence against seniors.",
+   "optionExplanations": {
+    "b": "In Ontario, reporting elder abuse is mandatory when the older adult resides in a Long-term Care Home or a Retirement Home; she lives in her own home, so reporting is offered as assistance rather than imposed.",
+    "c": "Questions 1 to 5 of the Elder Abuse Suspicion Index are asked of the patient and question 6 is answered by the doctor, so the possible perpetrator is not the respondent.",
+    "a": "Institutional placement is not the described response; the listed options are home care, respite agencies, shelters, legal, police, and government-supported elder abuse consultants, chosen with the patient.",
+    "e": "Delaying while imminent safety is unaddressed conflicts with the stated management sequence of addressing safety and creating an emergency safety plan."
+   },
+   "topic": "Elder Abuse",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "GM",
+    "name": "Geriatric Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 579,
+    "reference": "GM7 — Elder Abuse: Risk Factors, Screening Tools, and Management"
    }
   }
  ]

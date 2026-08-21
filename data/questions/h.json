@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 26,
+ "count": 32,
  "questions": [
   {
    "id": "TN-H-001",
@@ -1204,6 +1204,282 @@
     "document": "Toronto Notes 2025",
     "page": 714,
     "reference": "H60 — Recommended Management of a Supratherapeutic INR"
+   }
+  },
+  {
+   "id": "TN-H-027",
+   "type": "single-best-answer",
+   "question": "A 66-year-old man is investigated for three months of fatigue, weight loss, and left upper quadrant fullness with early satiety. Examination shows marked splenomegaly. WBC is 145 x 10^9/L, with the differential showing a bimodal distribution with predominance of myelocytes and neutrophils, increased basophils, and 4% blasts on the peripheral film. Hemoglobin is 104 g/L and platelets are 465 x 10^9/L.",
+   "options": [
+    {
+     "id": "a",
+     "text": "Chronic myeloid leukemia"
+    },
+    {
+     "id": "b",
+     "text": "Polycythemia vera"
+    },
+    {
+     "id": "c",
+     "text": "Essential thrombocythemia"
+    },
+    {
+     "id": "d",
+     "text": "Myelofibrosis"
+    },
+    {
+     "id": "e",
+     "text": "Acute myeloid leukemia"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "CML is a myeloproliferative disorder characterized by increased proliferation of the granulocytic cell line without the loss of their capacity to differentiate. In chronic phase, where 85% are diagnosed, there are few blasts (<10%) in the peripheral film with slightly elevated eosinophils and basophils, and splenomegaly is the most common physical finding, often with early satiety and LUQ pain. This man's WBC differential shows the bimodal distribution with predominance of myelocytes and neutrophils typical of CML.",
+   "optionExplanations": {
+    "b": "Polycythemia vera is defined by an elevated hematocrit; this man is anemic rather than erythrocytotic.",
+    "c": "Essential thrombocythemia shows a markedly elevated platelet count with a normal hematocrit and WBC, not leukocytosis of 145 x 10^9/L with basophilia.",
+    "d": "Myelofibrosis is dominated by marrow fibrosis with anemia and hepatosplenomegaly, not by a granulocytic proliferation with a myelocyte-predominant bimodal differential.",
+    "e": "Acute myeloid leukemia requires blasts >20% in blood or marrow; only 4% blasts are present, with mature and mid-stage granulocytic precursors dominating."
+   },
+   "topic": "Chronic Myeloid Leukemia",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "H",
+    "name": "Hematology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 696,
+    "reference": "H42 — Myeloproliferative Neoplasms: Chronic Myeloid Leukemia"
+   }
+  },
+  {
+   "id": "TN-H-028",
+   "type": "single-best-answer",
+   "question": "A 44-year-old woman has three months of fatigue, mucosal bleeding, and recurrent infections. Hemoglobin is 71 g/L, neutrophils 0.4 x 10^9/L, and platelets 12 x 10^9/L, with decreased reticulocytes at 0.5%. No offending drug or toxin is identified and flow cytometry is negative for PNH. Bone marrow biopsy shows a hypocellular marrow with adipose tissue replacement and no evidence of infiltration with malignant cells or fibrosis.",
+   "options": [
+    {
+     "id": "a",
+     "text": "Immunosuppressive therapy with anti-thymocyte globulin and cyclosporine"
+    },
+    {
+     "id": "b",
+     "text": "Erythropoietin"
+    },
+    {
+     "id": "c",
+     "text": "G-CSF"
+    },
+    {
+     "id": "d",
+     "text": "Iron chelation therapy"
+    },
+    {
+     "id": "e",
+     "text": "Regular RBC and platelet transfusions alone"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "A hypocellular marrow (<25%) with adipose tissue replacement, decreased reticulocytes, and no marrow infiltration or fibrosis defines aplastic anemia. For idiopathic aplastic anemia the source recommends immunosuppressive therapy: horse or rabbit anti-thymocyte globulin, to which 40-50% of patients respond, with cyclosporine for improved response and survival. Removal of offending agents and supportive care accompany, but do not replace, definitive treatment.",
+   "optionExplanations": {
+    "b": "EPO is explicitly not effective in aplastic anemia.",
+    "c": "G-CSF is likewise not effective in aplastic anemia, in contrast to its role in severe immune-mediated neutropenia.",
+    "d": "Iron chelation therapy addresses iron overload accumulating after multiple >20-unit RBC transfusions; it does not restore marrow function.",
+    "e": "Judicious transfusion is supportive care only, and excessive blood product use increases the risk of immune sensitization."
+   },
+   "topic": "Aplastic Anemia",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "H",
+    "name": "Hematology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 672,
+    "reference": "H18 — Aplastic Anemia"
+   }
+  },
+  {
+   "id": "TN-H-029",
+   "type": "single-best-answer",
+   "question": "A 27-year-old woman is assessed before elective cholecystectomy. She has no personal or family history of bleeding, no petechiae or ecchymoses, and takes no medications. Platelet count is 245 x 10^9/L, INR is 1.0, and PTT is 58 s (reference range 28-38 s). Repeat testing on a properly collected sample confirms an isolated prolonged PTT.",
+   "options": [
+    {
+     "id": "a",
+     "text": "Mixing study with normal plasma in a 1:1 ratio"
+    },
+    {
+     "id": "b",
+     "text": "Factor VIII activity assay"
+    },
+    {
+     "id": "c",
+     "text": "von Willebrand factor antigen and ristocetin cofactor activity"
+    },
+    {
+     "id": "d",
+     "text": "Fibrinogen level"
+    },
+    {
+     "id": "e",
+     "text": "Euglobulin lysis time"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "PTT measures the intrinsic pathway (factors VIII, IX, XI, XII) and the common pathway. A mixing study, in which the patient's plasma is mixed with normal plasma in a 1:1 ratio and the abnormal test repeated, differentiates inhibitors of coagulation factors from a deficiency: the coagulation time normalizes with a single factor deficiency and fails to normalize if an inhibitor is present. This is the logical next step here, since causes of a prolonged PTT without bleeding include lupus anticoagulant, which inhibits the pathway in vitro, and early contact factor (XII, HMWK, PK) deficiency.",
+   "optionExplanations": {
+    "b": "A specific factor assay such as factor VIII is appropriate after a mixing study shows correction, and hemophilia A is unlikely with no bleeding history.",
+    "c": "von Willebrand tests assess primary hemostasis, which typically causes excessive prolonged bleeding from surface cuts and mucosal bleeding, absent in this woman.",
+    "d": "Fibrinogen is not the test that distinguishes a factor deficiency from an inhibitor as the cause of an isolated prolonged PTT.",
+    "e": "Euglobulin lysis time looks for accelerated fibrinolysis, as in DIC or factor XIII deficiency, and does not explain an isolated prolonged PTT."
+   },
+   "topic": "Tests of Hemostasis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "H",
+    "name": "Hematology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 681,
+    "reference": "H27 — Commonly Used Tests of Hemostasis"
+   }
+  },
+  {
+   "id": "TN-H-030",
+   "type": "single-best-answer",
+   "question": "A 24-year-old man has two months of painless, non-tender, rubbery enlargement of right cervical and right axillary lymph nodes, night sweats for six weeks, and unintentional weight loss of 12% of his body weight. CXR shows a mediastinal mass. Excisional lymph node biopsy shows Reed-Sternberg cells. CT and PET show no involvement below the diaphragm, and bone marrow biopsy is uninvolved.",
+   "options": [
+    {
+     "id": "a",
+     "text": "Stage IE"
+    },
+    {
+     "id": "b",
+     "text": "Stage IIA"
+    },
+    {
+     "id": "c",
+     "text": "Stage IIB"
+    },
+    {
+     "id": "d",
+     "text": "Stage IIIB"
+    },
+    {
+     "id": "e",
+     "text": "Stage IVB"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "In the Ann Arbor system, involvement of two or more lymph node regions on the same side of the diaphragm is stage II, and the suffix B denotes the presence of B-symptoms: unintentional weight loss >10% of body weight within the previous 6 mo, temperature >38 C, or night sweats for >2 wk without evidence of infection. This man has cervical, axillary, and mediastinal disease confined above the diaphragm plus night sweats and >10% weight loss, making him stage IIB.",
+   "optionExplanations": {
+    "a": "Stage I is involvement of a single lymph node region, with the E designation for a single extralymphatic organ or site; he has several nodal regions involved.",
+    "b": "The A suffix denotes absence of B-symptoms, but he has night sweats and >10% weight loss.",
+    "d": "Stage III requires involvement of lymph node regions on both sides of the diaphragm, and imaging shows none below the diaphragm.",
+    "e": "Stage IV is diffuse involvement of one or more extralymphatic organs including bone marrow, and his marrow biopsy is uninvolved."
+   },
+   "topic": "Hodgkin Lymphoma",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "H",
+    "name": "Hematology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 701,
+    "reference": "H47 — Lymphoma: Ann Arbor Staging and Hodgkin Lymphoma"
+   }
+  },
+  {
+   "id": "TN-H-031",
+   "type": "single-best-answer",
+   "question": "A 63-year-old woman has a rapidly enlarging painless neck mass and night sweats. Excisional lymph node biopsy confirms diffuse large B-cell lymphoma. LDH is increased. Staging CT of neck, chest, abdomen, and pelvis shows nodal disease on both sides of the diaphragm, and bone marrow biopsy is negative. Cardiac and renal function tests are normal.",
+   "options": [
+    {
+     "id": "a",
+     "text": "Combination chemotherapy with CHOP plus rituximab"
+    },
+    {
+     "id": "b",
+     "text": "Watchful waiting"
+    },
+    {
+     "id": "c",
+     "text": "Radiotherapy to the primary site and adjacent nodal areas"
+    },
+    {
+     "id": "d",
+     "text": "Bendamustine plus rituximab"
+    },
+    {
+     "id": "e",
+     "text": "High dose chemotherapy with autologous stem cell transplant"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Treatment of non-Hodgkin lymphoma depends on histology. Diffuse large B-cell lymphoma is the prototypical aggressive NHL, where the goal of treatment is curative and combination chemotherapy with CHOP is the mainstay, plus rituximab because it is a B-cell lymphoma. Her elevated LDH marks rapidly progressing disease and is a poor prognostic factor, but does not change the initial regimen.",
+   "optionExplanations": {
+    "b": "Watchful waiting is a strategy for stage III or IV indolent NHL, where the goal of treatment is symptom management rather than cure.",
+    "c": "Radiotherapy to the primary site and adjacent nodal areas is used for localized indolent NHL, and radiation is added in aggressive disease only for localized or bulky sites.",
+    "d": "Bendamustine plus rituximab is the preferred regimen for advanced stage indolent NHL, not for aggressive diffuse large B-cell lymphoma.",
+    "e": "High dose chemotherapy with autologous stem cell transplant is reserved for relapsed or therapy-resistant disease."
+   },
+   "topic": "Non-Hodgkin Lymphoma",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "H",
+    "name": "Hematology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 703,
+    "reference": "H49 — Non-Hodgkin Lymphoma"
+   }
+  },
+  {
+   "id": "TN-H-032",
+   "type": "single-best-answer",
+   "question": "A 47-year-old man has two weeks of abdominal pain and is found to have portal vein thrombosis on CT. He has had no recent surgery, trauma, or prolonged immobility, and no malignancy is evident on history or age appropriate cancer screening. CBC shows hemoglobin 179 g/L and platelets 615 x 10^9/L. Anticoagulation is started, and a hypercoagulability workup is planned with a hematologist.",
+   "options": [
+    {
+     "id": "a",
+     "text": "JAK2 mutation testing"
+    },
+    {
+     "id": "b",
+     "text": "Antithrombin activity"
+    },
+    {
+     "id": "c",
+     "text": "Protein C and protein S activity"
+    },
+    {
+     "id": "d",
+     "text": "Lupus anticoagulant"
+    },
+    {
+     "id": "e",
+     "text": "Factor VIII level"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "A hypercoagulability workup is considered for thrombosis at an unusual venous site such as the splanchnic or portal veins, and the initial workup includes CBC and blood smear, with JAK2/CALR testing and flow cytometry for PNH considered depending on the CBC. His erythrocytosis and thrombocytosis point to a JAK2-mutated myeloproliferative neoplasm, one of the states that causes thrombosis at unusual sites, so JAK2 testing is the appropriate investigation now.",
+   "optionExplanations": {
+    "b": "Antithrombin levels are decreased by acute thrombosis, heparin, and systemic disease, so the diagnosis must be made outside the window of acute thrombosis and anticoagulation.",
+    "c": "Protein C and protein S are depleted or consumed by clot and affected by anticoagulation, so they are tested post-treatment or at least 6 wk later.",
+    "d": "Lupus anticoagulant will be affected by anticoagulation, and antiphospholipid criteria require confirmation on two occasions more than 12 wk apart.",
+    "e": "Factor VIII rises as an acute phase reactant in numerous states, so its clinical use as a thrombophilia test is controversial."
+   },
+   "topic": "Hypercoagulable Disorders",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "H",
+    "name": "Hematology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 689,
+    "reference": "H35 — Hypercoagulability Workup: Venous Thrombosis"
    }
   }
  ]

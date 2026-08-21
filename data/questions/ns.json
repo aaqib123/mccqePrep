@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 23,
+ "count": 28,
  "questions": [
   {
    "id": "TN-NS-001",
@@ -1066,6 +1066,236 @@
     "document": "Toronto Notes 2025",
     "page": 943,
     "reference": "NS11 — Spontaneous Intracranial Hypotension"
+   }
+  },
+  {
+   "id": "TN-NS-116",
+   "type": "single-best-answer",
+   "question": "A 64-year-old woman with known lung cancer and a good Karnofsky score reports two weeks of headache and mild left arm clumsiness. Contrast CT of the head shows three round, well-circumscribed, ring-enhancing lesions at the grey-white matter junction, each under 2 cm, with surrounding edema. Restaging shows her extracranial disease is stable. Which of the following is the most appropriate treatment for the intracranial lesions?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Stereotactic radiosurgery to the three lesions"
+    },
+    {
+     "id": "b",
+     "text": "Whole brain radiotherapy"
+    },
+    {
+     "id": "c",
+     "text": "Craniotomy and resection of all three lesions"
+    },
+    {
+     "id": "d",
+     "text": "Systemic cytotoxic chemotherapy alone"
+    },
+    {
+     "id": "e",
+     "text": "Observation with serial imaging"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Brain metastases are the most common intracranial tumour in adults, spread hematogenously, and 80% are hemispheric at the grey-white matter junction where emboli lodge in terminal middle cerebral artery branches. For multiple lesions the source recommends whole brain radiotherapy when there are more than 10 lesions and stereotactic radiosurgery when there are fewer than 10. With three small lesions, SRS is preferred, and emerging evidence supports avoiding WBRT in favour of focal radiation to spare cognitive function.",
+   "optionExplanations": {
+    "b": "WBRT is reserved for multiple lesions numbering more than 10; emerging evidence supports avoidance of WBRT and use of focal radiation to spare cognitive functions.",
+    "c": "Surgical resection with radiation is reserved for a single or solitary lesion, or a dominant lesion with significant mass effect or symptoms, in carefully selected patients.",
+    "d": "The role of chemotherapy is limited because of poor penetration across the blood-brain barrier.",
+    "e": "Median survival without treatment once symptomatic is about one month, so observation is not appropriate in a symptomatic patient with good performance status."
+   },
+   "topic": "Brain Metastasis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "NS",
+    "name": "Neurosurgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 947,
+    "reference": "NS15 — Metastatic Tumours"
+   }
+  },
+  {
+   "id": "TN-NS-117",
+   "type": "single-best-answer",
+   "question": "A 34-year-old man with two months of inadequately treated left otitis media and mastoiditis develops one week of worsening headache, decreasing level of consciousness and a right hemiparesis, followed by a generalized seizure. Temperature is 38.1°C and he has a leukocytosis. Contrast CT of the head shows a left temporal lesion with central low density, ring enhancement and surrounding edema. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Cerebral abscess"
+    },
+    {
+     "id": "b",
+     "text": "Subdural empyema"
+    },
+    {
+     "id": "c",
+     "text": "Cranial epidural abscess"
+    },
+    {
+     "id": "d",
+     "text": "Bacterial meningitis"
+    },
+    {
+     "id": "e",
+     "text": "Ventriculitis"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "A cerebral abscess is pus in brain substance surrounded by a tissue reaction with capsule formation, and on CT it shows central low density from pus, ring enhancement and surrounding edema. Contiguous spread from an adjacent infection such as otitis media, mastoiditis or sinusitis is one of the four routes of microbial access to the CNS, and Streptococcus is the most common pathogen. Focal neurological signs, headache with decreased level of consciousness, hemiparesis and seizures in 50% of cases, plus low-grade fever and leukocytosis, fit this presentation.",
+   "optionExplanations": {
+    "b": "Subdural empyema is a bacterial or fungal infection of the subdural space due to contiguous spread from bone or air sinus that progresses rapidly; it is not an intraparenchymal ring-enhancing mass with a capsule.",
+    "c": "Epidural abscess occupies the cranial or spinal epidural space and is associated with osteomyelitis rather than producing a lesion within the brain substance.",
+    "d": "Meningitis produces meningeal signs and fever without an intraparenchymal ring-enhancing collection.",
+    "e": "Ventriculitis is described as a complication of abscess rupture rather than the initial lesion."
+   },
+   "topic": "Cerebral Abscess",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "NS",
+    "name": "Neurosurgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 951,
+    "reference": "NS19 — Cerebral Abscess"
+   }
+  },
+  {
+   "id": "TN-NS-118",
+   "type": "single-best-answer",
+   "question": "A 41-year-old warehouse worker has six weeks of low back pain followed by leg pain that is now worse than the back pain. The pain radiates down the lateral leg to the dorsal foot and is exacerbated by Valsalva. There is weakness of hallux extension, sensory change over the dorsal foot to the hallux, and normal patellar and Achilles reflexes. Straight leg raise reproduces the pain at 40°. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "L5 root compression from a posterolateral L4-L5 disc herniation"
+    },
+    {
+     "id": "b",
+     "text": "S1 root compression from a posterolateral L5-S1 disc herniation"
+    },
+    {
+     "id": "c",
+     "text": "L4 root compression from a posterolateral L3-L4 disc herniation"
+    },
+    {
+     "id": "d",
+     "text": "Cauda equina compression from a central disc herniation"
+    },
+    {
+     "id": "e",
+     "text": "Neurogenic claudication from lumbar stenosis"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "A posterolaterally herniated disc compresses the nerve root exiting below the level of the disc, so an L4-L5 herniation compresses the L5 root. L5 involvement gives a sciatic pain pattern, sensory change over the dorsal foot to the hallux, weakness of extensor hallucis longus (hallux extension) and a medial hamstrings reflex change, with the patellar and Achilles reflexes preserved. A straight leg raise positive at less than 60° suggests L5 or S1 root involvement.",
+   "optionExplanations": {
+    "b": "S1 involvement produces sensory change over the lateral foot, weakness of gastrocnemius and soleus (plantar flexion) and a depressed Achilles reflex.",
+    "c": "L4 involvement produces a femoral rather than sciatic pain pattern, medial leg sensory change, tibialis anterior (dorsiflexion) weakness and a depressed patellar reflex, and would be suggested by a positive femoral stretch test.",
+    "d": "Central herniation may cause cauda equina compression, but this patient has a single unilateral dermatomal and myotomal deficit without bowel or bladder involvement.",
+    "e": "Neurogenic claudication is initiated by standing or walking with slow relief on postural change, not the persistent radicular pain with a positive straight leg raise described here."
+   },
+   "topic": "Lumbar Disc Syndrome",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "NS",
+    "name": "Neurosurgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 963,
+    "reference": "NS31 — Lumbar Disc Syndrome"
+   }
+  },
+  {
+   "id": "TN-NS-119",
+   "type": "single-best-answer",
+   "question": "A term newborn boy is delivered with a midline lumbosacral sac through which meningeal and neural tissue has herniated, with no skin covering the defect. He has flaccid weakness of both legs distal to the anatomic level and dribbling urinary incontinence. Head circumference is enlarged and cranial ultrasound shows ventriculomegaly. What is the most appropriate initial treatment of the back lesion?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Surgical closure of the defect"
+    },
+    {
+     "id": "b",
+     "text": "Observation only, as this anomaly requires no treatment"
+    },
+    {
+     "id": "c",
+     "text": "Ventriculoperitoneal shunt insertion with the back lesion left open"
+    },
+    {
+     "id": "d",
+     "text": "Repair deferred until the child is one year of age"
+    },
+    {
+     "id": "e",
+     "text": "Prolonged intravenous antibiotics without operative repair"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Herniation of meningeal and CNS tissue through a spinal defect with no skin covering is a myelomeningocele, a spina bifida aperta caused by primary failure of neural tube closure. It produces sensory and motor changes distal to the anatomic level, urinary and faecal incontinence, and hydrocephalus in 65-85% of patients. Treatment is surgical closure to preserve neurologic status and prevent CNS infections; operative mortality is close to 0% with 95% two-year survival.",
+   "optionExplanations": {
+    "b": "It is spina bifida occulta, with no visible exposure of meninges or neural tissue, that requires no treatment.",
+    "c": "Hydrocephalus occurs in 65-85% of these patients and may need CSF diversion, but leaving the exposed defect open does not preserve neurologic status or prevent CNS infection.",
+    "d": "Delaying repair leaves exposed neural tissue at risk of CNS infection and further neurologic loss; closure is done to preserve neurologic status.",
+    "e": "Antibiotics do not close the neural tube defect, and prevention of CNS infection here depends on surgical closure."
+   },
+   "topic": "Spinal Dysraphism",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "NS",
+    "name": "Neurosurgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 973,
+    "reference": "NS41 — Spinal Dysraphism"
+   }
+  },
+  {
+   "id": "TN-NS-120",
+   "type": "single-best-answer",
+   "question": "A 61-year-old immunocompetent man has six weeks of progressive cognitive and behavioural change with a mild right hemiparesis, and reports blurred vision with floaters. Contrast MRI shows two intensely and homogeneously enhancing periventricular lesions with minimal edema and restriction on diffusion imaging. There is no systemic malignancy on staging. What is the most appropriate next step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Stereotactic biopsy before starting corticosteroids"
+    },
+    {
+     "id": "b",
+     "text": "High-dose dexamethasone with repeat MRI in two weeks"
+    },
+    {
+     "id": "c",
+     "text": "Craniotomy and gross total resection of both lesions"
+    },
+    {
+     "id": "d",
+     "text": "Empiric high-dose methotrexate-based induction chemotherapy"
+    },
+    {
+     "id": "e",
+     "text": "Whole brain radiotherapy"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Intensely enhancing periventricular lesions with homogeneous enhancement, minimal edema and restricted diffusion from hypercellularity in an immunocompetent patient with cognitive and behavioural symptoms and ocular floaters suggest primary CNS lymphoma. The source states that confirmation is by stereotactic biopsy and histopathology, and that corticosteroids may prevent histopathological diagnosis, so they should be avoided until the biopsy is complete when clinically possible.",
+   "optionExplanations": {
+    "b": "Corticosteroids may prevent histopathological diagnosis and should be avoided until the biopsy is complete when clinically possible.",
+    "c": "Surgery is generally reserved for stereotactic biopsy in primary CNS lymphoma; resection is discouraged.",
+    "d": "Chemotherapy with the MATRix regimen is first-line treatment, but only after the diagnosis is confirmed by stereotactic biopsy and histopathology.",
+    "e": "Radiation is used for consolidation or palliation, or as second-line induction in patients ineligible for high-dose methotrexate, and does not substitute for tissue diagnosis."
+   },
+   "topic": "Primary CNS Lymphoma",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "NS",
+    "name": "Neurosurgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 948,
+    "reference": "NS16 — Primary Central Nervous System Lymphoma"
    }
   }
  ]

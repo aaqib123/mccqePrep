@@ -1,12 +1,12 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-08-20T21:01:22Z",
+ "generatedAt": "2026-08-21T20:56:04Z",
  "document": {
   "id": "toronto-notes-2025",
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "totalQuestions": 655,
+ "totalQuestions": 722,
  "chapters": [
   {
    "code": "ELOM",
@@ -42,27 +42,31 @@
    "code": "A",
    "name": "Anesthesia",
    "file": "questions/a.json",
-   "count": 14,
+   "count": 18,
    "topics": [
     "Acute Pain Management",
     "Airway Management: Definitive Airway",
     "Aspiration Risk and Rapid Sequence Induction",
     "Difficult Airway",
     "Extubation and Laryngospasm",
+    "IV Fluids and Blood Loss Replacement",
+    "Intraoperative Monitoring",
     "Intravenous Induction Agents",
     "Local Anesthetic Systemic Toxicity",
     "Malignant Hyperthermia",
     "Minimum Alveolar Concentration",
     "Neuromuscular Blocking Agents",
+    "Obstetrical Anesthesia",
     "Perioperative Cardiac Risk",
     "Post-Dural Puncture Headache",
+    "Postoperative Anesthetic Complications",
     "Preoperative Assessment and ASA Classification",
     "Preoperative Fasting Guidelines"
    ],
    "difficulty": {
-    "easy": 4,
-    "medium": 7,
-    "hard": 3
+    "easy": 5,
+    "medium": 9,
+    "hard": 4
    }
   },
   {
@@ -115,19 +119,21 @@
    "code": "CP",
    "name": "Clinical Pharmacology",
    "file": "questions/cp.json",
-   "count": 6,
+   "count": 8,
    "topics": [
+    "Absorption and Bioavailability",
     "Clinically Relevant Drug Interactions",
     "Drug Biotransformation and Toxic Metabolites",
     "Drug Interactions and CYP Metabolism",
+    "Pharmacodynamics: Agonists and Antagonists",
     "Pharmacogenetics and Drug Biotransformation",
     "Pharmacokinetics: Half-Life and Loading Doses",
     "Therapeutic Drug Monitoring"
    ],
    "difficulty": {
     "easy": 2,
-    "medium": 3,
-    "hard": 1
+    "medium": 4,
+    "hard": 2
    }
   },
   {
@@ -255,8 +261,9 @@
    "code": "FM",
    "name": "Family Medicine",
    "file": "questions/fm.json",
-   "count": 18,
+   "count": 23,
    "topics": [
+    "Alcohol Use Disorder",
     "Breast Cancer Screening",
     "Cervical Cancer Screening",
     "Colorectal Cancer Screening",
@@ -265,8 +272,12 @@
     "Dyslipidemia Management",
     "Dyslipidemia Risk Stratification",
     "Emergency Contraception",
+    "Fatigue",
+    "Headache",
     "Hypertension Management",
     "Hypertension in Pregnancy",
+    "Intimate Partner Violence",
+    "Low Back Pain",
     "Lung Cancer Screening",
     "Obesity Management",
     "Obesity Pharmacotherapy",
@@ -277,22 +288,24 @@
     "Smoking Cessation in Pregnancy"
    ],
    "difficulty": {
-    "easy": 4,
-    "medium": 9,
-    "hard": 5
+    "easy": 5,
+    "medium": 12,
+    "hard": 6
    }
   },
   {
    "code": "G",
    "name": "Gastroenterology",
    "file": "questions/g.json",
-   "count": 18,
+   "count": 23,
    "topics": [
     "Acute Diarrhea",
     "Acute Pancreatitis",
+    "Alcoholic Liver Disease",
     "Ascites and Spontaneous Bacterial Peritonitis",
     "Barrett's Esophagus",
     "Celiac Disease",
+    "Cirrhosis Complications",
     "Crohn's Disease",
     "Crohn's Disease Management",
     "Esophageal Motor Disorders",
@@ -301,16 +314,19 @@
     "Helicobacter Pylori-Induced Peptic Ulcer",
     "Hemochromatosis",
     "Hepatic Encephalopathy",
+    "Hepatitis C Virus",
     "Irritable Bowel Syndrome",
     "Malabsorption",
+    "Primary Biliary Cholangitis",
     "Ulcerative Colitis Complications",
     "Ulcerative Colitis Management",
-    "Upper Gastrointestinal Bleeding"
+    "Upper Gastrointestinal Bleeding",
+    "Wilson's Disease"
    ],
    "difficulty": {
-    "easy": 4,
-    "medium": 10,
-    "hard": 4
+    "easy": 5,
+    "medium": 13,
+    "hard": 5
    }
   },
   {
@@ -354,28 +370,31 @@
    "code": "GM",
    "name": "Geriatric Medicine",
    "file": "questions/gm.json",
-   "count": 8,
+   "count": 11,
    "topics": [
+    "Constipation",
     "Delirium",
     "Delirium Prevention",
     "Driving Competency",
+    "Elder Abuse",
     "Falls",
     "Frailty",
+    "Malnutrition and Weight Loss",
     "Polypharmacy and Prescribing Cascade",
     "Pressure Injuries",
     "Urinary Incontinence"
    ],
    "difficulty": {
-    "easy": 2,
-    "medium": 4,
-    "hard": 2
+    "easy": 3,
+    "medium": 5,
+    "hard": 3
    }
   },
   {
    "code": "GY",
    "name": "Gynecology",
    "file": "questions/gy.json",
-   "count": 18,
+   "count": 24,
    "topics": [
     "Amenorrhea",
     "Cervical Dysplasia",
@@ -385,36 +404,46 @@
     "Emergency Contraception",
     "Endometrial Carcinoma",
     "Endometriosis",
+    "Gestational Trophoblastic Disease",
+    "Infectious Vulvovaginitis",
     "Infertility",
     "Menopause",
     "Menopause Hormone Therapy",
+    "Ovarian Tumour Markers",
     "Pelvic Inflammatory Disease",
     "Pelvic Organ Prolapse",
     "Polycystic Ovarian Syndrome",
     "Premenstrual Syndrome",
+    "Prepubertal Vulvovaginitis",
+    "Sex Cord Stromal Ovarian Tumours",
+    "Termination of Pregnancy",
     "Uterine Fibroids"
    ],
    "difficulty": {
-    "easy": 4,
-    "medium": 9,
-    "hard": 5
+    "easy": 6,
+    "medium": 12,
+    "hard": 6
    }
   },
   {
    "code": "H",
    "name": "Hematology",
    "file": "questions/h.json",
-   "count": 26,
+   "count": 32,
    "topics": [
     "Acute Myeloid Leukemia",
     "Acute Promyelocytic Leukemia",
     "Anticoagulation Duration",
+    "Aplastic Anemia",
     "Autoimmune Hemolytic Anemia",
     "Chronic Lymphocytic Leukemia",
+    "Chronic Myeloid Leukemia",
     "Disseminated Intravascular Coagulation",
     "Erythrocytosis",
     "Hemophilia A",
     "Heparin-Induced Thrombocytopenia",
+    "Hodgkin Lymphoma",
+    "Hypercoagulable Disorders",
     "Immune Thrombocytopenia",
     "Iron Deficiency Treatment",
     "Iron Indices in Inflammation",
@@ -422,8 +451,10 @@
     "Macrocytic Anemia",
     "Microcytic Anemia",
     "Multiple Myeloma",
+    "Non-Hodgkin Lymphoma",
     "Red Blood Cell Transfusion",
     "Sickle Cell Disease",
+    "Tests of Hemostasis",
     "Thalassemia",
     "Thrombocytopenia",
     "Thrombotic Microangiopathy",
@@ -434,9 +465,9 @@
     "von Willebrand Disease"
    ],
    "difficulty": {
-    "easy": 6,
-    "medium": 13,
-    "hard": 7
+    "easy": 8,
+    "medium": 16,
+    "hard": 8
    }
   },
   {
@@ -484,24 +515,26 @@
    "code": "MG",
    "name": "Medical Genetics",
    "file": "questions/mg.json",
-   "count": 4,
+   "count": 6,
    "topics": [
     "Duchenne Muscular Dystrophy",
+    "Familial Cancer Syndromes",
     "Genetic Testing in Developmental Delay",
+    "Metabolic Diseases",
     "Mitochondrial Inheritance",
     "Sex Chromosome Disorders"
    ],
    "difficulty": {
     "easy": 1,
-    "medium": 2,
-    "hard": 1
+    "medium": 3,
+    "hard": 2
    }
   },
   {
    "code": "MI",
    "name": "Medical Imaging",
    "file": "questions/mi.json",
-   "count": 12,
+   "count": 15,
    "topics": [
     "Abdominal Imaging — Abdominal X-Ray",
     "Abdominal Imaging — Acute Cholecystitis",
@@ -513,40 +546,48 @@
     "Contrast Safety — Contrast-Induced Nephropathy",
     "Genitourinary Imaging — Urethral Trauma",
     "Gynecological Imaging — Ectopic Pregnancy",
+    "Musculoskeletal Imaging — Metabolic Bone Disease",
+    "Musculoskeletal Imaging — Modality Selection",
     "Neuroradiology — Acute Stroke Imaging",
-    "Neuroradiology — Carotid Artery Disease"
+    "Neuroradiology — Carotid Artery Disease",
+    "Nuclear Medicine — Thyroid"
    ],
    "difficulty": {
-    "easy": 4,
-    "medium": 6,
-    "hard": 2
+    "easy": 5,
+    "medium": 7,
+    "hard": 3
    }
   },
   {
    "code": "NP",
    "name": "Nephrology",
    "file": "questions/np.json",
-   "count": 14,
+   "count": 19,
    "topics": [
     "Acid-Base Disorders",
     "Acute Kidney Injury",
     "Assessment of Renal Function",
+    "Chronic Kidney Disease",
     "Cystic Kidney Disease",
     "Diabetes Insipidus",
     "End Stage Renal Disease and Dialysis",
     "Glomerular Disease",
     "Hyperkalemia",
+    "Hypertension and the Kidney",
     "Hyponatremia",
     "Hyponatremia Management",
+    "Hypophosphatemia",
     "Nephrotic Syndrome",
     "Postrenal Acute Kidney Injury",
+    "Renal Transplantation",
     "Renovascular Disease",
+    "Tubulointerstitial Disease",
     "Urinalysis and Proteinuria"
    ],
    "difficulty": {
-    "easy": 3,
-    "medium": 8,
-    "hard": 3
+    "easy": 4,
+    "medium": 11,
+    "hard": 4
    }
   },
   {
@@ -596,10 +637,12 @@
    "code": "NS",
    "name": "Neurosurgery",
    "file": "questions/ns.json",
-   "count": 23,
+   "count": 28,
    "topics": [
+    "Brain Metastasis",
     "Cauda Equina Syndrome",
     "Cerebellopontine Angle Lesion",
+    "Cerebral Abscess",
     "Cervical Disc Syndrome",
     "Chronic Subdural Hematoma",
     "Cortical Localization",
@@ -612,10 +655,13 @@
     "Incomplete Spinal Cord Syndromes",
     "Intracerebral Hemorrhage",
     "Investigation of Elevated ICP",
+    "Lumbar Disc Syndrome",
     "Medication Cautions in Elevated ICP",
     "Normal Pressure Hydrocephalus",
     "Pituitary Adenoma",
+    "Primary CNS Lymphoma",
     "Raised Intracranial Pressure",
+    "Spinal Dysraphism",
     "Spinal Tumours and Cord Compression",
     "Spontaneous Intracranial Hypotension",
     "Subarachnoid Hemorrhage",
@@ -623,31 +669,36 @@
     "Vascular Malformations"
    ],
    "difficulty": {
-    "easy": 5,
-    "medium": 12,
-    "hard": 6
+    "easy": 6,
+    "medium": 15,
+    "hard": 7
    }
   },
   {
    "code": "OB",
    "name": "Obstetrics",
    "file": "questions/ob.json",
-   "count": 20,
+   "count": 25,
    "topics": [
     "Antenatal Care and Pregnancy Dating",
     "Antenatal History and Obstetrical Nomenclature",
     "Antepartum Hemorrhage: Placental Abruption",
     "Antepartum Hemorrhage: Vasa Previa",
+    "Chorioamnionitis",
     "Early-Onset Group B Streptococcus Prophylaxis",
     "Fetal Malpresentation and External Cephalic Version",
     "Fetal Surveillance: Biophysical Profile",
     "Fetal Surveillance: Non-Stress Test",
     "Gestational Diabetes: Screening and Diagnosis",
     "Hypertensive Disorders of Pregnancy",
+    "Immunization in Pregnancy",
     "Intrapartum Emergencies: Shoulder Dystocia",
     "Intrapartum Fetal Monitoring",
+    "Intrauterine Growth Restriction",
+    "Multiple Gestation",
     "Nausea and Vomiting of Pregnancy",
     "Postpartum Hemorrhage",
+    "Postpartum Mastitis",
     "Prelabour Rupture of Membranes",
     "Prenatal Screening for Aneuploidy",
     "Prenatal Screening: High-Risk Population Carrier Testing",
@@ -656,9 +707,9 @@
     "Rh Isoimmunization and Prophylaxis"
    ],
    "difficulty": {
-    "easy": 5,
-    "medium": 10,
-    "hard": 5
+    "easy": 6,
+    "medium": 13,
+    "hard": 6
    }
   },
   {
@@ -853,39 +904,45 @@
    "code": "PL",
    "name": "Plastic Surgery",
    "file": "questions/pl.json",
-   "count": 17,
+   "count": 22,
    "topics": [
+    "Brachial Plexus Injury",
     "Burn Depth Assessment",
     "Burn Resuscitation",
     "Burn Size Estimation",
     "Burn Wound Care and Topical Antimicrobials",
     "Carpal Tunnel Syndrome",
     "Chronic Wounds and Marjolin's Ulcer",
+    "Cleft Lip and Palate",
     "Compartment Syndrome",
+    "Dupuytren's Disease",
     "Extensor Tendon Injuries",
     "Facial Trauma: Investigations",
     "Facial Trauma: Orbital Floor Fracture",
+    "Flaps",
     "Flexor Tendon Injuries",
     "Flexor Tenosynovitis",
     "Hand Infections",
     "Lower Limb Ulcers",
     "Metacarpal Fractures",
+    "Pressure Injuries",
     "Skin Grafts",
     "Types of Wound Healing and Closure"
    ],
    "difficulty": {
-    "easy": 4,
-    "medium": 9,
-    "hard": 4
+    "easy": 5,
+    "medium": 12,
+    "hard": 5
    }
   },
   {
    "code": "PS",
    "name": "Psychiatry",
    "file": "questions/ps.json",
-   "count": 22,
+   "count": 28,
    "topics": [
     "Alcohol Withdrawal",
+    "Antidepressant Discontinuation Syndrome",
     "Antipsychotics and Adverse Effects",
     "Bipolar Disorder",
     "Bipolar Disorder Treatment",
@@ -893,25 +950,30 @@
     "Delirium",
     "Delirium vs Dementia vs Depression",
     "Eating Disorders",
+    "Electroconvulsive Therapy",
+    "Factitious Disorder and Malingering",
     "Involuntary Admission and Canadian Legal Issues",
     "Major Depressive Disorder",
     "Management of Schizophrenia",
     "Mental Status Examination",
+    "Mood Stabilizers",
     "Obsessive-Compulsive Disorder",
     "Opioid Use Disorder",
     "Panic Disorder",
     "Personality Disorders",
     "Post-Traumatic Stress Disorder",
     "Postpartum Mood Disorders",
+    "Psychotherapy",
     "Schizophrenia",
+    "Sleep-Wake Disorders",
     "Somatic Symptom and Related Disorders",
     "Suicide Risk Assessment",
     "Suicide Risk Management"
    ],
    "difficulty": {
-    "easy": 5,
-    "medium": 11,
-    "hard": 6
+    "easy": 7,
+    "medium": 14,
+    "hard": 7
    }
   },
   {
@@ -977,25 +1039,30 @@
    "code": "RH",
    "name": "Rheumatology",
    "file": "questions/rh.json",
-   "count": 12,
+   "count": 17,
    "topics": [
     "ANCA-Associated Vasculitis (Granulomatosis with Polyangiitis)",
     "Ankylosing Spondylitis",
     "Approach to Acute Monoarthritis and Synovial Fluid Analysis",
+    "Crystal-Induced Arthropathies",
     "Fibromyalgia",
+    "Giant Cell Arteritis",
     "Gout: Chronic Management",
     "Idiopathic Inflammatory Myopathies",
     "Osteoarthritis",
+    "Psoriatic Arthritis",
+    "Reactive Arthritis",
     "Rheumatoid Arthritis",
     "Rheumatoid Arthritis Treatment",
     "Septic Arthritis",
+    "Sjogren's Syndrome",
     "Systemic Lupus Erythematosus",
     "Systemic Sclerosis and Scleroderma Renal Crisis"
    ],
    "difficulty": {
-    "easy": 3,
-    "medium": 6,
-    "hard": 3
+    "easy": 4,
+    "medium": 9,
+    "hard": 4
    }
   },
   {
@@ -1059,7 +1126,7 @@
    "chapters": null,
    "defaultCount": 40,
    "accent": "teal",
-   "poolSize": 655
+   "poolSize": 722
   },
   {
    "id": "medicine",
@@ -1080,7 +1147,7 @@
    ],
    "defaultCount": 30,
    "accent": "indigo",
-   "poolSize": 221
+   "poolSize": 245
   },
   {
    "id": "surgery",
@@ -1100,7 +1167,7 @@
    ],
    "defaultCount": 30,
    "accent": "amber",
-   "poolSize": 185
+   "poolSize": 199
   },
   {
    "id": "womens-childrens",
@@ -1114,7 +1181,7 @@
    ],
    "defaultCount": 25,
    "accent": "rose",
-   "poolSize": 85
+   "poolSize": 96
   },
   {
    "id": "primary-care",
@@ -1132,7 +1199,7 @@
    ],
    "defaultCount": 30,
    "accent": "violet",
-   "poolSize": 114
+   "poolSize": 127
   },
   {
    "id": "acute-care",
@@ -1149,7 +1216,7 @@
    ],
    "defaultCount": 25,
    "accent": "cyan",
-   "poolSize": 148
+   "poolSize": 155
   }
  ]
 }

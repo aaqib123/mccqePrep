@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 6,
+ "count": 8,
  "questions": [
   {
    "id": "TN-CP-001",
@@ -284,6 +284,98 @@
     "document": "Toronto Notes 2025",
     "page": 185,
     "reference": "CP11 — Examples of Clinically Relevant Drug Interactions"
+   }
+  },
+  {
+   "id": "TN-CP-007",
+   "type": "single-best-answer",
+   "question": "A 54-year-old woman receiving an analgesic by intravenous infusion is transitioned to the same drug given orally. To maintain comparable plasma concentrations, the oral dose prescribed must be several times larger than the intravenous dose. Absorption of the drug from the small intestine is documented to be essentially complete, and her plasma albumin is normal. Which of the following best explains the reduced bioavailability of the oral formulation?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Metabolism of the drug in the gut wall and liver before it reaches the systemic circulation"
+    },
+    {
+     "id": "b",
+     "text": "Increased binding of the drug to albumin and a1-acid glycoprotein in plasma"
+    },
+    {
+     "id": "c",
+     "text": "Reduced total surface area available for absorption across the small intestinal villi"
+    },
+    {
+     "id": "d",
+     "text": "Conversion of the drug to its non-ionized form in the acidic gastric compartment"
+    },
+    {
+     "id": "e",
+     "text": "Uptake of the drug by solute carrier (SLC) superfamily transporters in the intestinal epithelium"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Bioavailability (F) is the proportion of a dose that reaches the systemic circulation in an unchanged state; an IV dose has 100% bioavailability (F=1). The first-pass effect is metabolism (biotransformation) of the drug prior to reaching the systemic circulation, occurring in the GI tract and then in the liver via the portal vein after PO administration, and it reduces F. Because absorption here is complete, presystemic clearance by first-pass metabolism is the explanation for the larger oral dose requirement.",
+   "optionExplanations": {
+    "b": "Plasma protein binding affects the free versus bound equilibrium and distribution after the drug is in the blood; it does not determine the proportion of an oral dose reaching the systemic circulation.",
+    "c": "The small intestinal villi provide a large surface area and are the primary site of absorption for most orally-administered drugs, and absorption in this patient is stated to be complete.",
+    "d": "Non-ionized (uncharged) forms cross cell membranes more readily by passive diffusion than ionized forms, so this would favour absorption rather than reduce bioavailability.",
+    "e": "Members of the SLC superfamily generally function as uptake drug transporters, which would enhance rather than oppose drug absorption; efflux by P-glycoprotein, not SLC uptake, opposes absorption."
+   },
+   "topic": "Absorption and Bioavailability",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "CP",
+    "name": "Clinical Pharmacology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 178,
+    "reference": "CP4 — Pharmacokinetics: Bioavailability and First-Pass Effect"
+   }
+  },
+  {
+   "id": "TN-CP-008",
+   "type": "single-best-answer",
+   "question": "A 41-year-old man maintained on high-dose morphine for chronic pain is transitioned to buprenorphine. Despite stepwise escalation of the buprenorphine dose, his analgesic response plateaus well below the effect he previously obtained with morphine, and he reports no further benefit from additional increments. Measured plasma buprenorphine concentrations are above the expected range. Which property of buprenorphine at the opioid receptor best explains this ceiling in response?",
+   "options": [
+    {
+     "id": "a",
+     "text": "It is a partial agonist that elicits only a partial effect irrespective of its concentration at the receptor"
+    },
+    {
+     "id": "b",
+     "text": "It is a reversible competitive antagonist, so increasing concentrations of agonist can overcome the inhibition"
+    },
+    {
+     "id": "c",
+     "text": "It is an irreversible competitive antagonist that forms a covalent bond with the receptor and cannot be displaced"
+    },
+    {
+     "id": "d",
+     "text": "It is a non-competitive antagonist binding an alternate site distinct from the active site, producing allosteric effects"
+    },
+    {
+     "id": "e",
+     "text": "It is a full agonist with lower affinity than morphine but equal efficacy at the receptor"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Full agonists such as methadone or morphine can elicit a maximal effect at the opioid receptor, whereas buprenorphine is a partial agonist that can only elicit a partial effect irrespective of the concentration at the receptor, also known as a ceiling effect (i.e. reduced efficacy compared to full agonists). This is why escalating the dose and achieving high plasma concentrations does not reproduce the maximal response seen with morphine.",
+   "optionExplanations": {
+    "b": "A reversible competitive antagonist binds non-covalently so increasing concentrations of agonist can overcome it (e.g. naloxone versus morphine); this predicts a surmountable effect, not a plateau, and buprenorphine is producing analgesia rather than blocking it.",
+    "c": "Irreversible competitive antagonists form a covalent bond with the receptor and cannot be displaced, blocking other substrates from binding; this would abolish rather than partially produce an analgesic response.",
+    "d": "A non-competitive antagonist (negative allosteric modulator) binds an alternate site distinct from the active site and reduces the ability of the agonist to bind, as with phenoxybenzamine at adrenergic receptors; this describes antagonism, not the partial response seen here.",
+    "e": "A full agonist can elicit a maximal effect at the receptor; low affinity would be surmounted by the high concentrations already achieved, so it cannot explain a plateau below the morphine response."
+   },
+   "topic": "Pharmacodynamics: Agonists and Antagonists",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "CP",
+    "name": "Clinical Pharmacology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 182,
+    "reference": "CP8 — Effects of Drugs on Receptors"
    }
   }
  ]

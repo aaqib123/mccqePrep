@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 14,
+ "count": 18,
  "questions": [
   {
    "id": "TN-A-001",
@@ -652,6 +652,190 @@
     "document": "Toronto Notes 2025",
     "page": 79,
     "reference": "A25 — Pharmacological Management of Acute Pain"
+   }
+  },
+  {
+   "id": "TN-A-015",
+   "type": "single-best-answer",
+   "question": "A 54-year-old man is undergoing an elective open hemicolectomy under general anesthesia maintained with sevoflurane. Before induction the anesthesiologist completes the preanesthetic checklist and attaches a pulse oximeter, blood pressure monitor, ECG, and capnography. According to the Canadian guidelines to the practice of anesthesia and patient monitoring, which additional monitor must be used continuously for this case?",
+   "options": [
+    {
+     "id": "a",
+     "text": "An agent-specific anesthetic gas monitor"
+    },
+    {
+     "id": "b",
+     "text": "A Bispectral Index EEG monitor"
+    },
+    {
+     "id": "c",
+     "text": "A central venous pressure catheter"
+    },
+    {
+     "id": "d",
+     "text": "A pulmonary artery catheter"
+    },
+    {
+     "id": "e",
+     "text": "A peripheral nerve stimulator"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The routine monitors for all cases are a pulse oximeter, BP monitor, ECG, capnography, and an agent-specific anesthetic gas monitor when inhalational anesthetic agents are used. Because maintenance is with sevoflurane, the agent-specific gas monitor is required in addition to the monitors already applied. A temperature probe, peripheral nerve stimulator, stethoscope, spirometry, and a manometer to measure ETT cuff pressure must also be available, but availability is not the same as continuous routine monitoring.",
+   "optionExplanations": {
+    "b": "End-tidal inhaled anesthetic monitoring and EEG monitoring such as a Bispectral Index monitor can be used as assessments of anesthetic depth, but they are optional rather than routine monitors for all cases.",
+    "c": "Central venous pressure is one of the hemodynamic elements that may be monitored in selected patients; it is invasive and is not part of routine monitoring for all cases.",
+    "d": "Pulmonary artery pressure and pulmonary capillary wedge pressure monitoring are reserved for selected patients and are not routine monitors.",
+    "e": "A peripheral nerve stimulator must be available, along with a temperature probe and stethoscope, but it is not one of the continuous monitors required for all cases."
+   },
+   "topic": "Intraoperative Monitoring",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "A",
+    "name": "Anesthesia"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 61,
+    "reference": "A7 — Monitoring: Routine Monitors for All Cases"
+   }
+  },
+  {
+   "id": "TN-A-016",
+   "type": "single-best-answer",
+   "question": "A 62-year-old man undergoing an elective open nephrectomy has lost approximately 600 mL of blood. He is mildly tachycardic, his hemoglobin remains well above the transfusion trigger, and the surgeon expects little further bleeding. The anesthesiologist decides to maintain euvolemia with crystalloid rather than a colloid or blood product. Which is the most appropriate fluid regimen?",
+   "options": [
+    {
+     "id": "a",
+     "text": "600 mL of Ringer's lactate"
+    },
+    {
+     "id": "b",
+     "text": "600 mL of 0.9% normal saline"
+    },
+    {
+     "id": "c",
+     "text": "1800 mL of Ringer's lactate"
+    },
+    {
+     "id": "d",
+     "text": "1800 mL of 0.9% normal saline"
+    },
+    {
+     "id": "e",
+     "text": "1800 mL of 5% dextrose in water"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "To maintain euvolemia in a patient with blood loss, 3 mL of crystalloid is infused per 1 mL of blood loss (3:1 replacement), so 600 mL of blood loss calls for roughly 1800 mL. Consensus guidelines recommend a balanced crystalloid such as Ringer's lactate over normal saline for routine replacement and resuscitation, because too much NS may lead to hyperchloremic metabolic acidosis.",
+   "optionExplanations": {
+    "a": "A 1:1 infusion-to-blood-loss ratio applies to colloid, which distributes within the intravascular volume; crystalloid distributes throughout the ECF and requires 3:1 replacement.",
+    "b": "This choice is wrong on both counts: 1:1 replacement applies to colloid, and a balanced crystalloid is preferred over normal saline.",
+    "d": "The volume is correct, but if large volumes are to be given, balanced fluids such as Ringer's lactate or Plasmalyte are preferred, as too much NS may lead to hyperchloremic metabolic acidosis.",
+    "e": "D5W contains no sodium, and it is the salt-containing crystalloids that distribute within and expand the ECF; it is not used to replace surgical blood loss."
+   },
+   "topic": "IV Fluids and Blood Loss Replacement",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "A",
+    "name": "Anesthesia"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 69,
+    "reference": "A15 — IV Fluids: Crystalloid Infusion"
+   }
+  },
+  {
+   "id": "TN-A-017",
+   "type": "single-best-answer",
+   "question": "A 29-year-old woman is in the post-anesthetic care unit 30 minutes after an elective laparoscopic cholecystectomy under general anesthesia. She is a non-smoker with a history of motion sickness and received perioperative opioids. She now feels nauseated and vomits once. She is alert with a patent airway and rates her pain as 2 out of 10. Which is the most appropriate next step in her assessment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Measure her blood pressure and heart rate"
+    },
+    {
+     "id": "b",
+     "text": "Check a capillary blood glucose"
+    },
+    {
+     "id": "c",
+     "text": "Measure her serum sodium"
+    },
+    {
+     "id": "d",
+     "text": "Assess for residual paralysis from the anesthetic"
+    },
+    {
+     "id": "e",
+     "text": "Obtain a 12-lead ECG"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Nausea and vomiting is a common postoperative anesthetic complication, and hypotension and bradycardia must be ruled out before the symptoms are attributed to the anesthetic, or to pain and surgical manipulation. Her young age, female sex, non-smoking status, history of motion sickness, and use of perioperative opioids are all recognized risk factors for PONV. Once a hemodynamic cause is excluded, treatment is with an antiemetic such as dimenhydrinate or ondansetron.",
+   "optionExplanations": {
+    "b": "Hypoglycemia is a metabolic disturbance considered in the workup of postoperative confusion and agitation, not the first thing to exclude in postoperative nausea and vomiting.",
+    "c": "Hyponatremia, especially post-TURP, is likewise part of the assessment of postoperative confusion and agitation rather than of isolated nausea and vomiting.",
+    "d": "Residual paralysis from the anesthetic is looked for when assessing postoperative confusion, agitation, or inadequate ventilation; she is alert with a patent airway.",
+    "e": "Hypotension and bradycardia are detected with routine vital signs; nothing in her presentation points to an arrhythmia requiring a 12-lead ECG first."
+   },
+   "topic": "Postoperative Anesthetic Complications",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "A",
+    "name": "Anesthesia"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 78,
+    "reference": "A24 — Postoperative Care: Common Postoperative Anesthetic Complications"
+   }
+  },
+  {
+   "id": "TN-A-018",
+   "type": "single-best-answer",
+   "question": "A 32-year-old woman at 38 weeks gestation is positioned supine on the operating table before an elective caesarean section. Within two minutes she becomes pale, lightheaded, and nauseated, and her blood pressure falls from 118/70 to 82/44 mmHg. The fetal heart rate tracing shows a deceleration. Which is the most appropriate next step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Place a wedge under her right flank to produce approximately 15 degrees of left uterine displacement"
+    },
+    {
+     "id": "b",
+     "text": "Place a wedge under her left flank to tilt her toward the right"
+    },
+    {
+     "id": "c",
+     "text": "Place her in steep Trendelenburg"
+    },
+    {
+     "id": "d",
+     "text": "Place her in reverse Trendelenburg"
+    },
+    {
+     "id": "e",
+     "text": "Sit her fully upright"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "A pregnant patient is prone to decreased BP due to aortocaval compression, the supine hypotensive syndrome, which is compounded by the physiologic decrease in SVR of pregnancy. The corrective manoeuvre is to position her in left uterine displacement of approximately 15 degrees using a wedge under the right flank when supine, which relieves the compression and restores venous return.",
+   "optionExplanations": {
+    "b": "A wedge under the left flank tilts her to the right and worsens aortocaval compression; the gravid uterus must be displaced to the left.",
+    "c": "Trendelenburg does not displace the uterus off the great vessels, and head-down positioning further limits respiratory excursion in a patient who already has a decreased FRC and increased O2 consumption.",
+    "d": "Reverse Trendelenburg does not relieve aortocaval compression and may further reduce venous return and blood pressure.",
+    "e": "Sitting upright leaves the gravid uterus compressing the great vessels and does not correct the supine hypotensive syndrome."
+   },
+   "topic": "Obstetrical Anesthesia",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "A",
+    "name": "Anesthesia"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 81,
+    "reference": "A27 — Obstetrical Anesthesia: Anesthesia Considerations in Pregnancy"
    }
   }
  ]

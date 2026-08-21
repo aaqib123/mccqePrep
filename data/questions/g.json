@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 18,
+ "count": 23,
  "questions": [
   {
    "id": "TN-G-001",
@@ -836,6 +836,236 @@
     "document": "Toronto Notes 2025",
     "page": 472,
     "reference": "G38 — Hemochromatosis (Clinical Features, Investigations)"
+   }
+  },
+  {
+   "id": "TN-G-019",
+   "type": "single-best-answer",
+   "question": "A 44-year-old man with a long history of injection drug use is seen for 4 months of fatigue, malaise, and nausea. He also had a blood transfusion in 1989. He is not jaundiced and the abdomen is soft. ALT is 96 U/L and AST is 74 U/L, and serum anti-HCV is positive. Which investigation best establishes the diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Repeat serum anti-HCV in 6 mo"
+    },
+    {
+     "id": "b",
+     "text": "Transient elastography (FibroScan)"
+    },
+    {
+     "id": "c",
+     "text": "Detection of HCV-RNA in serum"
+    },
+    {
+     "id": "d",
+     "text": "Liver biopsy"
+    },
+    {
+     "id": "e",
+     "text": "HCV genotype testing"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "Hepatitis C is suspected on the basis of elevated ALT/AST and positive serum anti-HCV, but the diagnosis is established by detectable HCV-RNA in serum. Injection drug use is the major risk factor, and blood transfusion received before 1992 is another recognized risk factor. Normal hepatocellular enzymes would not rule out active disease or advanced fibrosis, so enzymes and antibody together cannot settle the question.",
+   "optionExplanations": {
+    "a": "Anti-HCV only raises the suspicion of infection; repeating it does not distinguish spontaneously cleared infection, which occurs in almost 30% of acute cases, from ongoing infection.",
+    "b": "Transient elastography, like abdominal ultrasound, is used to assess staging of disease and the degree of fibrosis, not to confirm that the virus is present.",
+    "d": "Biopsy is not needed to make the diagnosis, which rests on detectable virus in serum.",
+    "e": "Genotype (genotype 1 is the most common in North America) may influence therapy but does not establish that infection is active."
+   },
+   "topic": "Hepatitis C Virus",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "G",
+    "name": "Gastroenterology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 468,
+    "reference": "G34 — Hepatitis C Virus (Diagnosis)"
+   }
+  },
+  {
+   "id": "TN-G-020",
+   "type": "single-best-answer",
+   "question": "A 23-year-old man is referred for persistently increased liver enzymes. Over the past year he has developed dysarthria, incoordination, and a wing flapping tremor, and his family describes psychosis-like behaviour and marked mood change. Slit-lamp examination shows Kayser-Fleischer rings. There is no history of alcohol use and viral serology is negative. Which of the following is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Hereditary hemochromatosis"
+    },
+    {
+     "id": "b",
+     "text": "Chronic viral hepatitis"
+    },
+    {
+     "id": "c",
+     "text": "Alcohol-related liver disease"
+    },
+    {
+     "id": "d",
+     "text": "Wilson's disease"
+    },
+    {
+     "id": "e",
+     "text": "Non-alcoholic fatty liver disease"
+    }
+   ],
+   "correctAnswer": "d",
+   "explanation": "Wilson's disease is an autosomal recessive defect in copper elimination (gene ATP7B) and should be suspected when increased liver enzymes occur with clinical manifestations at a young age (<40), especially liver disease combined with dystonia and/or psychiatric symptoms. Kayser-Fleischer rings are copper deposits in Descemet's membrane and are more common in patients with CNS involvement. Basal ganglia involvement gives the wing-flapping tremor and parkinsonism, and cerebellar involvement gives dysarthria and incoordination.",
+   "optionExplanations": {
+    "a": "Hereditary hemochromatosis is excessive iron storage, usually related to HFE mutations and most common in people of Northern European descent; it does not cause Kayser-Fleischer rings or basal ganglia signs.",
+    "b": "Viral hepatitis is listed as a cause of secondary iron overload and raises transaminases, but serology is negative and it does not produce corneal copper deposits.",
+    "c": "Alcohol is a recognized cause of liver injury and secondary iron overload, but this patient does not drink and alcohol does not deposit copper in Descemet's membrane.",
+    "e": "NAFLD is another liver disease that can be associated with secondary iron overload, but it does not explain the neurologic and psychiatric picture in a 23-year-old."
+   },
+   "topic": "Wilson's Disease",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "G",
+    "name": "Gastroenterology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 471,
+    "reference": "G37 — Wilson's Disease (Clinical Features, Investigations)"
+   }
+  },
+  {
+   "id": "TN-G-021",
+   "type": "single-best-answer",
+   "question": "A 49-year-old man who has drunk six standard drinks daily for 15 yr presents with 3 wk of jaundice, low-grade fever, and RUQ discomfort. WBC count is increased with neutrophilia and MCV is increased. AST is 240 U/L, ALT is 95 U/L, GGT is increased, and bilirubin and INR are elevated. Maddrey's discriminant function is 38. He has stopped drinking. Which drug therapy is most appropriate?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Pentoxifylline"
+    },
+    {
+     "id": "b",
+     "text": "Prednisone"
+    },
+    {
+     "id": "c",
+     "text": "Naltrexone"
+    },
+    {
+     "id": "d",
+     "text": "Acamprosate"
+    },
+    {
+     "id": "e",
+     "text": "Thiamine and multivitamin supplements alone"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "AST:ALT >2:1 with both usually <300, increased MCV, increased WBC (neutrophils), and increased GGT fit acute alcoholic hepatitis. Prednisone is given for severe alcoholic hepatitis based on Maddrey's discriminant function ≥32 or MELD ≥21. Bilirubin response at day 7 of corticosteroids (Lille model) then guides whether to continue the full course.",
+   "optionExplanations": {
+    "a": "Pentoxifylline is less used since the most definitive trial did not demonstrate efficacy.",
+    "c": "Naltrexone supports alcohol cessation but does not treat the severe hepatitis itself.",
+    "d": "Acamprosate, like Alcoholics Anonymous or similar programs, addresses continued drinking rather than the current severe episode.",
+    "e": "Multivitamin supplements, especially thiamine, are part of care for every patient with alcohol-related liver disease but are not the specific treatment indicated by a Maddrey score of 38."
+   },
+   "topic": "Alcoholic Liver Disease",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "G",
+    "name": "Gastroenterology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 473,
+    "reference": "G39 — Alcoholic Liver Disease (Investigations, Treatment, Prognosis)"
+   }
+  },
+  {
+   "id": "TN-G-022",
+   "type": "single-best-answer",
+   "question": "A 55-year-old woman with cirrhosis is admitted after her diuretic dose was doubled. Over 12 d her creatinine has risen from 96 to 205 µmol/L. Urine sodium is very low and the urine sediment is bland. Diuretics are stopped and she is given IV volume expanders, but creatinine keeps climbing. Ultrasound shows no obstruction and there is no GI bleed or sepsis. Which is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Pre-renal failure due to overdiuresis"
+    },
+    {
+     "id": "b",
+     "text": "Acute tubular necrosis"
+    },
+    {
+     "id": "c",
+     "text": "HRS-CKD"
+    },
+    {
+     "id": "d",
+     "text": "Post-renal obstructive failure"
+    },
+    {
+     "id": "e",
+     "text": "HRS-AKI"
+    }
+   ],
+   "correctAnswer": "e",
+   "explanation": "Renal failure in cirrhosis is classified as pre-renal (usually due to overdiuresis), acute tubular necrosis, or hepatorenal syndrome. HRS-AKI is sudden and acute renal failure with rapid doubling of creatinine over 2 wk, and it occurs especially after overdiuresis or dehydration, GI bleed, or sepsis. Hepatorenal syndrome and pre-renal failure are difficult to differentiate, but urine sodium is very low in hepatorenal and giving volume expanders improves pre-renal failure and not HRS.",
+   "optionExplanations": {
+    "a": "Pre-renal failure from overdiuresis would improve with the IV fluid challenge, and its urine sodium is low rather than very low.",
+    "b": "Acute tubular necrosis is in the classification of renal failure in cirrhosis, but the very low urine sodium and bland sediment point away from it.",
+    "c": "HRS-CKD is a gradual increase in creatinine with worsening liver function, with creatinine doubling over years rather than in under 2 wk.",
+    "d": "Obstruction is not among the classifications given for renal failure in cirrhosis and is excluded by the ultrasound."
+   },
+   "topic": "Cirrhosis Complications",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "G",
+    "name": "Gastroenterology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 475,
+    "reference": "G41 — Cirrhosis (Complications: Renal Failure in Cirrhosis)"
+   }
+  },
+  {
+   "id": "TN-G-023",
+   "type": "single-best-answer",
+   "question": "A 54-year-old woman reports 8 mo of pruritus and fatigue. She has excoriations and xanthelasma. ALP and GGT are increased with normal bilirubin, IgM is elevated, and serum cholesterol is increased. Anti-mitochondrial antibodies are positive. MRCP shows a normal bile duct with no narrowing. Which of the following is the first-line treatment for her underlying disease?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Cholestyramine"
+    },
+    {
+     "id": "b",
+     "text": "Obeticholic acid"
+    },
+    {
+     "id": "c",
+     "text": "Ursodeoxycholic acid"
+    },
+    {
+     "id": "d",
+     "text": "Calcium and vitamin D"
+    },
+    {
+     "id": "e",
+     "text": "Bisphosphonate therapy"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "Elevated ALP for more than 6 mo with positive AMA is sufficient to diagnose primary biliary cholangitis, and a normal bile duct on MRCP rules out large or medium duct disease as the cause of the elevated ALP. Ursodeoxycholic acid is the first line treatment, and normalization or near-normalization of ALP in response to UDCA is associated with improved survival.",
+   "optionExplanations": {
+    "b": "Obeticholic acid is used if there is an inadequate response to ursodiol, not as initial therapy.",
+    "a": "Cholestyramine relieves pruritus and hypercholesterolemia but does not treat the underlying disease.",
+    "d": "Calcium and vitamin D are given for low bone density, reflecting the high incidence of osteoporosis in this disease.",
+    "e": "Bisphosphonates are considered if osteoporosis is present rather than to treat the cholestatic liver disease."
+   },
+   "topic": "Primary Biliary Cholangitis",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "G",
+    "name": "Gastroenterology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 481,
+    "reference": "G47 — Primary Biliary Cholangitis (Investigations, Treatment)"
    }
   }
  ]

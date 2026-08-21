@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 14,
+ "count": 19,
  "questions": [
   {
    "id": "TN-NP-001",
@@ -652,6 +652,236 @@
     "document": "Toronto Notes 2025",
     "page": 861,
     "reference": "NP41 — Indications for Dialysis"
+   }
+  },
+  {
+   "id": "TN-NP-015",
+   "type": "single-best-answer",
+   "question": "A 68-year-old woman with chronic kidney disease attends for review. Her eGFR has been 38 mL/min/1.73 m2 on two occasions 6 months apart, and her urine ACR is 45 mg/mmol. She takes an ACEI and a statin, has stopped tobacco products, and maintains a protein intake of 0.8 g/kg body weight/d. Which KDIGO GFR category best fits her kidney disease?",
+   "options": [
+    {
+     "id": "a",
+     "text": "G2, mildly decreased (60-89 mL/min/1.73 m2)"
+    },
+    {
+     "id": "b",
+     "text": "G3a, mildly to moderately decreased (45-59 mL/min/1.73 m2)"
+    },
+    {
+     "id": "c",
+     "text": "G3b, moderately to severely decreased (30-44 mL/min/1.73 m2)"
+    },
+    {
+     "id": "d",
+     "text": "G4, severely decreased (15-29 mL/min/1.73 m2)"
+    },
+    {
+     "id": "e",
+     "text": "G5, kidney failure (<15 mL/min/1.73 m2)"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "The KDIGO 2024 table of stages of CKD in Toronto Notes classifies kidney disease by cause, GFR, and amount of albuminuria. GFR category G3a is 45-59 and G3b is 30-44 mL/min/1.73 m2, so an eGFR of 38 is G3b, moderately to severely decreased. Her ACR of 45 mg/mmol is also albuminuria category A3, severely increased.",
+   "optionExplanations": {
+    "a": "G2 is mildly decreased GFR of 60-89 mL/min/1.73 m2, well above her measured eGFR.",
+    "b": "G3a spans 45-59 mL/min/1.73 m2; an eGFR of 38 falls below this band.",
+    "d": "G4 is severely decreased GFR of 15-29 mL/min/1.73 m2, lower than her eGFR.",
+    "e": "G5 denotes kidney failure with GFR <15 mL/min/1.73 m2, with D added for patients requiring dialysis."
+   },
+   "topic": "Chronic Kidney Disease",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "NP",
+    "name": "Nephrology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 857,
+    "reference": "NP37 — Stages of CKD (KDIGO, 2024)"
+   }
+  },
+  {
+   "id": "TN-NP-016",
+   "type": "single-best-answer",
+   "question": "A 52-year-old man with alcoholism is admitted after weeks of inadequate intake. One day after refeeding is started he develops severe muscle weakness, respiratory depression, and irritability. Serum phosphate is 0.24 mmol/L, serum calcium is normal, and he has no diarrhea. Which of the following is the best initial treatment for his hypophosphatemia?",
+   "options": [
+    {
+     "id": "a",
+     "text": "IV phosphate"
+    },
+    {
+     "id": "b",
+     "text": "PO phosphate 2-4 g/d divided BID-QID"
+    },
+    {
+     "id": "c",
+     "text": "A phosphate rich diet alone"
+    },
+    {
+     "id": "d",
+     "text": "Calcium carbonate as a phosphate binder"
+    },
+    {
+     "id": "e",
+     "text": "Hemodialysis"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes advises initiating therapy when serum phosphate is <0.64 mmol/L, using PO therapy if the patient is asymptomatic or is symptomatic with phosphate >0.32 mmol/L, and IV therapy if symptomatic and phosphate <0.32 mmol/L. This man is severely symptomatic with muscle weakness and respiratory depression at 0.24 mmol/L, so IV phosphate is appropriate. Starvation refeeding, stimulated by insulin, drives a shift of phosphate into the intracellular fluid.",
+   "optionExplanations": {
+    "b": "PO phosphate is reserved for patients who are asymptomatic, or symptomatic with a phosphate above 0.32 mmol/L.",
+    "c": "A phosphate rich diet is encouraged alongside supplementation but will not correct severe symptomatic depletion on its own.",
+    "d": "Phosphate binders lower serum phosphate and are used in hyperphosphatemia; their chronic use is itself a cause of hypophosphatemia.",
+    "e": "Hemodialysis is a treatment for symptomatic acute hyperphosphatemia, not for phosphate depletion."
+   },
+   "topic": "Hypophosphatemia",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "NP",
+    "name": "Nephrology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 836,
+    "reference": "NP16 — Hypophosphatemia"
+   }
+  },
+  {
+   "id": "TN-NP-017",
+   "type": "single-best-answer",
+   "question": "A 61-year-old woman has taken NSAIDs daily for years. Over 3 years her renal failure has been slowly progressive. Serum potassium is 5.9 mmol/L, out of proportion to her degree of renal insufficiency, and there is a non-AG metabolic acidosis. She describes polyuria and nocturia. Urine shows mild proteinuria with few RBCs and WBCs and no RBC casts. U/S shows shrunken kidneys with irregular contours. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Chronic tubulointerstitial nephritis"
+    },
+    {
+     "id": "b",
+     "text": "Acute interstitial nephritis"
+    },
+    {
+     "id": "c",
+     "text": "Acute tubular necrosis"
+    },
+    {
+     "id": "d",
+     "text": "Rapidly progressive glomerulonephritis"
+    },
+    {
+     "id": "e",
+     "text": "Obstructive uropathy with hydronephrosis"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Chronic tubulointerstitial nephritis is characterized by slowly progressive renal failure, moderate proteinuria, and signs of abnormal tubule function. Toronto Notes lists its findings as non-AG metabolic acidosis, hyperkalemia out of proportion to the degree of renal insufficiency, polyuria and nocturia, mild proteinuria with few RBCs and WBCs and no RBC casts, and U/S showing shrunken kidneys with irregular contours, which differentiates acute from chronic etiology. Analgesics such as NSAIDs are a common exogenous nephrotoxin.",
+   "optionExplanations": {
+    "b": "An acute process would not produce shrunken kidneys with irregular contours; U/S findings are what differentiate acute from chronic etiology.",
+    "c": "Acute tubular necrosis is an abrupt and sustained decline in GFR within minutes to days of an ischemic or nephrotoxic insult, not a 3 year decline.",
+    "d": "Rapidly progressive glomerulonephritis would give RBC casts and heavier proteinuria over weeks, not a bland sediment with progressive tubule dysfunction.",
+    "e": "Urinary tract obstruction is the most important cause of chronic tubulointerstitial nephritis, but the U/S here shows shrunken kidneys rather than obstruction."
+   },
+   "topic": "Tubulointerstitial Disease",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "NP",
+    "name": "Nephrology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 849,
+    "reference": "NP29 — Chronic Tubulointerstitial Nephritis"
+   }
+  },
+  {
+   "id": "TN-NP-018",
+   "type": "single-best-answer",
+   "question": "A 46-year-old man presents with an acute elevation in blood pressure to 232/128 mmHg, headache, and confusion in keeping with hypertensive encephalopathy. There is papilledema and AKI. Urinalysis shows proteinuria and hematuria with RBC casts. Which of the following blood pressure targets is most appropriate for his malignant nephrosclerosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Lower diastolic BP to 100-110 mmHg within 6-24 h"
+    },
+    {
+     "id": "b",
+     "text": "Lower diastolic BP to below 80 mmHg within 1 h"
+    },
+    {
+     "id": "c",
+     "text": "Lower systolic BP to below 120 mmHg within 2 h"
+    },
+    {
+     "id": "d",
+     "text": "Aim for a target of <120/80 mmHg with frequent follow-up over the coming weeks"
+    },
+    {
+     "id": "e",
+     "text": "Withhold antihypertensive therapy and repeat the blood pressure in 24 h"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes contrasts chronic and malignant nephrosclerosis. Malignant nephrosclerosis features an acute elevation in BP (dBP >=120 mmHg), HTN encephalopathy, and acute end organ damage such as papilledema, stroke, ACS, and AKI, with proteinuria and hematuria (RBC casts) on urinalysis. Therapy is to lower dBP to 100-110 mmHg within 6-24 h, because more aggressive treatment can cause an ischemic event.",
+   "optionExplanations": {
+    "b": "Dropping diastolic BP this far and this fast is the more aggressive treatment that can cause an ischemic event.",
+    "c": "An abrupt systolic reduction of this magnitude risks ischemia; the stated target in malignant nephrosclerosis is a diastolic one over 6-24 h.",
+    "d": "A target of <120/80 mmHg with frequent follow-up is the therapy described for chronic nephrosclerosis, not for an acute malignant presentation.",
+    "e": "Withholding therapy leaves acute end organ damage untreated and worsens survival once renal insufficiency develops."
+   },
+   "topic": "Hypertension and the Kidney",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "NP",
+    "name": "Nephrology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 858,
+    "reference": "NP38 — Hypertensive Nephrosclerosis"
+   }
+  },
+  {
+   "id": "TN-NP-019",
+   "type": "single-best-answer",
+   "question": "A 42-year-old man had a deceased donor kidney transplant 14 months ago. Following an episode of acute rejection his immunosuppression was intensified on top of the usual cocktail of corticosteroids, calcineurin inhibitor, and anti-metabolite. There is now a gradual rise in Cr with no fever, graft site tenderness, hematuria, or oliguria, and tacrolimus levels are within range. Which of the following is the most likely cause of graft dysfunction?",
+   "options": [
+    {
+     "id": "a",
+     "text": "BK virus (polyoma virus) nephropathy"
+    },
+    {
+     "id": "b",
+     "text": "Acute cellular rejection"
+    },
+    {
+     "id": "c",
+     "text": "Tacrolimus nephropathy"
+    },
+    {
+     "id": "d",
+     "text": "De novo membranous GN"
+    },
+    {
+     "id": "e",
+     "text": "CMV disease"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes lists BK virus (polyoma virus) nephropathy as a complication of renal transplantation that can result from over-immunosuppression and lead to graft loss. Acute rejection is described as a rise in Cr with fever, hematuria, graft site tenderness, and oliguria, although symptoms are very uncommon. Intensified immunosuppression with a quiet graft and in-range calcineurin inhibitor levels points to BK virus nephropathy rather than rejection or tacrolimus nephropathy.",
+   "optionExplanations": {
+    "b": "Acute rejection is accompanied by a rise in Cr with fever, hematuria, graft site tenderness, and oliguria, none of which he has.",
+    "c": "Cyclosporine or tacrolimus nephropathy is a recognised cause of graft dysfunction, but his levels are monitored and within range.",
+    "d": "De novo GN including membranous, IgA, and MPGN occurs after transplantation but would be expected to produce proteinuria rather than an isolated rise in Cr.",
+    "e": "CMV and other opportunistic infections usually occur between 1 and 6 mo post-transplant, earlier than this presentation."
+   },
+   "topic": "Renal Transplantation",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "NP",
+    "name": "Nephrology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 862,
+    "reference": "NP42 — Renal Transplantation"
    }
   }
  ]

@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 20,
+ "count": 25,
  "questions": [
   {
    "id": "TN-OB-001",
@@ -928,6 +928,236 @@
     "document": "Toronto Notes 2025",
     "page": 1032,
     "reference": "OB46 — Postpartum Hemorrhage: Etiology (4 Ts)"
+   }
+  },
+  {
+   "id": "TN-OB-021",
+   "type": "single-best-answer",
+   "question": "A 30-year-old G2P1 at 30 weeks gestation is reviewed in the antenatal clinic. Prenatal serology shows she is rubella non-immune. She feels well, has had no rash or fever, and has already received her influenza vaccine and Tdap this pregnancy. She asks to be immunized against rubella now so that this and future pregnancies are protected. What is the most appropriate next step regarding rubella immunization?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Administer the measles/mumps/rubella vaccine at this visit"
+    },
+    {
+     "id": "b",
+     "text": "Administer the measles/mumps/rubella vaccine in the postpartum period"
+    },
+    {
+     "id": "c",
+     "text": "Administer immunoglobulin now and give the measles/mumps/rubella vaccine at 36 weeks gestation"
+    },
+    {
+     "id": "d",
+     "text": "Repeat rubella serology at 36 weeks and vaccinate antenatally if she remains non-immune"
+    },
+    {
+     "id": "e",
+     "text": "Defer any vaccination until 1 month after delivery and advise contraception during that interval"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Live vaccines, including measles/mumps/rubella, are avoided during pregnancy because of the risk of placental and fetal infection. Toronto Notes recommends the rubella vaccine postpartum for all non-immune patients, with pregnancy deferred for at least 1 month following vaccination. Influenza vaccine and Tdap are safe antenatally and she has already received both.",
+   "optionExplanations": {
+    "a": "Measles/mumps/rubella is a live attenuated vaccine and is avoided in pregnancy because of the risk of placental and fetal infection.",
+    "c": "Immunoglobulin has no role here, and giving a live vaccine at 36 weeks is still antenatal administration; in fact receipt of immunoglobulin or blood products is a reason to delay postpartum vaccination.",
+    "d": "Repeating serology does not change the rule that live vaccines are avoided during pregnancy; non-immune status has already been established.",
+    "e": "The 1 month deferral applies to becoming pregnant after vaccination, not to delaying the vaccine itself; any vaccine required is generally safe postpartum and should be given before discharge."
+   },
+   "topic": "Immunization in Pregnancy",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "OB",
+    "name": "Obstetrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 999,
+    "reference": "OB13 — Immunizations: Intrapartum and Postpartum"
+   }
+  },
+  {
+   "id": "TN-OB-022",
+   "type": "single-best-answer",
+   "question": "A 32-year-old G1 with chronic hypertension is seen at 34 weeks gestation. Growth was normal at her 20-week anatomy scan. Ultrasound now shows an estimated fetal weight below the 10th percentile. The fetal abdomen is disproportionately smaller than the fetal head, and the head circumference to abdominal circumference ratio is increased. There are no structural anomalies and TORCH serology is negative. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Symmetric (type I) intrauterine growth restriction secondary to a TORCH infection"
+    },
+    {
+     "id": "b",
+     "text": "Symmetric (type I) intrauterine growth restriction secondary to a chromosomal abnormality"
+    },
+    {
+     "id": "c",
+     "text": "Symmetric (type I) intrauterine growth restriction secondary to maternal malnutrition"
+    },
+    {
+     "id": "d",
+     "text": "Asymmetric (type II) intrauterine growth restriction secondary to placental insufficiency"
+    },
+    {
+     "id": "e",
+     "text": "Intrauterine fetal demise"
+    }
+   ],
+   "correctAnswer": "d",
+   "explanation": "Asymmetric/type II IUGR accounts for about 70% of cases and occurs late in pregnancy: the fetal abdomen is disproportionately smaller than the fetal head because the brain is spared, so the HC/AC ratio is increased. It is usually associated with placental insufficiency, and chronic HTN is a listed maternal risk factor. Prognosis is more favourable than type I.",
+   "optionExplanations": {
+    "a": "Symmetric/type I IUGR occurs early in pregnancy with reduced growth of both head and abdomen; TORCH serology is negative and growth was normal at 20 weeks.",
+    "b": "Congenital anomalies and chromosomal abnormalities cause the early, symmetric pattern with proportionate head and abdominal growth, not the asymmetric pattern described.",
+    "c": "Maternal malnutrition is a recognized risk factor for IUGR, but the disproportionate abdominal lag with brain sparing points to placental insufficiency rather than a symmetric type I pattern.",
+    "e": "Intrauterine fetal demise requires absent cardiac activity and fetal movement on ultrasound; growth restriction alone does not establish it."
+   },
+   "topic": "Intrauterine Growth Restriction",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "OB",
+    "name": "Obstetrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1006,
+    "reference": "OB20 — Intrauterine Growth Restriction: Clinical Features"
+   }
+  },
+  {
+   "id": "TN-OB-023",
+   "type": "single-best-answer",
+   "question": "A 31-year-old G1 at 33 weeks gestation has a twin pregnancy. Ultrasound at 10 weeks gestation determined chorionicity as monochorionic monoamniotic. Serial scans every 2 weeks since 16 weeks show concordant growth with a discrepancy under 25%, both twins are cephalic, and biophysical profiles are reassuring. She wants to know how her twins should be delivered. What is the most appropriate plan for mode of delivery?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Planned caesarean delivery"
+    },
+    {
+     "id": "b",
+     "text": "Attempt vaginal delivery because twin A presents as vertex"
+    },
+    {
+     "id": "c",
+     "text": "Attempt vaginal delivery because the growth discrepancy is less than 25%"
+    },
+    {
+     "id": "d",
+     "text": "Attempt vaginal delivery of twin A, with caesarean delivery of twin B"
+    },
+    {
+     "id": "e",
+     "text": "Attempt vaginal delivery with external cephalic version of twin B if it changes presentation"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states that all monochorionic monoamniotic twins need to be delivered by caesarean delivery, largely because of the risk of twin interlocking and cord entanglement in MCMA twins. The option of attempting vaginal delivery when twin A is vertex with a growth discrepancy under 25% applies to dichorionic diamniotic or monochorionic diamniotic pregnancies, not monoamniotic ones.",
+   "optionExplanations": {
+    "b": "A vertex presenting twin A permits a trial of vaginal delivery only in dichorionic diamniotic or monochorionic diamniotic pregnancies; monoamniotic twins are excluded.",
+    "c": "A growth discrepancy under 25% is one criterion for attempting vaginal delivery in diamniotic twins, but it does not override the requirement for caesarean delivery in monoamniotic twins.",
+    "d": "Combined vaginal then caesarean delivery describes an unplanned outcome in roughly 10% of twin deliveries, not a planned approach for monoamniotic twins.",
+    "e": "Mode of delivery in twins depends on chorionicity, fetal weights, gestational age and presentation; planned caesarean is required here regardless of presentation changes."
+   },
+   "topic": "Multiple Gestation",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "OB",
+    "name": "Obstetrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1009,
+    "reference": "OB23 — Multi-Fetal Gestation and Fetal Malpresentation: Management"
+   }
+  },
+  {
+   "id": "TN-OB-024",
+   "type": "single-best-answer",
+   "question": "A 26-year-old G1 at 39 weeks gestation has been in labour for 18 hours after rupture of membranes 26 hours earlier, with multiple vaginal exams. Her temperature is 39.0°C and she is tachycardic. The uterus is tender and the cervical discharge is foul and purulent. The cervix is 7 cm dilated with the head at 0 station. The fetal heart rate baseline is 180 bpm. What is the next best step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Immediate caesarean delivery"
+    },
+    {
+     "id": "b",
+     "text": "IV ampicillin and gentamicin with clindamycin for anaerobic coverage, allowing labour to progress"
+    },
+    {
+     "id": "c",
+     "text": "Antipyretics alone while awaiting spontaneous delivery"
+    },
+    {
+     "id": "d",
+     "text": "Withhold antibiotics until the amniotic fluid Gram stain and culture results return"
+    },
+    {
+     "id": "e",
+     "text": "Clindamycin given postpartum only, and only if caesarean delivery becomes necessary"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Maternal fever of 39.0°C with fetal tachycardia, uterine tenderness and foul purulent cervical discharge after prolonged rupture of membranes and multiple vaginal exams is diagnostic of chorioamnionitis. Treatment is IV ampicillin 2 g q6h plus gentamicin, with anaerobic coverage such as clindamycin, together with antipyretics. Chorioamnionitis is not an indication for immediate delivery or caesarean delivery, so proper labour progression is allowed.",
+   "optionExplanations": {
+    "a": "Chorioamnionitis itself is not an indication for immediate delivery or caesarean delivery, especially if delivery is imminent and can be done safely.",
+    "c": "Antipyretics are adjunctive; without IV antibiotics she is at risk of bacteremia, pelvic abscess, wound infection and maternal or neonatal sepsis.",
+    "d": "Amniotic fluid Gram stain, glucose and culture support the diagnosis but treatment should not be delayed for results.",
+    "e": "Antibiotics are needed now; postpartum continuation is considered for those at risk of endometritis, especially after caesarean delivery, and is not a substitute for intrapartum treatment."
+   },
+   "topic": "Chorioamnionitis",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "OB",
+    "name": "Obstetrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1029,
+    "reference": "OB43 — Chorioamnionitis: Clinical Features and Treatment"
+   }
+  },
+  {
+   "id": "TN-OB-025",
+   "type": "single-best-answer",
+   "question": "A 29-year-old woman who delivered vaginally 3 weeks ago presents with 2 days of unilateral localized breast pain. The affected breast has an area of erythema and marked tenderness. There is no fluctuant mass, no subareolar mass, and no purulent nipple discharge. Her temperature is 38.4°C. She has no drug allergies, does not smoke, and wishes to continue breastfeeding. What is the best initial treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Cloxacillin with continued nursing and pumping, plus heat or ice packs"
+    },
+    {
+     "id": "b",
+     "text": "Discontinue nursing and start IV nafcillin with incision and drainage"
+    },
+    {
+     "id": "c",
+     "text": "Broad-spectrum antibiotics with incision and drainage"
+    },
+    {
+     "id": "d",
+     "text": "Fine-needle aspiration of the affected area to exclude cancer"
+    },
+    {
+     "id": "e",
+     "text": "Total duct excision"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Lactational mastitis typically occurs 2-3 weeks postpartum, is caused by S. aureus, and presents with unilateral localized pain, tenderness and erythema. Treatment is heat or ice packs, continued nursing or pumping, and antibiotics such as cloxacillin or cephalexin (erythromycin if penicillin-allergic). She has no fluctuant mass or purulent nipple discharge, so an abscess is not present.",
+   "optionExplanations": {
+    "b": "Discontinuing nursing with IV nafcillin or oxacillin and incision and drainage is reserved for a lactational breast abscess, indicated by a fluctuant mass, purulent nipple discharge, fever and leukocytosis.",
+    "c": "Broad-spectrum antibiotics with incision and drainage is the treatment for non-lactational mastitis, which typically presents with subareolar pain and nipple inversion around a mean age of 32 years.",
+    "d": "Fine-needle aspiration to exclude cancer is used when a non-lactational mass does not resolve, not for a classic lactational presentation 3 weeks postpartum.",
+    "e": "Total duct excision is the definitive treatment for recurrent periductal (non-lactational) mastitis, not for acute lactational mastitis."
+   },
+   "topic": "Postpartum Mastitis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "OB",
+    "name": "Obstetrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1035,
+    "reference": "OB49 — Table 22: Lactational vs. Non-Lactational Mastitis"
    }
   }
  ]

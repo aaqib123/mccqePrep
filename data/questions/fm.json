@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 18,
+ "count": 23,
  "questions": [
   {
    "id": "TN-FM-001",
@@ -836,6 +836,236 @@
     "document": "Toronto Notes 2025",
     "page": 421,
     "reference": "FM45 — Osteoporosis: 2023 Clinical Practice Guidelines"
+   }
+  },
+  {
+   "id": "TN-FM-019",
+   "type": "single-best-answer",
+   "question": "A 44-year-old man has had severe low back pain for 5 days, worse at night and when lying down. Over the past 12 hours he has developed progressive loss of bladder control, and examination confirms saddle anesthesia. He has no fever, no weight loss and no history of cancer. Which of the following is the most appropriate next step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Emergency referral within hours for suspected cauda equina syndrome"
+    },
+    {
+     "id": "b",
+     "text": "Referral to a physical therapist within the next few weeks"
+    },
+    {
+     "id": "c",
+     "text": "Self-care advice with acetaminophen and continuation of usual activities as tolerated"
+    },
+    {
+     "id": "d",
+     "text": "Short course of a muscle relaxant, with reassessment at 1-6 weeks"
+    },
+    {
+     "id": "e",
+     "text": "Referral to a community-based active rehabilitation program"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "In the primary care management of low back pain, features of cauda equina syndrome, including sudden or progressive onset of loss of bladder/bowel control and saddle anesthesia, are red flags that constitute an emergency requiring referral within hours. Severe worsening pain, especially at night or when lying down, is itself an urgent red flag. Self-care strategies and analgesics apply only to acute pain once red flags have been excluded.",
+   "optionExplanations": {
+    "b": "Referral to a physical therapist is a consideration for pain that is not resolving, not for a red flag that needs referral within hours.",
+    "c": "Educating the patient and prescribing self-care and acetaminophen belongs to the acute and subacute pathway that follows a negative red flag evaluation.",
+    "d": "A short course of muscle relaxants is an analgesic option for acute low back pain without red flags, and reassessment at 1-6 weeks would dangerously delay care here.",
+    "e": "Community-based active rehabilitation is a referral option for chronic low back pain more than 12 weeks after onset."
+   },
+   "topic": "Low Back Pain",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "FM",
+    "name": "Family Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 419,
+    "reference": "FM43 — Low Back Pain"
+   }
+  },
+  {
+   "id": "TN-FM-020",
+   "type": "single-best-answer",
+   "question": "A 61-year-old woman describes a new headache that began 3 weeks ago; she has never previously had headaches. She reports scalp tenderness when brushing her hair and jaw claudication when chewing. She has no fever, no neck stiffness, no impaired mental status and no focal neurological deficits. Which of the following is the most appropriate investigation?",
+   "options": [
+    {
+     "id": "a",
+     "text": "CBC"
+    },
+    {
+     "id": "b",
+     "text": "ESR or CRP"
+    },
+    {
+     "id": "c",
+     "text": "Non-contrast CT of the head"
+    },
+    {
+     "id": "d",
+     "text": "CSF analysis"
+    },
+    {
+     "id": "e",
+     "text": "MRI of the brain"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Secondary headaches are caused by underlying organic disease and account for fewer than 10% of all headaches, but they may be life-threatening, so investigation is indicated when red flags are present. A new headache after age 50 with scalp tenderness and jaw claudication points to temporal arteritis, for which ESR or CRP is the indicated test.",
+   "optionExplanations": {
+    "a": "CBC is the test listed for suspected systemic or intracranial infection, and she has no fever or neck stiffness.",
+    "c": "Neuroimaging is used to rule out intracranial pathology, which is not what her scalp tenderness and jaw claudication suggest.",
+    "d": "CSF analysis is reserved for suspected intracranial hemorrhage or infection, neither of which is suggested here.",
+    "e": "MRI is another form of neuroimaging to rule out intracranial pathology and does not diagnose temporal arteritis."
+   },
+   "topic": "Headache",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "FM",
+    "name": "Family Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 412,
+    "reference": "FM36 — Headache"
+   }
+  },
+  {
+   "id": "TN-FM-021",
+   "type": "single-best-answer",
+   "question": "A 34-year-old woman reports 9 months of fatigue with a substantial reduction in her ability to engage in pre-illness levels of activity. Her symptoms worsen after physical or mental exertion, her sleep is unrefreshing even after a full night, and she describes cognitive impairment. CBC, TSH, ferritin and vitamin B12 are normal. Which of the following is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Hypothyroidism"
+    },
+    {
+     "id": "b",
+     "text": "Obstructive sleep apnea"
+    },
+    {
+     "id": "c",
+     "text": "Chronic fatigue syndrome"
+    },
+    {
+     "id": "d",
+     "text": "Iron deficiency anemia"
+    },
+    {
+     "id": "e",
+     "text": "Polymyalgia rheumatica"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "Diagnosis of chronic fatigue syndrome requires a substantial reduction or impairment in the ability to engage in pre-illness levels of activity lasting more than 6 months, accompanied by fatigue of new onset not alleviated by rest, plus post-exertional malaise and unrefreshing sleep, with at least one of cognitive impairment or orthostatic intolerance. She meets all three required symptoms and has cognitive impairment, with normal targeted investigations.",
+   "optionExplanations": {
+    "a": "Hypothyroidism is an endocrine cause of fatigue, but her TSH is normal.",
+    "b": "Sleep disturbance such as obstructive sleep apnea is a physiologic cause of fatigue and does not explain post-exertional worsening lasting 9 months.",
+    "d": "Iron deficiency anemia is a nutritional cause of fatigue, excluded here by a normal CBC and ferritin.",
+    "e": "Polymyalgia rheumatica is an autoimmune cause of fatigue and is not supported by this presentation."
+   },
+   "topic": "Fatigue",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "FM",
+    "name": "Family Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 410,
+    "reference": "FM34 — Fatigue"
+   }
+  },
+  {
+   "id": "TN-FM-022",
+   "type": "single-best-answer",
+   "question": "A 32-year-old woman has attended the clinic six times this year with vague, ill-defined complaints including headaches, gastrointestinal symptoms and insomnia. Today she has a forearm injury that is inconsistent with the history she gives. Her partner has accompanied her to every visit and answers most questions on her behalf. Which of the following is the most appropriate next step?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Interview the patient alone in a safe environment and ask about abuse"
+    },
+    {
+     "id": "b",
+     "text": "Report the suspected partner abuse to authorities, as reporting is mandatory"
+    },
+    {
+     "id": "c",
+     "text": "Ask the partner to describe how the injury occurred"
+    },
+    {
+     "id": "d",
+     "text": "Defer discussion of her relationship until she raises the concern herself"
+    },
+    {
+     "id": "e",
+     "text": "Refer her to a psychiatrist for management of insomnia and chronic pain"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Intimate partner violence typically presents as multiple visits with vague, ill-defined complaints such as headaches, gastrointestinal symptoms, insomnia and chronic pain, or with injuries inconsistent with the history, and physician recognition rates are as low as 5%. Management is to maintain a high index of suspicion, since asking about abuse is the strongest predictor of disclosure; a helpful strategy is to interview the patient alone in a safe environment.",
+   "optionExplanations": {
+    "b": "Reporting is not mandatory for partner or elder abuse; it is mandatory for child abuse or elder abuse in long term care homes.",
+    "c": "Interviewing the patient alone is the recommended strategy, and questioning the accompanying partner does not create a safe environment for disclosure.",
+    "d": "Waiting for the patient to raise it misses the opportunity, because asking about abuse is the strongest predictor of disclosure.",
+    "e": "Comorbid depression, anxiety and substance misuse should be screened for, but treating the somatic complaints alone leaves the suspected abuse unaddressed."
+   },
+   "topic": "Intimate Partner Violence",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "FM",
+    "name": "Family Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 405,
+    "reference": "FM29 — Intimate Partner Violence"
+   }
+  },
+  {
+   "id": "TN-FM-023",
+   "type": "single-best-answer",
+   "question": "A 47-year-old man with alcohol use disorder has completed a supervised withdrawal and now asks for medication to help with his craving for alcohol. His home environment is safe, and he has no severe medical or psychiatric concern. He has taken a daily long-acting opioid for chronic pain for 3 years. Which of the following pharmacologic agents is most appropriate?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Naltrexone"
+    },
+    {
+     "id": "b",
+     "text": "Acamprosate"
+    },
+    {
+     "id": "c",
+     "text": "Disulfiram"
+    },
+    {
+     "id": "d",
+     "text": "Diazepam"
+    },
+    {
+     "id": "e",
+     "text": "Thiamine"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Acamprosate is a glutamate receptor modulator that reduces craving and is the appropriate choice for this opioid-dependent patient. Naltrexone also reduces cravings and the pleasurable effects of drinking, but it is a competitive opioid antagonist and may trigger withdrawal in opioid-dependent patients. Pharmacologic treatment should accompany motivational interviewing, individualized counselling and regular follow-up.",
+   "optionExplanations": {
+    "a": "Naltrexone is a competitive opioid antagonist that may trigger withdrawal in opioid-dependent patients, so it is unsuitable for a man on daily long-acting opioids.",
+    "c": "Disulfiram impairs metabolism of alcohol and causes flushing, headache, nausea and hypotension if alcohol is ingested; it is no longer available in Canada.",
+    "d": "Diazepam is used for alcohol withdrawal, which he has already completed, and it does not reduce craving.",
+    "e": "Thiamine is not among the agents listed for reducing craving in alcohol use disorder, which are naltrexone, acamprosate and disulfiram."
+   },
+   "topic": "Alcohol Use Disorder",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "FM",
+    "name": "Family Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 392,
+    "reference": "FM16 — Alcohol Use Disorder"
    }
   }
  ]

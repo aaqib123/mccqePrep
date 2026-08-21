@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 12,
+ "count": 15,
  "questions": [
   {
    "id": "TN-MI-001",
@@ -560,6 +560,144 @@
     "document": "Toronto Notes 2025",
     "page": 808,
     "reference": "MI18 — Gynecological Imaging: Ultrasound"
+   }
+  },
+  {
+   "id": "TN-MI-013",
+   "type": "single-best-answer",
+   "question": "A 71-year-old woman fractures her wrist after a fall from standing height while walking her dog. She has lost height over the past decade and has taken steroid therapy for two years. Her physician wants to confirm osteoporosis and determine her fracture risk before starting treatment. Which investigation is most appropriate to measure her bone mineral density?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Dual-energy x-ray absorptiometry of the hip and lumbar spine"
+    },
+    {
+     "id": "b",
+     "text": "Plain x-ray of the lumbar spine to assess trabeculae"
+    },
+    {
+     "id": "c",
+     "text": "Nuclear medicine bone scan with 99mTc"
+    },
+    {
+     "id": "d",
+     "text": "MRI of the hip"
+    },
+    {
+     "id": "e",
+     "text": "Iliac crest bone biopsy"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes names DEXA the gold standard for measuring bone mineral density, typically measured at the hip and lumbar spine. The Canadian Association of Radiologists and Osteoporosis Canada (CAROC) guidelines list diagnosis, determining fracture risk/therapy, and monitoring as the indications for DEXA, which is exactly what is being asked here. Diagnosis is driven by the T-score, the number of standard deviations from the young adult mean, with osteoporosis defined as a T-score below -2.5.",
+   "optionExplanations": {
+    "b": "Plain x-ray shows fewer and thinner trabeculae and decreased distinctness of vertebral body trabeculae, but it is not the test used to measure bone mineral density or generate a T-score.",
+    "c": "A bone scan determines the location and extent of bony lesions through bone turnover; it does not quantify bone mineral density.",
+    "d": "MRI is indicated for osteomyelitis, occult fracture and characterization of bony masses, not for densitometry.",
+    "e": "Iliac crest bone biopsy is the gold standard for diagnosing osteomalacia and is reserved for when the diagnosis is uncertain or the cause unclear."
+   },
+   "topic": "Musculoskeletal Imaging — Metabolic Bone Disease",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "MI",
+    "name": "Medical Imaging"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 814,
+    "reference": "MI24 — Metabolic Bone Disease: Osteoporosis"
+   }
+  },
+  {
+   "id": "TN-MI-014",
+   "type": "single-best-answer",
+   "question": "A 58-year-old man has 4 months of shoulder pain and weakness on abduction. Ultrasound identifies a full-thickness rotator cuff tear. He is referred for surgical repair, and the operating surgeon needs reliable measurement of tear size, retraction status, muscle atrophy and fatty infiltration before proceeding. Which imaging modality is most appropriate for surgical planning of this tendon injury?",
+   "options": [
+    {
+     "id": "a",
+     "text": "MRI of the shoulder"
+    },
+    {
+     "id": "b",
+     "text": "Repeat ultrasound of the shoulder with Doppler"
+    },
+    {
+     "id": "c",
+     "text": "CT of the shoulder"
+    },
+    {
+     "id": "d",
+     "text": "Plain film of the shoulder in two orthogonal views"
+    },
+    {
+     "id": "e",
+     "text": "Nuclear medicine bone scan"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes lists assessment of tendons and muscle injuries and internal derangement of joints among the indications for MRI. In the cited comparison of full-thickness rotator cuff tears, ultrasound measurements were statistically smaller for both tear size and retraction status, and MRI showed greater interobserver reliability for tear size, retraction status and atrophy. Ultrasound may be best used to identify a tear, while MRI is superior for surgical planning of larger tears.",
+   "optionExplanations": {
+    "b": "Ultrasound is indicated for tendon injury such as rotator cuff or Achilles tendon and Doppler determines vascularity, but its measurements of tear size and retraction status are smaller and less reproducible than MRI.",
+    "c": "CT is for evaluation of fine bony detail, comminuted intra-articular fractures, and soft tissue calcification or ossification, not tendon retraction.",
+    "d": "Plain film is usually the initial study in bone and joint disorders, but its soft tissue assessment is limited to calcification, ossification, swelling and joint effusions.",
+    "e": "A bone scan determines the location and extent of bony lesions using radiopharmaceuticals and is indicated for occult fractures, bone pain of unknown origin and arthroplasty complications."
+   },
+   "topic": "Musculoskeletal Imaging — Modality Selection",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "MI",
+    "name": "Medical Imaging"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 812,
+    "reference": "MI22 — Musculoskeletal System: Modalities"
+   }
+  },
+  {
+   "id": "TN-MI-015",
+   "type": "single-best-answer",
+   "question": "A 38-year-old woman reports palpitations, heat intolerance and weight loss. TSH is suppressed and free T4 is elevated. Her thyroid is smooth and non-tender, and she takes no supplements or thyroid hormone. A radioactive iodine uptake study is ordered to work up the hyperthyroidism and shows markedly decreased uptake. She had a contrast-enhanced CT of the abdomen six days ago. What best explains the low uptake?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Falsely decreased uptake caused by the recent radiographic contrast study"
+    },
+    {
+     "id": "b",
+     "text": "Subacute thyroiditis"
+    },
+    {
+     "id": "c",
+     "text": "Late Hashimoto's disease"
+    },
+    {
+     "id": "d",
+     "text": "Graves' disease"
+    },
+    {
+     "id": "e",
+     "text": "Toxic multinodular goitre"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Radioactive iodine uptake is an index of thyroid function reflecting trapping and organification of iodine, and Toronto Notes states that RAIU is falsely decreased in a patient with recent radiographic contrast studies, as well as with high dietary iodine. The iodine load from her contrast-enhanced CT six days earlier saturates the gland, so the low uptake does not reflect her true thyroid status.",
+   "optionExplanations": {
+    "b": "Subacute thyroiditis does decrease RAIU, but the gland here is smooth and non-tender and the recent iodine load explains the result.",
+    "c": "Late Hashimoto's disease lowers RAIU, yet it does not account for a decreased result appearing days after an iodinated contrast study.",
+    "d": "Graves' disease is listed among the causes of increased, not decreased, radioactive iodine uptake.",
+    "e": "Toxic multinodular goitre also increases RAIU, and no nodularity was found on examination."
+   },
+   "topic": "Nuclear Medicine — Thyroid",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "MI",
+    "name": "Medical Imaging"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 815,
+    "reference": "MI25 — Nuclear Medicine: Thyroid, Radioactive Iodine Uptake"
    }
   }
  ]

@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 4,
+ "count": 6,
  "questions": [
   {
    "id": "TN-MG-001",
@@ -192,6 +192,98 @@
     "document": "Toronto Notes 2025",
     "page": 786,
     "reference": "MG8 — Duchenne Muscular Dystrophy: Diagnosis"
+   }
+  },
+  {
+   "id": "TN-MG-005",
+   "type": "single-best-answer",
+   "question": "A 7-day-old breastfed infant is admitted with jaundice, vomiting, poor feeding, and hepatomegaly. Bilateral cataracts are seen on eye examination, liver enzymes are elevated, and blood cultures grow Escherichia coli. The parents are healthy and unrelated, and the newborn screening result has not yet been reported. Which is the most likely underlying metabolic disorder?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Phenylketonuria"
+    },
+    {
+     "id": "b",
+     "text": "Galactosemia"
+    },
+    {
+     "id": "c",
+     "text": "Maple syrup urine disease"
+    },
+    {
+     "id": "d",
+     "text": "Glycogen storage disease type 1 (von Gierke disease)"
+    },
+    {
+     "id": "e",
+     "text": "Ornithine transcarbamylase deficiency"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Toronto Notes describes galactosemia as an autosomal recessive disease, most commonly due to deficiency of galactose-1-phosphate uridyltransferase, leading to an inability to process lactose/galactose, with signs of liver and renal failure, jaundice, failure to thrive, and cataracts with ingestion of lactose/galactose, plus an increased risk of sepsis, especially E. coli. Although galactosemia is screened for in many newborn screening programs, affected infants generally present with liver failure and E. coli sepsis before the screening result is reported. Management is elimination of galactose from the diet, including dairy and breast milk, with most infants fed a soy-based diet.",
+   "optionExplanations": {
+    "a": "Phenylketonuria produces a baby who is normal at birth and then develops a musty odour, eczema, hypertonia, tremors, intellectual disability, and hypopigmentation from low tyrosine levels, not cataracts with liver failure and E. coli sepsis.",
+    "c": "Maple syrup urine disease causes feeding intolerance, failure to thrive, vomiting, lethargy, and a maple syrup odour in the urine and cerumen, without cataracts or a characteristic association with E. coli sepsis.",
+    "d": "Glycogen storage disease type 1 typically presents between 3-6 mo of age with hepatomegaly, hypoglycemia, poor fasting tolerance, growth failure, and doll-like facies rather than neonatal jaundice with cataracts.",
+    "e": "Ornithine transcarbamylase deficiency is an X-linked urea cycle condition in which infants appear well at birth and then develop reduced oral intake, lethargy, tachypnea, and severe encephalopathy with hyperammonemia and high urinary orotic acid."
+   },
+   "topic": "Metabolic Diseases",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "MG",
+    "name": "Medical Genetics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 788,
+    "reference": "MG10 — Table 9. Presentation and Management of Select Metabolic Disorders"
+   }
+  },
+  {
+   "id": "TN-MG-006",
+   "type": "single-best-answer",
+   "question": "A 41-year-old woman is referred to a hereditary cancer clinic after a diagnosis of breast cancer. At age 30 she had a thyroidectomy for thyroid carcinoma, and her mother was treated for endometrial carcinoma in her forties. No relative has had colorectal cancer, ovarian cancer, sarcoma, or adrenocortical carcinoma, and no polyposis has been documented. Which familial cancer syndrome best accounts for this pattern?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Hereditary breast and ovarian cancer syndrome"
+    },
+    {
+     "id": "b",
+     "text": "Lynch syndrome (HNPCC)"
+    },
+    {
+     "id": "c",
+     "text": "Cowden syndrome"
+    },
+    {
+     "id": "d",
+     "text": "Li-Fraumeni syndrome"
+    },
+    {
+     "id": "e",
+     "text": "Familial adenomatous polyposis"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "Toronto Notes lists Cowden syndrome, caused by pathogenic variants in PTEN, as the familial cancer syndrome whose associated cancers are breast, thyroid, and endometrial, which is exactly the combination in this family. Recommended screening includes annual thyroid ultrasound at diagnosis, annual comprehensive physical examination from age 18, and colonoscopy every 5 yr from age 30-35, with annual mammography in women from age 30 and consideration of random annual endometrial biopsy and/or ultrasound.",
+   "optionExplanations": {
+    "a": "Hereditary breast and ovarian cancer syndrome, due to BRCA1 or BRCA2 variants, is associated with breast, ovarian, and pancreatic cancer in women and prostate, breast, and pancreatic cancer in men; thyroid carcinoma is not part of this spectrum.",
+    "b": "Lynch syndrome, due to MSH2, MLH1, MSH6, PMS2, or EPCAM variants, includes endometrial and breast cancer but is dominated by colorectal cancer and also includes ovarian, renal, pancreatic, hepatobiliary, gastric, and brain tumours, none of which are present here.",
+    "d": "Li-Fraumeni syndrome, due to TP53 variants, is associated with breast cancer together with osteosarcoma, leukemia, soft tissue sarcoma, brain tumours, and adrenocortical carcinoma, which this family does not show.",
+    "e": "Familial adenomatous polyposis, due to APC variants, causes colorectal and small intestine or stomach tumours and prompts sigmoidoscopy or colonoscopy from age 10 once polyps develop."
+   },
+   "topic": "Familial Cancer Syndromes",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "MG",
+    "name": "Medical Genetics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 785,
+    "reference": "MG7 — Table 5. Examples of Familial Cancer Syndromes"
    }
   }
  ]

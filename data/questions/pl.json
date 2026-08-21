@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 17,
+ "count": 22,
  "questions": [
   {
    "id": "TN-PL-001",
@@ -790,6 +790,236 @@
     "document": "Toronto Notes 2025",
     "page": 1342,
     "reference": "PL32 — Approach to Facial Injuries: Investigations"
+   }
+  },
+  {
+   "id": "TN-PL-018",
+   "type": "single-best-answer",
+   "question": "A 58-year-old man of northern European background reports a firm, painless nodule in his right palm that has slowly developed into a thick fibrous cord running to the ring finger. He can no longer place all his fingers flat against a table simultaneously. Examination shows a 45 degree fixed flexion contracture at the ring finger metacarpophalangeal joint. Active and passive digital flexion are full. What is the most appropriate treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Corticosteroid injection into the palmar nodule"
+    },
+    {
+     "id": "b",
+     "text": "Needle aponeurotomy of the cord"
+    },
+    {
+     "id": "c",
+     "text": "Fasciectomy with excision of the diseased palmar fascia"
+    },
+    {
+     "id": "d",
+     "text": "Injection of Clostridium histolyticum collagenase"
+    },
+    {
+     "id": "e",
+     "text": "Release of the flexor tendon sheath of the ring finger"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "Toronto Notes lists surgical management of Dupuytren's disease for a metacarpophalangeal contracture greater than 30 degrees, a proximal interphalangeal contracture of any degree, significant webspace contracture, functional or hygiene impairment, or a positive Hueston's tabletop test. This man has a 45 degree metacarpophalangeal contracture and cannot place his fingers flat against a table, so excision of the diseased fascia is indicated. Metacarpophalangeal joints have better outcomes than proximal interphalangeal joints after treatment.",
+   "optionExplanations": {
+    "a": "Steroid injection is part of non-surgical management, which is indicated for palmar pits, nodules, or simple cords rather than an established contracture beyond 30 degrees.",
+    "b": "Needle aponeurotomy is also non-surgical management reserved for pits, nodules, or simple cords, not for a fixed metacarpophalangeal contracture of this size.",
+    "d": "Clostridium histolyticum collagenase is listed with the other non-surgical options for pits, nodules, or simple cords, and does not excise the diseased fascia.",
+    "e": "Dupuytren's disease is a proliferative disorder of the palmar fascia and the flexor tendons are not involved, so releasing the tendon sheath would not correct the contracture."
+   },
+   "topic": "Dupuytren's Disease",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "PL",
+    "name": "Plastic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1339,
+    "reference": "PL29 — Dupuytren's Disease"
+   }
+  },
+  {
+   "id": "TN-PL-019",
+   "type": "single-best-answer",
+   "question": "A 54-year-old woman is 18 hours after free flap reconstruction of a lower leg defect using tissue harvested with a named artery and vein and anastomosed microsurgically. The flap skin has turned purple-blue. It remains warm, capillary refill is brisk at under two seconds, and the tissue feels firm and stiff on palpation. An arterial pulse is still audible on Doppler over the pedicle. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Arterial insufficiency of the flap"
+    },
+    {
+     "id": "b",
+     "text": "Venous insufficiency of the flap"
+    },
+    {
+     "id": "c",
+     "text": "Normal, healthy free flap"
+    },
+    {
+     "id": "d",
+     "text": "Erysipelas of the flap skin"
+    },
+    {
+     "id": "e",
+     "text": "Acute rejection of transplanted allograft tissue"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Toronto Notes tabulates the characteristics of a healthy free flap against arterial and venous insufficiency. Venous insufficiency gives a purple or blue colour, a flap that is warm or cool, increased turgor with tissue firmness and stiffness, and capillary refill under 2 seconds. This flap matches that pattern with a preserved arterial Doppler signal, indicating obstructed venous outflow rather than arterial inflow failure.",
+   "optionExplanations": {
+    "a": "Arterial insufficiency produces a pale, cool flap with decreased tissue firmness, capillary refill greater than 5 seconds, and loss of the arterial Doppler pulse.",
+    "c": "A normal flap is pink and warm, soft but with some firmness, and has capillary refill of 2 to 5 seconds, not a purple-blue congested appearance.",
+    "d": "Erysipelas is an acute infection of the upper dermis and superficial lymphatics producing intense raised erythema and induration with sharply demarcated borders, not blue discolouration with brisk refill.",
+    "e": "Acute rejection is a concern in vascularized composite allotransplantation from a deceased donor; an autologous free flap of the patient's own tissue is not rejected."
+   },
+   "topic": "Flaps",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "PL",
+    "name": "Plastic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1325,
+    "reference": "PL15 — Free Flaps"
+   }
+  },
+  {
+   "id": "TN-PL-020",
+   "type": "single-best-answer",
+   "question": "An 80-year-old woman with advanced dementia, immobility, and incontinence in long-term care is found to have a sacral pressure injury. The wound base is entirely covered by thick yellow slough and adherent black eschar, so the extent of tissue damage cannot be confirmed on inspection. The surrounding skin is intact. Which classification best describes this pressure injury?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Stage 2 pressure injury"
+    },
+    {
+     "id": "b",
+     "text": "Stage 3 pressure injury"
+    },
+    {
+     "id": "c",
+     "text": "Stage 4 pressure injury"
+    },
+    {
+     "id": "d",
+     "text": "Unstageable pressure injury"
+    },
+    {
+     "id": "e",
+     "text": "Deep tissue pressure injury"
+    }
+   ],
+   "correctAnswer": "d",
+   "explanation": "Toronto Notes defines an unstageable pressure injury as one in which the extent of tissue damage cannot be confirmed because it is obscured by slough or eschar; once debridement is completed the pressure injury can be appropriately staged. That is exactly the situation here. Management then follows the principles of pressure relief, treatment of underlying medical issues, moisture reduction, and wound bed preparation and treatment.",
+   "optionExplanations": {
+    "a": "A numbered stage cannot be assigned while slough and eschar obscure the wound base and the extent of tissue damage is unconfirmed.",
+    "b": "Assigning this stage would require visualising the depth of tissue damage, which is impossible until debridement is completed.",
+    "c": "This also requires direct visualisation of the depth of the injury, which the overlying eschar prevents.",
+    "e": "A deep tissue pressure injury is persistent non-blanchable deep red, maroon, or purple discoloration, not a wound base covered by slough and eschar."
+   },
+   "topic": "Pressure Injuries",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "PL",
+    "name": "Plastic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1328,
+    "reference": "PL18 — Pressure Injuries"
+   }
+  },
+  {
+   "id": "TN-PL-021",
+   "type": "single-best-answer",
+   "question": "A 24-year-old man is thrown from his motorcycle and sustains a closed traction and stretch injury of the right brachial plexus. He has weakness of shoulder abduction and elbow flexion with patchy sensory loss in the limb. There is no open wound, no expanding mass such as a hematoma, and no clinical feature suggesting preganglionic root avulsion. What is the most appropriate management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Immediate exploration of the plexus in the operating room"
+    },
+    {
+     "id": "b",
+     "text": "Splinting with occupational therapy and physiotherapy, following for 3-4 months for improvement"
+    },
+    {
+     "id": "c",
+     "text": "Nerve transfer now using an intercostal nerve as donor"
+    },
+    {
+     "id": "d",
+     "text": "EMG and nerve conduction studies immediately to guide urgent repair"
+    },
+    {
+     "id": "e",
+     "text": "CT myelogram now to plan root repair"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Toronto Notes states that closed traction or stretch injuries of the brachial plexus should be followed for 3-4 months for improvement if there is no continued insult, and that all brachial plexus injuries require splinting plus occupational therapy and physiotherapy consults to maintain range of motion and joint function. Concussive or compressive closed injuries are often self-resolving unless there is an expanding mass such as a hematoma.",
+   "optionExplanations": {
+    "a": "Immediate exploration in the operating room is reserved for open injuries with sharp or vascular injury, not for a closed traction injury.",
+    "c": "Nerve transfers are indicated when the nerve injury is close to the effector muscle or when other reconstructive options are not possible, such as preganglionic root avulsion or complete loss of motor and sensory function.",
+    "d": "EMG and nerve conduction studies are obtained about 12 weeks post-injury to assess healing progress in closed injuries, not immediately.",
+    "e": "CT myelogram or MRI is obtained initially in a closed injury when avulsion is suspected, which is not the case here."
+   },
+   "topic": "Brachial Plexus Injury",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "PL",
+    "name": "Plastic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1341,
+    "reference": "PL31 — Brachial Plexus Injuries and Nerve Transfers"
+   }
+  },
+  {
+   "id": "TN-PL-022",
+   "type": "single-best-answer",
+   "question": "A 5-month-old girl has an isolated complete cleft of the hard and soft palate identified at birth. Her lip is intact. She has fed adequately using special bottles and has already had two episodes of otitis media. She is growing appropriately and has no other congenital anomalies. What is the most appropriate definitive management of her palate?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Millard or Fisher repair at 3 months of age"
+    },
+    {
+     "id": "b",
+     "text": "Von Langenbeck repair or Furlow Z-plasty at 6-9 months of age"
+    },
+    {
+     "id": "c",
+     "text": "Craniectomy involving a multidisciplinary craniofacial team"
+    },
+    {
+     "id": "d",
+     "text": "Special bottles for feeding and speech-language pathology without operative repair"
+    },
+    {
+     "id": "e",
+     "text": "Myringotomy tube insertion as the definitive procedure"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Toronto Notes gives surgery at 6-9 months, by Von Langenbeck repair or Furlow Z-plasty, as the treatment of cleft palate, alongside speech-language pathology and an ENT consult because recurrent otitis media often requires myringotomy tubes. Isolated cleft palate occurs in about 0.5 in 1000 births and is more common in females, matching this infant.",
+   "optionExplanations": {
+    "a": "Millard and Fisher are the repairs listed for cleft lip and are performed at about 3 months; this infant has an intact lip.",
+    "c": "Craniectomy with a multidisciplinary team is the treatment of craniosynostosis, a different craniofacial anomaly.",
+    "d": "Special bottles for feeding and speech-language pathology are supportive measures listed for cleft lip and palate, but they do not close the palatal cleft.",
+    "e": "Myringotomy tubes address the recurrent otitis media that accompanies cleft palate but do not repair the cleft itself."
+   },
+   "topic": "Cleft Lip and Palate",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "PL",
+    "name": "Plastic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1352,
+    "reference": "PL42 — Pediatric Craniofacial Anomalies"
    }
   }
  ]

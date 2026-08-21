@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 12,
+ "count": 17,
  "questions": [
   {
    "id": "TN-RH-001",
@@ -560,6 +560,236 @@
     "document": "Toronto Notes 2025",
     "page": 1524,
     "reference": "RH30 — Fibromyalgia: Clinical Presentation and Treatment"
+   }
+  },
+  {
+   "id": "TN-RH-013",
+   "type": "single-best-answer",
+   "question": "A 41-year-old man reports six months of pain and swelling in the right knee, the left ankle, and the distal interphalangeal joints of two fingers. Morning stiffness lasts 40 min. His nails show pitting, longitudinal ridging, and onycholysis, and the third right toe is diffusely swollen. Well-demarcated erythematous plaques with silvery scale are found at the hairline and gluteal cleft. Rheumatoid factor is negative. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Rheumatoid arthritis"
+    },
+    {
+     "id": "b",
+     "text": "Psoriatic arthritis"
+    },
+    {
+     "id": "c",
+     "text": "Enteropathic arthritis"
+    },
+    {
+     "id": "d",
+     "text": "Ankylosing spondylitis"
+    },
+    {
+     "id": "e",
+     "text": "Reactive arthritis"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Psoriatic arthritis is arthritic inflammation associated with cutaneous psoriasis, which precedes the arthritis in 85% of cases, and is classified as a seronegative spondyloarthropathy. Asymmetric oligoarthritis is the most common pattern (70%), arthritis of the DIPs is characteristically accompanied by nail changes such as pitting, ridging, and onycholysis, and dactylitis with morning stiffness >30 min is typical. Hidden areas such as the hairline and gluteal cleft should be checked for psoriatic lesions.",
+   "optionExplanations": {
+    "a": "A symmetric polyarthritis resembling RA is one psoriatic pattern, but DIP arthritis with nail dystrophy, dactylitis, and psoriatic plaques with a negative rheumatoid factor identify psoriatic arthritis.",
+    "c": "Enteropathic arthritis produces large joint asymmetrical peripheral arthritis or spondylitis in the setting of ulcerative colitis or Crohn's disease, which this man does not have.",
+    "d": "Ankylosing spondylitis features symmetric sacroiliitis and axial disease rather than DIP arthritis with nail changes and skin plaques.",
+    "e": "Reactive arthritis follows a gastrointestinal or genitourinary infection and is not associated with psoriatic plaques and psoriatic nail dystrophy."
+   },
+   "topic": "Psoriatic Arthritis",
+   "difficulty": "easy",
+   "chapter": {
+    "code": "RH",
+    "name": "Rheumatology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1519,
+    "reference": "RH25 — Psoriatic Arthritis"
+   }
+  },
+  {
+   "id": "TN-RH-014",
+   "type": "single-best-answer",
+   "question": "A 28-year-old man develops pain and swelling of the right knee and left ankle three weeks after an episode of diarrhea from which Campylobacter was cultured. He has heel pain at the Achilles insertion, a diffusely swollen second toe, bilateral conjunctivitis, and dysuria. Small shallow painless ulcers are present on the glans penis. Knee aspirate is sterile, ESR is elevated, and HLA-B27 is positive. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Reactive arthritis"
+    },
+    {
+     "id": "b",
+     "text": "Psoriatic arthritis"
+    },
+    {
+     "id": "c",
+     "text": "Rheumatic fever"
+    },
+    {
+     "id": "d",
+     "text": "Viral arthritis"
+    },
+    {
+     "id": "e",
+     "text": "Septic arthritis of the knee"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Reactive arthritis is a seronegative spondyloarthropathy with peripheral arthritis and one or more extra-articular manifestations appearing shortly after a GI or GU infection, with onset 1-4 wk post-infection; Shigella, Salmonella, Campylobacter, Yersinia, and C. difficile are recognized GI triggers. Asymmetric peripheral arthritis, enthesitis such as Achilles tendinitis, dactylitis, conjunctivitis, and urethritis fit the clinical triad, and balanitis circinata (small, shallow, painless ulcers of the glans penis) is diagnostic. Cultures of the joint are sterile and HLA-B27 is often positive.",
+   "optionExplanations": {
+    "b": "Psoriatic arthritis requires evidence of psoriasis or psoriatic nail dystrophy, neither of which is described, and it does not follow an antecedent enteric infection.",
+    "c": "Toronto Notes explicitly cautions that reactive arthritis should not be confused with rheumatic fever, which follows streptococcal infection and does not cause balanitis circinata or enthesitis.",
+    "d": "Viral arthritides are also distinguished from reactive arthritis; they do not produce keratoderma blennorrhagicum or balanitis circinata after enteric infection.",
+    "e": "The joint aspirate is sterile, which excludes bacterial infection of the knee."
+   },
+   "topic": "Reactive Arthritis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "RH",
+    "name": "Rheumatology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1520,
+    "reference": "RH26 — Reactive Arthritis"
+   }
+  },
+  {
+   "id": "TN-RH-015",
+   "type": "single-best-answer",
+   "question": "A 79-year-old woman describes three days of acute pain and swelling of the left wrist, with a similar self-limited episode in the right knee last year. She takes no diuretics and her serum urate is normal. Radiographs of the wrist show chondrocalcinosis. Aspiration yields cloudy fluid, and polarized light microscopy shows rhomboid-shaped crystals with positive birefringence that appear blue when aligned parallel to the compensator. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Gout"
+    },
+    {
+     "id": "b",
+     "text": "Pseudogout from calcium pyrophosphate deposition"
+    },
+    {
+     "id": "c",
+     "text": "Hydroxyapatite deposition arthropathy"
+    },
+    {
+     "id": "d",
+     "text": "Osteoarthritis of the wrist"
+    },
+    {
+     "id": "e",
+     "text": "Septic arthritis of the wrist"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Pseudogout is caused by calcium pyrophosphate crystals, which are rhomboid-shaped and positively birefringent (blue when parallel to the compensator), in contrast to the needle-shaped, negatively birefringent monosodium urate crystals of gout. It occurs in the elderly, is usually monoarticular in the knee or wrist, and chondrocalcinosis is the characteristic radiologic finding. Treatment of the acute attack is with NSAIDs or corticosteroids.",
+   "optionExplanations": {
+    "a": "Gout crystals are monosodium urate: needle-shaped and negatively birefringent (yellow when parallel to the compensator), and gout classically involves the first MTP with erosions showing overhanging edges.",
+    "c": "Hydroxyapatite is another crystal-induced arthropathy but does not produce rhomboid positively birefringent crystals with chondrocalcinosis.",
+    "d": "Osteoarthritis is degenerative and does not produce an acute crystal-positive inflammatory effusion.",
+    "e": "An infected joint would show organisms rather than crystals, and chondrocalcinosis with positively birefringent crystals identifies calcium pyrophosphate deposition."
+   },
+   "topic": "Crystal-Induced Arthropathies",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "RH",
+    "name": "Rheumatology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1521,
+    "reference": "RH27 — Crystal-Induced Arthropathies"
+   }
+  },
+  {
+   "id": "TN-RH-016",
+   "type": "single-best-answer",
+   "question": "A 56-year-old woman describes three years of daily gritty dry eyes and a dry mouth that makes her drink liquids to swallow dry food. She has several new dental caries and angular cheilitis. Schirmer's test is 3 mm/5 min in each eye and anti-SSA/Ro is positive. Artificial tears, humidifiers, hydration, and good dental hygiene have improved her eyes but not her xerostomia. What is the most appropriate treatment for her persistent dry mouth?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Oral pilocarpine"
+    },
+    {
+     "id": "b",
+     "text": "Hydroxychloroquine"
+    },
+    {
+     "id": "c",
+     "text": "Oral prednisone"
+    },
+    {
+     "id": "d",
+     "text": "Rituximab infusion"
+    },
+    {
+     "id": "e",
+     "text": "Topical nystatin"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Sjogren's syndrome is characterized by dry eyes (keratoconjunctivitis sicca) and dry mouth (xerostomia) from lymphocytic infiltration of the salivary and lacrimal glands, and this woman meets classification criteria with a positive anti-SSA/Ro and a Schirmer's test of 5 mm/5 min or less. For xerostomia refractory to hydration and dental hygiene, parasympathomimetic agents that stimulate salivary flow, such as pilocarpine, are the appropriate next treatment.",
+   "optionExplanations": {
+    "b": "Systemic treatments such as hydroxychloroquine are ineffective for the sicca symptoms of Sjogren's syndrome.",
+    "c": "Corticosteroids are likewise ineffective for sicca manifestations and add unnecessary toxicity.",
+    "d": "Rituximab is reserved for severe organ-threatening disease such as vasculitis, not for isolated dry mouth.",
+    "e": "Topical nystatin or clotrimazole for 4-6 wk treats oral candidiasis, which is not described here, and does not restore salivary flow."
+   },
+   "topic": "Sjogren's Syndrome",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "RH",
+    "name": "Rheumatology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1511,
+    "reference": "RH17 — Sjogren's Syndrome"
+   }
+  },
+  {
+   "id": "TN-RH-017",
+   "type": "single-best-answer",
+   "question": "A 74-year-old woman has three weeks of new temporal headache, scalp tenderness, and pain in the muscles of mastication on prolonged chewing, together with shoulder and pelvic girdle stiffness. This morning she developed sudden painless loss of vision in the right eye. The temporal artery is tender on examination, ESR is 92 mm/h, and CRP is 68 mg/L. Colour Doppler ultrasound and temporal artery biopsy are booked for tomorrow. What is the most appropriate next step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Methylprednisolone 1000 mg IV daily for 3 d followed by high-dose prednisone 1 mg/kg/d PO in divided doses with taper"
+    },
+    {
+     "id": "b",
+     "text": "Prednisone 1 mg/kg PO in divided doses started only once the temporal artery biopsy is reported"
+    },
+    {
+     "id": "c",
+     "text": "Withhold glucocorticoids and repeat ESR and CRP after the ultrasound"
+    },
+    {
+     "id": "d",
+     "text": "Low-dose ASA with analgesia while awaiting biopsy"
+    },
+    {
+     "id": "e",
+     "text": "Tocilizumab alone"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Giant cell arteritis must be treated on clinical suspicion because untreated disease causes permanent blindness in 20-25% of patients. When a patient presents with vision loss at diagnosis, treatment is methylprednisolone 1000 mg/d IV for 3 d followed by high-dose prednisone 1 mg/kg/d PO in divided doses with taper. This woman is over 50 with new temporal headache, scalp tenderness, jaw claudication, polymyalgia rheumatica symptoms, and a markedly elevated ESR and CRP.",
+   "optionExplanations": {
+    "b": "Steroids must be started immediately on clinical suspicion; waiting for a biopsy risks permanent blindness, and biopsy yield is not lost by starting treatment promptly.",
+    "c": "Deferring glucocorticoids for further testing in a patient who already has vision loss risks irreversible bilateral blindness.",
+    "d": "Low-dose ASA is only an adjunct considered when there is critical involvement of the vertebral or carotid arteries and does not treat the arteritis.",
+    "e": "Tocilizumab, an IL-6 receptor monoclonal antibody, is used in combination with glucocorticoids for new or relapsing disease, not as sole emergency therapy for vision loss."
+   },
+   "topic": "Giant Cell Arteritis",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "RH",
+    "name": "Rheumatology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1516,
+    "reference": "RH22 — Large Vessel Vasculitis: Giant Cell Arteritis"
    }
   }
  ]
