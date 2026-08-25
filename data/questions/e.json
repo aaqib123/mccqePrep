@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 30,
+ "count": 32,
  "questions": [
   {
    "id": "TN-E-001",
@@ -1388,6 +1388,98 @@
     "document": "Toronto Notes 2025",
     "page": 362,
     "reference": "E54 — Gynecomastia"
+   }
+  },
+  {
+   "id": "TN-E-031",
+   "type": "single-best-answer",
+   "question": "A 58-year-old woman with untreated Graves' disease develops a temperature of 40.2°C, heart rate 148 with atrial fibrillation, vomiting, diarrhea, jaundice, and delirium two days after emergency surgery. Free T4 and T3 are elevated with an undetectable TSH. She receives fluids, a cooling blanket, acetaminophen, propranolol, and a high dose of propylthiouracil. One hour later, which medication should be added to acutely inhibit the release of thyroid hormone?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Sodium iodide 1 g IV drip over 12 h"
+    },
+    {
+     "id": "b",
+     "text": "Hydrocortisone 100 mg IV q8h"
+    },
+    {
+     "id": "c",
+     "text": "High-dose methimazole"
+    },
+    {
+     "id": "d",
+     "text": "Additional propranolol"
+    },
+    {
+     "id": "e",
+     "text": "Dexamethasone 2-4 mg IV q6h"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "For thyroid storm the source directs that iodide, which acutely inhibits the release of thyroid hormone, be given 1 h after the first dose of PTU — sodium iodide 1 g IV drip over 12 h q12h, or Lugol's solution, or SSKI. This woman has extreme hyperthermia, tachycardia with atrial fibrillation, vomiting, diarrhea, jaundice, and delirium after surgery, and has had her first high dose of PTU one hour ago, so iodide is the agent to add now.",
+   "optionExplanations": {
+    "b": "Hydrocortisone 100 mg IV q8h is given for the first 24-48 h, but it works by inhibiting peripheral conversion of T4 to T3 rather than blocking hormone release.",
+    "c": "Methimazole in high doses is an alternative thionamide that blocks hormone production; she has already received PTU, the traditional preferred choice.",
+    "d": "Propranolol has already been given for adrenergic control and decreases peripheral conversion of T4 to T3; it does not block release of stored hormone.",
+    "e": "Dexamethasone, like hydrocortisone, inhibits peripheral conversion of T4 to T3 and is not the agent given 1 h after the first dose of PTU."
+   },
+   "topic": "Thyroid Storm",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "E",
+    "name": "Endocrinology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 338,
+    "reference": "E30 — Thyroid Storm"
+   }
+  },
+  {
+   "id": "TN-E-032",
+   "type": "single-best-answer",
+   "question": "A 64-year-old man with biopsy-proven small cell lung cancer describes three months of muscle weakness in his limbs, with difficulty rising from a chair and climbing stairs. Strength does not fluctuate through the day and there is no ptosis. Memory and orientation are intact and he has had no seizures. Sodium is 138 mmol/L and potassium is 4.2 mmol/L. CT shows a hilar mass with no thymic enlargement. What is the most likely paraneoplastic syndrome?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Lambert-Eaton myasthenic syndrome"
+    },
+    {
+     "id": "b",
+     "text": "Myasthenia gravis"
+    },
+    {
+     "id": "c",
+     "text": "Paraneoplastic limbic encephalitis"
+    },
+    {
+     "id": "d",
+     "text": "Syndrome of inappropriate ADH secretion"
+    },
+    {
+     "id": "e",
+     "text": "Hypokalemic nephropathy"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The source classifies Lambert-Eaton myasthenic syndrome as a neurologic paraneoplastic syndrome of small cell lung cancer that presents with muscle weakness in limbs, produced by antibody that interferes with acetylcholine release. Myasthenia gravis is listed instead with thymoma and with fluctuating muscle weakness and fatigability. This man has small cell lung cancer, limb weakness that does not fluctuate, and no thymic enlargement, so LEMS is the best fit.",
+   "optionExplanations": {
+    "b": "Myasthenia gravis is the thymoma-associated syndrome in this table and causes fluctuating muscle weakness and fatigability; his CT shows no thymic enlargement.",
+    "c": "Paraneoplastic limbic encephalitis also accompanies small cell lung cancer but presents with depression, seizures, and short-term memory loss, none of which he has.",
+    "d": "SIADH from small cell lung cancer causes oliguria and hyponatremia with nausea, headache, and confusion; his sodium is normal.",
+    "e": "Hypokalemic nephropathy from ectopic ACTH secretion presents with polyuria, polydipsia, anorexia, and vomiting; his potassium is normal."
+   },
+   "topic": "Paraneoplastic Syndromes",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "E",
+    "name": "Endocrinology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 364,
+    "reference": "E56 — Paraneoplastic Syndrome"
    }
   }
  ]

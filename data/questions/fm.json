@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 23,
+ "count": 25,
  "questions": [
   {
    "id": "TN-FM-001",
@@ -1066,6 +1066,98 @@
     "document": "Toronto Notes 2025",
     "page": 392,
     "reference": "FM16 — Alcohol Use Disorder"
+   }
+  },
+  {
+   "id": "TN-FM-024",
+   "type": "single-best-answer",
+   "question": "A 26-year-old sexually active woman reports 2 days of internal dysuria throughout micturition with frequency, urgency and suprapubic discomfort. She is not pregnant, has no DM, no chronic renal disease, no indwelling catheter and no recent urinary tract instrumentation. She is afebrile with no flank pain or CVA tenderness. Office urine dipstick is positive for nitrites and leukocytes. What is the next best step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Treat empirically with antibiotics without sending a urine culture"
+    },
+    {
+     "id": "b",
+     "text": "Send urine for culture and withhold antibiotics until the result returns"
+    },
+    {
+     "id": "c",
+     "text": "Manage as a complicated UTI and investigate the urinary tract for anatomic abnormality"
+    },
+    {
+     "id": "d",
+     "text": "Order a urine R&M and treat only once bacteriuria is confirmed"
+    },
+    {
+     "id": "e",
+     "text": "Repeat the urine dipstick in one week and treat only if it remains positive"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The UTI clinical decision aid counts three criteria: dysuria, positive leukocytes on urine dipstick and positive nitrites on urine dipstick; if 2 or more criteria are met, treat without culture, otherwise culture is required prior to treatment. This woman meets all three and has none of the risk factors for complicated UTI (male, pregnancy, recent urinary tract instrumentation, functional or anatomic abnormality of the urinary tract, chronic renal disease, DM, immunosuppression, indwelling catheter). Where history, physical exam and urine dipstick are consistent with an uncomplicated UTI, treat empirically with no further investigations.",
+   "optionExplanations": {
+    "b": "Culture prior to treatment is required only when fewer than 2 of the decision aid criteria are met; delaying antibiotics here is unnecessary.",
+    "c": "She has none of the risk factors for complicated UTI, so investigation of the urinary tract is not indicated.",
+    "d": "Urine R&M showing pyuria, bacteriuria or hematuria adds nothing once the dipstick and clinical picture already fit uncomplicated UTI.",
+    "e": "Deferring treatment leaves a symptomatic cystitis untreated and risks progression to pyelonephritis with fever, chills and flank pain."
+   },
+   "topic": "Urinary Tract Infection",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "FM",
+    "name": "Family Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 407,
+    "reference": "FM31 — Dysuria"
+   }
+  },
+  {
+   "id": "TN-FM-025",
+   "type": "single-best-answer",
+   "question": "A 24-year-old man presents with 4 days of urethral discharge, dysuria and urethral irritation. He has had two new sexual partners in the past 12 months and uses condoms inconsistently. He is afebrile with no testicular swelling or pain. First-void urine nucleic acid amplification test is positive for Neisseria gonorrhoeae; chlamydia results are still pending. What is the best initial treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Ceftriaxone 250 mg IM single dose plus azithromycin 1 g PO single dose"
+    },
+    {
+     "id": "b",
+     "text": "Ceftriaxone 250 mg IM single dose alone"
+    },
+    {
+     "id": "c",
+     "text": "Azithromycin 1 g PO single dose alone"
+    },
+    {
+     "id": "d",
+     "text": "Doxycycline 100 mg PO BID for 7 days alone"
+    },
+    {
+     "id": "e",
+     "text": "Benzathine penicillin G 2.4 million units IM single dose"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "When urethritis or cervicitis is suspected, treat for both gonococcal and non-gonococcal types (i.e. ceftriaxone AND azithromycin). The listed treatment for gonococcal urethritis/cervicitis is ceftriaxone 250 mg IM single dose plus azithromycin 1 g PO single dose. This man has confirmed gonococcal urethritis, so dual therapy is given now rather than waiting on the pending chlamydia result.",
+   "optionExplanations": {
+    "b": "Ceftriaxone alone covers the gonococcal component but leaves probable coexisting non-gonococcal (usually Chlamydia trachomatis) urethritis untreated.",
+    "c": "Azithromycin 1 g PO is only half of the gonococcal regimen and is not given on its own for confirmed N. gonorrhoeae urethritis.",
+    "d": "Doxycycline 100 mg PO BID x7 d is the non-gonococcal urethritis regimen, and it is prescribed together with the gonococcal urethritis/cervicitis prescription, not by itself.",
+    "e": "Benzathine penicillin G 2.4 million units IM is the treatment for infectious syphilis, which presents with a painless chancre rather than urethral discharge."
+   },
+   "topic": "Sexually Transmitted Infections",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "FM",
+    "name": "Family Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 423,
+    "reference": "FM47 — Diagnosis and Treatment of Common STIs"
    }
   }
  ]

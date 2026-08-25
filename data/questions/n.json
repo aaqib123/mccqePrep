@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 30,
+ "count": 32,
  "questions": [
   {
    "id": "TN-N-001",
@@ -1388,6 +1388,98 @@
     "document": "Toronto Notes 2025",
     "page": 928,
     "reference": "N58 — Common Medications for Neurological Disorders"
+   }
+  },
+  {
+   "id": "TN-N-031",
+   "type": "single-best-answer",
+   "question": "A 74-year-old woman has acute, painless unilateral vision loss in the right eye, preceded by weeks of headache, scalp tenderness, jaw claudication, weight loss and fatigue. Visual acuity and colour vision are severely decreased on the right and there is a right RAPD. Fundoscopic exam shows segmental optic disc edema with retinal dot and flame hemorrhages. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Optic neuritis"
+    },
+    {
+     "id": "b",
+     "text": "Papilledema"
+    },
+    {
+     "id": "c",
+     "text": "Anterior ischemic optic neuropathy"
+    },
+    {
+     "id": "d",
+     "text": "Central retinal vein occlusion"
+    },
+    {
+     "id": "e",
+     "text": "Optic atrophy"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "Anterior ischemic optic neuropathy is described as acute, painless unilateral vision loss in patients over 50 yr and usually over 70 yr, with a relative afferent pupillary defect and segmental optic disc edema. The arteritic form is caused by giant cell arteritis and presents with headache, scalp tenderness, jaw claudication and systemic features such as weight loss, fatigue and fever. This patient's age, systemic features and segmental disc edema fit arteritic AION, and corticosteroids should be started immediately rather than waiting for temporal artery biopsy.",
+   "optionExplanations": {
+    "a": "Optic neuritis occurs under 50 yr with pain on eye movement and optic disc edema involving the optic nerve head, not segmental edema with systemic giant cell arteritis features.",
+    "b": "Papilledema causes bilateral optic disc edema with symptoms of increased intracranial pressure and no relative afferent pupillary defect, and vision loss is late.",
+    "d": "Central retinal vein occlusion gives painless unilateral variable vision loss with venous engorgement and retinal hemorrhage, without headache, scalp tenderness or jaw claudication.",
+    "e": "Optic atrophy is non-reversible death of retinal ganglion cells producing optic disc pallor and permanent vision loss, not acute disc edema."
+   },
+   "topic": "Optic Disc Edema",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "N",
+    "name": "Neurology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 885,
+    "reference": "N15 — Optic Disc Edema"
+   }
+  },
+  {
+   "id": "TN-N-032",
+   "type": "single-best-answer",
+   "question": "A 46-year-old welder in a steel manufacturing plant has 12 months of psychiatric symptoms with hallucinations, and headache. On examination he has extrapyramidal features: rigidity, slowed movement and dystonia of the right arm. He takes no medications and has no family history of neurological disease. Which occupational toxin most likely explains his parkinsonism?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Lead"
+    },
+    {
+     "id": "b",
+     "text": "Mercury"
+    },
+    {
+     "id": "c",
+     "text": "Manganese"
+    },
+    {
+     "id": "d",
+     "text": "Arsenic"
+    },
+    {
+     "id": "e",
+     "text": "Thallium"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "Heavy metal exposure in battery and metal production, steel manufacturing, welders and alloy workers is the occupational setting for manganese toxicity. Manganese is characterized by psychiatric symptoms, hallucinations ('manganese madness'), extrapyramidal features, headache, dystonia and parkinsonism (manganism). This welder's psychiatric symptoms with hallucinations plus extrapyramidal features and dystonia match manganism rather than the other heavy metals.",
+   "optionExplanations": {
+    "a": "Lead causes headache, difficulty concentrating, deficits in short-term memory and peripheral neuropathy, commonly a radial neuropathy resulting in wristdrop, rather than parkinsonism.",
+    "b": "Mercury produces psychiatric symptoms, ataxia, tremor, visual loss, hearing loss, memory disturbances and peripheral neuropathy, not rigidity with dystonia.",
+    "d": "Arsenic causes peripheral neuropathy, encephalopathy, irritability, headache and spasms in appendicular muscles, without extrapyramidal features.",
+    "e": "Thallium causes ataxia, seizures, motor neuropathy and brain edema rather than a parkinsonian syndrome."
+   },
+   "topic": "Occupational Neurotoxic Syndromes",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "N",
+    "name": "Neurology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 888,
+    "reference": "N18 — Selected Occupational Neurotoxic Syndromes"
    }
   }
  ]

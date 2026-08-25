@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 29,
+ "count": 31,
  "questions": [
   {
    "id": "TN-ID-001",
@@ -1342,6 +1342,98 @@
     "document": "Toronto Notes 2025",
     "page": 767,
     "reference": "ID49 — Antibiotics"
+   }
+  },
+  {
+   "id": "TN-ID-030",
+   "type": "single-best-answer",
+   "question": "A 32-year-old man presents with 3 d of painful spasms of the masseters and difficulty opening his mouth, 10 d after a deep puncture wound from a rusty nail. He has no record of immunization. Painful muscle spasms are triggered by loud noises, and he now has rigidity of the neck and abdomen, diaphoresis, and tachycardia. Which antimicrobial therapy is most appropriate?",
+   "options": [
+    {
+     "id": "a",
+     "text": "IV metronidazole"
+    },
+    {
+     "id": "b",
+     "text": "IV vancomycin"
+    },
+    {
+     "id": "c",
+     "text": "IV ceftriaxone"
+    },
+    {
+     "id": "d",
+     "text": "IV acyclovir"
+    },
+    {
+     "id": "e",
+     "text": "Oral azithromycin"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes gives IV metronidazole as the antimicrobial therapy for generalized tetanus (IV penicillin G is listed as an effective alternative), alongside wound debridement, tetanus immune globulin to neutralize unbound toxin, and supportive care. Trismus with painful muscle spasms triggered by sensory stimuli, descending rigidity of neck and abdomen, and autonomic hyperactivity after traumatic implantation of spores in an unimmunized patient is clinically diagnostic of Clostridium tetani infection. Note that antimicrobial therapy may fail unless adequate wound debridement is also performed.",
+   "optionExplanations": {
+    "b": "Vancomycin is not the agent the source names for C. tetani, which is an anaerobic gram-positive bacillus treated with metronidazole.",
+    "c": "Ceftriaxone is not listed as therapy for tetanus; it does not address toxin-producing C. tetani in a devitalized wound.",
+    "d": "IV acyclovir is given empirically until herpes simplex encephalitis is ruled out, a different CNS presentation with fever and altered level of consciousness rather than trismus and tetany.",
+    "e": "Azithromycin has no role in tetanus; the source specifies metronidazole, with penicillin G as the alternative."
+   },
+   "topic": "Generalized Tetanus",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "ID",
+    "name": "Infectious Diseases"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 737,
+    "reference": "ID19 — Generalized Tetanus"
+   }
+  },
+  {
+   "id": "TN-ID-031",
+   "type": "single-best-answer",
+   "question": "A 34-year-old man returns to Canada after two years of agricultural work along fast-flowing rivers in sub-Saharan Africa, where he was bitten repeatedly by blackflies. Over the past year he has developed intensely itchy dermatitis and progressively worsening vision, now with near-blindness in one eye. Which of the following is the most appropriate treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Mebendazole"
+    },
+    {
+     "id": "b",
+     "text": "Diethylcarbamazine plus doxycycline"
+    },
+    {
+     "id": "c",
+     "text": "Ivermectin plus doxycycline"
+    },
+    {
+     "id": "d",
+     "text": "Albendazole"
+    },
+    {
+     "id": "e",
+     "text": "Pyrantel pamoate"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "Toronto Notes lists ivermectin plus doxycycline as the management of Onchocerca volvulus, a nematode of sub-Saharan Africa and Latin America transmitted by blackfly bite and presenting with river blindness (onchocerciasis) and dermatitis. The blackfly exposure along river valleys combined with pruritic dermatitis and progressive visual loss identifies onchocerciasis rather than another roundworm.",
+   "optionExplanations": {
+    "b": "Diethylcarbamazine plus doxycycline is the listed management of Wuchereria bancrofti, a mosquito-borne filaria causing lymphedema and lymphatic filariasis (elephantiasis), not dermatitis with blindness.",
+    "a": "Mebendazole is used for Ascaris lumbricoides, Trichuris trichiura, and Enterobius vermicularis, intestinal nematodes acquired by ingestion of eggs rather than by blackfly bite.",
+    "d": "Albendazole is listed for intestinal nematodes and for Strongyloides stercoralis and Loa loa, but not as the treatment for onchocerciasis.",
+    "e": "Pyrantel pamoate is an option for Ascaris lumbricoides and for pinworm in pregnancy; it does not treat filarial infection."
+   },
+   "topic": "Onchocerciasis",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "ID",
+    "name": "Infectious Diseases"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 757,
+    "reference": "ID39 — Roundworms — Nematodes"
    }
   }
  ]

@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 17,
+ "count": 18,
  "questions": [
   {
    "id": "TN-RH-001",
@@ -790,6 +790,52 @@
     "document": "Toronto Notes 2025",
     "page": 1516,
     "reference": "RH22 — Large Vessel Vasculitis: Giant Cell Arteritis"
+   }
+  },
+  {
+   "id": "TN-RH-018",
+   "type": "single-best-answer",
+   "question": "A 24-year-old woman of Asian descent has six months of fever, weight loss, and fatigue. Examination shows unequal peripheral pulses: blood pressure is 146/88 mmHg in the right arm and unobtainable in the left, with an absent left radial pulse. Investigations show anemia and an elevated CRP; there is no evidence of infection or malignancy. Angiography shows inflammatory thickening of the aorta and its branches. Which of the following is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Takayasu's arteritis"
+    },
+    {
+     "id": "b",
+     "text": "Giant cell arteritis"
+    },
+    {
+     "id": "c",
+     "text": "Polyarteritis nodosa"
+    },
+    {
+     "id": "d",
+     "text": "Granulomatosis with polyangiitis"
+    },
+    {
+     "id": "e",
+     "text": "Microscopic polyangiitis"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The source classifies Takayasu's arteritis as a large vessel vasculitis - \"pulseless disease\" with unequal peripheral pulses and chronic inflammation, most often of the aorta and its branches, and most common in young adults of Asian descent aged 10-40 with F>M predominance. Vasculitis is suspected in systemic illness with constitutional symptoms and no evidence of malignancy or infection, with non-specific labs such as anemia and increased CRP, and angiography is the investigation when tissue is inaccessible. This young woman's absent left radial pulse, unequal arm blood pressures, and inflamed aorta and branches fit that description.",
+   "optionExplanations": {
+    "b": "Giant cell arteritis also involves the aorta and its branches but occurs at age 50 or older and presents with temporal headache, jaw claudication, scalp tenderness, and vision loss.",
+    "c": "Polyarteritis nodosa is a medium vessel segmental, non-granulomatous necrotizing inflammation with average age 40-50 and M>F, not large vessel disease with unequal pulses.",
+    "d": "Granulomatosis with polyangiitis is a small vessel ANCA-associated vasculitis with granulomatous inflammation of the respiratory tract and kidneys causing sinusitis, pulmonary hemorrhage, and glomerulonephritis.",
+    "e": "Microscopic polyangiitis is a pauci-immune necrotizing small vessel vasculitis affecting kidneys, lungs, and skin, and is most common in older age."
+   },
+   "topic": "Takayasu's Arteritis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "RH",
+    "name": "Rheumatology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1512,
+    "reference": "RH18 — Vasculitides: Classification of Vasculitis"
    }
   }
  ]

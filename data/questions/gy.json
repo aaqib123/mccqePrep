@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 24,
+ "count": 26,
  "questions": [
   {
    "id": "TN-GY-001",
@@ -1112,6 +1112,98 @@
     "document": "Toronto Notes 2025",
     "page": 614,
     "reference": "GY20 — Termination of Pregnancy"
+   }
+  },
+  {
+   "id": "TN-GY-025",
+   "type": "single-best-answer",
+   "question": "A 24-year-old woman presents with a sore on her vulva noticed 3 weeks after intercourse with a new partner. Examination shows a single painless ulcer on the labium majus with painless inguinal lymphadenopathy. She has no fever, rash or malaise, and no vesicles are seen. Initial serological testing for syphilis is negative. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Primary syphilis"
+    },
+    {
+     "id": "b",
+     "text": "Secondary syphilis"
+    },
+    {
+     "id": "c",
+     "text": "Herpes simplex virus infection of the vulva"
+    },
+    {
+     "id": "d",
+     "text": "Chancroid"
+    },
+    {
+     "id": "e",
+     "text": "Vulvar gumma of tertiary syphilis"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Primary syphilis appears 3-4 wk after exposure (median incubation 21 d) as a painless chancre on the vulva, vagina, or cervix with painless inguinal lymphadenopathy, and at that stage serological tests are usually negative because the infection is still local. This patient's solitary painless ulcer, painless inguinal nodes and negative serology at 3 weeks fit that description exactly.",
+   "optionExplanations": {
+    "b": "Secondary syphilis occurs 2-6 mo after initial infection with malaise, anorexia, headache, diffuse lymphadenopathy, a generalized maculopapular rash on palms, soles, trunk and limbs, and condylomata lata; serological tests are usually positive by then.",
+    "c": "HSV of the vulva causes multiple, painful, shallow ulcerations with small vesicles, usually accompanied by inguinal lymphadenopathy, malaise and fever in a first infection, and prodromal tingling, burning and pruritus.",
+    "d": "Chancroid (Haemophilus ducreyi) accounts for less than 1% of genital ulcers, far fewer than HSV (70-80%) or primary syphilis (5%), so it is an unlikely explanation for this presentation.",
+    "e": "A vulvar gumma is a rare tertiary syphilis lesion consisting of nodules that enlarge, ulcerate and become necrotic, and it follows long-untreated infection rather than appearing 3 weeks after exposure."
+   },
+   "topic": "Syphilis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "GY",
+    "name": "Gynecology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 624,
+    "reference": "GY30 — Sexually Transmitted Infections: Syphilis"
+   }
+  },
+  {
+   "id": "TN-GY-026",
+   "type": "single-best-answer",
+   "question": "A 55-year-old woman has 3 months of heavy abnormal uterine bleeding and pelvic pressure. Her known uterine fibroids have enlarged rapidly over the past year, and she undergoes hysterectomy for presumed leiomyomata. Pathology of the myometrial tumour shows 15 mitoses per 10 high-power fields, tumour necrosis and marked cellular atypia. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Leiomyosarcoma"
+    },
+    {
+     "id": "b",
+     "text": "Endometrial stromal sarcoma"
+    },
+    {
+     "id": "c",
+     "text": "Undifferentiated uterine sarcoma"
+    },
+    {
+     "id": "d",
+     "text": "Adenosarcoma"
+    },
+    {
+     "id": "e",
+     "text": "Benign leiomyoma with degenerative change"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Leiomyosarcoma is distinguished histologically from leiomyoma by three features: increased mitotic count (10 mitoses/10 high-power fields), tumour necrosis, and cellular atypia. It is the most common type of uterine sarcoma, presents at an average age of 55 yr, often coexists with benign leiomyomata, and is suggested by enlarging fibroids in a peri- or postmenopausal patient. This specimen shows all three criteria, and the diagnosis is characteristically made postoperatively after the uterus is removed for presumed fibroids.",
+   "optionExplanations": {
+    "b": "Endometrial stromal sarcoma arises from endometrial stroma, is usually diagnosed by histology of endometrial biopsy or D&C, and carries a good prognosis; it is not defined by the mitotic count, necrosis and atypia used to separate leiomyosarcoma from leiomyoma.",
+    "c": "Undifferentiated sarcoma is rarer than leiomyosarcoma and shows severe nuclear pleomorphism with a lack of smooth muscle or endometrial stromal differentiation, whereas this tumour is a smooth muscle myometrial mass.",
+    "d": "Adenosarcoma is the rarest uterine sarcoma, a mixed tumour of low malignant potential containing benign epithelium with a malignant low-grade sarcoma, typically a polypoid mass in the uterine cavity.",
+    "e": "A benign leiomyoma lacks the increased mitotic count, tumour necrosis and cellular atypia that define leiomyosarcoma, and would not explain rapid enlargement with these histologic findings."
+   },
+   "topic": "Uterine Sarcoma",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "GY",
+    "name": "Gynecology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 637,
+    "reference": "GY43 — Uterine Sarcoma"
    }
   }
  ]

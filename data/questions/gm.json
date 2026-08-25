@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 11,
+ "count": 12,
  "questions": [
   {
    "id": "TN-GM-001",
@@ -514,6 +514,52 @@
     "document": "Toronto Notes 2025",
     "page": 579,
     "reference": "GM7 — Elder Abuse: Risk Factors, Screening Tools, and Management"
+   }
+  },
+  {
+   "id": "TN-GM-012",
+   "type": "single-best-answer",
+   "question": "An 82-year-old woman living at home reports involuntary discharge of stool without awareness, three to four times per week for the past month. Six weeks ago she was started on a laxative. She is cognitively intact and independently mobile. Digital rectal examination shows an empty rectal vault, normal resting tone, and a normal anal squeeze. Abdominal examination is unremarkable. What is the best initial treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Stop the laxative"
+    },
+    {
+     "id": "b",
+     "text": "Start an antimotility agent such as loperamide"
+    },
+    {
+     "id": "c",
+     "text": "Refer for biofeedback and retraining of the pelvic floor muscles"
+    },
+    {
+     "id": "d",
+     "text": "Perform disimpaction and start a program to prevent impaction"
+    },
+    {
+     "id": "e",
+     "text": "Refer for direct surgical repair of the anal sphincter"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes lists medication (e.g. laxative, anticholinergics, antidepressants, caffeine, muscle relaxants) among the causes of fecal incontinence, and the management of medication-related causes is to stop laxatives, lower the dose, or discontinue any other offending agent. Her passive incontinence - involuntary discharge of stool without awareness - began after a laxative was started, and an empty rectal vault with normal resting tone and anal squeeze argues against fecal impaction and against sphincter weakness. Withdrawing the offending laxative is therefore the best initial treatment.",
+   "optionExplanations": {
+    "b": "Antimotility agents such as loperamide are directed at incontinence from physiological changes with age and loose stool, not at incontinence that a reversible offending drug fully explains.",
+    "c": "Biofeedback and retraining of pelvic floor muscles address weakened anal squeeze from age-related change or neurogenic causes; her resting tone and anal squeeze are normal.",
+    "d": "Disimpaction and impaction prevention are the management for incontinence caused by constipation or fecal impaction, but her rectal vault is empty.",
+    "e": "Direct surgical repair or augmentation of the sphincters is reserved for traumatic or iatrogenic sphincter injury, which she does not have."
+   },
+   "topic": "Fecal Incontinence",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "GM",
+    "name": "Geriatric Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 582,
+    "reference": "GM10 — Fecal Incontinence"
    }
   }
  ]

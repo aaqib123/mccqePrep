@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 6,
+ "count": 7,
  "questions": [
   {
    "id": "TN-MG-001",
@@ -284,6 +284,52 @@
     "document": "Toronto Notes 2025",
     "page": 785,
     "reference": "MG7 — Table 5. Examples of Familial Cancer Syndromes"
+   }
+  },
+  {
+   "id": "TN-MG-007",
+   "type": "single-best-answer",
+   "question": "A 2-year-old boy is assessed in genetics for multisystem involvement. He has a repaired congenital heart defect, a repaired cleft lip, an ear pit, and poor growth. Chromosomal microarray analysis was normal. The geneticist's differential diagnosis includes three conditions, each of which would otherwise require a separate single gene test. Which investigation is most appropriate next?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Karyotype"
+    },
+    {
+     "id": "b",
+     "text": "Fluorescence in situ hybridization (FISH)"
+    },
+    {
+     "id": "c",
+     "text": "Multiplex ligation-dependent probe assay (MLPA)"
+    },
+    {
+     "id": "d",
+     "text": "Sanger sequencing of a single candidate gene"
+    },
+    {
+     "id": "e",
+     "text": "Next generation sequencing multi-gene panel"
+    }
+   ],
+   "correctAnswer": "e",
+   "explanation": "Toronto Notes describes next generation sequencing as a high-throughput method used to sequence multiple genes in parallel, and lists among its indications multisystem involvement, or a differential diagnosis that includes two or more conditions that would require separate genetic tests. This boy has major anomalies in several systems (congenital heart defect and cleft lip) plus a minor anomaly (ear pit) and a differential of several conditions, so sequencing multiple genes in parallel is preferable to running separate targeted tests. NGS is also the technology used for panel sequencing, (W)ES, and (W)GS.",
+   "optionExplanations": {
+    "a": "Karyotype is microscopic analysis of chromosomes and shows only large changes in the number or structure of chromosomes, so it is useful for major aneuploidies and structural chromosomal rearrangements rather than single gene conditions.",
+    "b": "FISH uses a fluorescent-tagged DNA probe to confirm the presence or absence of a specific DNA sequence and localize it, so it requires knowing in advance which sequence to interrogate.",
+    "c": "MLPA is a multiplex PCR assay using probes to evaluate the relative copy number of each DNA sequence, detecting small copy number variants at exon-level resolution rather than sequencing several candidate genes.",
+    "d": "Sanger sequencing is the gold-standard method for identifying single nucleotide variants in the gene(s) known to cause a suspected syndrome, which does not fit a differential of several conditions requiring separate tests."
+   },
+   "topic": "Common Genetic Tests",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "MG",
+    "name": "Medical Genetics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 782,
+    "reference": "MG4 — Genetic Testing and Counselling, Table 1. Common Genetic Tests"
    }
   }
  ]

@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 34,
+ "count": 36,
  "questions": [
   {
    "id": "TN-ER-001",
@@ -1572,6 +1572,98 @@
     "document": "Toronto Notes 2025",
     "page": 302,
     "reference": "ER56 — Psychiatric Emergencies"
+   }
+  },
+  {
+   "id": "TN-ER-035",
+   "type": "single-best-answer",
+   "question": "A 34-year-old man is brought to the emergency department after a stab wound to the left chest. He is pale and in shock with flat neck veins. There is unilateral dullness to percussion and absent breath sounds on the left. Blood volume is being restored and a chest tube is inserted, which immediately drains 1700 cc of blood. What is the most appropriate next step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Needle thoracostomy with a large-bore needle in the 2nd intercostal space, midclavicular line"
+    },
+    {
+     "id": "b",
+     "text": "Air-tight dressing sealed on three sides over the wound"
+    },
+    {
+     "id": "c",
+     "text": "Thoracotomy"
+    },
+    {
+     "id": "d",
+     "text": "Insertion of a second chest tube on the left"
+    },
+    {
+     "id": "e",
+     "text": "Positive pressure ventilation"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "Toronto Notes defines massive hemothorax as >1500 cc blood loss in the chest cavity, presenting with pallor, flat neck veins, shock, unilateral dullness and absent breath sounds. Management is to restore blood volume and place a chest tube, with thoracotomy if there is >1500 cc total blood loss or continued drainage of at least 200 cc/h. This patient's immediate 1700 cc drainage crosses that threshold, so operative control is required.",
+   "optionExplanations": {
+    "a": "Needle thoracostomy at the 2nd intercostal space midclavicular line treats tension pneumothorax, which gives percussion hyperresonance, distended neck veins and tracheal deviation away from the pneumothorax rather than dullness and flat neck veins.",
+    "b": "An air-tight dressing sealed on three sides is the management of an open pneumothorax, where air enters the chest from the wound rather than the trachea.",
+    "d": "A second chest tube does not address blood loss that has already exceeded the 1500 cc threshold mandating operative management.",
+    "e": "Positive pressure ventilation is used for severe pulmonary contusion, a secondary survey injury, not for ongoing intrathoracic hemorrhage."
+   },
+   "topic": "Chest Trauma",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "ER",
+    "name": "Emergency Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 257,
+    "reference": "ER11 — Chest Trauma: Life-Threatening Chest Injuries Found in Primary Survey"
+   }
+  },
+  {
+   "id": "TN-ER-036",
+   "type": "single-best-answer",
+   "question": "A 21-year-old man had a cast applied for a tibial shaft fracture 6 hours ago. He now reports severe pain in the lower leg that is out of proportion to the injury and refractory to usual analgesics, and is much worse with passive stretch of the toes. The anterior compartment is tense. Distal pulses are palpable and the foot is warm. What is the most appropriate next step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Remove the constrictive cast and dressings and arrange emergent fasciotomy"
+    },
+    {
+     "id": "b",
+     "text": "Measure intracompartmental pressure with a Stryker monitor before any intervention"
+    },
+    {
+     "id": "c",
+     "text": "Elevate the limb, increase the analgesia, and reassess in 2 hours"
+    },
+    {
+     "id": "d",
+     "text": "Observe with serial Doppler checks and intervene once pallor or paresthesia develops"
+    },
+    {
+     "id": "e",
+     "text": "Apply longitudinal traction to realign the limb and reassess pulses"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states that compartment syndrome is a clinical diagnosis requiring a high index of suspicion, based on pain out of proportion to the injury, pain worse with passive stretch, and a tense compartment. It requires prompt decompression: remove constrictive casts and dressings, and emergent fasciotomy may be needed, since intracompartmental pressure exceeding capillary perfusion pressure eventually causes muscle and nerve necrosis. This patient has the full clinical triad, so decompression should not be delayed.",
+   "optionExplanations": {
+    "b": "A Stryker compartment pressure monitor is reserved for the unconscious patient; in an alert patient the diagnosis is clinical and measurement only delays decompression.",
+    "c": "Pain refractory to usual analgesics is itself a feature of compartment syndrome, and leaving the constrictive cast in place allows progression to muscle and nerve necrosis.",
+    "d": "Pallor, paresthesia and pulse discrepancies are among the 6 Ps, which indicate advanced compartment syndrome; the source explicitly says not to wait for these signs to diagnose and treat.",
+    "e": "Realigning the limb with longitudinal traction and reassessing pulses is the manoeuvre for a suspected vascular injury, not for a tense compartment with intact distal perfusion."
+   },
+   "topic": "Compartment Syndrome",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "ER",
+    "name": "Emergency Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 261,
+    "reference": "ER15 — Orthopedic Injuries: Compartment Syndrome"
    }
   }
  ]

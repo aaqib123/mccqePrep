@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 23,
+ "count": 25,
  "questions": [
   {
    "id": "TN-G-001",
@@ -1066,6 +1066,98 @@
     "document": "Toronto Notes 2025",
     "page": 481,
     "reference": "G47 — Primary Biliary Cholangitis (Investigations, Treatment)"
+   }
+  },
+  {
+   "id": "TN-G-024",
+   "type": "single-best-answer",
+   "question": "A 34-year-old man with an 8 yr history of ulcerative colitis reports 6 months of fatigue and pruritus. He has excoriations on his forearms, hepatomegaly, and splenomegaly. ALP is markedly increased with only mildly increased bilirubin. p-ANCA is positive and IgM is elevated. Which of the following is the most appropriate investigation to establish the diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "MRCP"
+    },
+    {
+     "id": "b",
+     "text": "ERCP"
+    },
+    {
+     "id": "c",
+     "text": "Percutaneous liver biopsy"
+    },
+    {
+     "id": "d",
+     "text": "Colonoscopy with surveillance biopsies"
+    },
+    {
+     "id": "e",
+     "text": "Serum IgG4 level"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Primary sclerosing cholangitis is inflammation, fibrosis, and stricturing of the biliary tree, associated with IBD (more commonly UC) in up to 70-80% of patients, with increased ALP as the hallmark, p-ANCA in 30-80%, and elevated IgM in 40-50%. MRCP shows narrowing and dilatations of bile ducts that may result in \"beading\" of both intrahepatic and extrahepatic ducts, whereas ERCP should be reserved for intervention, not for diagnosis, because of risks like cholangitis. This man's UC, pruritus, excoriations, hepatosplenomegaly, and cholestatic biochemistry make MRCP the appropriate diagnostic test.",
+   "optionExplanations": {
+    "b": "ERCP should be reserved for intervention rather than diagnosis because of risks such as cholangitis.",
+    "c": "Liver biopsy is considered only if the small duct variant is suspected, which accounts for approximately 10% of cases of PSC.",
+    "d": "Annual colonoscopy is for colon cancer surveillance in those with IBD, not for diagnosing the biliary disease.",
+    "e": "IgG4-related disease is a cause of secondary sclerosing cholangitis, but a serum level does not demonstrate the bile duct narrowing and dilatation needed for diagnosis."
+   },
+   "topic": "Primary Sclerosing Cholangitis",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "G",
+    "name": "Gastroenterology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 480,
+    "reference": "G46 — Primary Sclerosing Cholangitis"
+   }
+  },
+  {
+   "id": "TN-G-025",
+   "type": "single-best-answer",
+   "question": "A 51-year-old man with 20 yr of heavy alcohol use describes several years of recurrent attacks of severe pain in the upper abdomen radiating to the back. Over the past year he has developed steatorrhea, weight loss, and new diabetes. Abdominal imaging shows diffuse pancreatic calcification with duct dilatation and strictures. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Chronic pancreatitis"
+    },
+    {
+     "id": "b",
+     "text": "Acute pancreatitis"
+    },
+    {
+     "id": "c",
+     "text": "Pancreatic pseudocyst"
+    },
+    {
+     "id": "d",
+     "text": "Autoimmune (IgG4-related) pancreatitis"
+    },
+    {
+     "id": "e",
+     "text": "Infected pancreatic necrosis"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Chronic pancreatitis is irreversible damage to the pancreas characterized by pancreatic cell loss, inflammation, and fibrosis; EtOH is the most common cause and accounts for more than 90% of chronic pancreatitis. Precipitation of calcium within the pancreatic duct results in duct and gland destruction, with varying degrees of duct dilatation, strictures, protein plugs, and calcification. Early stages give recurrent attacks of severe abdominal pain in the upper abdomen and back, while late stages bring steatorrhea when more than 90% of function is lost, along with diabetes, calcification, and weight loss, exactly as described here.",
+   "optionExplanations": {
+    "b": "Gallstones and other insults cause acute pancreatitis, which is a discrete attack and does not produce the calcification and irreversible cell loss seen here.",
+    "c": "A pseudocyst is a late complication that is followed if asymptomatic and drained if symptomatic or growing; it does not explain diffuse calcification with steatorrhea and diabetes.",
+    "d": "Autoimmune/steroid-responsive pancreatitis is a much less common etiology, and the heavy alcohol history with calcified duct disease points to the toxic-metabolic cause.",
+    "e": "Infected necrosis is a late complication of severe acute pancreatitis treated with ABx and drainage, not a cause of years of pain with exocrine and endocrine failure."
+   },
+   "topic": "Chronic Pancreatitis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "G",
+    "name": "Gastroenterology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 484,
+    "reference": "G50 — Chronic Pancreatitis"
    }
   }
  ]

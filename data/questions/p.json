@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 47,
+ "count": 49,
  "questions": [
   {
    "id": "TN-P-001",
@@ -2170,6 +2170,98 @@
     "document": "Toronto Notes 2025",
     "page": 1295,
     "reference": "P99 — Kawasaki Disease: Management"
+   }
+  },
+  {
+   "id": "TN-P-048",
+   "type": "single-best-answer",
+   "question": "A 9-year-old girl has 5 days of fever with painful, swollen knees and ankles. She had a sore throat 3 weeks ago. Examination shows firm, painless subcutaneous nodules over both elbows and a non-pruritic annular rash on her trunk. ECG shows a prolonged PR interval, and her anti-streptolysin O titre is elevated. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Acute rheumatic fever"
+    },
+    {
+     "id": "b",
+     "text": "Post-streptococcal glomerulonephritis"
+    },
+    {
+     "id": "c",
+     "text": "Infectious endocarditis"
+    },
+    {
+     "id": "d",
+     "text": "Scarlet fever"
+    },
+    {
+     "id": "e",
+     "text": "Group A streptococcal pharyngitis"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Rheumatic fever is an inflammatory disease due to antibody cross-reactivity following GAS infection, diagnosed clinically by the revised Jones Criteria: 2 major, or 1 major and 2 minor manifestations, plus evidence of preceding strep infection such as a positive ASOT. This girl has three major criteria (arthritis, subcutaneous nodules, erythema marginatum) plus the minor criterion of a prolonged PR interval, with an elevated ASOT confirming antecedent GAS infection. Peak incidence is 5-15 yr, matching her age.",
+   "optionExplanations": {
+    "b": "Post-streptococcal glomerulonephritis follows GAS infection by 1-3 wk but presents with hematuria and features of nephritic syndrome, not arthritis, subcutaneous nodules or erythema marginatum.",
+    "c": "Infectious endocarditis is listed as a chronic complication of rheumatic valvular disease rather than the acute presentation; it would not explain subcutaneous nodules and erythema marginatum with a prolonged PR interval.",
+    "d": "A history of scarlet fever is used as evidence of preceding strep infection within the Jones Criteria; it does not itself cause migratory arthritis, subcutaneous nodules or carditis.",
+    "e": "GAS pharyngitis is the antecedent infection, but her sore throat resolved 3 weeks ago and pharyngitis alone does not produce arthritis, nodules or a prolonged PR interval."
+   },
+   "topic": "Acute Rheumatic Fever",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "P",
+    "name": "Pediatrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1261,
+    "reference": "P65 — Rheumatic Fever"
+   }
+  },
+  {
+   "id": "TN-P-049",
+   "type": "single-best-answer",
+   "question": "A 14-year-old boy is brought in because he has not begun puberty. His growth velocity has been 4 cm/yr. On examination he has no testicular enlargement and is Tanner stage 1. He is otherwise well, with no weight loss, chronic illness, congenital anomalies or neurologic symptoms, and his father had a similarly late growth spurt. What is the most appropriate initial investigation?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Bone age radiograph with serum LH, FSH and testosterone"
+    },
+    {
+     "id": "b",
+     "text": "MRI of the head"
+    },
+    {
+     "id": "c",
+     "text": "Karyotype"
+    },
+    {
+     "id": "d",
+     "text": "LH level following GnRH agonist administration"
+    },
+    {
+     "id": "e",
+     "text": "Celiac disease and IBD panels"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Delayed puberty in males is defined as lack of testicular enlargement by age 14, and is usually due to constitutional delay in activation of the HPG axis, the most common central cause. Toronto Notes lists the initial screening tests as bone age and serum hormone levels (estradiol, testosterone, LH, FSH, TSH, free T4, IGF-1) along with CBC, electrolytes, BUN, Cr, LFTs, ESR, CRP and urinalysis. His normal prepubertal growth velocity of at least 4 cm/yr, absence of illness and positive family history fit constitutional delay, so screening precedes any secondary testing.",
+   "optionExplanations": {
+    "b": "MRI head is listed as a secondary test, reserved for when screening or neurologic symptoms suggest a hypothalamic/pituitary lesion; he has none.",
+    "c": "Karyotype is a secondary test used when hypergonadotropic hypogonadism such as Klinefelter syndrome is suggested by elevated LH and FSH on initial screening.",
+    "d": "LH following GnRH agonist is a secondary test, used to separate constitutional delay from hypogonadotropic hypogonadism after baseline gonadotropins are known.",
+    "e": "Celiac disease and IBD panels are secondary tests for chronic illness as a cause; he has no weight loss or GI symptoms to prompt them first."
+   },
+   "topic": "Delayed Puberty",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "P",
+    "name": "Pediatrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1235,
+    "reference": "P39 — Delayed Puberty"
    }
   }
  ]

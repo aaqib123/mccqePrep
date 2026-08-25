@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 32,
+ "count": 34,
  "questions": [
   {
    "id": "TN-H-001",
@@ -1480,6 +1480,98 @@
     "document": "Toronto Notes 2025",
     "page": 689,
     "reference": "H35 — Hypercoagulability Workup: Venous Thrombosis"
+   }
+  },
+  {
+   "id": "TN-H-033",
+   "type": "single-best-answer",
+   "question": "A 68-year-old man reports six months of fatigue, night sweats, weight loss, and early satiety from marked splenomegaly. Hemoglobin is 88 g/L, leukocyte count 27 x 10^9/L, and LDH is increased. The blood film shows teardrop RBCs, nucleated RBCs, and circulating immature granulocytes. Bone marrow aspiration yields a dry tap. Molecular testing detects a CALR mutation. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Chronic myeloid leukemia"
+    },
+    {
+     "id": "b",
+     "text": "Myelofibrosis"
+    },
+    {
+     "id": "c",
+     "text": "Polycythemia vera"
+    },
+    {
+     "id": "d",
+     "text": "Essential thrombocythemia"
+    },
+    {
+     "id": "e",
+     "text": "Myelodysplastic syndrome"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "In myelofibrosis the blood film shows leukoerythroblastosis with teardrop RBCs and nucleated RBCs, the marrow aspirate is a \"dry tap\" in as many as 50% of patients, and molecular testing shows JAK2 (70%), CALR (25%), or MPL (5-10%) mutations, with BM biopsy showing fibrosis being essential for diagnosis. This man has all of these features. His constitutional symptoms, age >65, Hb <100 g/L, and leukocyte count >25000/mm3 are DIPSS Plus risk factors used to predict survival in myelofibrosis.",
+   "optionExplanations": {
+    "a": "BCR-ABL CML is one of the myeloid neoplasms that must be excluded; it is defined by the Ph chromosome and does not give a dry tap with teardrop RBCs.",
+    "c": "Polycythemia vera is among the entities excluded by these WHO criteria and is characterized by erythrocytosis rather than the anemia and marrow fibrosis seen here.",
+    "d": "Essential thrombocythemia requires a sustained platelet count >450 x 10^9/L with proliferation mainly of enlarged mature megakaryocytes and no significant left shift, not fibrosis with a dry tap.",
+    "e": "MDS is explicitly excluded by the WHO criteria for these neoplasms and does not produce a dry tap with teardrop RBCs and grade 2-3 marrow fibrosis."
+   },
+   "topic": "Myelofibrosis",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "H",
+    "name": "Hematology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 699,
+    "reference": "H45 — Myelofibrosis"
+   }
+  },
+  {
+   "id": "TN-H-034",
+   "type": "single-best-answer",
+   "question": "A 24-year-old man presents with fever, bruising, and bone pain. Bone marrow examination shows 70% lymphoblasts, and flow cytometry confirms precursor B lymphoblastic leukemia. He also describes two weeks of headache, vomiting, and blurred vision. Blasts have cleared from the peripheral blood and his platelet count and PT/PTT are adequate. Induction chemotherapy is about to be initiated. What is the most appropriate investigation now?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Chest radiograph for a mediastinal mass"
+    },
+    {
+     "id": "b",
+     "text": "Lumbar puncture with examination of the cerebrospinal fluid"
+    },
+    {
+     "id": "c",
+     "text": "CT of the chest, abdomen, and pelvis"
+    },
+    {
+     "id": "d",
+     "text": "Testicular ultrasound"
+    },
+    {
+     "id": "e",
+     "text": "HIV, hepatitis B, and hepatitis C serologies"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "In acute lymphoblastic leukemia a lumbar puncture to assess for CNS involvement is mandatory at the time treatment is initiated, once the platelet count and PT/PTT are adequate and blasts have cleared from the peripheral blood. His headache, vomiting, and visual symptoms are the meningeal signs of organ infiltration described in ALL, and both preconditions for the procedure are met, so CSF examination is the investigation to perform now.",
+   "optionExplanations": {
+    "a": "A CXR is obtained because patients with ALL may have a mediastinal mass, but it does not evaluate the meningeal symptoms that are driving the decision here.",
+    "c": "CT C/A/P is used to screen for extranodal disease, not for CNS involvement.",
+    "d": "Testicular ultrasound also screens for extranodal disease and would not detect leukemic meningeal infiltration.",
+    "e": "HIV, HBV, and HCV serologies are part of the routine pre-treatment workup but say nothing about CNS involvement."
+   },
+   "topic": "Acute Lymphoblastic Leukemia",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "H",
+    "name": "Hematology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 700,
+    "reference": "H46 — Acute Lymphoblastic Leukemia"
    }
   }
  ]

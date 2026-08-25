@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 6,
+ "count": 7,
  "questions": [
   {
    "id": "TN-VS-001",
@@ -284,6 +284,52 @@
     "document": "Toronto Notes 2025",
     "page": 1583,
     "reference": "VS3 — Acute Limb Ischemia, Etiology (Embolism vs Thrombosis)"
+   }
+  },
+  {
+   "id": "TN-VS-007",
+   "type": "single-best-answer",
+   "question": "A 62-year-old man with poorly controlled hypertension develops sudden onset tearing chest pain radiating between the scapulae. Blood pressure is 196/104 mmHg, heart rate 98 bpm. There is no diastolic murmur, and abdominal, limb and neurologic examinations are normal. CTA shows a Type B aortic dissection with no spinal, mesenteric or limb malperfusion. He is admitted to the critical care unit. Which of the following is the best initial treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Intravenous labetalol infusion"
+    },
+    {
+     "id": "b",
+     "text": "Intravenous diltiazem infusion"
+    },
+    {
+     "id": "c",
+     "text": "Intravenous nitroglycerin infusion"
+    },
+    {
+     "id": "d",
+     "text": "Intravenous sodium nitroprusside infusion"
+    },
+    {
+     "id": "e",
+     "text": "Oral ramipril"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states that Type B dissection is usually managed medically in the absence of spinal/mesenteric/limb malperfusion syndrome, with acute therapy consisting of intravenous antihypertensives titrated to a systolic BP of 120 mmHg measured by arterial line and a heart rate below 70 bpm in a critical care setting. The first-line agent is a combined alpha and beta-blocker such as labetalol, which lowers blood pressure and decreases cardiac contractility. This patient has an uncomplicated Type B dissection, so IV labetalol is the initial treatment and oral medications can follow after initial control.",
+   "optionExplanations": {
+    "b": "A nondihydropyridine calcium channel blocker such as diltiazem is used only when there are clear contraindications to beta-blockers, or as second-line therapy.",
+    "c": "IV nitroglycerin is listed as a second-line agent, not the initial choice for acute rate and pressure control.",
+    "d": "Vasodilators are added only if blood pressure or heart rate control is insufficient after alpha and beta-blockade, so they are not the initial agent.",
+    "e": "An ACEI is reserved for insufficient BP or HR control, and oral medications are used only after initial intravenous control is achieved."
+   },
+   "topic": "Aortic Dissection",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "VS",
+    "name": "Vascular Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1587,
+    "reference": "VS7 — Aortic Dissection, Treatment"
    }
   }
  ]

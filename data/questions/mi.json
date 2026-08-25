@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 15,
+ "count": 16,
  "questions": [
   {
    "id": "TN-MI-001",
@@ -698,6 +698,52 @@
     "document": "Toronto Notes 2025",
     "page": 815,
     "reference": "MI25 — Nuclear Medicine: Thyroid, Radioactive Iodine Uptake"
+   }
+  },
+  {
+   "id": "TN-MI-016",
+   "type": "single-best-answer",
+   "question": "A 57-year-old man has a 2.5 cm right adrenal mass discovered incidentally on a CT scan performed for flank pain. The lesion is round with smooth margins, homogeneous in texture, low in density, and not highly vascular. Washout of contrast medium is greater than 50% at 10 minutes, and a CT from three years ago shows the lesion has not changed in size. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Adrenocortical adenoma"
+    },
+    {
+     "id": "b",
+     "text": "Adrenocortical carcinoma"
+    },
+    {
+     "id": "c",
+     "text": "Pheochromocytoma"
+    },
+    {
+     "id": "d",
+     "text": "Adrenal metastasis"
+    },
+    {
+     "id": "e",
+     "text": "Adrenal hemorrhage"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states that an adrenal mass is most often identified on CT scan as an 'incidentaloma', and that CT/MRI can be used to distinguish benign from malignant masses. The findings listed for an adrenocortical adenoma are a diameter usually <3 cm, smooth margins and a round/oval shape, homogeneous texture, low vascularity, washout of contrast medium of 50% or more at 10 min, growth that is stable or very slow (<1 cm/yr), and usually low density due to intracellular fat. This lesion matches every one of those features, so it is an adenoma rather than a malignant or functioning mass.",
+   "optionExplanations": {
+    "b": "Adrenocortical carcinoma is usually 4 cm or larger, irregular with unclear margins, heterogeneous with mixed densities, usually vascular, and grows rapidly (about 2 cm/yr) with necrosis, calcifications and hemorrhage.",
+    "c": "Pheochromocytoma is usually 3 cm or larger and heterogeneous with cystic areas, usually vascular, and grows slowly at 0.5-1 cm/yr; it is also markedly hyperintense relative to liver on T2 weighted imaging.",
+    "d": "Metastasis has oval/irregular shape with unclear margins and heterogeneous texture with mixed densities, is usually vascular, and shows variable rather than stable growth.",
+    "e": "Hemorrhage is listed as a feature seen within a pheochromocytoma or occasionally a metastasis, not as the explanation for a small homogeneous low-density mass that has been stable for years."
+   },
+   "topic": "Endocrine Imaging — Adrenal Mass",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "MI",
+    "name": "Medical Imaging"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 809,
+    "reference": "MI19 — Adrenal Mass"
    }
   }
  ]

@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 28,
+ "count": 30,
  "questions": [
   {
    "id": "TN-D-001",
@@ -1296,6 +1296,98 @@
     "document": "Toronto Notes 2025",
     "page": 242,
     "reference": "D54 — Common Oral Therapies"
+   }
+  },
+  {
+   "id": "TN-D-029",
+   "type": "single-best-answer",
+   "question": "A 27-year-old woman describes 3 years of recurrent painful nodules in both axillae and the inguinal folds. She smokes and has gained considerable weight since her teens. Examination shows inflammatory nodules with sinus formation, clusters of open comedones, and hypertrophic scarring of the intertriginous areas, with marked hyperpigmentation. She has no diarrhea, weight loss, or perianal fistula. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Folliculitis"
+    },
+    {
+     "id": "b",
+     "text": "Acne vulgaris"
+    },
+    {
+     "id": "c",
+     "text": "Hidradenitis suppurativa"
+    },
+    {
+     "id": "d",
+     "text": "Crohn's disease"
+    },
+    {
+     "id": "e",
+     "text": "Recurrent pilonidal sinus"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "Toronto Notes defines hidradenitis suppurativa as a chronic scarring inflammatory skin condition resulting from follicular occlusion and inflammation within intertriginous zones and areas rich in apocrine glands. The primary lesions are inflammatory nodules, with sinus formation, clusters of open comedones, and hypertrophic scarring of intertriginous areas, most commonly the axillae followed by the inguinal area and inner thighs. Onset between puberty and age 40, female predominance, significant hyperpigmentation in more pigmented skin, and associations with smoking and excess weight all fit this patient, and the diagnosis is clinical.",
+   "optionExplanations": {
+    "a": "Folliculitis is listed in the differential but produces superficial follicular pustules rather than sinus tracts, double tombstone comedones, and hypertrophic scarring of intertriginous skin.",
+    "b": "Acne vulgaris affects sebaceous areas such as the face, chest, and back rather than the axillae and inguinal folds, and does not form draining sinus tracts.",
+    "d": "Crohn's disease is in the differential of hidradenitis suppurativa, but she has no diarrhea, weight loss, or perianal fistula to suggest bowel involvement.",
+    "e": "Recurrent pilonidal sinus is confined to the natal cleft; it does not explain bilateral axillary and inguinal nodules, although pilonidal disease can accompany hidradenitis as part of the follicular occlusion tetrad."
+   },
+   "topic": "Hidradenitis Suppurativa",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "D",
+    "name": "Dermatology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 235,
+    "reference": "D47 — Adnexal Disorders"
+   }
+  },
+  {
+   "id": "TN-D-030",
+   "type": "single-best-answer",
+   "question": "A 19-year-old man has recurrent attacks of deep swelling of the lips, tongue, and hands since childhood, each lasting about 2 days. Episodes follow minor trauma, emotional upset, or temperature changes. The swelling is never accompanied by pruritic wheals and does not respond to antihistamines. He takes no medications. His father and sister have identical attacks, and an uncle died of laryngeal edema. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Acute allergic angioedema"
+    },
+    {
+     "id": "b",
+     "text": "Hereditary angioedema"
+    },
+    {
+     "id": "c",
+     "text": "Non-allergic drug reaction to an ACE inhibitor"
+    },
+    {
+     "id": "d",
+     "text": "Acquired C1 inhibitor deficiency"
+    },
+    {
+     "id": "e",
+     "text": "Chronic urticaria"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Toronto Notes describes angioedema as deeper swelling of the skin involving subcutaneous tissues, often the eyes, lips, and tongue, which may or may not accompany urticaria. The hereditary form does not occur with urticaria, has onset in childhood with a positive family history in 80%, produces recurrent attacks triggered by minor trauma, emotional upset, or temperature changes, and kills 25% of patients through laryngeal edema. Childhood onset, absence of wheals, characteristic triggers, and affected first-degree relatives make hereditary angioedema the diagnosis; prophylaxis is with danazol or stanozolol, with an epinephrine pen to temporize until the patient reaches hospital in an acute attack.",
+   "optionExplanations": {
+    "a": "Acute allergic angioedema is an acquired form triggered by an identifiable allergen such as food, drugs, contrast media, insect venom, or latex, not by minor trauma or temperature change, and it does not run in families.",
+    "c": "A non-allergic drug reaction to an ACE inhibitor is an acquired cause of angioedema, but this man takes no medications.",
+    "d": "Acquired C1 inhibitor deficiency is also an acquired form, so it would not explain onset in childhood with affected first-degree relatives.",
+    "e": "Urticaria consists of transient, red, pruritic, well-demarcated wheals with each individual lesion lasting less than 24 h, and antihistamines are first line for symptomatic relief; this man has deep swelling without wheals."
+   },
+   "topic": "Angioedema",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "D",
+    "name": "Dermatology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 238,
+    "reference": "D50 — Angioedema and Urticaria"
    }
   }
  ]

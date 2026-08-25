@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 19,
+ "count": 21,
  "questions": [
   {
    "id": "TN-NP-001",
@@ -882,6 +882,98 @@
     "document": "Toronto Notes 2025",
     "page": 862,
     "reference": "NP42 — Renal Transplantation"
+   }
+  },
+  {
+   "id": "TN-NP-020",
+   "type": "single-best-answer",
+   "question": "A 41-year-old man with type 1 diabetes of 25 years' duration presents with sudden right-sided colicky flank pain and gross hematuria. He is afebrile. Creatinine has risen from 95 to 180 umol/L. Ultrasound is described as showing right-sided hydronephrosis with an obstructing filling defect in the mid-ureter and no stone. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Papillary necrosis with a sloughed papilla obstructing the ureter"
+    },
+    {
+     "id": "b",
+     "text": "Kimmelstiel-Wilson nodular glomerulosclerosis"
+    },
+    {
+     "id": "c",
+     "text": "Atonic bladder due to diabetic autonomic neuropathy"
+    },
+    {
+     "id": "d",
+     "text": "Acute tubular necrosis secondary to contrast media"
+    },
+    {
+     "id": "e",
+     "text": "Accelerated atherosclerosis of the renal arteries"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes lists papillary necrosis among the diabetic renal complications: patients with type 1 DM are susceptible to ischemic necrosis of the medullary papillae, and sloughed papillae may obstruct the ureter, presenting as renal colic or with obstructive features and hydronephrosis. This man's colicky flank pain, gross hematuria and unilateral hydronephrosis with a non-calcified obstructing ureteric filling defect fit a sloughed papilla rather than a glomerular or vascular diabetic lesion.",
+   "optionExplanations": {
+    "b": "The classic diabetic glomerular lesion is nodular glomerulosclerosis, which causes progressive proteinuria and falling GFR, not acute unilateral ureteric obstruction.",
+    "c": "Autonomic neuropathy causes an atonic bladder with functional obstruction and urinary retention, which would produce bilateral changes and a distended bladder rather than a unilateral mid-ureteric filling defect.",
+    "d": "Contrast-induced ATN in diabetes follows a contrast load and is a non-obstructive intrinsic injury; it does not cause hydronephrosis or renal colic.",
+    "e": "Accelerated atherosclerosis in diabetes leads to a gradual decrease in GFR and higher blood pressure, not acute colic with an obstructing ureteric lesion."
+   },
+   "topic": "Diabetic Renal Complications",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "NP",
+    "name": "Nephrology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 854,
+    "reference": "NP34 — Diabetic Renal Complications"
+   }
+  },
+  {
+   "id": "TN-NP-021",
+   "type": "single-best-answer",
+   "question": "A 33-year-old woman presents with fatigue and easy bruising. There is no preceding diarrhea. Hemoglobin is 78 g/L with schistocytes on smear, platelets are 32 x 10^9/L, and creatinine has risen to 260 umol/L. ADAMTS13 activity is normal, and stool testing for Shiga toxin-producing E. coli is negative. Complement-mediated hemolytic uremic syndrome is diagnosed. What is the most appropriate treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Eculizumab"
+    },
+    {
+     "id": "b",
+     "text": "Plasma exchange"
+    },
+    {
+     "id": "c",
+     "text": "Corticosteroids alone"
+    },
+    {
+     "id": "d",
+     "text": "Platelet transfusion"
+    },
+    {
+     "id": "e",
+     "text": "Acetylsalicylic acid"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states that treatment of thrombotic microangiopathy depends on the cause: plasma exchange and corticosteroids are used for TTP-HUS, whereas eculizumab, a monoclonal antibody against complement C5, is used for complement-mediated HUS (previously known as atypical HUS). Normal ADAMTS13 activity argues against TTP, in which the enzyme is reduced, and a negative Shiga toxin-producing E. coli result argues against the usual trigger of HUS, leaving complement-mediated disease as the target of therapy.",
+   "optionExplanations": {
+    "b": "Plasma exchange is the listed treatment for TTP-HUS, but ADAMTS13 activity is normal here and the disease is complement mediated, so directed anti-C5 therapy is preferred.",
+    "c": "Corticosteroids are given as part of TTP-HUS treatment and are only supportive here; they do not block the complement pathway driving this patient's microangiopathy.",
+    "d": "The source explicitly advises avoiding platelet transfusions in thrombotic microangiopathy.",
+    "e": "The source explicitly advises avoiding ASA in thrombotic microangiopathy."
+   },
+   "topic": "Thrombotic Microangiopathy",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "NP",
+    "name": "Nephrology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 853,
+    "reference": "NP33 — Thrombotic Microangiopathy"
    }
   }
  ]

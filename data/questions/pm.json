@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 6,
+ "count": 7,
  "questions": [
   {
    "id": "TN-PM-001",
@@ -284,6 +284,52 @@
     "document": "Toronto Notes 2025",
     "page": 1306,
     "reference": "PM8 — Medical Assistance in Dying (MAID)"
+   }
+  },
+  {
+   "id": "TN-PM-007",
+   "type": "single-best-answer",
+   "question": "A 5-year-old girl with a progressive neurologic impairment is followed by a pediatric palliative care team. Her parents report increasing irritability, poor appetite, and intermittent nausea. The team wants a validated tool that this child can complete about her own symptoms, and that can be repeated to assess the efficacy of interventions over time. Which of the following is the most appropriate assessment tool?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Symptom Screening in Pediatrics Tool (SSPedi)"
+    },
+    {
+     "id": "b",
+     "text": "Mini-SSPedi"
+    },
+    {
+     "id": "c",
+     "text": "Memorial Symptom Assessment Scale (MSAS)"
+    },
+    {
+     "id": "d",
+     "text": "Edmonton Symptom Assessment System-revised (ESAS-r)"
+    },
+    {
+     "id": "e",
+     "text": "Palliative Performance Scale (PPS)"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Toronto Notes states that mini-SSPedi is a revised SSPedi geared towards children 4-7 yr, assessing the same 15 symptoms using a three-point, face-based Likert scale. SSPedi itself is used in children age 8-18 yr and MSAS in children 7+ yr, so at age 5 only mini-SSPedi is appropriate. The child's stage of development must be kept in mind, and children 4-5 yr can describe concrete aspects of their own health.",
+   "optionExplanations": {
+    "a": "SSPedi is used in children age 8-18 yr to assess symptoms over time and the efficacy of interventions, and is too old for a 5-year-old.",
+    "c": "MSAS is used in children 7+ yr and measures frequency, severity, and distress of 32 symptoms, so it is not validated at this age.",
+    "d": "ESAS-r is a self-report symptom tool used in the adult palliative population, not one of the pediatric symptom screening tools.",
+    "e": "PPS assesses functional status (ambulation, activity, self-care, intake, consciousness) and has prognostic value in advanced cancer; it does not screen symptoms."
+   },
+   "topic": "Pediatric Palliative Care",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "PM",
+    "name": "Palliative Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1307,
+    "reference": "PM9 — Pediatric Palliative Care: Assessment Tools"
    }
   }
  ]

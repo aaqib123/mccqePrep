@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 22,
+ "count": 23,
  "questions": [
   {
    "id": "TN-OT-001",
@@ -1020,6 +1020,52 @@
     "document": "Toronto Notes 2025",
     "page": 1192,
     "reference": "OT48 — Deep Neck Space Infection"
+   }
+  },
+  {
+   "id": "TN-OT-023",
+   "type": "single-best-answer",
+   "question": "A 71-year-old woman reports a thyroid mass that has been rapidly enlarging over six weeks, with dysphagia, hoarseness, neck pain, and facial edema. She has long-standing Hashimoto's thyroiditis. She also describes fever, night sweats, chills, and 10% weight loss over six months. She has no history of differentiated thyroid carcinoma or nodular goitre. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Papillary thyroid carcinoma"
+    },
+    {
+     "id": "b",
+     "text": "Follicular thyroid carcinoma"
+    },
+    {
+     "id": "c",
+     "text": "Medullary thyroid carcinoma"
+    },
+    {
+     "id": "d",
+     "text": "Anaplastic thyroid carcinoma"
+    },
+    {
+     "id": "e",
+     "text": "Primary thyroid lymphoma"
+    }
+   ],
+   "correctAnswer": "e",
+   "explanation": "Toronto Notes describes primary thyroid lymphoma, most commonly diffuse large B-cell lymphoma, as a rapidly enlarging thyroid mass with dysphagia, dyspnea, stridor, hoarseness, neck pain and facial edema accompanied by \"B\" symptoms, defined as fever, night sweats, chills, and weight loss of 10% in 6 months. A history of Hashimoto's thyroiditis increases the risk 60-fold, and there is a female predominance. The combination of Hashimoto's thyroiditis and B symptoms points to lymphoma rather than to anaplastic carcinoma, which is also more common in elderly women but in which 20-30% have a history of differentiated thyroid cancer or a nodular goitre mass.",
+   "optionExplanations": {
+    "a": "Papillary carcinoma is the most common thyroid cancer but spreads by lymphatics with palpable lymph nodes, shows Orphan Annie nuclei and psammoma bodies, and carries a positive prognosis rather than a fulminant compressive presentation.",
+    "b": "Follicular carcinoma spreads hematogenously with far away metastases and cannot be diagnosed by FNA; it does not produce a rapidly enlarging mass with B symptoms.",
+    "c": "Medullary carcinoma shows amyloid on histology, may secrete calcitonin, and is associated with multiple endocrine neoplasia (MEN IIa or IIb), none of which is present here.",
+    "d": "Anaplastic carcinoma is also more common in the elderly with 70% in women, but 20-30% have a history of differentiated thyroid carcinoma or nodular goitre mass, and it is not linked to Hashimoto's thyroiditis or B symptoms."
+   },
+   "topic": "Thyroid Carcinoma",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "OT",
+    "name": "Otolaryngology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1182,
+    "reference": "OT38 — Thyroid Carcinoma"
    }
   }
  ]

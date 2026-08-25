@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 22,
+ "count": 23,
  "questions": [
   {
    "id": "TN-PL-001",
@@ -1020,6 +1020,52 @@
     "document": "Toronto Notes 2025",
     "page": 1352,
     "reference": "PL42 — Pediatric Craniofacial Anomalies"
+   }
+  },
+  {
+   "id": "TN-PL-023",
+   "type": "single-best-answer",
+   "question": "A 24-year-old man is struck on the side of the nose during a hockey game. He has epistaxis, deviation and flattening of the nose, swelling, periorbital ecchymosis, and tenderness over the nasal dorsum. Anterior rhinoscopy shows a bluish, fluctuant swelling bulging from both sides of the nasal septum, and he reports respiratory obstruction. What is the most appropriate next step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Closed reduction with Asch forceps under anesthesia, then packing of both nostrils"
+    },
+    {
+     "id": "b",
+     "text": "Small incision in the septal mucosa to drain the collection, followed by packing"
+    },
+    {
+     "id": "c",
+     "text": "Application of an external nasal splint for 7 days"
+    },
+    {
+     "id": "d",
+     "text": "Rhinoplasty deferred until the swelling subsides in 5-7 days"
+    },
+    {
+     "id": "e",
+     "text": "Non-adhesive gauze packing of both nostrils alone"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Toronto Notes directs that a nasal fracture be inspected for a septal hematoma, which must be drained because it is a potential cause of septal necrosis and perforation; drainage is completed with a small incision in the septal mucosa followed by packing. The bluish, fluctuant bilateral septal swelling here is a septal hematoma, so drainage takes precedence over correcting the external deformity. The fracture itself is treated for airway or cosmetic issues once the hematoma is dealt with.",
+   "optionExplanations": {
+    "a": "Closed reduction with Asch or Walsham forceps is the treatment for the displaced bony deformity and is best done immediately, but it leaves an undrained septal hematoma to necrose and perforate.",
+    "c": "A nasal splint, like petroleum or non-adhesive gauze packing, is part of aftercare following reduction and does not evacuate a septal hematoma.",
+    "d": "Rhinoplasty is reserved for residual deformity later on, and delaying any intervention 5-7 days allows septal necrosis and perforation to develop.",
+    "e": "Packing alone is used after reduction or drainage; without an incision to evacuate the hematoma the collection remains under the septal mucosa."
+   },
+   "topic": "Nasal Fractures",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "PL",
+    "name": "Plastic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1343,
+    "reference": "PL33 — Nasal Fractures"
    }
   }
  ]

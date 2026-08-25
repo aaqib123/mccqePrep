@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 17,
+ "count": 18,
  "questions": [
   {
    "id": "TN-ELOM-001",
@@ -790,6 +790,52 @@
     "document": "Toronto Notes 2025",
     "page": 50,
     "reference": "ELOM30 — Indigenous Health Coverage and Jurisdictions"
+   }
+  },
+  {
+   "id": "TN-ELOM-018",
+   "type": "single-best-answer",
+   "question": "A 45-year-old male family physician in Ontario is completing the renewal of his practice licence. Over the past year he has been treated for a substance use disorder. He has been abstinent for three months, but his treating physician documents an ongoing relapse risk that may impact his ability to practice safely. He has not told anyone at his clinic. What is the most appropriate next step?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Disclose the condition to the Medical Council of Canada"
+    },
+    {
+     "id": "b",
+     "text": "Disclose the condition to the Canadian Medical Protective Association"
+    },
+    {
+     "id": "c",
+     "text": "Disclose the condition to his provincial medical regulatory (licensing) authority, the CPSO"
+    },
+    {
+     "id": "d",
+     "text": "Disclose the condition to the Royal College of Physicians and Surgeons of Canada"
+    },
+    {
+     "id": "e",
+     "text": "Disclose the condition to his provincial/territorial medical association, the Ontario Medical Association"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "The source states that at times of license investiture and renewal, physicians must disclose if they have a condition (such as substance use disorders, or other illnesses) that may impact their ability to practice safely. That disclosure is owed to the licensing body: all practicing physicians must hold a practice license from the licensing authority in the province in which they practice, membership in it is mandatory, and its functions include maintaining ethical, legal, and competency standards, investigating complaints, and disciplining physicians. In Ontario that authority is the CPSO, and this physician is renewing his licence with a documented condition bearing on safe practice.",
+   "optionExplanations": {
+    "a": "The MCC is a certifying body: it certifies physicians with the LMCC, acquired by passing the MCC Qualifying Examination Parts I and II. It does not license physicians or receive fitness-to-practise disclosures.",
+    "b": "The CMPA is a voluntary physician-run organization providing risk management, educational programs, and legal defence against allegations of malpractice or negligence; it is not the body a licence disclosure is made to.",
+    "d": "The RCPSC certifies residents who complete an accredited residency program and pass the appropriate exam and monitors ongoing CME; certification is separate from provincial licensure.",
+    "e": "PTMAs such as the OMA are voluntary associations that negotiate fee and benefit schedules and represent physicians' economic and professional interests and offer physician health support; they hold no licensing or disciplinary mandate."
+   },
+   "topic": "Physician Licensure and Self-Regulation",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "ELOM",
+    "name": "Ethical, Legal, and Organizational Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 28,
+    "reference": "ELOM8 — Physician Licensure and Certification"
    }
   }
  ]

@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 34,
+ "count": 36,
  "questions": [
   {
    "id": "TN-GS-001",
@@ -1572,6 +1572,98 @@
     "document": "Toronto Notes 2025",
     "page": 563,
     "reference": "GS71 — Adrenal Gland: Incidentaloma"
+   }
+  },
+  {
+   "id": "TN-GS-035",
+   "type": "single-best-answer",
+   "question": "A 63-year-old man has 4 months of abdominal fullness, early satiety, and fatigue. Hemoglobin is 96 g/L and stool is positive for occult blood. Upper endoscopy shows a 6 cm smooth submucosal mass in the gastric body with normal overlying mucosa, and the mucosal biopsies taken are non-diagnostic. The index of suspicion for a gastrointestinal stromal tumour is high. What is the most appropriate investigation?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Endoscopic ultrasound with preoperative biopsy of the lesion"
+    },
+    {
+     "id": "b",
+     "text": "Contrast-enhanced CT of the abdomen"
+    },
+    {
+     "id": "c",
+     "text": "Repeat endoscopy with deeper mucosal biopsies"
+    },
+    {
+     "id": "d",
+     "text": "MRI of the abdomen"
+    },
+    {
+     "id": "e",
+     "text": "Diagnostic laparoscopy"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Toronto Notes lists contrast-enhanced CT as the preferred imaging for screening and staging of gastrointestinal stromal tumour, with MRI reserved for when IV contrast is not feasible. Preoperative biopsy by EUS is useful for indeterminate lesions but is not recommended when there is a high index of suspicion for GIST, which is the case here. Because GISTs are submucosal, mucosal biopsies are sometimes non-diagnostic, so imaging rather than further biopsy is the appropriate next investigation.",
+   "optionExplanations": {
+    "a": "EUS biopsy is reserved for indeterminate lesions and is explicitly not recommended when suspicion for GIST is already high.",
+    "c": "The lesion is submucosal, which is why mucosal biopsies are sometimes non-diagnostic; repeating them does not help.",
+    "d": "MRI is the alternative only if IV contrast is not feasible; contrast-enhanced CT is the preferred study.",
+    "e": "GISTs are sometimes discovered incidentally at laparoscopy, but it is not the investigation of choice for a lesion already seen on endoscopy."
+   },
+   "topic": "Gastrointestinal Stromal Tumour",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "GS",
+    "name": "General and Thoracic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 519,
+    "reference": "GS27 — Gastrointestinal Stromal Tumour"
+   }
+  },
+  {
+   "id": "TN-GS-036",
+   "type": "single-best-answer",
+   "question": "A 52-year-old man is reviewed 6 weeks after an episode of acute pancreatitis. He feels well, eats normally, and has no abdominal pain. He is afebrile and the abdomen is soft and non-tender. Follow-up contrast-enhanced CT shows a 6 cm walled-off peripancreatic fluid collection with a mature fibrous wall and no pseudoaneurysm. What is the most appropriate next step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Endoscopic transmural drainage"
+    },
+    {
+     "id": "b",
+     "text": "Percutaneous catheter drainage"
+    },
+    {
+     "id": "c",
+     "text": "Expectant management with repeat contrast-enhanced CT or MRI in 3-6 months"
+    },
+    {
+     "id": "d",
+     "text": "Surgical cystogastrostomy"
+    },
+    {
+     "id": "e",
+     "text": "Surgical resection of the collection"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "Toronto Notes states that an asymptomatic walled-off pancreatic fluid collection (pseudocyst) is managed expectantly, with a contrast-enhanced CT scan or MRI in 3-6 months, and that up to 40% resolve spontaneously. Drainage is indicated only if the collection is symptomatic, and the procedure chosen then depends on the location of the fluid collection. This man is well and asymptomatic, so observation rather than any drainage or resection procedure is appropriate.",
+   "optionExplanations": {
+    "a": "Endoscopic transmural drainage is a choice for symptomatic collections; it is not indicated while the patient is asymptomatic.",
+    "b": "Percutaneous catheter drainage is another option for a symptomatic collection, not for expectant management.",
+    "d": "Surgical drainage such as cystogastrostomy is reserved for symptomatic pseudocysts.",
+    "e": "Resection is a drainage-alternative for symptomatic disease and is far more invasive than warranted here."
+   },
+   "topic": "Pancreatic Pseudocyst",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "GS",
+    "name": "General and Thoracic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 553,
+    "reference": "GS61 — Walled-Off Pancreatic Fluid Collections (Pseudocysts)"
    }
   }
  ]

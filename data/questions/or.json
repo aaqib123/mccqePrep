@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 26,
+ "count": 28,
  "questions": [
   {
    "id": "TN-OR-001",
@@ -1204,6 +1204,98 @@
     "document": "Toronto Notes 2025",
     "page": 1140,
     "reference": "OR52 — Osteosarcoma"
+   }
+  },
+  {
+   "id": "TN-OR-027",
+   "type": "single-best-answer",
+   "question": "A 24-year-old rugby player is tackled and falls onto the point of his left shoulder with the arm adducted. He has pain on adduction of the shoulder and on palpation over the acromioclavicular joint, limited range of motion, and a palpable step deformity between the distal clavicle and the acromion. Neurovascular examination of the limb is normal. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Acromioclavicular joint dislocation"
+    },
+    {
+     "id": "b",
+     "text": "Middle-third clavicle fracture"
+    },
+    {
+     "id": "c",
+     "text": "Distal-third clavicle fracture"
+    },
+    {
+     "id": "d",
+     "text": "Sternoclavicular joint injury"
+    },
+    {
+     "id": "e",
+     "text": "Medial physeal fracture of the clavicle"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Acromioclavicular joint pathology is subluxation or dislocation of the AC joint, and the mechanism is a fall onto the shoulder with an adducted arm or direct trauma to the point of the shoulder. The clinical features given by the source are pain with adduction of the shoulder and/or palpation over the AC joint, limited ROM, and a palpable step deformity between the distal clavicle and the acromion with dislocation (piano key sign). This patient has that exact mechanism and that exact triad, so the AC joint, not the clavicle shaft, is the injured structure.",
+   "optionExplanations": {
+    "b": "Middle-third fractures account for 80% of clavicle fractures but present with pain and tenting of the skin over the clavicle, with the arm clasped to the chest, rather than a step between the distal clavicle and acromion.",
+    "c": "A distal-third clavicle fracture also produces lateral shoulder pain, but tenderness and deformity are over the clavicle itself; the step deformity at the AC joint indicates disruption of the AC and CC ligaments.",
+    "d": "Sternoclavicular injury involves the medial end of the clavicle and is assessed with CT; it would not produce a step deformity between the distal clavicle and the acromion.",
+    "e": "Medial physeal fractures of the clavicle occur at the medial end and are also a CT indication; they do not explain lateral pain with adduction and an AC joint step."
+   },
+   "topic": "Acromioclavicular Joint Injury",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "OR",
+    "name": "Orthopedic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1104,
+    "reference": "OR16 — Acromioclavicular Joint Pathology"
+   }
+  },
+  {
+   "id": "TN-OR-028",
+   "type": "single-best-answer",
+   "question": "A 38-year-old man falls onto his outstretched hand with the elbow extended and the forearm pronated. He has marked local tenderness over the radial head at the lateral elbow and pain on pronation and supination. X-ray shows a displaced radial head fracture with 4 mm of joint incongruity and a posterior fat pad. On examination there is a mechanical block to forearm rotation. What is the most appropriate treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Elbow slab or sling for 3-5 days with early range of motion"
+    },
+    {
+     "id": "b",
+     "text": "Open reduction and internal fixation"
+    },
+    {
+     "id": "c",
+     "text": "Radial head excision with prosthesis"
+    },
+    {
+     "id": "d",
+     "text": "Cast immobilization with the elbow at 90 degrees of flexion for 6 weeks"
+    },
+    {
+     "id": "e",
+     "text": "Radial head excision without prosthetic replacement"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Radial head fractures are treated by Mason class. A displaced fracture of 2 mm or more is Mason class 2, and ORIF is indicated if angulation is greater than 30 degrees, at least one third of the radial head is involved, at least 3 mm of joint incongruity exists, or there is a block to forearm rotation. ORIF remains the gold standard for Mason class 2 and above. This patient has 4 mm of joint incongruity plus a mechanical block to rotation, so ORIF is indicated.",
+   "optionExplanations": {
+    "a": "An elbow slab or sling for 3-5 days with early ROM is the treatment for a Mason class 1 nondisplaced fracture of less than 2 mm, not for a displaced fracture with a block to rotation.",
+    "c": "Radial head excision with a prosthesis is reserved for comminuted fractures (Mason class 3 and 4) or when ORIF is not feasible; this fracture is displaced but reconstructable.",
+    "d": "Six weeks of cast immobilization causes stiffness — the elbow should not be immobilized beyond 2-3 weeks — and it would not correct the articular incongruity or the mechanical block.",
+    "e": "Excising the radial head without replacing it risks recurrent instability if the MCL is injured, and it does not restore joint congruity in a fracture amenable to fixation."
+   },
+   "topic": "Radial Head Fracture",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "OR",
+    "name": "Orthopedic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1108,
+    "reference": "OR20 — Radial Head Fracture"
    }
   }
  ]

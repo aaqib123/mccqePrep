@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 28,
+ "count": 30,
  "questions": [
   {
    "id": "TN-NS-001",
@@ -1296,6 +1296,98 @@
     "document": "Toronto Notes 2025",
     "page": 948,
     "reference": "NS16 — Primary Central Nervous System Lymphoma"
+   }
+  },
+  {
+   "id": "TN-NS-121",
+   "type": "single-best-answer",
+   "question": "A 34-year-old man reports two years of progressive pain, weakness and wasting of both hands. Examination shows loss of pain and temperature sensation in a band-like distribution over both shoulders and upper arms, with light touch and proprioception preserved. His right shoulder is swollen and deformed but painless. Leg strength and sensation are normal. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Syringomyelia"
+    },
+    {
+     "id": "b",
+     "text": "Chiari I malformation without a syrinx"
+    },
+    {
+     "id": "c",
+     "text": "Tethered cord"
+    },
+    {
+     "id": "d",
+     "text": "Spinal arachnoiditis"
+    },
+    {
+     "id": "e",
+     "text": "Basilar invagination"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Syringomyelia is cystic cavitation of the spinal cord that begins with pain and weakness and later produces atrophy and loss of pain and temperature (spinothalamic tract) in the upper extremities from a central cervical syrinx. The sensory loss occurs in a band-like distribution at the level of the cervical syrinx with touch and proprioception preserved (dorsal column-medial lemniscus pathway), and painless neuropathic arthropathies (Charcot's joints) develop, especially in the shoulder and neck, because of the lost pain and temperature sensation. This patient's dissociated band-like sensory loss, LMN hand wasting and painless destroyed shoulder are that picture; MRI is the best method of confirming it.",
+   "optionExplanations": {
+    "b": "Chiari I malformation is associated with 70% of syrinxes, but it is listed as the cause of the cavity rather than the lesion that produces band-like loss of pain and temperature with preserved touch.",
+    "c": "Tethered cord is one of the listed causes of a syrinx; on its own it does not generate the upper extremity dissociated sensory loss and Charcot's joints described here.",
+    "d": "Arachnoiditis causes non-communicating syringomyelia by disrupting CSF flow dynamics in the cord, so it is an underlying etiology rather than the lesion producing this cape-like pattern.",
+    "e": "Basilar invagination is associated with 10% of syrinxes but is a bony craniovertebral junction anomaly, not the intramedullary cavity responsible for these findings."
+   },
+   "topic": "Syringomyelia",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "NS",
+    "name": "Neurosurgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 965,
+    "reference": "NS33 — Syringomyelia (Syrinx)"
+   }
+  },
+  {
+   "id": "TN-NS-122",
+   "type": "single-best-answer",
+   "question": "A 26-year-old man dives into shallow water and strikes the crown of his head. He is alert and neurologically intact but has severe upper neck pain and tenderness. Open-mouth odontoid x-ray and CT show both lateral masses of C1 displaced outward, with the ring of the atlas disrupted at two points. Which is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Jefferson fracture"
+    },
+    {
+     "id": "b",
+     "text": "Type II odontoid fracture"
+    },
+    {
+     "id": "c",
+     "text": "Hangman fracture"
+    },
+    {
+     "id": "d",
+     "text": "Clay-shoveler fracture"
+    },
+    {
+     "id": "e",
+     "text": "Isolated occipital condylar fracture"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "In a C1 vertebral (Jefferson) fracture, vertical compression forces the occipital condyles of the skull down on the C1 vertebra (atlas), pushing its lateral masses outward and disrupting its ring. Axial loading from a dive onto the crown of the head is exactly that mechanism, and outward displacement of both C1 lateral masses on the open-mouth view with a disrupted atlas ring is its radiographic signature. Imaging is AP spine x-ray (open-mouth and lateral view) and CT, and treatment is immobilization in a cervical collar or halo vest until healing occurs, usually 2-3 months.",
+   "optionExplanations": {
+    "b": "An odontoid fracture causes C1 and the odontoid of C2 to move independently of the C2 body; patients often report a feeling of instability and present holding their head with their hands, and the atlas ring is not split.",
+    "c": "A hangman fracture is a bilateral fracture through the pars interarticularis of C2 with subluxation of C2 on C3, not a burst of the C1 ring.",
+    "d": "A clay-shoveler fracture is an avulsion of a spinous process, usually C6 or C7, and would not displace the C1 lateral masses.",
+    "e": "Vertical compression can also cause an occipital condylar fracture, but on its own it does not disrupt the ring of the atlas or spread its lateral masses."
+   },
+   "topic": "Cervical Spine Fractures",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "NS",
+    "name": "Neurosurgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 971,
+    "reference": "NS39 — Fractures of the Spine"
    }
   }
  ]

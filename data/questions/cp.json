@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 8,
+ "count": 9,
  "questions": [
   {
    "id": "TN-CP-001",
@@ -376,6 +376,52 @@
     "document": "Toronto Notes 2025",
     "page": 182,
     "reference": "CP8 — Effects of Drugs on Receptors"
+   }
+  },
+  {
+   "id": "TN-CP-009",
+   "type": "single-best-answer",
+   "question": "A 2-year-old girl is brought to the emergency department with several days of vomiting and diarrhea. She is lethargic, tachycardic, and poorly perfused, and requires immediate fluids and medications. Repeated attempts at peripheral intravenous access by two experienced clinicians have failed. Which of the following routes of drug administration is the most appropriate next step?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Intraosseous"
+    },
+    {
+     "id": "b",
+     "text": "Intramuscular"
+    },
+    {
+     "id": "c",
+     "text": "Subcutaneous"
+    },
+    {
+     "id": "d",
+     "text": "Rectal"
+    },
+    {
+     "id": "e",
+     "text": "Intranasal"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The intraosseous (IO) route is described as a rapid and reliable route of administration that is helpful for emergency administration of fluids and medications when vascular access has failed. This child needs immediate resuscitation and peripheral intravenous access cannot be obtained, so the IO route is indicated. Its recognized risks include cellulitis, fracture, fat embolism, osteomyelitis, compartment syndrome, and epiphyseal plate necrosis, but these do not outweigh the need for immediate access in an emergency.",
+   "optionExplanations": {
+    "b": "An aqueous intramuscular solution can give rapid onset of action (e.g. epinephrine for serious allergic reactions), but the route is for injections rather than emergency administration of resuscitation fluids, and it causes pain and hematoma at the site of injection.",
+    "c": "The subcutaneous route is an alternative to IV that offers constant, even absorption, but it generally takes smaller volumes than intramuscular injection and repeated injections risk tissue damage, so it cannot deliver emergency fluid resuscitation.",
+    "d": "Rectal administration is used when a patient is NPO, vomiting, or unconscious, but absorption is erratic, it is appropriate for a limited number of drugs, and approximately 50% of drug absorbed still goes through the portal system.",
+    "e": "The intranasal route is highly vascularized with rapid absorption and bypasses the first-pass effect, but not all drugs can be administered intranasally and it is not a route for emergency administration of fluids."
+   },
+   "topic": "Routes of Drug Administration",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "CP",
+    "name": "Clinical Pharmacology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 177,
+    "reference": "CP3 — Routes of Drug Administration"
    }
   }
  ]

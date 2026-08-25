@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 18,
+ "count": 19,
  "questions": [
   {
    "id": "TN-A-001",
@@ -836,6 +836,52 @@
     "document": "Toronto Notes 2025",
     "page": 81,
     "reference": "A27 — Obstetrical Anesthesia: Anesthesia Considerations in Pregnancy"
+   }
+  },
+  {
+   "id": "TN-A-019",
+   "type": "single-best-answer",
+   "question": "A 74-year-old man develops hypotension 10 minutes after a high spinal anesthetic for elective lower limb surgery. Mean arterial pressure is 54 mmHg and heart rate is 48 bpm. His skin is warm, with no peripheral vasoconstriction. Neck veins are flat and the JVP is not elevated. He is afebrile, and surgical blood loss has been minimal. Which type of shock best explains his hypotension?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Hypovolemic/hemorrhagic shock"
+    },
+    {
+     "id": "b",
+     "text": "Spinal/neurogenic shock"
+    },
+    {
+     "id": "c",
+     "text": "Obstructive shock"
+    },
+    {
+     "id": "d",
+     "text": "Cardiogenic shock"
+    },
+    {
+     "id": "e",
+     "text": "Septic shock"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Spinal/neurogenic shock is described as hypotension from decreased sympathetic tone, occurring without tachycardia or peripheral vasoconstriction (warm skin), and a high spinal anesthetic interfering with sympathetic outflow is listed among the causes of intraoperative hypotension. High spinal/epidural anesthesia is also listed as a cause of sinus bradycardia, matching this man's heart rate of 48 bpm. Warm skin, flat neck veins, and hypotension without tachycardia immediately after a high spinal therefore point to loss of sympathetic tone rather than another mechanism.",
+   "optionExplanations": {
+    "a": "Hypovolemic/hemorrhagic shock is the most common form of shock but is due to a decrease in intravascular volume; blood loss here has been minimal and there is no tachycardia or peripheral vasoconstriction.",
+    "c": "Obstructive shock (e.g. tension pneumothorax, cardiac tamponade, pulmonary embolism) gives increased JVP with distended neck veins and increased SVR, not flat neck veins and warm skin.",
+    "d": "Cardiogenic shock from myocardial dysfunction, dysrhythmia, ischemia, or acute valvular dysfunction also produces increased JVP, distended neck veins, and increased SVR with decreased cardiac output.",
+    "e": "Septic shock would be suggested by febrile illness or infection; he is afebrile and the hypotension began with the block."
+   },
+   "topic": "Intraoperative Hypotension and Shock",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "A",
+    "name": "Anesthesia"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 67,
+    "reference": "A13 — Blood Pressure: Causes of Intraoperative Hypotension/Shock"
    }
   }
  ]

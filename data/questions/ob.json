@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 25,
+ "count": 27,
  "questions": [
   {
    "id": "TN-OB-001",
@@ -1158,6 +1158,98 @@
     "document": "Toronto Notes 2025",
     "page": 1035,
     "reference": "OB49 — Table 22: Lactational vs. Non-Lactational Mastitis"
+   }
+  },
+  {
+   "id": "TN-OB-026",
+   "type": "single-best-answer",
+   "question": "A 32-year-old G3P2 at 30 weeks gestation presents with a second episode of bright red vaginal bleeding that began while she was resting and has now stopped on its own. She reports no abdominal pain and no contractions. Her uterus is soft and non-tender, the presenting fetal part is high, and the fetal heart rate is normal. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Bloody show"
+    },
+    {
+     "id": "b",
+     "text": "Placenta previa"
+    },
+    {
+     "id": "c",
+     "text": "Placental abruption"
+    },
+    {
+     "id": "d",
+     "text": "Vasa previa"
+    },
+    {
+     "id": "e",
+     "text": "Uterine rupture"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Placenta previa is a placenta implanted in the lower segment of the uterus covering the internal cervical os, and it causes painless bright red vaginal bleeding that is recurrent and may cease spontaneously, with a mean onset of bleeding at 30 wk GA. On examination the uterus is soft and non-tender, the presenting fetal part is high or displaced, and the FHR is usually normal, which is exactly this presentation. In contrast, bleeding from placental abruption is usually painful. Do not perform a digital vaginal exam until placenta previa has been ruled out by U/S; speculum and transvaginal probe are safe.",
+   "optionExplanations": {
+    "a": "Bloody show represents cervical changes and early dilation and is the most common physiologic etiology of third-trimester bleeding, but she has no contractions and the bleeding is recurrent and frankly bright red.",
+    "c": "Abruption is premature separation of a normally implanted placenta and bleeding is usually painful, with risk factors such as maternal hypertension, smoking, cocaine, or trauma; her uterus is soft and non-tender.",
+    "d": "Vasa previa is in the differential for antepartum hemorrhage but characteristically bleeds at rupture of membranes; her membranes are intact and the bleeding is recurrent and painless.",
+    "e": "Uterine rupture is listed in the differential diagnosis of antepartum hemorrhage but is not suggested here without labour, pain, or a previous uterine scar."
+   },
+   "topic": "Antepartum Hemorrhage: Placenta Previa",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "OB",
+    "name": "Obstetrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1000,
+    "reference": "OB14 — Antepartum Hemorrhage: Placenta Previa"
+   }
+  },
+  {
+   "id": "TN-OB-027",
+   "type": "single-best-answer",
+   "question": "A 27-year-old G1 has a vacuum-assisted vaginal delivery at 40 weeks gestation after a second stage lasting three hours. Inspection of the perineal laceration shows a tear that involves the fascia and muscles of the perineal body and extends through the external anal sphincter and the internal anal sphincter. The rectal mucosa is intact. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "2nd degree perineal laceration"
+    },
+    {
+     "id": "b",
+     "text": "3rd degree laceration, 3A"
+    },
+    {
+     "id": "c",
+     "text": "3rd degree laceration, 3B"
+    },
+    {
+     "id": "d",
+     "text": "3rd degree laceration, 3C"
+    },
+    {
+     "id": "e",
+     "text": "4th degree perineal laceration"
+    }
+   ],
+   "correctAnswer": "d",
+   "explanation": "A 3rd degree laceration involves the anal sphincter and is subdivided as 3A (<50% of external anal sphincter), 3B (>50% of external anal sphincter), and 3C (external and internal anal sphincters). A 4th degree laceration extends through the anal sphincter complex (external and internal) and into the rectal mucosa. This patient's external and internal anal sphincters are both involved while the rectal mucosa is spared, so this is a 3C injury; vacuum-assisted vaginal delivery and a second stage of labour longer than 2 h are risk factors for obstetric anal sphincter injuries.",
+   "optionExplanations": {
+    "a": "A 2nd degree laceration involves the fascia and muscles of the perineal body but not the anal sphincter, which is involved in this patient.",
+    "b": "3A is a tear of <50% of the external anal sphincter, whereas her external anal sphincter is disrupted along its full thickness.",
+    "c": "3B is >50% of the external anal sphincter without involvement of the internal anal sphincter, which is also involved here.",
+    "e": "A 4th degree laceration extends through the anal sphincter complex and into the rectal mucosa, which is intact on examination."
+   },
+   "topic": "Perineal Lacerations",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "OB",
+    "name": "Obstetrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1030,
+    "reference": "OB44 — Perineal Lacerations"
    }
   }
  ]

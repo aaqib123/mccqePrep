@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 22,
+ "count": 24,
  "questions": [
   {
    "id": "TN-OP-001",
@@ -1020,6 +1020,98 @@
     "document": "Toronto Notes 2025",
     "page": 1083,
     "reference": "OP43 — Chemical Burns"
+   }
+  },
+  {
+   "id": "TN-OP-023",
+   "type": "single-best-answer",
+   "question": "A 68-year-old man has 4 days of burning pain and a vesicular rash over his left forehead and upper eyelid that is unilateral and respects the midline, with vesicles on the tip of his nose. The left eye is red and tearing with photophobia. Slit-lamp examination shows corneal edema with a pseudodendrite and SPK, and corneal sensation is reduced. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Herpes simplex epithelial keratitis"
+    },
+    {
+     "id": "b",
+     "text": "Herpes zoster ophthalmicus"
+    },
+    {
+     "id": "c",
+     "text": "Corneal abrasion"
+    },
+    {
+     "id": "d",
+     "text": "Bacterial corneal ulcer"
+    },
+    {
+     "id": "e",
+     "text": "Chronic interstitial keratitis"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Herpes zoster ophthalmicus occurs from reactivation of latent herpes zoster virus and produces dermatitis in the dermatomal distribution of CN V1 that is typically unilateral and respects the midline, with pain, tearing, photophobia, red eye, corneal edema, pseudodendrite, SPK, and corneal hypoesthesia. Hutchinson's sign - involvement of the tip of the nose, the nasociliary branch of V1 - predicts globe involvement in about 75% of cases. This man's midline-respecting V1 rash with nasal tip vesicles, pseudodendrite and corneal hypoesthesia fits that description, and he needs an oral antiviral immediately.",
+   "optionExplanations": {
+    "a": "The classic form of HSV infectious epithelial keratitis is a dendritic lesion with terminal end bulbs that stains with fluorescein, not a dermatomal V1 vesicular rash with Hutchinson's sign.",
+    "c": "A corneal abrasion is acute and commonly follows trauma, and the cornea stays clear; it does not produce a dermatomal facial rash or corneal hypoesthesia.",
+    "d": "An ulcer is subacute with a white, necrotic corneal area, obscured iris detail and extension into stroma; corneal ulceration here would be a complication, not the presenting diagnosis.",
+    "e": "Chronic interstitial keratitis is listed as a complication of virus penetrating into the stroma, not the acute dermatomal presentation described."
+   },
+   "topic": "Herpes Zoster Ophthalmicus",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "OP",
+    "name": "Ophthalmology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1059,
+    "reference": "OP19 — Herpes Zoster Ophthalmicus"
+   }
+  },
+  {
+   "id": "TN-OP-024",
+   "type": "single-best-answer",
+   "question": "A 74-year-old woman reports 2 years of gradually worsening drooping of the right upper eyelid, now blocking her superior field. There is no diplopia and no variability through the day, and the pupils are equal. The right lid shows 3 mm of ptosis with a high lid crease, and levator function is normal at 12 mm. Which surgical procedure is most appropriate?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Müller-conjunctival resection (Putterman)"
+    },
+    {
+     "id": "b",
+     "text": "Levator advancement"
+    },
+    {
+     "id": "c",
+     "text": "Levator resection"
+    },
+    {
+     "id": "d",
+     "text": "Frontalis suspension with fascia lata"
+    },
+    {
+     "id": "e",
+     "text": "Tarso-müller-conjunctival resection (Fasanella-Servat)"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Surgery for ptosis is selected by the amount of ptosis and the levator function: mild ptosis (<2 mm) with normal levator function is treated by Müller-conjunctival resection (Putterman) or tarso-müller-conjunctival resection (Fasanella-Servat); >2 mm ptosis with normal levator function by levator advancement; >2 mm with moderate levator function (4-10 mm of levator function) by levator resection; and >2 mm with severe levator function (<4 mm) by frontalis suspension. This woman has painless, gradually progressive aponeurotic ptosis of 3 mm with normal levator function, so levator advancement is the indicated procedure.",
+   "optionExplanations": {
+    "a": "Müller-conjunctival resection (Putterman) is reserved for mild ptosis under 2 mm with normal levator function, and her ptosis is 3 mm.",
+    "c": "Levator resection is for >2 mm ptosis with moderate levator function of 4-10 mm, whereas her levator function is normal at 12 mm.",
+    "d": "Frontalis suspension, using materials such as fascia lata or silicone, is for >2 mm ptosis with severe levator function of less than 4 mm.",
+    "e": "Tarso-müller-conjunctival resection (Fasanella-Servat) is likewise an option for mild ptosis under 2 mm with normal levator function."
+   },
+   "topic": "Ptosis",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "OP",
+    "name": "Ophthalmology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1052,
+    "reference": "OP12 — Lids and Lashes: Ptosis"
    }
   }
  ]

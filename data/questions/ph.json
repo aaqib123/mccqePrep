@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 17,
+ "count": 18,
  "questions": [
   {
    "id": "TN-PH-001",
@@ -790,6 +790,52 @@
     "document": "Toronto Notes 2025",
     "page": 1449,
     "reference": "PH31 — Occupational Hazards"
+   }
+  },
+  {
+   "id": "TN-PH-018",
+   "type": "single-best-answer",
+   "question": "A 52-year-old family physician runs a solo practice in a town that has flooded twice in the past decade. The municipality already has a provincial emergency response plan and a centralized facility to coordinate the entire response to a disaster. She now wants a document setting out guidelines on how her office's critical functions and services would be maintained if the next flood closed her building for weeks. Which of the following is the next best step for her practice?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Develop a Continuity of Operations Plan (COOP)"
+    },
+    {
+     "id": "b",
+     "text": "Develop a second Emergency Response Plan (ERP) for the practice"
+    },
+    {
+     "id": "c",
+     "text": "Adopt an Incident Management System (IMS) for the practice"
+    },
+    {
+     "id": "d",
+     "text": "Designate an Emergency Operations Centre (EOC) for the practice"
+    },
+    {
+     "id": "e",
+     "text": "Implement an early detection system and disaster preparedness program"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes separates the disaster-management instruments by purpose: a Continuity of Operations Plan provides guidelines on how critical functions and services will be maintained in the event of a disaster, and gives maintaining the operations of a physician's office during a disaster as its own example. What this physician is asking for is exactly that — continuity of her practice's critical functions and services — rather than coordination of the municipality's overall response, so a COOP is the document to develop.",
+   "optionExplanations": {
+    "b": "An Emergency Response Plan outlines the policies, procedures, roles, and responsibilities of various parties to coordinate action; the municipality already has one, and it does not address how her own critical services continue.",
+    "c": "An Incident Management System applies during the response phase, standardizing responses to an incident across personnel, facilities, equipment, financing, procedures, and public information communications — not sustaining routine services.",
+    "d": "An Emergency Operations Centre is a centralized facility or location to coordinate the entire response to a disaster; the stem states one already exists, and it is a site rather than a plan for her practice.",
+    "e": "Early detection systems and disaster preparedness programs mitigate disasters before they occur, but they do not specify how her critical functions and services would be maintained once one has occurred."
+   },
+   "topic": "Disaster Preparedness and Emergency Response",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "PH",
+    "name": "Public Health and Preventive Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1448,
+    "reference": "PH30 — Disaster Preparedness, Emergency Response, and Recovery"
    }
   }
  ]

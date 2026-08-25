@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 38,
+ "count": 40,
  "questions": [
   {
    "id": "TN-C-001",
@@ -1756,6 +1756,98 @@
     "document": "Toronto Notes 2025",
     "page": 159,
     "reference": "C69 — Cardiopulmonary Bypass: Mechanics"
+   }
+  },
+  {
+   "id": "TN-C-039",
+   "type": "single-best-answer",
+   "question": "A 49-year-old woman is 7 weeks post cardiac transplantation for end-stage heart failure. She reports four days of fatigue and mild exertional dyspnea. She is afebrile and normotensive with no hemodynamic compromise, and echocardiography shows a new fall in left ventricular ejection fraction. Her immunosuppressive regimen includes prednisone, cyclosporine, and tacrolimus. Which investigation is most appropriate to confirm the suspected diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Endomyocardial biopsy"
+    },
+    {
+     "id": "b",
+     "text": "Coronary angiography to assess for allograft vasculopathy"
+    },
+    {
+     "id": "c",
+     "text": "Right heart catheterization to measure pulmonary vascular resistance"
+    },
+    {
+     "id": "d",
+     "text": "Measurement of peak myocardial oxygen consumption on exercise testing"
+    },
+    {
+     "id": "e",
+     "text": "Serum cyclosporine and tacrolimus levels with renal function testing"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes names endomyocardial biopsy as the gold standard to detect rejection after cardiac transplantation, and states that the risk of acute rejection is greatest during the first 3 mo after transplant. This patient is 7 weeks post-transplant with new allograft dysfunction, placing her within that window, so biopsy is the test that establishes the diagnosis. Fewer than 13% of recipients experience an episode needing treatment and fewer than 5% have serious hemodynamic compromise, so the absence of hemodynamic compromise does not exclude rejection.",
+   "optionExplanations": {
+    "b": "Allograft vasculopathy develops in approximately 50% of recipients within 10 yr and is the most common cause of late death; it is not the explanation for graft dysfunction at 7 weeks.",
+    "c": "Pulmonary vascular resistance is measured before transplantation to exclude irreversible pulmonary HTN as a contraindication, not to diagnose rejection afterwards.",
+    "d": "Peak metabolic oxygen consumption is part of the pre-transplant assessment of severe cardiac disability and of the HFSS, not a post-transplant diagnostic test.",
+    "e": "Cyclosporine and tacrolimus can be nephrotoxic, but drug levels and renal function do not confirm or exclude allograft rejection."
+   },
+   "topic": "Cardiac Transplantation",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "C",
+    "name": "Cardiology and Cardiac Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 141,
+    "reference": "C51 — Cardiac Transplantation"
+   }
+  },
+  {
+   "id": "TN-C-040",
+   "type": "single-best-answer",
+   "question": "A 61-year-old woman has a sudden episode of right arm weakness and slurred speech that resolves within an hour. She is afebrile, has no murmur, and blood cultures are negative. She has no history of malignancy. Transthoracic echocardiography, used as the first-line imaging modality, shows a small mobile papillary mass attached to a leaflet of the aortic valve. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Papillary fibroelastoma"
+    },
+    {
+     "id": "b",
+     "text": "Cardiac myxoma"
+    },
+    {
+     "id": "c",
+     "text": "Cardiac angiosarcoma"
+    },
+    {
+     "id": "d",
+     "text": "Cardiac rhabdomyoma"
+    },
+    {
+     "id": "e",
+     "text": "Metastatic melanoma involving the heart"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states that papillary fibroelastomas are the most common valvular tumours, with equal incidence at AV and semilunar valves, and that they remain asymptomatic until sentinel events such as distal embolization and coronary ostial obstruction. A mobile mass on a valve leaflet producing a transient embolic neurological event is exactly that presentation. Resection with repair of the valvular tissue is preferred over valve replacement.",
+   "optionExplanations": {
+    "b": "Myxomas are the most common benign cardiac tumour overall in adults (50%), but they arise in the atria — most often the left atrium — rather than on a valve leaflet.",
+    "c": "Sarcomas are the most common primary malignant cardiac tumour (75%), but they are invasive masses that metastasize early, not small mobile valvular lesions in an otherwise well patient.",
+    "d": "Rhabdomyomas are congenital tumours that make up the majority of benign cardiac tumours in pediatric patients, not a lesion of a 61-year-old.",
+    "e": "Melanoma is a common source of cardiac metastases, but metastatic involvement requires a known primary and typically presents with pericardial effusion with or without tamponade."
+   },
+   "topic": "Cardiac Tumours",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "C",
+    "name": "Cardiology and Cardiac Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 143,
+    "reference": "C53 — Cardiac Tumours"
    }
   }
  ]

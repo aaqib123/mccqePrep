@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 28,
+ "count": 30,
  "questions": [
   {
    "id": "TN-PS-001",
@@ -1296,6 +1296,98 @@
     "document": "Toronto Notes 2025",
     "page": 1387,
     "reference": "PS33 — Somatic Symptom and Related Disorders"
+   }
+  },
+  {
+   "id": "TN-PS-029",
+   "type": "single-best-answer",
+   "question": "A 63-year-old woman is seen after her landlord reported that her apartment is unsafe. For many years she has been unable to discard newspapers, empty containers, and clothing regardless of their actual value, saving them because discarding creates intense distress. Possessions now clutter her kitchen and bedroom so that these active living areas cannot be used. She has no intrusive contamination thoughts and no washing or checking rituals. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Hoarding disorder"
+    },
+    {
+     "id": "b",
+     "text": "Obsessive-compulsive disorder"
+    },
+    {
+     "id": "c",
+     "text": "Major depressive disorder"
+    },
+    {
+     "id": "d",
+     "text": "Major neurocognitive disorder"
+    },
+    {
+     "id": "e",
+     "text": "Body dysmorphic disorder"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Hoarding disorder is persistent difficulty discarding possessions regardless of actual value, with a felt need to save items and distress created by discarding, resulting in possessions cluttering and compromising active living areas and causing clinically significant distress or functional impairment. The diagnosis requires ruling out brain injury, cerebrovascular disease, OCD, MDD with low energy, psychotic disorder with delusions, and neurocognitive disorder. Her accumulation is driven by the need to save rather than by obsessions or rituals, and her active living areas are compromised, so hoarding disorder fits.",
+   "optionExplanations": {
+    "b": "OCD is an explicit rule-out; her saving is not driven by intrusive obsessions and there are no washing or checking compulsions.",
+    "c": "MDD is a rule-out in which clutter accumulates from low energy, not from a need to save items and distress on discarding.",
+    "d": "Neurocognitive disorder is a rule-out; there is no cognitive decline here, and the clutter reflects deliberate saving of possessions.",
+    "e": "Body dysmorphic disorder is preoccupation with perceived flaws in physical appearance with repetitive behaviours such as mirror checking or excessive grooming."
+   },
+   "topic": "Hoarding Disorder",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "PS",
+    "name": "Psychiatry"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1374,
+    "reference": "PS20 — Related Disorders"
+   }
+  },
+  {
+   "id": "TN-PS-030",
+   "type": "single-best-answer",
+   "question": "A 68-year-old woman is seen seven weeks after the death of her husband. She is tearful, sleeps poorly, and says she misses him constantly. Twice she has transiently heard his voice calling her name and once briefly saw his image in the hallway. She feels sad but denies worthlessness, has no psychomotor retardation, and continues to run her home and see friends. What is the most appropriate initial management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Support and watchful waiting, with education and normalization of the grief process"
+    },
+    {
+     "id": "b",
+     "text": "Start an antidepressant for her depressed mood"
+    },
+    {
+     "id": "c",
+     "text": "Prescribe an anti-anxiety medication for her distress and insomnia"
+    },
+    {
+     "id": "d",
+     "text": "Start an antipsychotic to treat the hallucinatory experiences"
+    },
+    {
+     "id": "e",
+     "text": "Refer for treatment of persistent complex bereavement disorder"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "In bereavement, support and watchful waiting should be first line, along with education and normalization of the grief process; normal grief should not be treated with antidepressant or anti-anxiety medications because it is important to allow the person to experience the whole mourning process to achieve resolution. Hearing the voice or transiently seeing the image of the deceased is within normal bereavement, whereas abnormal grief or MDD is suggested by morbid preoccupation with worthlessness, marked psychomotor retardation, or prolonged and marked functional impairment, none of which she has. Management should still include assessment for secondary conditions such as PTSD, depression, suicidal ideation, and increased substance use.",
+   "optionExplanations": {
+    "b": "Normal grief should not be treated with antidepressants; she lacks the worthlessness, psychomotor retardation, and functional impairment that would indicate MDD.",
+    "c": "Normal grief should not be treated with anti-anxiety medications, as this prevents the person from experiencing the whole mourning process.",
+    "d": "Hallucinatory experiences limited to hearing the voice or transiently seeing the image of the deceased are part of normal bereavement, not psychosis.",
+    "e": "Persistent complex bereavement disorder is only considered after 12 months of continued yearning and preoccupation with the deceased; she is seven weeks bereaved."
+   },
+   "topic": "Bereavement",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "PS",
+    "name": "Psychiatry"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1376,
+    "reference": "PS22 — Bereavement"
    }
   }
  ]

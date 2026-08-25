@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 21,
+ "count": 22,
  "questions": [
   {
    "id": "TN-U-001",
@@ -974,6 +974,52 @@
     "document": "Toronto Notes 2025",
     "page": 1574,
     "reference": "U44 — Bladder Catheterization"
+   }
+  },
+  {
+   "id": "TN-U-022",
+   "type": "single-best-answer",
+   "question": "A 71-year-old woman reports 3 weeks of right flank pain and gross hematuria. CTU shows a filling defect in the right renal pelvis with hydronephrosis. Cystoscopy shows no bladder lesion, and retrograde pyelogram with biopsy confirms high grade urothelial carcinoma of the renal pelvis. Renal function is normal and there is no evidence of metastatic disease. Which is the most appropriate treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Radical nephroureterectomy with excision of the ipsilateral bladder cuff"
+    },
+    {
+     "id": "b",
+     "text": "Distal ureterectomy with concomitant ureteral reimplantation"
+    },
+    {
+     "id": "c",
+     "text": "Segmental resection with uretero-ureterostomy"
+    },
+    {
+     "id": "d",
+     "text": "Endoscopic laser ablation of the tumour"
+    },
+    {
+     "id": "e",
+     "text": "Radical cystectomy with ileal conduit urinary diversion"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes gives radical nephroureterectomy with excision of the ipsilateral bladder cuff as the treatment for urothelial carcinoma of the renal pelvis and ureter, reserving lesser resections for tumours confined to the ureter. This woman presents with the typical picture of gross hematuria, flank pain, and hydronephrosis with a filling defect, and her tumour is in the renal pelvis and high grade, so the whole upper tract unit plus the bladder cuff must be removed.",
+   "optionExplanations": {
+    "b": "Distal ureterectomy with concomitant ureteral reimplant is used for distal ureteral tumours, not for a tumour of the renal pelvis.",
+    "c": "Segmental resection with uretero-ureterostomy is an option for some mid-ureteral tumours only.",
+    "d": "Endoscopic laser ablation has an emerging role in patients with low grade disease and poor baseline renal health; her disease is high grade and her renal function is normal.",
+    "e": "Radical cystectomy treats bladder carcinoma, and cystoscopy showed no bladder lesion here."
+   },
+   "topic": "Upper Tract Urothelial Carcinoma",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "U",
+    "name": "Urology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1554,
+    "reference": "U24 — Carcinoma of the Renal Pelvis and Ureter"
    }
   }
  ]

@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 16,
+ "count": 17,
  "questions": [
   {
    "id": "TN-R-001",
@@ -744,6 +744,52 @@
     "document": "Toronto Notes 2025",
     "page": 1484,
     "reference": "R30 — OSA, Risk Factors and Treatment"
+   }
+  },
+  {
+   "id": "TN-R-017",
+   "type": "single-best-answer",
+   "question": "A 46-year-old man who breeds pigeons develops dyspnea, cough, fever, chills and malaise about 5 hours after cleaning his loft; the symptoms last roughly 20 hours and then settle. This has recurred several times over the past year. Chest radiograph shows diffuse infiltrates, predominantly upper lobe. Bronchoscopy with lavage shows a lymphocyte-predominant differential cell count. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Hypersensitivity pneumonitis"
+    },
+    {
+     "id": "b",
+     "text": "Sarcoidosis"
+    },
+    {
+     "id": "c",
+     "text": "Idiopathic pulmonary fibrosis"
+    },
+    {
+     "id": "d",
+     "text": "Silicosis"
+    },
+    {
+     "id": "e",
+     "text": "Asbestosis"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Hypersensitivity pneumonitis (extrinsic allergic alveolitis) is a spectrum of immune-mediated lung disorders occurring in response to an inhaled organic antigen, and exposure is often related to occupation or hobby — here bird breeder's/bird fancier's lung, an immune response to bird antigen. Acute HP presents 4-6 h after exposure with dyspnea, cough, fever, chills and malaise lasting 18-24 h, the acute CXR shows diffuse infiltrates predominantly upper lobe, and bronchoscopy with lavage gives a lymphocytic-predominant differential cell count. The tight timing of symptoms after each loft exposure, with resolution in about a day, fits this pattern.",
+   "optionExplanations": {
+    "b": "Sarcoidosis is an idiopathic non-infectious granulomatous multi-system disease whose most common presentation is an asymptomatic CXR finding of hilar adenopathy, not fever and dyspnea 4-6 h after a specific antigen exposure.",
+    "c": "Idiopathic pulmonary fibrosis has an insidious course without an exposure trigger; biopsy is often required to distinguish it from chronic HP, but it does not produce recurrent same-day febrile episodes.",
+    "d": "Silicosis is a dust pneumoconiosis giving upper more than lower lobe fibrotic change over years of mineral dust exposure, not an antigen-timed acute illness lasting 18-24 h.",
+    "e": "Asbestosis produces lower more than upper lobe fibrotic change after asbestos exposure and does not cause episodic fever and chills hours after handling birds."
+   },
+   "topic": "Hypersensitivity pneumonitis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "R",
+    "name": "Respirology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1470,
+    "reference": "R16 — Hypersensitivity Pneumonitis"
    }
   }
  ]
