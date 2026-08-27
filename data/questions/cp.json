@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 9,
+ "count": 10,
  "questions": [
   {
    "id": "TN-CP-001",
@@ -422,6 +422,52 @@
     "document": "Toronto Notes 2025",
     "page": 177,
     "reference": "CP3 — Routes of Drug Administration"
+   }
+  },
+  {
+   "id": "TN-CP-010",
+   "type": "single-best-answer",
+   "question": "A 52-year-old woman has had chronic low back pain for 18 months with no underlying cancer. She takes acetaminophen intermittently and has not tried physiotherapy, an exercise program, or any other non-opioid pharmacotherapy. Frustrated by ongoing pain, she asks her family physician to prescribe an opioid. Which of the following is the best initial treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Optimize non-opioid pharmacotherapy and non-pharmacologic therapy before any trial of opioids"
+    },
+    {
+     "id": "b",
+     "text": "Begin a trial of opioids restricted to less than 50 MME/day"
+    },
+    {
+     "id": "c",
+     "text": "Begin a trial of opioids at 50 to 90 MME/day"
+    },
+    {
+     "id": "d",
+     "text": "Begin a trial of opioids at 90 MME/day or more, then reduce the dose once pain is controlled"
+    },
+    {
+     "id": "e",
+     "text": "Begin an opioid now and plan a slow, collaborative taper to the lowest effective dose in three months"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "When first considering therapy for patients with chronic non-cancer pain, the strong recommendation is to optimize non-opioid pharmacotherapy and non-pharmacologic therapy rather than starting a trial of opioids. This woman has had only intermittent acetaminophen and no non-pharmacologic treatment, so opioid-sparing options are far from exhausted. The dose ceilings of <90 MME/day, and ideally <50 MME/day, apply only once a decision to begin opioid therapy has properly been made.",
+   "optionExplanations": {
+    "b": "Restricting a starting dose to <50 MME/day is the correct ceiling if opioids are started, but starting them at all is premature before non-opioid and non-pharmacologic therapy is optimized.",
+    "c": "Even within the <90 MME/day limit, this exceeds the ideal starting range and still skips the required first step of optimizing non-opioid options.",
+    "d": "General approaches to opioid use include avoiding high doses; a starting dose of 90 MME/day or more breaches the recommended prescribed dose limit for chronic non-cancer pain.",
+    "e": "A slow, collaborative taper to the lowest effective dose is advised for patients already using 90 MME/day or more, not as a plan for initiating opioids in an opioid-naive patient."
+   },
+   "topic": "Opioid Therapy in Chronic Non-Cancer Pain",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "CP",
+    "name": "Clinical Pharmacology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 186,
+    "reference": "CP12 — Opioid Therapy and Chronic Non-Cancer Pain: General Management Principles"
    }
   }
  ]

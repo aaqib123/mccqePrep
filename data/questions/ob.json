@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 27,
+ "count": 29,
  "questions": [
   {
    "id": "TN-OB-001",
@@ -1250,6 +1250,98 @@
     "document": "Toronto Notes 2025",
     "page": 1030,
     "reference": "OB44 — Perineal Lacerations"
+   }
+  },
+  {
+   "id": "TN-OB-028",
+   "type": "single-best-answer",
+   "question": "A 28-year-old G2P1 at 15 weeks gestation attends a routine prenatal visit. She feels well, with no dysuria, urgency, or frequency, and no fever, flank pain, or costovertebral angle tenderness. A routine urinalysis and urine culture grow Escherichia coli. This is her first positive culture of the pregnancy. What is the most appropriate management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Oral amoxicillin 250-500 mg q8h for 7 d, then monthly urine cultures"
+    },
+    {
+     "id": "b",
+     "text": "No antibiotics; repeat the urine culture only if dysuria, urgency, or frequency develops"
+    },
+    {
+     "id": "c",
+     "text": "Hospitalization for IV antibiotics"
+    },
+    {
+     "id": "d",
+     "text": "Continuous nitrofurantoin prophylaxis for the remainder of the pregnancy, without a treatment course"
+    },
+    {
+     "id": "e",
+     "text": "Renal function tests, with antibiotics withheld pending the results"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states that asymptomatic bacteriuria should be treated in pregnancy because of the increased risk of progression to cystitis and pyelonephritis and a probable increased risk of PTL. For uncomplicated UTI the first-line agent is amoxicillin 250-500 mg PO q8h for 7 d, with nitrofurantoin or cephalosporins as alternatives, followed by monthly urine cultures. This patient has a positive screening culture with no fever, flank pain, or costovertebral angle tenderness to suggest pyelonephritis, so an oral first-line course with monthly culture follow-up is appropriate.",
+   "optionExplanations": {
+    "b": "Asymptomatic bacteriuria is treated rather than observed in pregnancy, precisely because of the increased risk of pyelonephritis and PTL.",
+    "c": "Hospitalization and IV antibiotics are reserved for pyelonephritis, which presents with fever, flank pain, and costovertebral angle tenderness.",
+    "d": "Continuous or post-coital prophylaxis is offered when recurrence occurs, not instead of treating a first positive culture, and it is avoided in the last 4 wk of pregnancy.",
+    "e": "Renal function tests are indicated in recurrent infections; they do not substitute for prompt treatment of bacteriuria."
+   },
+   "topic": "Urinary Tract Infection in Pregnancy",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "OB",
+    "name": "Obstetrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1017,
+    "reference": "OB31 — Urinary Tract Infection"
+   }
+  },
+  {
+   "id": "TN-OB-029",
+   "type": "single-best-answer",
+   "question": "A 29-year-old G2P1 at 32 weeks gestation is seen because her uterus measures small for dates. She reports no leakage of fluid and normal fetal movement. Ultrasound shows a single deepest pocket of 1.5 cm and an amniotic fluid index of 4 cm, with no fetal anomaly identified. What is the most appropriate next step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Reassure her and repeat the ultrasound in 4 wk, as no treatment is required"
+    },
+    {
+     "id": "b",
+     "text": "Admission for investigation, ruling out ROM, with fetal monitoring by NST and BPP"
+    },
+    {
+     "id": "c",
+     "text": "Therapeutic amniocentesis to decompress the uterus"
+    },
+    {
+     "id": "d",
+     "text": "Amnio-infusion via an intrauterine catheter"
+    },
+    {
+     "id": "e",
+     "text": "Proceed to delivery today"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Toronto Notes defines oligohydramnios as an AFI <5 cm or a single deepest pocket <2 cm and states that it warrants admission and investigation: rule out ROM, fetal monitoring with NST and BPP, U/S Doppler studies of the umbilical cord and uterine artery, and maternal hydration, with delivery considered if term. This patient's AFI of 4 cm and single deepest pocket of 1.5 cm meet that definition, and because oligohydramnios marks an infant who may not tolerate labour well, she needs admission and fetal surveillance rather than outpatient follow-up. At 32 wk GA she is not term, so investigation precedes any decision about delivery.",
+   "optionExplanations": {
+    "a": "Observation without treatment applies to mild to moderate polyhydramnios; oligohydramnios warrants admission and investigation.",
+    "c": "Therapeutic amniocentesis is reserved for severe polyhydramnios with an overdistended uterus, and would further reduce an already low fluid volume.",
+    "d": "Amnio-infusion via an intrauterine catheter is considered during labour, not as the initial step in an undelivered patient at 32 wk GA.",
+    "e": "Delivery is considered if the pregnancy is at term; at 32 wk GA the priority is investigation and fetal monitoring."
+   },
+   "topic": "Oligohydramnios and Polyhydramnios",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "OB",
+    "name": "Obstetrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1008,
+    "reference": "OB22 — Polyhydramnios/Oligohydramnios"
    }
   }
  ]

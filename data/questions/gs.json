@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 36,
+ "count": 38,
  "questions": [
   {
    "id": "TN-GS-001",
@@ -1664,6 +1664,98 @@
     "document": "Toronto Notes 2025",
     "page": 553,
     "reference": "GS61 — Walled-Off Pancreatic Fluid Collections (Pseudocysts)"
+   }
+  },
+  {
+   "id": "TN-GS-037",
+   "type": "single-best-answer",
+   "question": "A 43-year-old man is diagnosed with an adenocarcinoma of the right colon. Colonoscopy shows no polyposis. His father had colon cancer at 46 yr, a paternal aunt had endometrial cancer at 48 yr, and a paternal cousin had colon cancer at 52 yr. He has no sebaceous cysts, osteomas, or retinal pigment epithelium lesions. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Familial adenomatous polyposis"
+    },
+    {
+     "id": "b",
+     "text": "Attenuated familial adenomatous polyposis"
+    },
+    {
+     "id": "c",
+     "text": "Gardner's syndrome"
+    },
+    {
+     "id": "d",
+     "text": "Turcot syndrome"
+    },
+    {
+     "id": "e",
+     "text": "Hereditary non-polyposis colorectal cancer (Lynch syndrome)"
+    }
+   ],
+   "correctAnswer": "e",
+   "explanation": "Lynch syndrome is the most common inherited colorectal cancer susceptibility syndrome and is diagnosed using the Amsterdam Criteria, the \"3-2-1 rule\": 3 or more relatives with verified Lynch syndrome associated cancers with 1 a first-degree relative of the other 2, 2 or more generations involved, 1 case diagnosed before 50 yr, and FAP excluded. This family meets all four elements, and the early age of onset, right > left colon location, and an extracolonic endometrial cancer (HNPCC II) fit the syndrome. The absence of colorectal polyposis excludes FAP and its variants.",
+   "optionExplanations": {
+    "a": "FAP produces hundreds to thousands of colorectal adenomas usually by age 20; this patient has no polyposis on colonoscopy.",
+    "b": "Attenuated FAP still causes polyposis, appearing by the 40s, and is diagnosed in patients with 20 or more colorectal adenomas.",
+    "c": "Gardner's syndrome is FAP plus extra-intestinal lesions such as sebaceous cysts, osteomas, and desmoid tumours, none of which are present here.",
+    "d": "Turcot syndrome is FAP plus central nervous system tumours such as childhood cerebellar medulloblastoma, with polyposis as the colonic phenotype."
+   },
+   "topic": "Familial Colon Cancer Syndromes",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "GS",
+    "name": "General and Thoracic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 534,
+    "reference": "GS42 — Familial Colon Cancer Syndromes"
+   }
+  },
+  {
+   "id": "TN-GS-038",
+   "type": "single-best-answer",
+   "question": "A 40-year-old man had incision and drainage of a perianal abscess 3 months ago. He now has constant purulent discharge from a perianal opening, excoriated perianal skin, and a palpable cord-like tract. He has no evidence of Crohn's disease. Examination under anesthesia shows an internal opening at the dentate line and a tract that courses through the external sphincter. What is the most appropriate treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Primary fistulotomy unroofing the tract from the external to the internal opening"
+    },
+    {
+     "id": "b",
+     "text": "Staged fistulotomy with a Seton placed through the tract"
+    },
+    {
+     "id": "c",
+     "text": "Ligation of the intersphincteric fistula tract (LIFT) procedure"
+    },
+    {
+     "id": "d",
+     "text": "Endoanal advancement flap"
+    },
+    {
+     "id": "e",
+     "text": "Repeat incision and drainage of the perianal area"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "About 50% of drained anorectal abscesses go on to form a fistula-in-ano, an inflammatory tract with its internal os at the dentate line and external os on the skin. Toronto Notes divides surgery for fistulas not associated with Crohn's disease by height: primary fistulotomy is the best treatment for a low lying fistula that does not involve the external sphincter, whereas a staged fistulotomy with a Seton is used for a high lying fistula that involves the external sphincter, because it promotes drainage and fibrosis and decreases the incidence of incontinence. This tract passes through the external sphincter, so a Seton is the appropriate choice.",
+   "optionExplanations": {
+    "a": "Primary fistulotomy is reserved for a low lying fistula that does not involve the external sphincter; dividing this tract would cut sphincter muscle.",
+    "c": "LIFT accesses the fistula between the sphincter muscles and is directed at the intersphincteric portion of the tract, not the staged management of a tract crossing the external sphincter.",
+    "d": "An advancement flap mobilizes healthy rectal mucosa to cover the internal opening and does not first establish the drainage and fibrosis a Seton provides.",
+    "e": "Incision and drainage treats the abscess and is curative in only 50%; it does not address an established epithelialized fistulous tract."
+   },
+   "topic": "Fistula-In-Ano",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "GS",
+    "name": "General and Thoracic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 541,
+    "reference": "GS49 — Fistula-In-Ano"
    }
   }
  ]

@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 22,
+ "count": 24,
  "questions": [
   {
    "id": "TN-U-001",
@@ -1020,6 +1020,98 @@
     "document": "Toronto Notes 2025",
     "page": 1554,
     "reference": "U24 — Carcinoma of the Renal Pelvis and Ureter"
+   }
+  },
+  {
+   "id": "TN-U-023",
+   "type": "single-best-answer",
+   "question": "A 24-year-old man is brought to hospital after a motor vehicle collision. He is alert, with blood pressure 124/78 mmHg and heart rate 88 bpm. He has left flank tenderness, a flank contusion, and a fractured left 11th rib. Urinalysis shows gross hematuria. Triphasic contrast CT shows a 0.6 cm renal laceration without urinary extravasation, no vascular injury, and no other intra-abdominal organ injury. What is the most appropriate next step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Hospitalization with bedrest, repeating CT if bleeding persists"
+    },
+    {
+     "id": "b",
+     "text": "Immediate surgical exploration of the injured kidney"
+    },
+    {
+     "id": "c",
+     "text": "Angiography with embolization of the injured kidney"
+    },
+    {
+     "id": "d",
+     "text": "Discharge without hospitalization, with repeat imaging at 6 wk"
+    },
+    {
+     "id": "e",
+     "text": "Laparotomy for associated intra-abdominal injury"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states that the majority of renal trauma is now managed conservatively and nonoperatively, with hemorrhage and hemodynamic instability the only absolute indication for surgical intervention. Microscopic hematuria with isolated well-staged minor injuries needs no hospitalization, whereas gross hematuria with a contusion or minor laceration is managed by hospitalization, bedrest, and repeat CT if bleeding persists. This man is hemodynamically stable with a <1 cm laceration and no urinary extravasation (stage II), so inpatient conservative management is appropriate.",
+   "optionExplanations": {
+    "b": "Surgical exploration is seldom necessary for contusions and superficial lacerations, which make up 90% of blunt renal trauma; the absolute indication is hemorrhage with hemodynamic instability, absent here.",
+    "c": "Angiography and embolization is reserved for relative indications such as vascular injury, an expanding or pulsating perirenal mass, or persistent bleeding, none of which is present.",
+    "d": "No hospitalization applies to microscopic hematuria with isolated well-staged minor injuries; this patient has gross hematuria and requires admission and bedrest.",
+    "e": "Laparotomy is a relative indication when there is an associated injury requiring it, but the CT shows no associated intra-abdominal organ injury."
+   },
+   "topic": "Renal Trauma",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "U",
+    "name": "Urology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1565,
+    "reference": "U35 — Renal Trauma"
+   }
+  },
+  {
+   "id": "TN-U-024",
+   "type": "single-best-answer",
+   "question": "A 3-year-old girl is brought in after her mother felt a large, firm, painless left-sided abdominal mass while bathing her. Her blood pressure is well above the 99th percentile for age, and urinalysis shows microscopic hematuria. Imaging confirms a renal tumour and also demonstrates a smaller tumour in the contralateral kidney; the renal vein contains no tumour thrombus. Which is the most appropriate treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Bilateral radical nephrectomy"
+    },
+    {
+     "id": "b",
+     "text": "Radical nephrectomy of the larger tumour with surveillance of the other kidney"
+    },
+    {
+     "id": "c",
+     "text": "Neoadjuvant chemotherapy followed by nephron-sparing surgery"
+    },
+    {
+     "id": "d",
+     "text": "Radiation therapy alone to both kidneys"
+    },
+    {
+     "id": "e",
+     "text": "Nephron-sparing surgery on both kidneys followed by radiation alone"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "Toronto Notes treats unilateral Wilms' tumour with radical nephrectomy or nephron-sparing surgery plus radiation and chemotherapy, but bilateral disease with nephron-sparing surgery following neoadjuvant chemotherapy. Bilateral involvement occurs in 5% of cases, which is why the contralateral kidney and renal vein must always be investigated. This child has the classic presentation of a large firm unilateral-appearing abdominal mass with HTN and microscopic hematuria, but imaging shows tumour in both kidneys, so chemotherapy precedes nephron-sparing resection.",
+   "optionExplanations": {
+    "a": "Removing both kidneys is not the described approach for bilateral disease; nephron-sparing surgery after neoadjuvant chemotherapy is used precisely to preserve renal tissue.",
+    "b": "Radical nephrectomy is the option for unilateral disease; leaving the contralateral tumour untreated ignores the bilateral involvement that must always be investigated.",
+    "d": "Radiation is given as part of combined therapy with surgery and chemotherapy, not as sole treatment.",
+    "e": "Bilateral disease requires neoadjuvant chemotherapy before nephron-sparing surgery; operating first without chemotherapy is not the described sequence."
+   },
+   "topic": "Wilms Tumour",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "U",
+    "name": "Urology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1572,
+    "reference": "U42 — Wilms' Tumour (Nephroblastoma)"
    }
   }
  ]

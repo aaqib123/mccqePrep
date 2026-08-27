@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 24,
+ "count": 26,
  "questions": [
   {
    "id": "TN-OP-001",
@@ -1112,6 +1112,98 @@
     "document": "Toronto Notes 2025",
     "page": 1052,
     "reference": "OP12 — Lids and Lashes: Ptosis"
+   }
+  },
+  {
+   "id": "TN-OP-025",
+   "type": "single-best-answer",
+   "question": "A 28-year-old man reports several years of night blindness and progressive loss of peripheral vision, and he frequently bumps into objects to his side. A younger brother has the same complaints. Central acuity is 20/25 in each eye. Fundoscopy shows bone-spicule pigment clumping in the mid-periphery of the retina, narrowed retinal arterioles, and a pale optic disc. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Retinitis pigmentosa"
+    },
+    {
+     "id": "b",
+     "text": "Non-exudative (dry) age-related macular degeneration"
+    },
+    {
+     "id": "c",
+     "text": "Exudative (neovascular) age-related macular degeneration"
+    },
+    {
+     "id": "d",
+     "text": "Rhegmatogenous retinal detachment"
+    },
+    {
+     "id": "e",
+     "text": "Exudative retinal detachment"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Retinitis pigmentosa is a hereditary degenerative disease of the retina in which photoreceptors degenerate (rods more than cones), producing night blindness, decreased peripheral vision (\"tunnel vision\") and glare. Its fundoscopic triad is areas of bone-spicule pigment clumping in the mid-periphery, narrowed retinal arterioles, and optic disc pallor. This patient has exactly that triad with an affected sibling, fitting the commonly autosomal recessive inheritance of the disease.",
+   "optionExplanations": {
+    "b": "Dry AMD is a disease of increasing age marked by drusen between the RPE and Bruch's membrane and geographic atrophy, with slowly progressive loss of central rather than peripheral vision.",
+    "c": "Wet AMD is caused by choroidal neovascularization with subretinal hemorrhage and lipid exudate, and causes severe central vision loss, not years of night blindness with bone-spicule pigmentation.",
+    "d": "Rhegmatogenous detachment follows a retinal tear and causes abrupt flashes, floaters and a field defect, not a slowly progressive bilateral degeneration with arteriolar narrowing and disc pallor.",
+    "e": "Exudative detachment reflects an underlying disease causing subretinal fluid and is managed nonsurgically; it does not produce mid-peripheral bone-spicule pigment clumping."
+   },
+   "topic": "Retinitis Pigmentosa",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "OP",
+    "name": "Ophthalmology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1065,
+    "reference": "OP25 — Retinitis Pigmentosa"
+   }
+  },
+  {
+   "id": "TN-OP-026",
+   "type": "single-best-answer",
+   "question": "A 22-year-old man is struck in the right eye by a baseball. He has diplopia on upgaze with restriction of extraocular movement, and paresthesia of the right cheek and upper lip. Visual acuity is 20/20, the pupil is normal, and the anterior chamber is deep and clear without hyphema. CT of the orbits shows a fracture of about 20% of the orbital floor without muscle incarceration and no enophthalmos. What is the most appropriate next step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Immediate surgical repair of the orbital floor"
+    },
+    {
+     "id": "b",
+     "text": "Advise avoidance of coughing, nose blowing and Valsalva maneuvers, and follow the diplopia for improvement"
+    },
+    {
+     "id": "c",
+     "text": "Apply a rigid eye shield, keep him NPO, check tetanus status and start IV cefazolin and an aminoglycoside"
+    },
+    {
+     "id": "d",
+     "text": "Bedrest with minimal exertion and the head of the bed elevated for 5 days"
+    },
+    {
+     "id": "e",
+     "text": "Surgical drainage of the anterior chamber"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "In a blow-out fracture the orbital floor fractures and orbital contents herniate into the maxillary sinus while the orbital rim stays intact; diplopia with restricted extraocular movement and infraorbital nerve paresthesia of the cheek and upper lip are classic. The source directs patients to avoid coughing, blowing the nose and Valsalva maneuvers, and reserves surgery for a fracture involving more than 50% of the orbital floor, diplopia that is not improving, or enophthalmos greater than 2 mm, with surgery delayed if the diplopia improves. This small fracture without enophthalmos meets none of those criteria, so observation with follow-up of the diplopia is appropriate.",
+   "optionExplanations": {
+    "a": "Surgery is indicated for a fracture involving more than 50% of the orbital floor, non-improving diplopia, or enophthalmos greater than 2 mm; none is present, and repair may be delayed if diplopia improves.",
+    "c": "That is the initial management of a suspected ruptured globe or penetrating trauma; here acuity is normal, the pupil is normal and the anterior chamber is deep and clear.",
+    "d": "Shielding with bedrest and head-of-bed elevation for 5 days is the treatment of a hyphema, and there is no blood in the anterior chamber.",
+    "e": "Surgical drainage is considered for a hyphema that persists or re-bleeds, which this patient does not have."
+   },
+   "topic": "Orbital Blow-Out Fracture",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "OP",
+    "name": "Ophthalmology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1082,
+    "reference": "OP42 — Blow-Out Fracture"
    }
   }
  ]

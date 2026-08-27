@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 16,
+ "count": 17,
  "questions": [
   {
    "id": "TN-MI-001",
@@ -744,6 +744,52 @@
     "document": "Toronto Notes 2025",
     "page": 809,
     "reference": "MI19 — Adrenal Mass"
+   }
+  },
+  {
+   "id": "TN-MI-017",
+   "type": "single-best-answer",
+   "question": "A 24-year-old tall, thin man who smokes develops sudden right-sided pleuritic chest pain and dyspnea. He is in respiratory distress with a blood pressure of 80/50 mmHg. A supine portable chest radiograph shows a deep costophrenic sulcus sign, a hyperlucent right hemithorax, and shift of the trachea and mediastinum to the left. What is the next best step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Supplemental oxygen and observation with a repeat chest radiograph"
+    },
+    {
+     "id": "b",
+     "text": "Emergent needle decompression in the 2nd intercostal space, midclavicular line"
+    },
+    {
+     "id": "c",
+     "text": "Chest tube insertion in the 5th intercostal space, anterior axillary line"
+    },
+    {
+     "id": "d",
+     "text": "Lateral decubitus radiograph to confirm the pneumothorax before intervention"
+    },
+    {
+     "id": "e",
+     "text": "Thoracentesis of the right hemithorax"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Toronto Notes gives the management of pneumothorax as supplemental oxygen and observation, chest tube insertion in the 5th ICS anterior axillary line, or emergent needle decompression in the 2nd ICS midclavicular line if tension pneumothorax, followed by chest tube insertion and a repeat CXR to ensure resolution. A pneumothorax is more difficult to detect on a supine film, where the clues are the 'deep (costophrenic) sulcus' sign and a hyperlucent hemithorax; contralateral tracheal and mediastinal shift is the sign of tension. This hypotensive patient therefore has a tension pneumothorax and requires immediate needle decompression rather than any further imaging.",
+   "optionExplanations": {
+    "a": "Supplemental oxygen and observation is an option for pneumothorax, but not when contralateral tracheal and mediastinal shift indicates tension with hemodynamic compromise.",
+    "c": "Chest tube insertion in the 5th ICS anterior axillary line is the definitive step, but the source places it after emergent needle decompression when tension is present.",
+    "d": "Lateral decubitus and expiratory films make a pneumothorax more obvious, but obtaining further films delays decompression in a hypotensive patient whose supine film already shows tension.",
+    "e": "Thoracentesis drains pleural fluid and is itself listed as an iatrogenic cause of pneumothorax; it does not relieve air trapped under tension in the pleural space."
+   },
+   "topic": "Chest Imaging — Pneumothorax",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "MI",
+    "name": "Medical Imaging"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 799,
+    "reference": "MI9 — Pleural Abnormalities: Pneumothorax"
    }
   }
  ]

@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 32,
+ "count": 34,
  "questions": [
   {
    "id": "TN-N-001",
@@ -1480,6 +1480,98 @@
     "document": "Toronto Notes 2025",
     "page": 888,
     "reference": "N18 — Selected Occupational Neurotoxic Syndromes"
+   }
+  },
+  {
+   "id": "TN-N-033",
+   "type": "single-best-answer",
+   "question": "A 64-year-old woman is brought to clinic with a two-month history of rapidly progressive cognitive impairment. Her husband describes sudden jerks of her limbs, worsening unsteadiness, and more recently a near-total loss of speech and spontaneous movement. Examination confirms myoclonus, limb ataxia, and akinetic mutism. A rare degenerative, fatal brain disorder caused by prion proteins is suspected. Which investigation would establish a definitive diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Brain biopsy"
+    },
+    {
+     "id": "b",
+     "text": "CSF analysis"
+    },
+    {
+     "id": "c",
+     "text": "MRI brain with FLAIR sequences"
+    },
+    {
+     "id": "d",
+     "text": "Electroencephalography"
+    },
+    {
+     "id": "e",
+     "text": "Real-time quaking-induced conversion"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Creutzfeldt-Jakob disease is a rare degenerative, fatal brain disorder caused by prion proteins producing spongiform changes, astrocytosis, and neuronal loss, and it is rapidly progressive with cognitive impairment, myoclonus, ataxia, and akinetic mutism. The source lists CSF analysis, MRI brain, EEG, and real-time quaking-induced conversion as investigations, but states that definitive diagnosis is by brain biopsy. This woman's presentation is the classic picture, so tissue is what confirms it.",
+   "optionExplanations": {
+    "b": "CSF analysis is listed among the investigations for suspected CJD, but it is supportive rather than definitive.",
+    "c": "MRI may show cortical (cortical ribbon sign) and/or subcortical (hockey stick sign) FLAIR changes, which support but do not confirm the diagnosis.",
+    "d": "EEG may show periodic complexes in CJD; this is a supportive finding, not the definitive test.",
+    "e": "Real-time quaking-induced conversion is one of the listed investigations, but the source reserves definitive diagnosis for brain biopsy."
+   },
+   "topic": "Creutzfeldt-Jakob Disease",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "N",
+    "name": "Neurology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 897,
+    "reference": "N27 — Creutzfeldt-Jakob Disease"
+   }
+  },
+  {
+   "id": "TN-N-034",
+   "type": "single-best-answer",
+   "question": "A 13-year-old girl has a three-year history of worsening unsteady gait and clumsy hands. Examination shows gait and limb ataxia, dysarthria, nystagmus, leg weakness, areflexia with extensor plantar responses, and impaired proprioception and vibration. Her parents are unaffected, but an older brother is similarly affected. Echocardiography demonstrates a cardiomyopathy. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Ataxia telangiectasia"
+    },
+    {
+     "id": "b",
+     "text": "Friedreich's ataxia"
+    },
+    {
+     "id": "c",
+     "text": "Ataxia with oculomotor apraxia"
+    },
+    {
+     "id": "d",
+     "text": "Ataxia with vitamin E deficiency"
+    },
+    {
+     "id": "e",
+     "text": "Spinocerebellar ataxia"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Friedreich's ataxia typically begins between 8-15 yr and its signs are gait and limb ataxia, weakness, areflexia, extensor plantar response, impaired proprioception and vibration, dysarthria, and nystagmus, with death in 10-20 yr from cardiomyopathy or kyphoscoliotic pulmonary restriction. This girl's onset age, full sign cluster, and cardiomyopathy match that description, and unaffected parents with an affected sibling fit the autosomal recessive inheritance the source assigns to it.",
+   "optionExplanations": {
+    "a": "Ataxia telangiectasia is listed as an autosomal recessive hereditary ataxia, but the source ties this specific combination of areflexia with extensor plantar responses, dorsal column loss, and cardiomyopathy to Friedreich's ataxia.",
+    "c": "Ataxia with oculomotor apraxia is another autosomal recessive hereditary ataxia in the same list; the source does not attribute this sign cluster or the cardiomyopathy to it.",
+    "d": "Ataxia with vitamin E deficiency is also an autosomal recessive hereditary ataxia, but it is not the entity the source describes with this onset age, sign cluster, and cardiac cause of death.",
+    "e": "Spinocerebellar ataxias are autosomal dominant, most commonly due to CAG repeats, and present with ataxia and dysarthria plus chorea, polyneuropathy, pyramidal and/or extrapyramidal features, and dementia; unaffected parents argue against dominant inheritance."
+   },
+   "topic": "Hereditary Ataxias",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "N",
+    "name": "Neurology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 906,
+    "reference": "N36 — Cerebellar Ataxias"
    }
   }
  ]

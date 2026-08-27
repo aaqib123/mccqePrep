@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 23,
+ "count": 25,
  "questions": [
   {
    "id": "TN-OT-001",
@@ -1066,6 +1066,98 @@
     "document": "Toronto Notes 2025",
     "page": 1182,
     "reference": "OT38 — Thyroid Carcinoma"
+   }
+  },
+  {
+   "id": "TN-OT-024",
+   "type": "single-best-answer",
+   "question": "A 29-year-old woman reports bilateral hearing loss that began in her early twenties and worsened during each of her two pregnancies. Her mother had the same problem. She has non-pulsatile tinnitus but no otorrhea or vertigo. Both tympanic membranes are intact apart from a faint pink blush. Audiometry shows a conductive loss with a characteristic dip at 2000 Hz. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Cerumen impaction"
+    },
+    {
+     "id": "b",
+     "text": "Otosclerosis"
+    },
+    {
+     "id": "c",
+     "text": "Presbycusis"
+    },
+    {
+     "id": "d",
+     "text": "Pendred syndrome"
+    },
+    {
+     "id": "e",
+     "text": "Treacher-Collins syndrome"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Otosclerosis is fusion of the stapes footplate to the oval window such that it cannot vibrate; it is autosomal dominant with variable penetrance, affects women more than men, and progresses during pregnancy because it is hormone responsive. It produces progressive conductive hearing loss first noticed in the teens or twenties, with a normal tympanic membrane except for a pink blush (Schwartz's sign) and a characteristic dip at 2000 Hz (Carhart's notch) on the audiogram. This woman's family history, worsening in pregnancy, drum blush and 2000 Hz dip match that description exactly.",
+   "optionExplanations": {
+    "a": "Cerumen impaction is the most common conductive loss in 15-50 year olds, but it obstructs the canal rather than leaving intact drums with a pink blush, and it does not run in families or progress with pregnancy.",
+    "c": "Presbycusis is sensorineural hearing loss associated with aging that starts in the fifth and sixth decades from hair cell degeneration, not a conductive loss in a woman in her twenties.",
+    "d": "Pendred is a syndrome-associated congenital sensorineural hearing loss with euthyroid goiter, the SLC26A4 gene and enlarged vestibular aqueducts, not an adult-onset conductive loss.",
+    "e": "Treacher-Collins is a syndrome-associated congenital hearing loss arising from first and second branchial cleft anomalies, evident from birth with craniofacial abnormality."
+   },
+   "topic": "Otosclerosis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "OT",
+    "name": "Otolaryngology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1163,
+    "reference": "OT19 — Otosclerosis"
+   }
+  },
+  {
+   "id": "TN-OT-025",
+   "type": "single-best-answer",
+   "question": "A 6-year-old boy is assessed for persistent left-sided hearing difficulty three months after an episode of otitis media. Tympanometry of the left ear yields a flat tracing with no pressure peak and poor tympanic membrane mobility. The measured ear canal volume is 3.2 cc. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Middle ear effusion"
+    },
+    {
+     "id": "b",
+     "text": "Eustachian tube dysfunction"
+    },
+    {
+     "id": "c",
+     "text": "Tympanic membrane perforation"
+    },
+    {
+     "id": "d",
+     "text": "Otosclerosis"
+    },
+    {
+     "id": "e",
+     "text": "Ossicular chain discontinuity"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "A type B tympanogram shows no pressure peak and poor tympanic membrane mobility, which is indicative of either a middle ear effusion or a perforated tympanic membrane. The two are separated by the ear canal volume: in a type B curve, ear canal volumes of more than 2 cc in children and more than 2.5 cc in adults indicate tympanic membrane perforation or the presence of a patent ventilation tube. A flat tracing with a 3.2 cc canal volume in a 6-year-old therefore points to a perforation rather than fluid.",
+   "optionExplanations": {
+    "a": "A middle ear effusion also gives a flat type B curve, but the ear canal volume would be within the normal range rather than above 2 cc in a child.",
+    "b": "Eustachian tube dysfunction produces a type C curve with a negative pressure peak, not a flat tracing with no peak.",
+    "d": "With otosclerosis the peak is still at 0 mmH2O but has a lower amplitude, so the tympanogram is not flat.",
+    "e": "With ossicular chain discontinuity the peak is still at 0 mmH2O but has a higher amplitude, again not a flat tracing."
+   },
+   "topic": "Tympanometry",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "OT",
+    "name": "Otolaryngology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1155,
+    "reference": "OT11 — Impedance Audiometry"
    }
   }
  ]

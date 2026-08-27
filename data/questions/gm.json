@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 12,
+ "count": 13,
  "questions": [
   {
    "id": "TN-GM-001",
@@ -560,6 +560,52 @@
     "document": "Toronto Notes 2025",
     "page": 582,
     "reference": "GM10 — Fecal Incontinence"
+   }
+  },
+  {
+   "id": "TN-GM-013",
+   "type": "single-best-answer",
+   "question": "An 84-year-old woman with advanced dementia is medically stable and ready for discharge from hospital. She needs full assistance with all activities of daily living, is incontinent, and requires two-person transfers and nursing supervision through the night. Her husband is her only caregiver and can no longer manage at home despite maximal home and community support services. She is not terminally ill. What is the most appropriate discharge destination?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Older adults affordable housing"
+    },
+    {
+     "id": "b",
+     "text": "Retirement home"
+    },
+    {
+     "id": "c",
+     "text": "Supportive housing"
+    },
+    {
+     "id": "d",
+     "text": "Long-term care/skilled nursing facility"
+    },
+    {
+     "id": "e",
+     "text": "Hospice"
+    }
+   ],
+   "correctAnswer": "d",
+   "explanation": "Toronto Notes classifies residential healthcare institutions by the level and type of support the patient requires. A long-term care/skilled nursing facility provides around the clock nursing care and on-call physician coverage, and often offers occupational therapy, physiotherapy, respiratory therapy, and rehabilitation services. This woman needs full assistance with all ADLs plus nursing supervision overnight, which exceeds the minimal to moderate assistance the other residential options are designed for, and she is not terminally ill.",
+   "optionExplanations": {
+    "a": "Older adults affordable housing is for seniors who live independently and manage their own care but prefer to live near other older adults; rent is adjusted based on income and no personal care is provided.",
+    "b": "Retirement home residents are fairly independent and require only minimal support with ADLs and IADLs, far less than this patient needs.",
+    "c": "Supportive housing is for residents who require minimal to moderate assistance with daily activities while still living independently, usually in a rental apartment unit.",
+    "e": "Hospice is for terminally ill patients and their families, focusing on quality of life, and often requires a prognosis of 3 mo or less; she is not terminally ill."
+   },
+   "topic": "Levels of Care and Healthcare Institutions",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "GM",
+    "name": "Geriatric Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 587,
+    "reference": "GM15 — Healthcare Institutions"
    }
   }
  ]

@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 18,
+ "count": 19,
  "questions": [
   {
    "id": "TN-PH-001",
@@ -836,6 +836,52 @@
     "document": "Toronto Notes 2025",
     "page": 1448,
     "reference": "PH30 — Disaster Preparedness, Emergency Response, and Recovery"
+   }
+  },
+  {
+   "id": "TN-PH-019",
+   "type": "single-best-answer",
+   "question": "A 45-year-old female public health physician is analyzing data from a community survey. She has measured average BP, a continuous variable whose error term is normally distributed and whose variances are equal across groups, in independent samples of adults from three towns. She wants to test whether mean BP differs among the three towns. Which of the following is the most appropriate statistical test?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Analysis of variance (ANOVA)"
+    },
+    {
+     "id": "b",
+     "text": "Two sample Z-test"
+    },
+    {
+     "id": "c",
+     "text": "Chi-squared test"
+    },
+    {
+     "id": "d",
+     "text": "Linear regression"
+    },
+    {
+     "id": "e",
+     "text": "Pearson product-moment correlation"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes assigns ANOVA the task of comparing the mean values of an outcome variable between two or more groups, and gives \"difference in average BP between persons in three towns\" as its worked example. ANOVA takes a continuous dependent variable with a categorical or ordinal independent variable of two or more levels, and assumes a normal distribution of the dependent variable's error term with independent data. Those are exactly the conditions described here, with three groups rather than two.",
+   "optionExplanations": {
+    "b": "The two sample Z-test compares the mean values of an outcome variable between two groups only (e.g. difference in average BP between men and women); its independent variable is dichotomous, not three-level.",
+    "c": "The chi-squared test asks whether two categorical variables are independent (e.g. family history of breast cancer and having breast cancer); the dependent variable here is continuous, not categorical.",
+    "d": "Linear regression models the relationship between a continuous variable and one or more explanatory variables; it is not the listed test for comparing mean values between groups.",
+    "e": "Pearson's correlation assesses the strength of the linear relationship between two continuous variables, ranging from -1 to 1; it does not test whether group means differ."
+   },
+   "topic": "Statistical Tests",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "PH",
+    "name": "Public Health and Preventive Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1439,
+    "reference": "PH21 — Common Statistical Tests"
    }
   }
  ]

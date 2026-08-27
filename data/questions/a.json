@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 19,
+ "count": 20,
  "questions": [
   {
    "id": "TN-A-001",
@@ -882,6 +882,52 @@
     "document": "Toronto Notes 2025",
     "page": 67,
     "reference": "A13 — Blood Pressure: Causes of Intraoperative Hypotension/Shock"
+   }
+  },
+  {
+   "id": "TN-A-020",
+   "type": "single-best-answer",
+   "question": "A 64-year-old man is intubated for an elective laparotomy. The endotracheal tube is secured at the 26 cm mark at the right corner of his mouth. Oxygen saturation falls to 88%, and breath sounds are absent over the left chest but easily heard on the right. Capnography shows a normal end-tidal CO2 waveform, there is no abdominal distention, and chest excursion is unilateral. What is the most likely explanation?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Right endobronchial intubation from a tube that is too deep"
+    },
+    {
+     "id": "b",
+     "text": "Esophageal intubation"
+    },
+    {
+     "id": "c",
+     "text": "Left-sided tension pneumothorax"
+    },
+    {
+     "id": "d",
+     "text": "Accidental extubation from a tube that is too shallow"
+    },
+    {
+     "id": "e",
+     "text": "Obstruction of the endotracheal tube by secretions"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The source states that a malpositioned ETT that is too deep may result in right endobronchial intubation, which is associated with desaturation and left-sided atelectasis, and that the tip should lie at the midpoint of the trachea at least 2 cm above the carina, approximately the 20-23 cm mark at the right corner of the mouth for men. A normal ETCO2 waveform on capnography, the gold standard for confirming the ETT is in the airway, places the tube in the airway rather than the esophagus. A tube at 26 cm with desaturation and breath sounds only on the right therefore indicates it has been advanced past the carina into the right mainstem bronchus.",
+   "optionExplanations": {
+    "b": "Esophageal intubation is suspected when ETCO2 is zero or near zero on the capnograph, with breath sounds over the epigastrium and distention of the stomach; here the waveform is normal and there is no abdominal distention.",
+    "c": "Pneumothorax is on the DOPE differential for poor bilateral breath sounds, but the source links right endobronchial intubation with a right-sided tension pneumothorax, and the excessive 26 cm tube depth already explains the absent left-sided sounds.",
+    "d": "The source attributes accidental extubation, vocal cord trauma, and laryngeal paralysis to a tube that is too shallow; this tube sits deeper than the 20-23 cm range for men and is still ventilating one lung.",
+    "e": "Obstruction is also on the DOPE differential, but it would impair chest excursion and gas flow bilaterally rather than abolish breath sounds only over the left chest."
+   },
+   "topic": "Endotracheal Tube Position and Confirmation",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "A",
+    "name": "Anesthesia"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 63,
+    "reference": "A9 — Tube Insertion / Confirmation of Tracheal Placement of Endotracheal Tube"
    }
   }
  ]

@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 23,
+ "count": 24,
  "questions": [
   {
    "id": "TN-PL-001",
@@ -1066,6 +1066,52 @@
     "document": "Toronto Notes 2025",
     "page": 1343,
     "reference": "PL33 — Nasal Fractures"
+   }
+  },
+  {
+   "id": "TN-PL-024",
+   "type": "single-best-answer",
+   "question": "A 54-year-old woman presents with sudden onset swelling of the left breast over 3 weeks, with mild pain but no fever or erythema. She had bilateral macro-textured silicone implants placed subglandularly for augmentation 7 years ago. Imaging shows a large periprosthetic fluid collection with an intact implant shell and a firm mass adjacent to the capsule. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Capsular contracture"
+    },
+    {
+     "id": "b",
+     "text": "Implant failure with rupture and silicone extravasation"
+    },
+    {
+     "id": "c",
+     "text": "Breast implant-associated anaplastic large cell lymphoma"
+    },
+    {
+     "id": "d",
+     "text": "Systemic symptoms associated with breast implants (breast implant illness)"
+    },
+    {
+     "id": "e",
+     "text": "Periprosthetic infection"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "Toronto Notes states that breast implant-associated anaplastic large cell lymphoma is associated with textured breast implants, with incidence varying by type of texturization from 1/3565 for macro-textured implants, and that it commonly presents as sudden onset breast swelling +/- pain, on average 7-8 yr after implant placement. This woman's macro-textured implants, the 7-year interval, and the abrupt unilateral swelling with a periprosthetic collection and an associated mass fit that presentation. Management is total capsulectomy and excision of the associated mass with bilateral implant removal, with fluid sent for C&S and lymphoma protocol (CD30+, ALK-), and outcome is favourable if detected and treated early.",
+   "optionExplanations": {
+    "a": "Capsular contracture is a listed complication of augmentation and is linked to periareolar and transaxillary incisions, but it causes progressive firmness and distortion of the breast rather than sudden swelling with a periprosthetic effusion and mass.",
+    "b": "Implant failure/rupture is a recognized complication, but the shell is intact on imaging and rupture does not produce an associated capsular mass requiring lymphoma protocol.",
+    "d": "Systemic symptoms associated with breast implants, also called breast implant illness, is a constellation of systemic complaints, not a unilateral late effusion with a discrete mass.",
+    "e": "Infection is a listed complication of breast augmentation, but there is no fever or erythema, and infection would not explain a firm mass adjacent to the capsule 7 years after placement."
+   },
+   "topic": "Breast Implant-Associated ALCL",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "PL",
+    "name": "Plastic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1347,
+    "reference": "PL37 — Breast Augmentation"
    }
   }
  ]

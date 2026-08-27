@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 30,
+ "count": 32,
  "questions": [
   {
    "id": "TN-D-001",
@@ -1388,6 +1388,98 @@
     "document": "Toronto Notes 2025",
     "page": 238,
     "reference": "D50 — Angioedema and Urticaria"
+   }
+  },
+  {
+   "id": "TN-D-031",
+   "type": "single-best-answer",
+   "question": "A 54-year-old woman reports 6 months of a painful lesion on the dorsolateral aspect of her right fifth toe that hurts with direct pressure from her shoes. Examination shows a firm papule with a central, translucent, cone-shaped, hard keratin core. Paring produces no bleeding and no black speckling, and the epidermal ridge pattern is interrupted over the lesion. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Corn (heloma)"
+    },
+    {
+     "id": "b",
+     "text": "Callus"
+    },
+    {
+     "id": "c",
+     "text": "Plantar wart"
+    },
+    {
+     "id": "d",
+     "text": "Actinic keratosis"
+    },
+    {
+     "id": "e",
+     "text": "Keloid"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Corns are described as a firm papule with a central, translucent, cone-shaped, hard keratin core that is painful with direct pressure and interrupts dermatoglyphics, arising from localized hyperkeratosis induced by pressure and most commonly found on the dorsolateral fifth toe. The paring test separates the differential: warts bleed with paring and show a black speckled centre from thrombosed capillaries, while calluses reveal layers of yellowish keratin with no thrombosed capillaries and no interruption of epidermal ridges. This lesion's keratin core, pressure-related pain, absence of bleeding on paring, and interrupted dermatoglyphics identify a corn.",
+   "optionExplanations": {
+    "b": "A callus shows layers of yellowish keratin on paring with no central translucent core and no interruption of the epidermal ridges.",
+    "c": "A plantar wart bleeds with paring and has a black speckled central appearance from thrombosed capillaries; it destroys rather than merely interrupts dermatoglyphics.",
+    "d": "Actinic keratoses (solar keratoses) are pre-malignant lesions of chronically sun-exposed skin, not a pressure-induced hyperkeratotic papule with a translucent keratin core on a toe.",
+    "e": "Keloids are firm, shiny, skin-coloured or red-bluish papules or nodules that follow cutaneous injury and extend beyond the original margins with claw-like extensions, typically on earlobes, shoulders, sternum, scapular area, or angle of the mandible."
+   },
+   "topic": "Corns and Calluses",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "D",
+    "name": "Dermatology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 198,
+    "reference": "D10 — Corns (Helomata)"
+   }
+  },
+  {
+   "id": "TN-D-032",
+   "type": "single-best-answer",
+   "question": "A 19-year-old man describes 4 years of visible, excessive sweating of both palms, both soles, and both axillae that soaks his shirts and smudges his written work. The sweating occurs only during waking hours and never disturbs his sleep. He takes no medications and has no other symptoms. His father and sister are similarly affected. Examination is normal. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Primary hyperhidrosis"
+    },
+    {
+     "id": "b",
+     "text": "Antidepressant-induced hyperhidrosis"
+    },
+    {
+     "id": "c",
+     "text": "Hyperhidrosis due to excessive heat"
+    },
+    {
+     "id": "d",
+     "text": "Autonomic dysreflexia from spinal cord injury"
+    },
+    {
+     "id": "e",
+     "text": "Post-traumatic syringomyelia"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Primary hyperhidrosis is secretion of sweat in amounts greater than physiologically needed for thermoregulation, defined as focal, visible, excessive sweating of at least 6 months without apparent cause, developing in childhood or adolescence and persisting through life. It is diurnal, occurring only during waking hours, is typically localized to the palms, soles, and axillae, and most patients have a family history. This young man meets every one of those descriptors and none of the listed secondary causes applies, so the diagnosis is clinical.",
+   "optionExplanations": {
+    "b": "Medications such as antidepressants, antipyretics, cholinergic agonists, and hormonal agents are listed causes of secondary sweating, but he takes no medications.",
+    "c": "Excessive heat is an environmental cause on the differential; his sweating is focal, lifelong, and unrelated to ambient temperature.",
+    "d": "Spinal cord injury with autonomic dysreflexia is a secondary cause, but he has no injury history and his examination is normal.",
+    "e": "Post-traumatic syringomyelia is another spinal cord injury complication on the differential and again requires antecedent trauma, which is absent here."
+   },
+   "topic": "Hyperhidrosis",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "D",
+    "name": "Dermatology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 236,
+    "reference": "D48 — Primary Hyperhidrosis"
    }
   }
  ]

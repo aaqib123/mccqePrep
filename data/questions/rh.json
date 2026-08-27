@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 18,
+ "count": 19,
  "questions": [
   {
    "id": "TN-RH-001",
@@ -836,6 +836,52 @@
     "document": "Toronto Notes 2025",
     "page": 1512,
     "reference": "RH18 — Vasculitides: Classification of Vasculitis"
+   }
+  },
+  {
+   "id": "TN-RH-019",
+   "type": "single-best-answer",
+   "question": "A 68-year-old woman has six weeks of aching pain and stiffness in her neck, both shoulder girdles, and both hip girdles, with fever, malaise, and weight loss. She has prolonged morning stiffness of about 60 min duration. Examination shows tender muscles but no true weakness or atrophy. Blood work shows anemia of chronic disease, elevated platelets, elevated ESR and CRP, and a normal CK. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Polymyalgia rheumatica"
+    },
+    {
+     "id": "b",
+     "text": "Fibromyalgia"
+    },
+    {
+     "id": "c",
+     "text": "Polymyositis"
+    },
+    {
+     "id": "d",
+     "text": "Giant cell arteritis"
+    },
+    {
+     "id": "e",
+     "text": "Bilateral subdeltoid bursitis with biceps tenosynovitis"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The source describes polymyalgia rheumatica as pain and stiffness of the symmetrical proximal muscles of the neck, shoulder and hip girdles with prominent constitutional symptoms, prolonged morning stiffness, and no muscle weakness; the required criteria are age 50 yr or more, bilateral shoulder aching, and abnormal ESR/CRP, with additional points for morning stiffness of 45 min or more, hip pain, absence of RF or ACPA, and absence of other joint involvement. Blood work in polymyalgia rheumatica often shows anemia of chronic disease, elevated platelets, elevated ESR and CRP, and a normal CK, and physical exam reveals tender muscles but no true weakness or atrophy. This woman meets the required criteria and shows exactly that pattern of girdle pain, prolonged morning stiffness, and tender muscles without weakness.",
+   "optionExplanations": {
+    "b": "Fibromyalgia is chronic widespread non-articular pain with characteristic tender points; it does not produce fever, weight loss, anemia of chronic disease, or elevated ESR and CRP.",
+    "c": "Polymyositis causes true proximal muscle weakness with an elevated CK, whereas this patient has tender muscles with no weakness or atrophy and a normal CK.",
+    "d": "Giant cell arteritis is commonly associated with polymyalgia rheumatica but is suggested by headache, jaw claudication, and scalp tenderness, none of which are present.",
+    "e": "Subdeltoid bursitis and biceps tenosynovitis are localized periarticular soft tissue disorders and do not explain symmetrical neck, shoulder and hip girdle involvement with prominent constitutional symptoms."
+   },
+   "topic": "Polymyalgia Rheumatica",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "RH",
+    "name": "Rheumatology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1523,
+    "reference": "RH29 — Non-Articular Rheumatism: Polymyalgia Rheumatica"
    }
   }
  ]

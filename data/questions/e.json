@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 32,
+ "count": 34,
  "questions": [
   {
    "id": "TN-E-001",
@@ -1480,6 +1480,98 @@
     "document": "Toronto Notes 2025",
     "page": 364,
     "reference": "E56 — Paraneoplastic Syndrome"
+   }
+  },
+  {
+   "id": "TN-E-033",
+   "type": "single-best-answer",
+   "question": "A 72-year-old man is referred after routine bloodwork showed a serum alkaline phosphatase three times the upper limit of normal with a normal GGT and otherwise normal liver enzymes. He has aching pain in his right femur and pelvis, and his right tibia appears bowed. Serum calcium and phosphate are normal. Which of the following is the most appropriate initial investigation?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Plain x-ray of the skull, abdomen, and tibiae"
+    },
+    {
+     "id": "b",
+     "text": "Radionuclide bone scan"
+    },
+    {
+     "id": "c",
+     "text": "MRI of the right femur"
+    },
+    {
+     "id": "d",
+     "text": "CT of the pelvis"
+    },
+    {
+     "id": "e",
+     "text": "Serum procollagen type I N-terminal propeptide (PINP)"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The source recommends plain x-ray of the skull and facial bones, abdomen, and tibiae as the initial screening study in patients suspected of having Paget's disease of bone, and states that confirmation on x-ray is required for diagnosis. Paget's disease should be considered in older adults with an elevated ALP but normal GGT and normal LFTs, and this man also has severe bone pain in the pelvis and femur with a bowed tibia. X-ray shows the characteristic osteolytic lesions, cortical thickening, and pseudofractures.",
+   "optionExplanations": {
+    "b": "A bone scan is recommended to evaluate the extent of disease and identify asymptomatic sites, but in addition to targeted x-ray rather than as the initial study.",
+    "c": "MRI is not recommended for diagnosis; it is used to assess disease complications, particularly if malignancy is suspected.",
+    "d": "CT is likewise not recommended for diagnosis and is reserved for assessing complications.",
+    "e": "Elevated PINP is a bone formation marker that supports increased turnover, but confirmation on x-ray is required for diagnosis."
+   },
+   "topic": "Paget's Disease of Bone",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "E",
+    "name": "Endocrinology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 358,
+    "reference": "E50 — Paget's Disease of Bone"
+   }
+  },
+  {
+   "id": "TN-E-034",
+   "type": "single-best-answer",
+   "question": "A 34-year-old man who had a pituitary lesion resected two years ago is assessed for infertility after 18 months of unprotected intercourse. He reports decreased libido and reduced muscle mass. Total testosterone and follicle stimulating hormone are low, and his sperm count is zero on two samples. He wishes to father a child. Which of the following is the most appropriate treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "hCG with recombinant follicle stimulating hormone (rFSH)"
+    },
+    {
+     "id": "b",
+     "text": "GnRH agonist given SC in pulsatile fashion using an external pump"
+    },
+    {
+     "id": "c",
+     "text": "Transdermal testosterone gel"
+    },
+    {
+     "id": "d",
+     "text": "Cabergoline"
+    },
+    {
+     "id": "e",
+     "text": "Microscopic sperm extraction (microTESE)"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "When the goal is fertility, the source treats the underlying cause and gives hCG with or without recombinant follicle stimulating hormone in cases of either hypothalamic or pituitary lesions, reserving a pulsatile GnRH agonist for hypothalamic dysfunction with an intact pituitary. This man's low testosterone, low FSH, and absent sperm follow resection of a pituitary lesion, so gonadotropin therapy is the appropriate treatment.",
+   "optionExplanations": {
+    "b": "A GnRH agonist administered SC in pulsatile fashion by an external pump is used for hypothalamic dysfunction with an intact pituitary, which he does not have.",
+    "c": "Testosterone therapy only treats symptoms of hypogonadism and further suppresses the hypothalamic-pituitary-gonadal axis, decreasing spermatogenesis and reducing sperm counts.",
+    "d": "A dopamine agonist such as cabergoline is indicated when the cause is a prolactinoma.",
+    "e": "Testicular sperm extraction is used only if the testicular tissues are not functioning, which is not the problem here."
+   },
+   "topic": "Male Infertility",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "E",
+    "name": "Endocrinology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 361,
+    "reference": "E53 — Hypogonadism and Infertility"
    }
   }
  ]

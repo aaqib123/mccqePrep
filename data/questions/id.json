@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 31,
+ "count": 33,
  "questions": [
   {
    "id": "TN-ID-001",
@@ -1434,6 +1434,98 @@
     "document": "Toronto Notes 2025",
     "page": 757,
     "reference": "ID39 — Roundworms — Nematodes"
+   }
+  },
+  {
+   "id": "TN-ID-032",
+   "type": "single-best-answer",
+   "question": "A 34-year-old woman with long-standing asthma and multiple environmental allergies has three months of worsening dyspnea, cough, and episodes of high fever. Serial chest radiographs show transient pulmonary infiltrates that change location, with no cavitation. Serum IgE is markedly elevated and sputum culture grows Aspergillus fumigatus. Her neutrophil count is normal and she is not immunosuppressed. Which of the following is the most appropriate treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Corticosteroids plus itraconazole"
+    },
+    {
+     "id": "b",
+     "text": "Voriconazole"
+    },
+    {
+     "id": "c",
+     "text": "Amphotericin B"
+    },
+    {
+     "id": "d",
+     "text": "Fluconazole"
+    },
+    {
+     "id": "e",
+     "text": "Echinocandin therapy"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes gives the treatment of allergic bronchopulmonary aspergillosis as corticosteroids plus itraconazole. ABPA is an IgE-mediated asthma-type reaction with dyspnea, high fever, and transient pulmonary infiltrates that occurs more frequently in patients with asthma and allergies, which is exactly this presentation. Voriconazole and amphotericin B are reserved for invasive aspergillosis, which is associated with prolonged and persistent neutropenia or transplantation rather than an immunocompetent asthmatic.",
+   "optionExplanations": {
+    "b": "Voriconazole is the treatment for invasive aspergillosis, which occurs with prolonged and persistent neutropenia or transplantation and causes severe fever, cough, dyspnea, and cavitation.",
+    "c": "Amphotericin B is the alternative to voriconazole for invasive aspergillosis, not for the IgE-mediated hypersensitivity reaction seen here.",
+    "d": "Fluconazole is listed for candidal infection, including chronic mucocutaneous candidiasis and other systemic Candida infections, not for Aspergillus.",
+    "e": "Echinocandins are options for opportunistic Candida infections in HIV and other systemic candidal infections; they are not the treatment of ABPA."
+   },
+   "topic": "Allergic Bronchopulmonary Aspergillosis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "ID",
+    "name": "Infectious Diseases"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 753,
+    "reference": "ID35 — Aspergillus spp."
+   }
+  },
+  {
+   "id": "TN-ID-033",
+   "type": "single-best-answer",
+   "question": "A 29-year-old man has six months of painless hematuria. A year ago he swam repeatedly in fresh water lakes in sub-Saharan Africa and developed a pruritic rash on his legs shortly afterwards. Ultrasound of the bladder shows a thickened, irregular wall with dilatation of the distal ureters. His complete blood count shows eosinophilia. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Schistosoma haematobium infection"
+    },
+    {
+     "id": "b",
+     "text": "Schistosoma mansoni infection"
+    },
+    {
+     "id": "c",
+     "text": "Clonorchis sinensis infection"
+    },
+    {
+     "id": "d",
+     "text": "Echinococcus granulosus infection"
+    },
+    {
+     "id": "e",
+     "text": "Taenia solium cysticercosis"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Schistosome larvae (cercariae) penetrate unbroken skin during fresh water exposure and produce a pruritic rash at the site of penetration, called swimmer's itch or cercarial dermatitis. In S. haematobium the adult worms live in the vesical plexus and the eggs deposited in the distal ureter and bladder induce granulomas and fibrosis, causing hematuria and obstructive uropathy. The sub-Saharan fresh water exposure, eosinophilia, and bladder and ureteric findings therefore point to S. haematobium rather than the species that lodge in mesenteric veins.",
+   "optionExplanations": {
+    "b": "S. mansoni worms sit in the mesenteric vein with eggs in the portal tracts of liver and bowel, producing intestinal polyps, portal hypertension, splenomegaly, and hepatomegaly rather than bladder disease.",
+    "c": "Clonorchis sinensis is acquired from raw fish in Japan, Taiwan, China, and Southeast Asia and lives in the bile ducts, causing inflammation and sometimes cholangiocarcinoma.",
+    "d": "Echinococcus granulosus is acquired from dog feces in rural sheep-raising countries and causes slowly enlarging liver and lung cysts that may cause mass effect or rupture.",
+    "e": "Taenia solium cysticercosis follows ingestion of eggs in human feces and produces mass lesions in the CNS, eyes, and skin with seizures, not obstructive urinary disease."
+   },
+   "topic": "Schistosomiasis",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "ID",
+    "name": "Infectious Diseases"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 758,
+    "reference": "ID40 — Schistosoma spp."
    }
   }
  ]

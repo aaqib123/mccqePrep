@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 18,
+ "count": 19,
  "questions": [
   {
    "id": "TN-ELOM-001",
@@ -836,6 +836,52 @@
     "document": "Toronto Notes 2025",
     "page": 28,
     "reference": "ELOM8 — Physician Licensure and Certification"
+   }
+  },
+  {
+   "id": "TN-ELOM-019",
+   "type": "single-best-answer",
+   "question": "A 57-year-old capable woman is midway through an elective procedure for which she gave written consent an hour earlier. She becomes distressed, and clearly and repeatedly tells you she wants the procedure stopped now. You judge that stopping at this point would not threaten her life or expose her to serious harm. Her signed consent form is in the chart. What is the most appropriate next step?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Stop the procedure now"
+    },
+    {
+     "id": "b",
+     "text": "Complete the procedure, since the signed consent form remains in effect"
+    },
+    {
+     "id": "c",
+     "text": "Complete the procedure under the emergency exception to consent"
+    },
+    {
+     "id": "d",
+     "text": "Continue while asking her substitute decision-maker to authorize completing the procedure"
+    },
+    {
+     "id": "e",
+     "text": "Continue while re-explaining the procedure and its risks, then obtain her assent"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The source states that consent is an ongoing process and can be withdrawn or changed after it is given, unless stopping a procedure would put the patient at risk of serious harm and the patient is not informed of or capable of considering those harms; if consent has been withdrawn during a procedure, the physician must stop treatment unless stopping the procedure would threaten the patient's life. This capable patient has withdrawn her consent and stopping threatens neither her life nor her safety, so the withdrawal must be honoured. A signed consent form is only evidence of consent and does not replace the process of obtaining valid consent, the most important component of which is what the patient understands and appreciates.",
+   "optionExplanations": {
+    "b": "A signed consent form is only evidence of consent; it does not replace the ongoing consent process, and consent can be withdrawn after it is given.",
+    "c": "The emergency exception applies where a delay would lead to serious harm or death and consent cannot be obtained from the patient or their SDM; here she is capable and stopping would not threaten her life.",
+    "d": "A substitute decision-maker has no role while the patient remains capable of making this decision herself; consent is sought from an SDM only for an incapable patient.",
+    "e": "Re-explaining the procedure and risks applies when the patient is being asked to consent to continue after a material change in circumstances (Ciarlariello v. Schachter); it does not license carrying on after consent has been withdrawn."
+   },
+   "topic": "Withdrawal of Consent During a Procedure",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "ELOM",
+    "name": "Ethical, Legal, and Organizational Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 33,
+    "reference": "ELOM13 — Obtaining Legal Consent"
    }
   }
  ]

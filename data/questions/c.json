@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 40,
+ "count": 42,
  "questions": [
   {
    "id": "TN-C-001",
@@ -1848,6 +1848,98 @@
     "document": "Toronto Notes 2025",
     "page": 143,
     "reference": "C53 — Cardiac Tumours"
+   }
+  },
+  {
+   "id": "TN-C-041",
+   "type": "single-best-answer",
+   "question": "A 19-year-old woman is found to have an irregular pulse at a routine physical examination. She is asymptomatic, is on no medications, and has an otherwise normal cardiac examination. Her ECG shows normal P waves before every QRS complex, with variation of the R-R interval of more than 0.12 seconds; the rate increases with inspiration and slows with expiration. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Respiratory sinus arrhythmia"
+    },
+    {
+     "id": "b",
+     "text": "Non-respiratory sinus arrhythmia from sinus node dysfunction"
+    },
+    {
+     "id": "c",
+     "text": "Sinus bradycardia from endurance athletic training"
+    },
+    {
+     "id": "d",
+     "text": "Conduction block in the SA node"
+    },
+    {
+     "id": "e",
+     "text": "Digitalis toxicity"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes defines sinus arrhythmia as normal P waves with variation of the R-R interval >0.12 seconds, especially with respiration, due to a varying rate of SA node depolarization. The respiratory form is normal and physiologic, results from changes in autonomic tone during the respiratory cycle, is seen more often in young adults, and speeds with inspiration while slowing with expiration. This asymptomatic young woman shows exactly that respirophasic pattern with normal P waves, so no treatment is required.",
+   "optionExplanations": {
+    "b": "Non-respiratory sinus arrhythmia is seen more often in the elderly and, when marked, may reflect sinus node dysfunction; here the variation tracks the respiratory cycle in a young adult.",
+    "c": "Endurance athletes often have sinus bradycardia from altered neurohormonal tone, but that is a slow regular rhythm, not respirophasic R-R variation.",
+    "d": "Conduction block in the SA node leads to bradycardia or failure of impulses to conduct, not normal P waves preceding every QRS with respiratory rate variation.",
+    "e": "Digitalis toxicity is a cause of marked non-respiratory sinus arrhythmia and other arrhythmias, but this patient takes no medications."
+   },
+   "topic": "Sinus Arrhythmia",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "C",
+    "name": "Cardiology and Cardiac Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 109,
+    "reference": "C19 — Arrhythmias: Sinus Arrhythmia"
+   }
+  },
+  {
+   "id": "TN-C-042",
+   "type": "single-best-answer",
+   "question": "A 38-year-old man presents with four days of chest pain and is diagnosed with acute pericarditis. His temperature is 38.6°C. Echocardiography shows a 25 mm pericardial effusion with no evidence of tamponade. Blood pressure is 124/78 mmHg. He has had no trauma, is not immunosuppressed, and takes no oral anticoagulation. What is the most appropriate next step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Discharge him on an NSAID plus colchicine with outpatient follow-up"
+    },
+    {
+     "id": "b",
+     "text": "Discharge him on oral corticosteroids with outpatient follow-up"
+    },
+    {
+     "id": "c",
+     "text": "Hospitalize him for treatment and monitoring"
+    },
+    {
+     "id": "d",
+     "text": "Perform pericardial drainage"
+    },
+    {
+     "id": "e",
+     "text": "Refer him for pericardiectomy"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "Toronto Notes lists the negative prognostic factors in pericarditis as subacute onset, fever ≥38°C, >20 mm pericardial effusion on echo, tamponade, and lack of response following 1 wk of anti-inflammatory treatment, and directs that patients with these factors be hospitalized. This man has two of them — fever of 38.6°C and a 25 mm effusion — so admission is required even though he is hemodynamically stable. Anti-inflammatory therapy remains the mainstay of treatment, but it should be given as an inpatient.",
+   "optionExplanations": {
+    "a": "NSAIDs are the mainstay and colchicine may reduce symptom persistence and recurrence, but his fever ≥38°C and >20 mm effusion are negative prognostic factors that mandate hospitalization rather than outpatient care.",
+    "b": "Corticosteroid use is controversial and is reserved for incomplete response, failure of other anti-inflammatory medications, or situations such as autoimmune or immune checkpoint inhibitor-associated pericarditis.",
+    "d": "Pericardial drainage is indicated for purulent pericarditis, together with antimicrobial therapy, or when tamponade is present; echocardiography shows no tamponade here.",
+    "e": "Pericardiectomy is sometimes considered in tuberculous pericarditis, not in the initial management of an acute effusion with fever."
+   },
+   "topic": "Pericarditis Risk Stratification",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "C",
+    "name": "Cardiology and Cardiac Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 153,
+    "reference": "C63 — Acute Pericarditis: Prognosis and Treatment"
    }
   }
  ]

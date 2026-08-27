@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 28,
+ "count": 30,
  "questions": [
   {
    "id": "TN-OR-001",
@@ -1296,6 +1296,98 @@
     "document": "Toronto Notes 2025",
     "page": 1108,
     "reference": "OR20 — Radial Head Fracture"
+   }
+  },
+  {
+   "id": "TN-OR-029",
+   "type": "single-best-answer",
+   "question": "A 54-year-old woman with type 2 diabetes reports 4 months of gradual onset diffuse right shoulder pain that is worse at night and prevents her sleeping on that side. There was no injury and no period of immobilization. On examination both active and passive range of motion are decreased in all planes. AP, scapular Y, and axillary x-rays of the shoulder are normal. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Primary adhesive capsulitis"
+    },
+    {
+     "id": "b",
+     "text": "Rotator cuff tendinopathy"
+    },
+    {
+     "id": "c",
+     "text": "Nondisplaced proximal humeral fracture"
+    },
+    {
+     "id": "d",
+     "text": "Shoulder-hand syndrome (complex regional pain syndrome)"
+    },
+    {
+     "id": "e",
+     "text": "Cervical disc disease with referred shoulder pain"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Adhesive capsulitis is progressive pain and stiffness of the shoulder with gradual onset over weeks to months, decreased active AND passive ROM, and pain worse at night that often prevents sleeping on the affected side. Primary adhesive capsulitis is idiopathic and often associated with DM, whereas secondary disease follows prolonged immobilization, MI, stroke, or shoulder trauma. This diabetic patient has the typical picture with no antecedent immobilization or trauma, and x-ray may be normal in this disorder.",
+   "optionExplanations": {
+    "b": "Rotator cuff pathology limits active elevation while passive ROM is preserved; loss of both active and passive motion points to capsular contracture rather than tendon disease.",
+    "c": "Proximal humeral fracture follows high energy trauma in the young or a FOOSH from standing height in osteoporotic elderly, with tenderness, deformity, swelling, and bruising down the arm and chest; this patient had no injury and normal x-rays.",
+    "d": "Shoulder-hand syndrome is a form of secondary adhesive capsulitis characterized by arm and shoulder pain with diffuse swelling, and follows prolonged immobilization or events such as MI or stroke, none of which is present.",
+    "e": "Cervical disc disease is listed as a condition associated with increased incidence of adhesive capsulitis, but referred pain from the neck would not produce loss of passive glenohumeral motion."
+   },
+   "topic": "Adhesive Capsulitis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "OR",
+    "name": "Orthopedic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1105,
+    "reference": "OR17 — Frozen Shoulder (Adhesive Capsulitis)"
+   }
+  },
+  {
+   "id": "TN-OR-030",
+   "type": "single-best-answer",
+   "question": "A 34-year-old man strikes his knee on the dashboard in a motor vehicle collision. He has marked tenderness over the patella and a tense effusion. He can perform a straight leg raise and extend the knee against gravity. AP, lateral, and skyline x-rays show a transverse patellar fracture with a 1 mm articular step-off and 2 mm of fragment separation, with no comminution. What is the best initial treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Straight leg immobilization in a removable brace with weight bearing as tolerated"
+    },
+    {
+     "id": "b",
+     "text": "Open reduction and internal fixation of the patella"
+    },
+    {
+     "id": "c",
+     "text": "Partial patellectomy"
+    },
+    {
+     "id": "d",
+     "text": "Complete patellectomy"
+    },
+    {
+     "id": "e",
+     "text": "Immediate quadriceps strengthening physiotherapy without immobilization"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Non-operative treatment of a patellar fracture is indicated when the fracture is non or minimally displaced, with a step-off less than 2-3 mm and a fracture gap less than 1-4 mm, or when the extensor mechanism is intact. That treatment is straight leg immobilization for 1-4 wk in a removable brace or splint with weight bearing as tolerated, progressing in flexion after 2-3 wk. This man has a 1 mm step-off, 2 mm separation, no comminution, and an intact extensor mechanism, so he falls below the operative thresholds.",
+   "optionExplanations": {
+    "b": "ORIF is indicated for a step-off greater than 2 mm, fragment separation greater than 3 mm, comminution, a disrupted extensor mechanism, or an open fracture, none of which this patient has.",
+    "c": "Partial patellectomy is reserved for comminuted fractures managed operatively, not a minimally displaced transverse fracture.",
+    "d": "Complete patellectomy is a salvage option for severe comminution during operative management and is not appropriate when the fracture meets non-operative criteria.",
+    "e": "Quadriceps strengthening physiotherapy is started only once pain has subsided and after the initial period of straight leg immobilization; starting immediately risks loss of reduction."
+   },
+   "topic": "Patellar Fracture",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "OR",
+    "name": "Orthopedic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1126,
+    "reference": "OR38 — Patellar Fracture"
    }
   }
  ]

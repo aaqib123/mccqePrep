@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 21,
+ "count": 23,
  "questions": [
   {
    "id": "TN-NP-001",
@@ -974,6 +974,98 @@
     "document": "Toronto Notes 2025",
     "page": 853,
     "reference": "NP33 — Thrombotic Microangiopathy"
+   }
+  },
+  {
+   "id": "TN-NP-022",
+   "type": "single-best-answer",
+   "question": "A 54-year-old woman with chronic hepatitis C presents with two weeks of palpable purpura on both legs, fever, and arthralgias. Her fingers turn white then blue in the cold. Creatinine has risen from 70 to 195 umol/L, and urinalysis shows proteinuria and hematuria. Serum C4 is markedly reduced. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Cryoglobulinemic vasculitis"
+    },
+    {
+     "id": "b",
+     "text": "IgA vasculitis (Henoch-Schonlein purpura)"
+    },
+    {
+     "id": "c",
+     "text": "Microscopic polyangiitis"
+    },
+    {
+     "id": "d",
+     "text": "Glomerulonephritis associated with infective endocarditis"
+    },
+    {
+     "id": "e",
+     "text": "HIV-associated nephropathy"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes describes cryoglobulins as immunoglobulins that precipitate at reduced temperatures and deposit in the walls of small vessels, presenting as purpura, fever, Raynaud's phenomenon, arthralgias, and AKI. At least 50% of patients have HCV, most have decreased serum complement (C4 initially), and renal disease occurs in 40% as isolated proteinuria or hematuria progressing to nephritic syndrome. Chronic hepatitis C with purpura, cold-induced digital colour change, a low C4, and acute kidney injury fits this picture.",
+   "optionExplanations": {
+    "b": "IgA vasculitis is seen more commonly in children and gives purpura on the buttocks and legs with abdominal pain and arthralgia; it is not linked to HCV or to a reduced serum complement.",
+    "c": "Microscopic polyangiitis is the clinical picture associated with p-ANCA (anti-myeloperoxidase) disease, causing focal segmental necrotizing RPGN with no immune staining, rather than cold-precipitable immune complexes with hypocomplementemia.",
+    "d": "Infective endocarditis manifests as a mild form of acute nephritic syndrome with decreased serum complement and is most often caused by S. aureus, but it does not explain the HCV infection, purpura, and Raynaud's phenomenon.",
+    "e": "HIV-associated nephropathy is a collapsing FSGS with heavy proteinuria and progressive renal insufficiency, predominantly in African American men, and is not a purpuric vasculitis with low complement."
+   },
+   "topic": "Cryoglobulinemic Vasculitis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "NP",
+    "name": "Nephrology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 847,
+    "reference": "NP27 — Cryoglobulinemic Vasculitis"
+   }
+  },
+  {
+   "id": "TN-NP-023",
+   "type": "single-best-answer",
+   "question": "A 58-year-old woman has vomited persistently for five days. She is orthostatic with dry mucous membranes and is normotensive when supine. Arterial pH is 7.52, HCO3- is 38 mmol/L, and pCO2 is 49 mmHg. Serum potassium is 2.8 mmol/L and magnesium is low. Urine chloride is 12 mEq/L. What is the best initial treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Volume repletion with IV 0.9% NaCl plus replacement of potassium and magnesium deficits"
+    },
+    {
+     "id": "b",
+     "text": "Acetazolamide started now, before the serum potassium is corrected"
+    },
+    {
+     "id": "c",
+     "text": "Spironolactone"
+    },
+    {
+     "id": "d",
+     "text": "A loop diuretic"
+    },
+    {
+     "id": "e",
+     "text": "IV potassium chloride alone, without volume repletion"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes separates metabolic alkalosis by urine chloride. A urine chloride <20 mEq/L defines saline sensitive metabolic alkalosis, characterized by ECF volume contraction and hypokalemia, and treatment is volume repletion with IV 0.9% NaCl along with correcting the underlying disease and replenishing K+ and Mg2+ deficits. A carbonic anhydrase inhibitor such as acetazolamide may be added to facilitate loss of HCO3- in the urine, but serum K+ must be normal before it is started. Vomiting with a urine chloride of 12 mEq/L, volume contraction, and a potassium of 2.8 mmol/L therefore calls for saline and electrolyte repletion first.",
+   "optionExplanations": {
+    "b": "Acetazolamide is an optional addition, and the source specifies that serum potassium must be normal before it is started; at 2.8 mmol/L this patient's potassium is not.",
+    "c": "Spironolactone is used for saline resistant alkalosis, where the urine chloride is >20 mEq/L with ECF expansion, hypertension, and increased mineralocorticoids, none of which apply here.",
+    "d": "Diuretics are themselves a listed cause of metabolic alkalosis and would deepen the ECF volume contraction and potassium losses that are maintaining this alkalosis.",
+    "e": "Replacing potassium without saline leaves the volume depletion that sustains the alkalosis through reduced GFR and increased proximal Na+ and HCO3- reabsorption."
+   },
+   "topic": "Metabolic Alkalosis",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "NP",
+    "name": "Nephrology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 840,
+    "reference": "NP20 — Metabolic Alkalosis: Treatment"
    }
   }
  ]

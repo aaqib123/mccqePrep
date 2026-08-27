@@ -1,18 +1,18 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-08-25T16:37:50Z",
+ "generatedAt": "2026-08-26T18:55:30Z",
  "document": {
   "id": "toronto-notes-2025",
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "totalQuestions": 772,
+ "totalQuestions": 822,
  "chapters": [
   {
    "code": "ELOM",
    "name": "Ethical, Legal, and Organizational Medicine",
    "file": "questions/elom.json",
-   "count": 18,
+   "count": 19,
    "topics": [
     "Canada Health Act and Health System Organization",
     "Capacity and Refusal of Treatment",
@@ -31,24 +31,26 @@
     "Refusal of Treatment on Behalf of a Child",
     "Reproductive Autonomy in Pregnancy",
     "Research Ethics",
-    "Substitute Decision-Making"
+    "Substitute Decision-Making",
+    "Withdrawal of Consent During a Procedure"
    ],
    "difficulty": {
     "easy": 5,
     "medium": 9,
-    "hard": 4
+    "hard": 5
    }
   },
   {
    "code": "A",
    "name": "Anesthesia",
    "file": "questions/a.json",
-   "count": 19,
+   "count": 20,
    "topics": [
     "Acute Pain Management",
     "Airway Management: Definitive Airway",
     "Aspiration Risk and Rapid Sequence Induction",
     "Difficult Airway",
+    "Endotracheal Tube Position and Confirmation",
     "Extubation and Laryngospasm",
     "IV Fluids and Blood Loss Replacement",
     "Intraoperative Hypotension and Shock",
@@ -67,7 +69,7 @@
    ],
    "difficulty": {
     "easy": 5,
-    "medium": 10,
+    "medium": 11,
     "hard": 4
    }
   },
@@ -75,7 +77,7 @@
    "code": "C",
    "name": "Cardiology and Cardiac Surgery",
    "file": "questions/c.json",
-   "count": 40,
+   "count": 42,
    "topics": [
     "Acute Coronary Syndromes",
     "Acute Heart Failure",
@@ -103,10 +105,12 @@
     "Mitral Valve Prolapse",
     "Myocarditis",
     "Pericardial Effusion and Tamponade",
+    "Pericarditis Risk Stratification",
     "Perioperative Antiplatelet Therapy",
     "Pre-Excitation Syndromes",
     "Prosthetic Valve Complications",
     "STEMI Reperfusion Therapy",
+    "Sinus Arrhythmia",
     "Stress Testing",
     "Supraventricular Tachyarrhythmias",
     "Tricuspid Valve Disease",
@@ -115,20 +119,21 @@
    ],
    "difficulty": {
     "easy": 9,
-    "medium": 20,
-    "hard": 11
+    "medium": 21,
+    "hard": 12
    }
   },
   {
    "code": "CP",
    "name": "Clinical Pharmacology",
    "file": "questions/cp.json",
-   "count": 9,
+   "count": 10,
    "topics": [
     "Absorption and Bioavailability",
     "Clinically Relevant Drug Interactions",
     "Drug Biotransformation and Toxic Metabolites",
     "Drug Interactions and CYP Metabolism",
+    "Opioid Therapy in Chronic Non-Cancer Pain",
     "Pharmacodynamics: Agonists and Antagonists",
     "Pharmacogenetics and Drug Biotransformation",
     "Pharmacokinetics: Half-Life and Loading Doses",
@@ -137,7 +142,7 @@
    ],
    "difficulty": {
     "easy": 2,
-    "medium": 5,
+    "medium": 6,
     "hard": 2
    }
   },
@@ -145,7 +150,7 @@
    "code": "D",
    "name": "Dermatology",
    "file": "questions/d.json",
-   "count": 30,
+   "count": 32,
    "topics": [
     "Acneiform Eruptions",
     "Alopecia",
@@ -153,12 +158,14 @@
     "Bacterial Skin Infections",
     "Bullous Disease",
     "Contact Dermatitis",
+    "Corns and Calluses",
     "Dermatologic Therapies",
     "Drug Eruptions",
     "Eczema",
     "Erythema Nodosum",
     "Fungal Skin Infections",
     "Hidradenitis Suppurativa",
+    "Hyperhidrosis",
     "Infestations",
     "Nail Disorders",
     "Papulosquamous Disease",
@@ -172,15 +179,15 @@
    ],
    "difficulty": {
     "easy": 7,
-    "medium": 16,
-    "hard": 7
+    "medium": 17,
+    "hard": 8
    }
   },
   {
    "code": "ER",
    "name": "Emergency Medicine",
    "file": "questions/er.json",
-   "count": 36,
+   "count": 38,
    "topics": [
     "Acute Exacerbation of COPD",
     "Acute Pericarditis",
@@ -193,6 +200,7 @@
     "Chest Trauma",
     "Compartment Syndrome",
     "Consent and Ethics in the Emergency Department",
+    "Dermatologic Emergencies — Febrile Rash",
     "Diabetic Ketoacidosis",
     "Electrolyte Disturbances",
     "Epistaxis",
@@ -206,6 +214,7 @@
     "Nephrolithiasis",
     "Obstetric Emergencies in the Emergency Department",
     "Ophthalmologic Emergencies",
+    "Pediatric Stridor and Croup",
     "Primary Survey and Airway Management",
     "Psychiatric Emergencies and Agitation",
     "Raised Intracranial Pressure",
@@ -221,15 +230,15 @@
    ],
    "difficulty": {
     "easy": 8,
-    "medium": 19,
-    "hard": 9
+    "medium": 20,
+    "hard": 10
    }
   },
   {
    "code": "E",
    "name": "Endocrinology",
    "file": "questions/e.json",
-   "count": 32,
+   "count": 34,
    "topics": [
     "Acute Complications of Diabetes",
     "Adrenal Insufficiency",
@@ -248,10 +257,12 @@
     "Hypothyroidism",
     "Insulin Therapy",
     "Male Hypogonadism",
+    "Male Infertility",
     "Metabolic Syndrome",
     "Multiple Endocrine Neoplasia",
     "Non-Thyroidal Illness",
     "Osteoporosis",
+    "Paget's Disease of Bone",
     "Paraneoplastic Syndromes",
     "Pheochromocytoma",
     "Primary Aldosteronism",
@@ -264,19 +275,21 @@
    ],
    "difficulty": {
     "easy": 7,
-    "medium": 16,
-    "hard": 9
+    "medium": 17,
+    "hard": 10
    }
   },
   {
    "code": "FM",
    "name": "Family Medicine",
    "file": "questions/fm.json",
-   "count": 25,
+   "count": 27,
    "topics": [
+    "Acute Bacterial Rhinosinusitis",
     "Alcohol Use Disorder",
     "Breast Cancer Screening",
     "Cervical Cancer Screening",
+    "Chest Pain Differential Diagnosis",
     "Colorectal Cancer Screening",
     "Depression Screening",
     "Diabetes Screening",
@@ -302,15 +315,15 @@
    ],
    "difficulty": {
     "easy": 5,
-    "medium": 13,
-    "hard": 7
+    "medium": 14,
+    "hard": 8
    }
   },
   {
    "code": "G",
    "name": "Gastroenterology",
    "file": "questions/g.json",
-   "count": 25,
+   "count": 27,
    "topics": [
     "Acute Diarrhea",
     "Acute Pancreatitis",
@@ -330,9 +343,11 @@
     "Hepatic Encephalopathy",
     "Hepatitis C Virus",
     "Irritable Bowel Syndrome",
+    "Liver Enzyme Interpretation",
     "Malabsorption",
     "Primary Biliary Cholangitis",
     "Primary Sclerosing Cholangitis",
+    "Stress-Induced Ulceration",
     "Ulcerative Colitis Complications",
     "Ulcerative Colitis Management",
     "Upper Gastrointestinal Bleeding",
@@ -340,15 +355,15 @@
    ],
    "difficulty": {
     "easy": 5,
-    "medium": 14,
-    "hard": 6
+    "medium": 15,
+    "hard": 7
    }
   },
   {
    "code": "GS",
    "name": "General and Thoracic Surgery",
    "file": "questions/gs.json",
-   "count": 36,
+   "count": 38,
    "topics": [
     "Abdominal Hernia",
     "Acute Abdomen",
@@ -360,6 +375,8 @@
     "Diverticular Disease",
     "Esophageal Carcinoma",
     "Esophagus",
+    "Familial Colon Cancer Syndromes",
+    "Fistula-In-Ano",
     "Gastrointestinal Bleeding",
     "Gastrointestinal Stromal Tumour",
     "Intestinal Ischemia",
@@ -379,15 +396,15 @@
    ],
    "difficulty": {
     "easy": 9,
-    "medium": 18,
-    "hard": 9
+    "medium": 19,
+    "hard": 10
    }
   },
   {
    "code": "GM",
    "name": "Geriatric Medicine",
    "file": "questions/gm.json",
-   "count": 12,
+   "count": 13,
    "topics": [
     "Constipation",
     "Delirium",
@@ -397,6 +414,7 @@
     "Falls",
     "Fecal Incontinence",
     "Frailty",
+    "Levels of Care and Healthcare Institutions",
     "Malnutrition and Weight Loss",
     "Polypharmacy and Prescribing Cascade",
     "Pressure Injuries",
@@ -404,7 +422,7 @@
    ],
    "difficulty": {
     "easy": 3,
-    "medium": 6,
+    "medium": 7,
     "hard": 3
    }
   },
@@ -412,9 +430,10 @@
    "code": "GY",
    "name": "Gynecology",
    "file": "questions/gy.json",
-   "count": 26,
+   "count": 28,
    "topics": [
     "Amenorrhea",
+    "Benign Ovarian Cysts",
     "Cervical Dysplasia",
     "Contraception",
     "Dysmenorrhea",
@@ -434,6 +453,7 @@
     "Premenstrual Syndrome",
     "Prepubertal Vulvovaginitis",
     "Sex Cord Stromal Ovarian Tumours",
+    "Spontaneous Abortion",
     "Syphilis",
     "Termination of Pregnancy",
     "Uterine Fibroids",
@@ -441,20 +461,21 @@
    ],
    "difficulty": {
     "easy": 6,
-    "medium": 13,
-    "hard": 7
+    "medium": 14,
+    "hard": 8
    }
   },
   {
    "code": "H",
    "name": "Hematology",
    "file": "questions/h.json",
-   "count": 34,
+   "count": 36,
    "topics": [
     "Acute Lymphoblastic Leukemia",
     "Acute Myeloid Leukemia",
     "Acute Promyelocytic Leukemia",
     "Anticoagulation Duration",
+    "Antiphospholipid Antibody Syndrome",
     "Aplastic Anemia",
     "Autoimmune Hemolytic Anemia",
     "Chronic Lymphocytic Leukemia",
@@ -469,6 +490,7 @@
     "Iron Deficiency Treatment",
     "Iron Indices in Inflammation",
     "Lymphadenopathy",
+    "Lymphoplasmacytic Lymphoma",
     "Macrocytic Anemia",
     "Microcytic Anemia",
     "Multiple Myeloma",
@@ -488,17 +510,18 @@
    ],
    "difficulty": {
     "easy": 8,
-    "medium": 17,
-    "hard": 9
+    "medium": 18,
+    "hard": 10
    }
   },
   {
    "code": "ID",
    "name": "Infectious Diseases",
    "file": "questions/id.json",
-   "count": 31,
+   "count": 33,
    "topics": [
     "Acute HIV Infection",
+    "Allergic Bronchopulmonary Aspergillosis",
     "Antimicrobial Resistance",
     "Antimicrobial Therapy of Community-Acquired Pneumonia",
     "Antiretroviral Therapy",
@@ -524,6 +547,7 @@
     "Malaria",
     "Onchocerciasis",
     "Rabies Post-Exposure Prophylaxis",
+    "Schistosomiasis",
     "Sepsis and Septic Shock",
     "Septic Arthritis",
     "Syphilis",
@@ -531,8 +555,8 @@
    ],
    "difficulty": {
     "easy": 7,
-    "medium": 16,
-    "hard": 8
+    "medium": 17,
+    "hard": 9
    }
   },
   {
@@ -559,12 +583,13 @@
    "code": "MI",
    "name": "Medical Imaging",
    "file": "questions/mi.json",
-   "count": 16,
+   "count": 17,
    "topics": [
     "Abdominal Imaging — Abdominal X-Ray",
     "Abdominal Imaging — Acute Cholecystitis",
     "Abdominal Imaging — Acute Pancreatitis",
     "Abdominal Imaging — CT Protocols",
+    "Chest Imaging — Pneumothorax",
     "Chest Imaging — Pulmonary Embolism",
     "Chest Imaging — Tubes and Lines",
     "Contrast Safety — Contrast Agents",
@@ -580,7 +605,7 @@
    ],
    "difficulty": {
     "easy": 5,
-    "medium": 7,
+    "medium": 8,
     "hard": 4
    }
   },
@@ -588,12 +613,13 @@
    "code": "NP",
    "name": "Nephrology",
    "file": "questions/np.json",
-   "count": 21,
+   "count": 23,
    "topics": [
     "Acid-Base Disorders",
     "Acute Kidney Injury",
     "Assessment of Renal Function",
     "Chronic Kidney Disease",
+    "Cryoglobulinemic Vasculitis",
     "Cystic Kidney Disease",
     "Diabetes Insipidus",
     "Diabetic Renal Complications",
@@ -604,6 +630,7 @@
     "Hyponatremia",
     "Hyponatremia Management",
     "Hypophosphatemia",
+    "Metabolic Alkalosis",
     "Nephrotic Syndrome",
     "Postrenal Acute Kidney Injury",
     "Renal Transplantation",
@@ -614,15 +641,15 @@
    ],
    "difficulty": {
     "easy": 4,
-    "medium": 12,
-    "hard": 5
+    "medium": 13,
+    "hard": 6
    }
   },
   {
    "code": "N",
    "name": "Neurology",
    "file": "questions/n.json",
-   "count": 32,
+   "count": 34,
    "topics": [
     "Acute Ischemic Stroke — Assessment",
     "Acute Ischemic Stroke — Thrombolysis",
@@ -634,10 +661,12 @@
     "Chronic Inflammatory Demyelinating Polyneuropathy",
     "Cranial Nerve III Palsy",
     "Cranial Nerve VII Palsy",
+    "Creutzfeldt-Jakob Disease",
     "Dementia with Lewy Bodies",
     "Frontotemporal Neurocognitive Disorder",
     "Guillain-Barre Syndrome",
     "Headache — Cluster Headache",
+    "Hereditary Ataxias",
     "Ischemic Stroke — Vascular Territories",
     "Lambert-Eaton Myasthenic Syndrome",
     "Lesion Localization — Neuromuscular Junction",
@@ -659,15 +688,15 @@
    ],
    "difficulty": {
     "easy": 8,
-    "medium": 16,
-    "hard": 8
+    "medium": 17,
+    "hard": 9
    }
   },
   {
    "code": "NS",
    "name": "Neurosurgery",
    "file": "questions/ns.json",
-   "count": 30,
+   "count": 32,
    "topics": [
     "Brain Metastasis",
     "Cauda Equina Syndrome",
@@ -683,11 +712,13 @@
     "Herniation Syndromes",
     "Hydrocephalus",
     "ICP Monitoring",
+    "Idiopathic Intracranial Hypertension",
     "Incomplete Spinal Cord Syndromes",
     "Intracerebral Hemorrhage",
     "Investigation of Elevated ICP",
     "Lumbar Disc Syndrome",
     "Medication Cautions in Elevated ICP",
+    "Meningioma",
     "Normal Pressure Hydrocephalus",
     "Pituitary Adenoma",
     "Primary CNS Lymphoma",
@@ -702,15 +733,15 @@
    ],
    "difficulty": {
     "easy": 6,
-    "medium": 16,
-    "hard": 8
+    "medium": 17,
+    "hard": 9
    }
   },
   {
    "code": "OB",
    "name": "Obstetrics",
    "file": "questions/ob.json",
-   "count": 27,
+   "count": 29,
    "topics": [
     "Antenatal Care and Pregnancy Dating",
     "Antenatal History and Obstetrical Nomenclature",
@@ -730,6 +761,7 @@
     "Intrauterine Growth Restriction",
     "Multiple Gestation",
     "Nausea and Vomiting of Pregnancy",
+    "Oligohydramnios and Polyhydramnios",
     "Perineal Lacerations",
     "Postpartum Hemorrhage",
     "Postpartum Mastitis",
@@ -738,19 +770,20 @@
     "Prenatal Screening: High-Risk Population Carrier Testing",
     "Preterm Labour Management",
     "Prevention of Preterm Labour",
-    "Rh Isoimmunization and Prophylaxis"
+    "Rh Isoimmunization and Prophylaxis",
+    "Urinary Tract Infection in Pregnancy"
    ],
    "difficulty": {
     "easy": 6,
-    "medium": 14,
-    "hard": 7
+    "medium": 15,
+    "hard": 8
    }
   },
   {
    "code": "OP",
    "name": "Ophthalmology",
    "file": "questions/op.json",
-   "count": 24,
+   "count": 26,
    "topics": [
     "Acute Angle-Closure Glaucoma",
     "Amblyopia",
@@ -767,11 +800,13 @@
     "Neovascular Age-Related Macular Degeneration",
     "Normal Tension Glaucoma",
     "Optic Neuritis",
+    "Orbital Blow-Out Fracture",
     "Orbital vs Preseptal Cellulitis",
     "Primary Open-Angle Glaucoma",
     "Ptosis",
     "Red Eye Differential Diagnosis",
     "Retinal Detachment",
+    "Retinitis Pigmentosa",
     "Scleritis",
     "Uveitis",
     "Viral Conjunctivitis",
@@ -779,18 +814,19 @@
    ],
    "difficulty": {
     "easy": 6,
-    "medium": 12,
-    "hard": 6
+    "medium": 13,
+    "hard": 7
    }
   },
   {
    "code": "OR",
    "name": "Orthopedic Surgery",
    "file": "questions/or.json",
-   "count": 28,
+   "count": 30,
    "topics": [
     "Achilles Tendon Rupture",
     "Acromioclavicular Joint Injury",
+    "Adhesive Capsulitis",
     "Anterior Cruciate Ligament Tear",
     "Calcaneal Fracture",
     "Cauda Equina Syndrome and Back Pain Red Flags",
@@ -809,6 +845,7 @@
     "Open Fracture",
     "Osgood-Schlatter Disease",
     "Ottawa Ankle Rules and Ankle Injury Imaging",
+    "Patellar Fracture",
     "Posterior Hip Dislocation",
     "Radial Head Fracture",
     "Rotator Cuff Disease",
@@ -820,15 +857,15 @@
    ],
    "difficulty": {
     "easy": 6,
-    "medium": 15,
-    "hard": 7
+    "medium": 16,
+    "hard": 8
    }
   },
   {
    "code": "OT",
    "name": "Otolaryngology",
    "file": "questions/ot.json",
-   "count": 23,
+   "count": 25,
    "topics": [
     "Acoustic Neuroma",
     "Acute Bacterial Rhinosinusitis",
@@ -845,26 +882,28 @@
     "Malignant (Necrotizing) Otitis Externa",
     "Otitis Externa",
     "Otitis Media with Effusion",
+    "Otosclerosis",
     "Peritonsillar Abscess",
     "Salivary Gland Disease",
     "Sleep-Disordered Breathing in Children",
     "Sudden Sensorineural Hearing Loss",
     "Thyroid Carcinoma",
     "Tuning Fork Tests and Types of Hearing Loss",
+    "Tympanometry",
     "Vestibular Neuronitis",
     "Vocal Cord Nodules and Polyps"
    ],
    "difficulty": {
     "easy": 6,
-    "medium": 11,
-    "hard": 6
+    "medium": 12,
+    "hard": 7
    }
   },
   {
    "code": "P",
    "name": "Pediatrics",
    "file": "questions/p.json",
-   "count": 49,
+   "count": 51,
    "topics": [
     "Acute Rheumatic Fever",
     "Acute asthma exacerbation",
@@ -898,6 +937,8 @@
     "Intussusception",
     "Iron deficiency anemia",
     "Kawasaki Disease",
+    "Limp in Children",
+    "Lymphadenopathy",
     "Malrotation with volvulus",
     "Necrotizing Enterocolitis",
     "Neonatal Skin Conditions",
@@ -918,8 +959,8 @@
    ],
    "difficulty": {
     "easy": 12,
-    "medium": 25,
-    "hard": 12
+    "medium": 26,
+    "hard": 13
    }
   },
   {
@@ -946,9 +987,10 @@
    "code": "PL",
    "name": "Plastic Surgery",
    "file": "questions/pl.json",
-   "count": 23,
+   "count": 24,
    "topics": [
     "Brachial Plexus Injury",
+    "Breast Implant-Associated ALCL",
     "Burn Depth Assessment",
     "Burn Resuscitation",
     "Burn Size Estimation",
@@ -975,14 +1017,14 @@
    "difficulty": {
     "easy": 5,
     "medium": 13,
-    "hard": 5
+    "hard": 6
    }
   },
   {
    "code": "PS",
    "name": "Psychiatry",
    "file": "questions/ps.json",
-   "count": 30,
+   "count": 32,
    "topics": [
     "Alcohol Withdrawal",
     "Antidepressant Discontinuation Syndrome",
@@ -991,11 +1033,13 @@
     "Bipolar Disorder",
     "Bipolar Disorder Treatment",
     "Child and Adolescent Psychiatry",
+    "Cocaine Intoxication and Overdose",
     "Delirium",
     "Delirium vs Dementia vs Depression",
     "Eating Disorders",
     "Electroconvulsive Therapy",
     "Factitious Disorder and Malingering",
+    "Generalized Anxiety Disorder",
     "Hoarding Disorder",
     "Involuntary Admission and Canadian Legal Issues",
     "Major Depressive Disorder",
@@ -1017,15 +1061,15 @@
    ],
    "difficulty": {
     "easy": 7,
-    "medium": 15,
-    "hard": 8
+    "medium": 16,
+    "hard": 9
    }
   },
   {
    "code": "PH",
    "name": "Public Health and Preventive Medicine",
    "file": "questions/ph.json",
-   "count": 18,
+   "count": 19,
    "topics": [
     "Bias and Confounding",
     "Canadian Public Health System",
@@ -1044,11 +1088,12 @@
     "Public Health Surveillance",
     "Screening Bias",
     "Screening Test Characteristics",
+    "Statistical Tests",
     "Study Design"
    ],
    "difficulty": {
     "easy": 4,
-    "medium": 9,
+    "medium": 10,
     "hard": 5
    }
   },
@@ -1056,7 +1101,7 @@
    "code": "R",
    "name": "Respirology",
    "file": "questions/r.json",
-   "count": 17,
+   "count": 18,
    "topics": [
     "Acute asthma",
     "Acute exacerbation of COPD",
@@ -1073,20 +1118,21 @@
     "Pneumoconioses",
     "Pulmonary embolism investigation",
     "Pulmonary function test interpretation",
+    "Pulmonary hypertension",
     "Sarcoidosis",
     "Stable COPD management"
    ],
    "difficulty": {
     "easy": 4,
     "medium": 9,
-    "hard": 4
+    "hard": 5
    }
   },
   {
    "code": "RH",
    "name": "Rheumatology",
    "file": "questions/rh.json",
-   "count": 18,
+   "count": 19,
    "topics": [
     "ANCA-Associated Vasculitis (Granulomatosis with Polyangiitis)",
     "Ankylosing Spondylitis",
@@ -1097,6 +1143,7 @@
     "Gout: Chronic Management",
     "Idiopathic Inflammatory Myopathies",
     "Osteoarthritis",
+    "Polymyalgia Rheumatica",
     "Psoriatic Arthritis",
     "Reactive Arthritis",
     "Rheumatoid Arthritis",
@@ -1109,7 +1156,7 @@
    ],
    "difficulty": {
     "easy": 4,
-    "medium": 10,
+    "medium": 11,
     "hard": 4
    }
   },
@@ -1117,7 +1164,7 @@
    "code": "U",
    "name": "Urology",
    "file": "questions/u.json",
-   "count": 22,
+   "count": 24,
    "topics": [
     "Benign Prostatic Hyperplasia",
     "Bladder Catheterization",
@@ -1133,36 +1180,39 @@
     "Prostate Specific Antigen",
     "Prostatitis",
     "Renal Masses",
+    "Renal Trauma",
     "Testicular Carcinoma",
     "Testicular Torsion",
     "Transurethral Resection of the Prostate",
     "Upper Tract Urothelial Carcinoma",
     "Urinary Incontinence",
     "Urinary Tract Infection",
-    "Urolithiasis"
+    "Urolithiasis",
+    "Wilms Tumour"
    ],
    "difficulty": {
     "easy": 5,
-    "medium": 11,
-    "hard": 6
+    "medium": 12,
+    "hard": 7
    }
   },
   {
    "code": "VS",
    "name": "Vascular Surgery",
    "file": "questions/vs.json",
-   "count": 7,
+   "count": 8,
    "topics": [
     "Abdominal Aortic Aneurysm",
     "Acute Limb Ischemia",
     "Aortic Dissection",
     "Carotid Artery Stenosis",
     "Chronic Venous Insufficiency",
+    "Lymphedema",
     "Peripheral Arterial Disease"
    ],
    "difficulty": {
     "easy": 2,
-    "medium": 3,
+    "medium": 4,
     "hard": 2
    }
   }
@@ -1176,7 +1226,7 @@
    "chapters": null,
    "defaultCount": 40,
    "accent": "teal",
-   "poolSize": 772
+   "poolSize": 822
   },
   {
    "id": "medicine",
@@ -1197,7 +1247,7 @@
    ],
    "defaultCount": 30,
    "accent": "indigo",
-   "poolSize": 262
+   "poolSize": 279
   },
   {
    "id": "surgery",
@@ -1217,7 +1267,7 @@
    ],
    "defaultCount": 30,
    "accent": "amber",
-   "poolSize": 212
+   "poolSize": 227
   },
   {
    "id": "womens-childrens",
@@ -1231,7 +1281,7 @@
    ],
    "defaultCount": 25,
    "accent": "rose",
-   "poolSize": 102
+   "poolSize": 108
   },
   {
    "id": "primary-care",
@@ -1249,7 +1299,7 @@
    ],
    "defaultCount": 30,
    "accent": "violet",
-   "poolSize": 137
+   "poolSize": 146
   },
   {
    "id": "acute-care",
@@ -1266,7 +1316,7 @@
    ],
    "defaultCount": 25,
    "accent": "cyan",
-   "poolSize": 164
+   "poolSize": 173
   }
  ]
 }

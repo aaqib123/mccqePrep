@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 17,
+ "count": 18,
  "questions": [
   {
    "id": "TN-R-001",
@@ -790,6 +790,52 @@
     "document": "Toronto Notes 2025",
     "page": 1470,
     "reference": "R16 — Hypersensitivity Pneumonitis"
+   }
+  },
+  {
+   "id": "TN-R-018",
+   "type": "single-best-answer",
+   "question": "A 58-year-old woman reports eight months of progressive exertional dyspnea, fatigue and two episodes of exertional syncope. Examination reveals a loud, palpable P2, a right ventricular heave, a systolic murmur of tricuspid regurgitation, increased JVP and peripheral edema. Chest radiograph shows enlarged central pulmonary arteries, and spirometry and lung volumes are normal. Echo doppler estimates an elevated right ventricular systolic pressure. Which is the most appropriate investigation to confirm the diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Ventilation-perfusion scan"
+    },
+    {
+     "id": "b",
+     "text": "CT angiogram of the chest"
+    },
+    {
+     "id": "c",
+     "text": "Right heart catheterization"
+    },
+    {
+     "id": "d",
+     "text": "Pulmonary function testing with DLCO"
+    },
+    {
+     "id": "e",
+     "text": "Antinuclear antibody serology"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "Toronto Notes lists right heart catheterization as the investigation that confirms pulmonary hypertension, through direct measurement of mean pulmonary arterial pressure, pulmonary capillary wedge pressure, pulmonary vascular resistance and cardiac output. 2-D echo doppler only provides an assessment of right ventricular systolic pressure, so it raises the suspicion rather than establishing the diagnosis. This woman has the classic symptoms and signs of pulmonary hypertension with right ventricular failure, so catheterization is the next step to confirm it.",
+   "optionExplanations": {
+    "a": "A V/Q scan with pulmonary angiogram is used to rule out thromboembolic disease as a cause, not to confirm pulmonary hypertension itself.",
+    "b": "CT angiogram assesses lung parenchyma and possible PE; it does not measure mean pulmonary arterial pressure.",
+    "d": "PFTs assess for underlying lung disease, with DLCO usually reduced while volumes and flows are normal, but they cannot confirm the diagnosis.",
+    "e": "ANA is positive in 30% of patients with primary pulmonary HTN and helps screen for connective tissue disease, but it is not confirmatory."
+   },
+   "topic": "Pulmonary hypertension",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "R",
+    "name": "Respirology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1474,
+    "reference": "R20 — Pulmonary Hypertension"
    }
   }
  ]

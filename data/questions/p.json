@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 49,
+ "count": 51,
  "questions": [
   {
    "id": "TN-P-001",
@@ -2262,6 +2262,98 @@
     "document": "Toronto Notes 2025",
     "page": 1235,
     "reference": "P39 — Delayed Puberty"
+   }
+  },
+  {
+   "id": "TN-P-050",
+   "type": "single-best-answer",
+   "question": "A 7-year-old boy is brought in with a 4-week history of a painless left supraclavicular lymph node. It measures 2 cm and is firm, non-tender, and immobile. His parents report intermittent fever, night sweats, and weight loss. No other node groups are enlarged, and there is no history of travel, cat scratches, or recent throat infection. What is the most appropriate initial investigation?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Chest radiograph"
+    },
+    {
+     "id": "b",
+     "text": "Ultrasound of the neck"
+    },
+    {
+     "id": "c",
+     "text": "Tuberculin skin test"
+    },
+    {
+     "id": "d",
+     "text": "EBV and CMV serology"
+    },
+    {
+     "id": "e",
+     "text": "A period of observation with reassessment in 4 weeks"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes lists firm, non-tender, immobile nodes in a worrisome location such as the supraclavicular fossa, together with constitutional symptoms, as features of malignant lymphadenopathy. For regional lymphadenopathy confined to one body area, the text directs that supraclavicular lymphadenopathy be investigated with a CXR to rule out a mediastinal mass. This boy has an isolated supraclavicular node with fever, night sweats, and weight loss, so chest radiography is the appropriate first study.",
+   "optionExplanations": {
+    "b": "Ultrasound is listed for regional lymphadenopathy generally, but the source singles out supraclavicular nodes for a CXR because of the risk of an underlying mediastinal mass.",
+    "c": "A tuberculin skin test is part of the workup for generalized lymphadenopathy and does not address the mediastinal mass that supraclavicular nodes signal.",
+    "d": "EBV and CMV serology is directed at infectious causes; his nodes are firm, non-tender, and immobile with constitutional symptoms, which the source classes as malignant rather than benign features.",
+    "e": "Observation is offered only for asymptomatic regional lymphadenopathy; this node has already persisted beyond 4 weeks and is accompanied by constitutional symptoms."
+   },
+   "topic": "Lymphadenopathy",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "P",
+    "name": "Pediatrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1250,
+    "reference": "P54 — Lymphadenopathy"
+   }
+  },
+  {
+   "id": "TN-P-051",
+   "type": "single-best-answer",
+   "question": "A 6-year-old boy has refused to bear weight for two days because of right hip pain. His temperature is 39.0°C. He lies with the right hip flexed and externally rotated and resists passive movement. ESR is 55 mm/hr and WBC is 15,000 cells/mm3. Anteroposterior and lateral radiographs of both lower limbs show no fracture or bony lesion. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Transient synovitis"
+    },
+    {
+     "id": "b",
+     "text": "Septic arthritis"
+    },
+    {
+     "id": "c",
+     "text": "Legg-Calve-Perthes disease"
+    },
+    {
+     "id": "d",
+     "text": "Slipped capital femoral epiphysis"
+    },
+    {
+     "id": "e",
+     "text": "Developmental dysplasia of the hip"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "By the Kocher criteria, septic arthritis is more likely than transient synovitis as more of four criteria are met: non-weight bearing, temperature >38.5°C, ESR >40 mm/hr, and WBC >12000 cells/mm3. This boy meets all four, and the source also notes that a hip held flexed and externally rotated at rest points to septic arthritis. Septic arthritis is a medical emergency requiring prompt intravenous antibiotics.",
+   "optionExplanations": {
+    "a": "Transient synovitis is the most common diagnosis in a limping child, but meeting all four Kocher criteria makes septic arthritis the more likely explanation here.",
+    "c": "Legg-Calve-Perthes disease produces limited internal rotation from intra-articular hip pathology; it does not cause fever with a raised ESR and WBC.",
+    "d": "Slipped capital femoral epiphysis also presents with limited internal rotation and is not an acute febrile illness with inflammatory markers this high.",
+    "e": "Developmental dysplasia of the hip is suggested by limited hip abduction and a positive Trendelenberg test, not by acute fever and refusal to weight bear."
+   },
+   "topic": "Limp in Children",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "P",
+    "name": "Pediatrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1293,
+    "reference": "P97 — Limp"
    }
   }
  ]

@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 25,
+ "count": 27,
  "questions": [
   {
    "id": "TN-FM-001",
@@ -1158,6 +1158,98 @@
     "document": "Toronto Notes 2025",
     "page": 423,
     "reference": "FM47 — Diagnosis and Treatment of Common STIs"
+   }
+  },
+  {
+   "id": "TN-FM-026",
+   "type": "single-best-answer",
+   "question": "A 46-year-old woman presents with 3 days of left anterior chest pain. She describes a stinging pain that is worse when she reaches overhead. She has no cough, no fever and no dyspnea. On examination there is localized muscle tension over the left costal margin, and palpation of that area reproduces her pain exactly. Vital signs are normal. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Acute myocardial infarction"
+    },
+    {
+     "id": "b",
+     "text": "Chest wall pain"
+    },
+    {
+     "id": "c",
+     "text": "Gastroesophageal reflux disease"
+    },
+    {
+     "id": "d",
+     "text": "Pericarditis"
+    },
+    {
+     "id": "e",
+     "text": "Pulmonary embolism"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Toronto Notes defines chest wall pain as more than two of: localized muscle tension, stinging pain, pain reproducible by palpation, and absence of cough. This woman has all four features, so chest wall pain is the most likely diagnosis. None of the clinical findings that identify the other listed causes of chest pain are present.",
+   "optionExplanations": {
+    "a": "Acute MI is suggested by chest pain radiating to both arms, a third heart sound on auscultation and hypotension, none of which she has.",
+    "c": "GERD gives burning retrosternal pain with acid regurgitation and a sour or bitter taste in the mouth, and is confirmed when a 1 wk trial of high-dose proton pump inhibitor relieves symptoms.",
+    "d": "Pericarditis is a clinical triad of pleuritic chest pain lessened by leaning forward, a pericardial friction rub and diffuse ST segment elevation with PR interval depression.",
+    "e": "Pulmonary embolism is identified by pretest probability based on Wells criteria; pain that is fully reproducible by palpation does not fit."
+   },
+   "topic": "Chest Pain Differential Diagnosis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "FM",
+    "name": "Family Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 397,
+    "reference": "FM21 — Chest Pain: Differential Diagnosis"
+   }
+  },
+  {
+   "id": "TN-FM-027",
+   "type": "single-best-answer",
+   "question": "A 43-year-old man has had 10 days of nasal obstruction with discoloured nasal discharge and facial pain and pressure, without improvement. The symptoms are hard to tolerate and interfere with his sleep. He has no orbital swelling, no change in visual acuity, no altered mental status, no headache and no neurological findings. He has no drug allergies. What is the best initial treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Analgesics, decongestants and saline alone"
+    },
+    {
+     "id": "b",
+     "text": "Intranasal corticosteroid alone"
+    },
+    {
+     "id": "c",
+     "text": "Intranasal corticosteroid plus amoxicillin"
+    },
+    {
+     "id": "d",
+     "text": "Intranasal corticosteroid plus amoxicillin-clavulanic acid"
+    },
+    {
+     "id": "e",
+     "text": "Intranasal corticosteroid plus a fluoroquinolone"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "Acute bacterial rhinosinusitis is diagnosed when nasal obstruction or nasal purulence or discharge is present together with at least one other PODS symptom, and symptoms persist for more than 7 days without improvement. Toronto Notes treats mild to moderate severity with an intranasal corticosteroid, and severe symptoms — hard to tolerate and interfering with activity or sleep — with INCS plus antibiotics, first line amoxicillin. This man has nasal obstruction, discoloured discharge and facial pain beyond 7 days at a severe level with no red flags and no allergy, so INCS plus amoxicillin is correct.",
+   "optionExplanations": {
+    "a": "Analgesics, decongestants and saline are adjunct therapy; symptomatic treatment alone applies to illness of less than 7 days, which is most likely a viral URTI.",
+    "b": "An intranasal corticosteroid alone is the treatment for mild to moderate severity, whereas his symptoms are severe.",
+    "d": "Amoxicillin-clavulanic acid is second line, used after first line failure or when the risk of bacterial resistance is high or the consequences of therapy failure are greater.",
+    "e": "Fluoroquinolones are also second line and are not used before a trial of first line therapy."
+   },
+   "topic": "Acute Bacterial Rhinosinusitis",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "FM",
+    "name": "Family Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 424,
+    "reference": "FM48 — Diagnosis and Management of Sinusitis"
    }
   }
  ]

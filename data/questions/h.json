@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 34,
+ "count": 36,
  "questions": [
   {
    "id": "TN-H-001",
@@ -1572,6 +1572,98 @@
     "document": "Toronto Notes 2025",
     "page": 700,
     "reference": "H46 — Acute Lymphoblastic Leukemia"
+   }
+  },
+  {
+   "id": "TN-H-035",
+   "type": "single-best-answer",
+   "question": "A 32-year-old woman presents with a swollen, tender left calf and is found to have an unprovoked proximal deep vein thrombosis. She has had three consecutive unexplained early pregnancy losses before 10 weeks. There has been no recent surgery, trauma, immobilization, or hormone use. Baseline coagulation testing shows an otherwise unexplained prolonged PTT. What is the most appropriate investigation?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Lupus anticoagulant, anticardiolipin IgG and IgM, and anti-B2 glycoprotein-I antibody, confirmed on a second occasion more than 12 weeks later"
+    },
+    {
+     "id": "b",
+     "text": "CT of the abdomen and pelvis to screen for occult cancer"
+    },
+    {
+     "id": "c",
+     "text": "Plasminogen and tissue plasminogen activator activity assays"
+    },
+    {
+     "id": "d",
+     "text": "Fibrinogen assays for congenital dysfibrinogenemia"
+    },
+    {
+     "id": "e",
+     "text": "Age-appropriate cancer screening with mammogram, Pap test, and colonoscopy"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Antiphospholipid antibody syndrome is diagnosed by the Revised Sapporo criteria: at least one clinical criterion plus at least one laboratory criterion. The clinical criteria include arterial or venous thrombosis and three or more consecutive unexplained early pregnancy losses before 10 weeks, while the laboratory criteria (anticardiolipin IgG and IgM, anti-B2 glycoprotein-I antibody, or lupus anticoagulant) must be confirmed on two occasions tested more than 12 weeks apart. This woman meets two clinical criteria, and although lupus anticoagulant prolongs the PTT, its main clinical feature is thrombosis, which fits her presentation.",
+   "optionExplanations": {
+    "b": "Routine CT of the abdomen and pelvis after a first unprovoked VTE did not provide a clinically significant benefit for detecting occult cancer, and her obstetric history points elsewhere.",
+    "c": "Congenital plasminogen and tPA deficiency are disorders of fibrinolysis whose association with VTE risk is not clear, and they do not explain recurrent early pregnancy loss.",
+    "d": "Congenital dysfibrinogenemia may predispose to thromboembolic disease, bleeding, or both, but it does not account for the recurrent early pregnancy losses or the prolonged PTT.",
+    "e": "Age-appropriate screening is part of the malignancy workup for acquired hypercoagulability, but the clinical criteria she already meets direct testing toward antiphospholipid antibodies."
+   },
+   "topic": "Antiphospholipid Antibody Syndrome",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "H",
+    "name": "Hematology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 690,
+    "reference": "H36 — Antiphospholipid Antibody Syndrome"
+   }
+  },
+  {
+   "id": "TN-H-036",
+   "type": "single-best-answer",
+   "question": "A 68-year-old man reports months of weakness, fatigue, and recurrent oronasal bleeding, with intermittent confusion. Fundoscopy shows retinal lesions. He has hepatosplenomegaly and lymphadenopathy; no bone lesions are present and calcium is normal. Blood work shows a normocytic anemia with rouleaux, a high ESR, and a monoclonal IgM paraprotein. Bone marrow shows plasmacytoid lymphocytes. HCV serology is negative. What is the best initial treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Plasmapheresis"
+    },
+    {
+     "id": "b",
+     "text": "Bendamustine plus rituximab"
+    },
+    {
+     "id": "c",
+     "text": "Corticosteroids alone"
+    },
+    {
+     "id": "d",
+     "text": "Antiviral therapy directed at hepatitis C"
+    },
+    {
+     "id": "e",
+     "text": "Observation with history, CBC, creatinine, calcium, albumin, LDH, and SPEP every 6-12 months"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "This is lymphoplasmacytic lymphoma (Waldenstrom's macroglobulinemia): proliferation of lymphoplasmacytoid cells with a monoclonal IgM paraprotein, pallor, splenomegaly, hepatomegaly, lymphadenopathy, and retinal lesions, with bone lesions usually absent. The key complication to avoid is hyperviscosity syndrome, because IgM is large and confined mainly to the intravascular space, and the treatment given for hyperviscosity is plasmapheresis for acute reduction in serum IgM. His oronasal bleeding, retinal lesions, and cerebral dysfunction indicate symptomatic hyperviscosity, so plasmapheresis takes priority.",
+   "optionExplanations": {
+    "b": "Chemotherapy with rituximab, most commonly bendamustine plus rituximab, is the standard disease-directed therapy, but it does not acutely lower serum IgM in symptomatic hyperviscosity.",
+    "c": "Corticosteroids are listed among the treatment options for lymphoplasmacytic lymphoma but will not produce the acute reduction in serum IgM that hyperviscosity requires.",
+    "d": "Treating HCV before a trial of chemotherapy applies only to HCV-positive disease, where eradication can put the lymphoma into remission; his serology is negative.",
+    "e": "Periodic monitoring is the approach to monoclonal gammopathy of unknown significance, which requires an M protein below 30 g/L, under 10% plasma cells, and absence of SLIM CRAB, not symptomatic disease."
+   },
+   "topic": "Lymphoplasmacytic Lymphoma",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "H",
+    "name": "Hematology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 707,
+    "reference": "H53 — Lymphoplasmacytic Lymphoma"
    }
   }
  ]

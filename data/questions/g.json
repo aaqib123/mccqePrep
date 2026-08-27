@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 25,
+ "count": 27,
  "questions": [
   {
    "id": "TN-G-001",
@@ -1158,6 +1158,98 @@
     "document": "Toronto Notes 2025",
     "page": 484,
     "reference": "G50 — Chronic Pancreatitis"
+   }
+  },
+  {
+   "id": "TN-G-026",
+   "type": "single-best-answer",
+   "question": "A 34-year-old man is in the ICU on mechanical ventilation after burns involving 45% of his body surface area. On day 5 he passes melena and his hemoglobin falls. He reports no abdominal pain and has no rigidity or tachycardia. He takes no ASA or NSAIDs. Gastroscopy shows an acute ulcer in the duodenum. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Curling's ulcer"
+    },
+    {
+     "id": "b",
+     "text": "Cushing's ulcer"
+    },
+    {
+     "id": "c",
+     "text": "NSAID-induced duodenal ulceration"
+    },
+    {
+     "id": "d",
+     "text": "Perforated peptic ulcer"
+    },
+    {
+     "id": "e",
+     "text": "Gastric carcinoma"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes defines a Curling's ulcer as an acute peptic ulcer of the duodenum resulting as a complication from severe burns, when reduced plasma volume leads to ischemia and cell necrosis of the mucosa. Stress-induced ulceration occurs in the upper GI tract of ill patients, usually in ICU, with mechanical ventilation the most important risk factor and burns involving more than 35% of body surface listed among the risk factors; its clinical feature is painless UGIB. This ventilated patient with a 45% BSA burn and painless melena from a duodenal ulcer fits that description.",
+   "optionExplanations": {
+    "b": "Cushing's ulcer is the stress ulcer produced by elevated ICP, seen with acute CNS injury, which this patient does not have.",
+    "c": "He is taking no ASA or NSAIDs, and NSAIDs more commonly cause gastric ulcers than duodenal ulcers.",
+    "d": "Perforation is suggested by sudden onset abdominal pain, rigidity and tachycardia, none of which are present.",
+    "e": "The lesion is an acute duodenal ulcer arising after 5 d of critical illness, not a gastric malignancy."
+   },
+   "topic": "Stress-Induced Ulceration",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "G",
+    "name": "Gastroenterology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 448,
+    "reference": "G14 — Stress-Induced Ulceration"
+   }
+  },
+  {
+   "id": "TN-G-027",
+   "type": "single-best-answer",
+   "question": "A 62-year-old woman has routine bloodwork showing an isolated elevation of ALP at more than twice the upper limit of normal. AST, ALT, bilirubin, albumin and INR are all normal. She is asymptomatic, with no jaundice, pruritus or abdominal pain, and takes no medications. Which investigation is most appropriate next?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Serum GGT"
+    },
+    {
+     "id": "b",
+     "text": "Anti-nuclear antibody and smooth muscle antibody"
+    },
+    {
+     "id": "c",
+     "text": "Serum ceruloplasmin"
+    },
+    {
+     "id": "d",
+     "text": "Iron saturation and ferritin"
+    },
+    {
+     "id": "e",
+     "text": "Liver biopsy"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states that if ALP is elevated alone, bone disease should be ruled out by fractionating ALP and/or checking GGT. ALP and GGT together define the cholestatic liver enzyme profile, so a raised GGT confirms the ALP is of hepatobiliary rather than bone origin before any disease-specific testing. With normal AST, ALT, bilirubin and synthetic function, this asymptomatic isolated ALP elevation warrants GGT first.",
+   "optionExplanations": {
+    "b": "ANA and SMA are the diagnostic tests for autoimmune hepatitis, which produces a hepatocellular pattern of raised AST and ALT.",
+    "c": "Ceruloplasmin is the diagnostic test for Wilson's disease, not an approach to an isolated ALP elevation.",
+    "d": "Iron saturation and ferritin are the diagnostic tests for hereditary hemochromatosis, which does not present as isolated ALP elevation.",
+    "e": "Liver biopsy is invasive and premature before confirming that the ALP elevation is hepatic rather than from bone."
+   },
+   "topic": "Liver Enzyme Interpretation",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "G",
+    "name": "Gastroenterology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 466,
+    "reference": "G32 — Investigations of Hepatobiliary Disease"
    }
   }
  ]

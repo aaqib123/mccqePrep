@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 36,
+ "count": 38,
  "questions": [
   {
    "id": "TN-ER-001",
@@ -1664,6 +1664,98 @@
     "document": "Toronto Notes 2025",
     "page": 261,
     "reference": "ER15 — Orthopedic Injuries: Compartment Syndrome"
+   }
+  },
+  {
+   "id": "TN-ER-037",
+   "type": "single-best-answer",
+   "question": "A 2-year-old boy is brought to the emergency department with 2 days of coryza followed by noisy breathing. He has stridor and sternal and intercostal indrawing at rest, with moderate difficulty breathing. He is alert, is not cyanotic, and is not drooling. A single dose of dexamethasone has already been given. Which of the following is the most appropriate next treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Nebulized epinephrine"
+    },
+    {
+     "id": "b",
+     "text": "Humidified oxygen"
+    },
+    {
+     "id": "c",
+     "text": "IV ceftriaxone plus vancomycin"
+    },
+    {
+     "id": "d",
+     "text": "Immediate intubation with ENT and anesthesia present"
+    },
+    {
+     "id": "e",
+     "text": "A second dose of dexamethasone"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Croup is managed with one dose of dexamethasone, and nebulized or MDI epinephrine is added if the child is moderate-severe. Moderate croup is defined by stridor and sternal/intercostal indrawing at rest with moderate difficulty breathing, which is exactly this child's picture, so nebulized epinephrine is the next treatment.",
+   "optionExplanations": {
+    "b": "Humidified oxygen has no evidence for efficacy in croup.",
+    "c": "IV ceftriaxone plus vancomycin is the broad-spectrum regimen for bacterial tracheitis, considered only if the child is unresponsive to croup therapy.",
+    "d": "Immediate anesthesia/ENT intubation is reserved for epiglottitis (drooling, dyspnea, dysphagia, dysphonia, tripod sitting) or bacterial tracheitis, none of which is present.",
+    "e": "Dexamethasone is given as a single dose; repeating it does not address the airway obstruction present at rest now."
+   },
+   "topic": "Pediatric Stridor and Croup",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "ER",
+    "name": "Emergency Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 304,
+    "reference": "ER58 — Pediatric Upper Airway Obstruction: Management"
+   }
+  },
+  {
+   "id": "TN-ER-038",
+   "type": "single-best-answer",
+   "question": "A 26-year-old woman presents with 3 days of fever and a painful, swollen right knee. She began menstruating 4 days ago. Examination shows scattered pustules and vesicles on erythematous bases, roughly 5 mm in diameter, over her forearms and lower legs, and a warm, tender knee with limited movement. She is normotensive with no headache or neck stiffness. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Disseminated gonococcal infection"
+    },
+    {
+     "id": "b",
+     "text": "Meningococcemia"
+    },
+    {
+     "id": "c",
+     "text": "Erythema multiforme"
+    },
+    {
+     "id": "d",
+     "text": "Toxic shock syndrome"
+    },
+    {
+     "id": "e",
+     "text": "Drug reaction with eosinophilia and systemic symptoms (DRESS) syndrome"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Disseminated gonococcal infection causes fever, skin lesions that are pustules or vesicles on an erythematous base about 5 mm in diameter, arthritis with joint swelling and tenderness, and septic arthritis of larger joints such as the knees, ankles, and elbows. It occurs most commonly in gonococcus-positive women during menstruation or pregnancy, and the skin lesions usually appear on the extremities. This patient's menstrual timing, 5 mm pustules on the limbs, and hot swollen knee fit that pattern.",
+   "optionExplanations": {
+    "b": "Meningococcemia produces petechial, macular, or maculopapular lesions with grey vesicular centres alongside headache, myalgia, and N/V, and signs of meningeal irritation, none of which she has.",
+    "c": "Erythema multiforme is defined by target lesions with a central grey bulla or wheal surrounded by concentric rings, typically after a herpes simplex viral prodrome, not pustules with septic arthritis.",
+    "d": "Toxic shock syndrome presents with onset of shock and multi-organ failure and a diffuse erythematous macular rash involving at least 3 organ systems; she is normotensive with a single involved joint.",
+    "e": "DRESS syndrome causes a morbilliform rash of the face, trunk, and arms 1-6 wk after first exposure to a drug, with fever and cervical lymphadenopathy; there is no new drug and no morbilliform rash."
+   },
+   "topic": "Dermatologic Emergencies — Febrile Rash",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "ER",
+    "name": "Emergency Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 290,
+    "reference": "ER44 — Discrete Lesions: Disseminated Gonococcal Infection"
    }
   }
  ]

@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 26,
+ "count": 28,
  "questions": [
   {
    "id": "TN-GY-001",
@@ -1204,6 +1204,98 @@
     "document": "Toronto Notes 2025",
     "page": 637,
     "reference": "GY43 — Uterine Sarcoma"
+   }
+  },
+  {
+   "id": "TN-GY-027",
+   "type": "single-best-answer",
+   "question": "A 27-year-old woman with 9 weeks of amenorrhea presents with vaginal bleeding and cramping, and reports passing tissue at home earlier today. She is hemodynamically stable and a pregnancy test is positive. On speculum examination the cervix is open, and pelvic ultrasound shows residual tissue in the uterus with no ectopic pregnancy identified. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Threatened abortion"
+    },
+    {
+     "id": "b",
+     "text": "Inevitable abortion"
+    },
+    {
+     "id": "c",
+     "text": "Incomplete abortion"
+    },
+    {
+     "id": "d",
+     "text": "Complete abortion"
+    },
+    {
+     "id": "e",
+     "text": "Missed abortion"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "Spontaneous abortions are classified by history together with cervical and ultrasound findings. Incomplete abortion is defined by bleeding and cramps with passage of tissue noticed, an open cervix, and residual tissue in the uterus on U/S, which is exactly this presentation. Management options are watch and wait, misoprostol 800 µg PV now and 800 µg PV 24 h later, or D&C, after ruling out an ectopic pregnancy and checking Rh status.",
+   "optionExplanations": {
+    "a": "Threatened abortion is bleeding ± cramping with a live fetus on U/S and a closed cervix; less than 5% go on to abort.",
+    "b": "Inevitable abortion is bleeding and cramping with rupture of membranes and the fetus still low in the uterus on U/S, not residual tissue after passage.",
+    "d": "Complete abortion means complete passage of the sac and placental tissue, giving an empty uterus on U/S with a closed cervix and no bleeding, so no management is needed.",
+    "e": "Missed abortion is fetal death in utero with no bleeding, a closed cervix, and the fetus and sac still in the uterus with no fetal heart rate on U/S."
+   },
+   "topic": "Spontaneous Abortion",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "GY",
+    "name": "Gynecology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 615,
+    "reference": "GY21 — Spontaneous Abortions"
+   }
+  },
+  {
+   "id": "TN-GY-028",
+   "type": "single-best-answer",
+   "question": "A 22-year-old woman had a brief episode of left-sided pelvic pain that has resolved, and she is now asymptomatic. Her pregnancy test is negative and bimanual examination is unremarkable. Transvaginal ultrasound shows a 4 cm unilocular left ovarian cyst with no calcification, no solid component and no free fluid. What is the most appropriate next step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Re-examine in 6 wk, as the cyst usually regresses with the next cycle"
+    },
+    {
+     "id": "b",
+     "text": "Laparoscopic cystectomy"
+    },
+    {
+     "id": "c",
+     "text": "Unilateral salpingo-oophorectomy"
+    },
+    {
+     "id": "d",
+     "text": "Surgical exploration now"
+    },
+    {
+     "id": "e",
+     "text": "Start an OCP to make the existing cyst regress"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Symptomatic or suspicious ovarian masses warrant surgical exploration; otherwise, if the cyst is smaller than 6 cm, wait 6 wk and then re-examine, as the cyst usually regresses with the next cycle. This asymptomatic patient has a 4 cm unilocular cyst with no suspicious features, the picture of a follicular cyst in which the follicle fails to rupture during ovulation, so observation is appropriate.",
+   "optionExplanations": {
+    "b": "Laparoscopic cystectomy is the usual treatment for an endometrioma or a benign cystic teratoma, not for a small functional cyst expected to regress.",
+    "c": "Unilateral salpingo-oophorectomy is a resection option for ovarian neoplasms based on fertility choice, and is disproportionate for a 4 cm unilocular cyst.",
+    "d": "Surgical exploration is reserved for symptomatic or suspicious masses, and this cyst is neither.",
+    "e": "OCP produces ovarian suppression and will prevent development of new cysts, but it is not given to clear the cyst already present."
+   },
+   "topic": "Benign Ovarian Cysts",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "GY",
+    "name": "Gynecology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 639,
+    "reference": "GY45 — Ovarian Tumours"
    }
   }
  ]

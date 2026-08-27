@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 7,
+ "count": 8,
  "questions": [
   {
    "id": "TN-VS-001",
@@ -330,6 +330,52 @@
     "document": "Toronto Notes 2025",
     "page": 1587,
     "reference": "VS7 — Aortic Dissection, Treatment"
+   }
+  },
+  {
+   "id": "TN-VS-008",
+   "type": "single-best-answer",
+   "question": "A 58-year-old woman reports two years of progressive right leg swelling that no longer settles with elevation. The skin of the foot and ankle is thickened and hyperkeratotic, the edema does not pit, and the examiner is unable to lift a fold of skin at the base of the second toe. She has had two episodes of cellulitis in that limb. Which investigation is most appropriate to confirm the diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Lymphoscintigraphy"
+    },
+    {
+     "id": "b",
+     "text": "Venous duplex ultrasound of the leg"
+    },
+    {
+     "id": "c",
+     "text": "Ankle-brachial index measurement"
+    },
+    {
+     "id": "d",
+     "text": "Punch biopsy of the thickened skin"
+    },
+    {
+     "id": "e",
+     "text": "CT venography of the pelvis"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes gives lymphoscintigraphy as the most definitive test for lymphedema, with secondary causes evaluated and treated if found. The classic features here are non-pitting edema with hyperkeratotic cutaneous changes on a limb with progressive disease and a positive Stemmer sign, the sensitive finding in which the examiner is unable to lift the skin of a thickened skin fold at the base of the second toe. Confirming impaired lymphatic drainage therefore requires lymphoscintigraphy rather than a study of the venous or arterial circulation.",
+   "optionExplanations": {
+    "b": "Duplex assesses venous reflux and obstruction, but the non-pitting edema, hyperkeratosis and positive Stemmer sign point to the lymphatics, not chronic venous insufficiency.",
+    "c": "The ankle-brachial index screens for arterial occlusive disease; it says nothing about lymphatic drainage and this limb has no ischemic features.",
+    "d": "Skin biopsy documents the hyperkeratotic cutaneous changes and lipodermatosclerosis already evident on examination and does not establish the lymphatic defect.",
+    "e": "Pelvic cross-sectional imaging is aimed at secondary causes such as pelvic tumours; it is pursued after the diagnosis is established rather than as the definitive test."
+   },
+   "topic": "Lymphedema",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "VS",
+    "name": "Vascular Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1592,
+    "reference": "VS12 — Lymphedema, Clinical Features and Investigations"
    }
   }
  ]

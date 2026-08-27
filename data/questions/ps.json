@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 30,
+ "count": 32,
  "questions": [
   {
    "id": "TN-PS-001",
@@ -1388,6 +1388,98 @@
     "document": "Toronto Notes 2025",
     "page": 1376,
     "reference": "PS22 — Bereavement"
+   }
+  },
+  {
+   "id": "TN-PS-031",
+   "type": "single-best-answer",
+   "question": "A 36-year-old woman consults her family physician about eight months of muscle tension, being easily fatigued, and unsatisfying sleep. On questioning she describes excessive worry, occurring more days than not, about her work performance, her finances, and her children's health, and says she finds it difficult to control the worry. She is irritable and her mind goes blank at meetings. She reports no discrete surges of fear, no fear of scrutiny by others, and no avoidance of any specific object or situation. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Generalized anxiety disorder"
+    },
+    {
+     "id": "b",
+     "text": "Social anxiety disorder"
+    },
+    {
+     "id": "c",
+     "text": "Specific phobia"
+    },
+    {
+     "id": "d",
+     "text": "Panic disorder"
+    },
+    {
+     "id": "e",
+     "text": "Substance-induced anxiety disorder"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Generalized anxiety disorder requires excessive anxiety and worry occurring more days than not for at least 6 mo about a number of events or activities such as work or school performance, difficulty controlling the worry, and three or more of restlessness, being easily fatigued, difficulty concentrating or mind going blank, irritability, muscle tension, and sleep disturbance, with clinically significant distress or impairment. This woman's worry has run for eight months across work, finances, and family, is hard to control, and is accompanied by five of the six listed symptoms. Toronto Notes also notes that in primary care 70% of these patients initially present with physical symptoms as their main concern, as she did.",
+   "optionExplanations": {
+    "b": "Social anxiety is a marked and persistent fear of social or performance situations involving possible scrutiny by others and fear of being negatively evaluated; her worry is not confined to such situations.",
+    "c": "A specific phobia is fear cued by the presence or anticipation of a specific object or situation, with avoidance; she describes no such cue or avoidance.",
+    "d": "Her anxiety is persistent apprehensive expectation rather than the discrete panic attacks that define panic disorder.",
+    "e": "Criterion E excludes anxiety attributable to the physiological effects of a substance or another medical condition, and nothing here points to one."
+   },
+   "topic": "Generalized Anxiety Disorder",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "PS",
+    "name": "Psychiatry"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1372,
+    "reference": "PS18 — Generalized Anxiety Disorder"
+   }
+  },
+  {
+   "id": "TN-PS-032",
+   "type": "single-best-answer",
+   "question": "A 26-year-old man is brought to the emergency department 30 min after smoking crack cocaine. He is agitated and sweating, with blood pressure 195/115 mmHg, heart rate 142 beats/min, mydriasis, and a temperature of 39.1 degrees Celsius. While being assessed he has a generalized tonic-clonic seizure lasting 90 s. His ECG shows sinus tachycardia with a widened QRS complex. What is the most appropriate initial pharmacologic treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Intravenous diazepam"
+    },
+    {
+     "id": "b",
+     "text": "Intravenous labetalol"
+    },
+    {
+     "id": "c",
+     "text": "Intravenous propranolol"
+    },
+    {
+     "id": "d",
+     "text": "Intramuscular haloperidol"
+    },
+    {
+     "id": "e",
+     "text": "Oral topiramate"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Cocaine overdose is a medical emergency of hypertension, tachycardia, tonic-clonic seizures, dyspnea, hyperthermia, and ventricular arrhythmias, and Toronto Notes gives treatment with IV diazepam to control seizures, with benzodiazepines also used for moderate agitation and anxiety. Beta-blockers are explicitly not recommended because unopposed alpha-adrenergic stimulation can lead to coronary artery vasoconstriction and hypertension. A benzodiazepine therefore addresses this man's seizure and his sympathetic hyperstimulation at once, while the widened QRS reflects cocaine's cardiac sodium channel blockade rather than a separate drug indication.",
+   "optionExplanations": {
+    "b": "Labetalol is named among the beta-blockers that are not recommended in cocaine toxicity because of the risk of unopposed alpha-adrenergic stimulation.",
+    "c": "Propranolol carries the same objection and does not treat the seizure.",
+    "d": "Antipsychotics are reserved for severe agitation, not for controlling cocaine-induced seizures.",
+    "e": "Topiramate has only off-label evidence in the long-term treatment of cocaine use disorder and has no role in acute overdose."
+   },
+   "topic": "Cocaine Intoxication and Overdose",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "PS",
+    "name": "Psychiatry"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1385,
+    "reference": "PS31 — Cocaine"
    }
   }
  ]

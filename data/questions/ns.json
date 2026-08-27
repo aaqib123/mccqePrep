@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 30,
+ "count": 32,
  "questions": [
   {
    "id": "TN-NS-001",
@@ -1388,6 +1388,98 @@
     "document": "Toronto Notes 2025",
     "page": 971,
     "reference": "NS39 — Fractures of the Spine"
+   }
+  },
+  {
+   "id": "TN-NS-123",
+   "type": "single-best-answer",
+   "question": "A 31-year-old woman with obesity has six weeks of daily headache and horizontal diplopia. She is awake and alert, and examination shows bilateral papilledema with a right CN VI palsy and no other localizing signs. MRI with venography is normal and shows no evidence of thrombosis. Lumbar puncture opening pressure is 32 cm H2O with normal CSF. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Dural venous sinus thrombosis"
+    },
+    {
+     "id": "b",
+     "text": "Idiopathic intracranial hypertension (pseudotumour cerebri)"
+    },
+    {
+     "id": "c",
+     "text": "Hydrocephalus"
+    },
+    {
+     "id": "d",
+     "text": "Hypertensive encephalopathy"
+    },
+    {
+     "id": "e",
+     "text": "Intracranial mass lesion"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Idiopathic intracranial hypertension (pseudotumour cerebri) is defined as raised ICP with papilledema but without mass, hydrocephalus, infection, or hypertensive encephalopathy, making it a diagnosis of exclusion confirmed by the modified Dandy's criteria. This patient meets every criterion: symptoms of raised ICP, no localizing signs except a CN VI palsy, awake and alert, normal neuroimaging without evidence of thrombosis, an LP opening pressure above 25 cm H2O with normal CSF, and no better explanation. Her profile also matches the highest-incidence group, women of childbearing age with obesity.",
+   "optionExplanations": {
+    "a": "Dural venous sinus thrombosis is the vascular association whose risk factors overlap with this condition, but the modified Dandy's criteria require normal neuroimaging without evidence of thrombosis, and her venography is normal.",
+    "c": "Hydrocephalus is one of the entities that must be absent before the diagnosis can be made; her neuroimaging is normal.",
+    "d": "Hypertensive encephalopathy is likewise explicitly excluded by the definition of raised ICP with papilledema in this syndrome.",
+    "e": "A mass is excluded by the definition and by her normal neuroimaging, so a tumour cannot account for the raised pressure here."
+   },
+   "topic": "Idiopathic Intracranial Hypertension",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "NS",
+    "name": "Neurosurgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 940,
+    "reference": "NS8 — Idiopathic Intracranial Hypertension (Pseudotumour Cerebri)"
+   }
+  },
+  {
+   "id": "TN-NS-124",
+   "type": "single-best-answer",
+   "question": "A 76-year-old woman has a CT head with contrast after a minor fall. It shows a 2.4 cm homogeneous, densely enhancing, well circumscribed extra-axial mass along the left parasagittal convexity with a dural tail and hyperostosis of the adjacent bone. She has no headache, seizures, or focal neurologic deficit. MRI six months later shows no interval growth. What is the most appropriate next step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Craniotomy for macroscopically complete removal of the tumour with excision of its dural attachment"
+    },
+    {
+     "id": "b",
+     "text": "Stereotactic radiosurgery"
+    },
+    {
+     "id": "c",
+     "text": "Serial CT/MRI monitoring for interval growth changes"
+    },
+    {
+     "id": "d",
+     "text": "Endovascular embolization followed by resection"
+    },
+    {
+     "id": "e",
+     "text": "Whole brain radiotherapy"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "The homogeneous, densely enhancing, well circumscribed mass along a dural border with a dural tail and hyperostosis of adjacent bone is a meningioma, the most common primary intracranial tumour and often an incidental, asymptomatic finding. Toronto Notes reserves conservative management with serial CT/MRI monitoring for interval growth changes for lesions that are asymptomatic and/or non-progressive, and indicates surgery only when a meningioma is symptomatic and/or documented to grow on serial imaging. This tumour is asymptomatic and unchanged at six months, so continued surveillance is appropriate.",
+   "optionExplanations": {
+    "a": "Surgery, often curative with complete resection, is indicated when the tumour is symptomatic and/or has documented growth on serial CT/MRI; neither applies to this stable incidental lesion.",
+    "b": "SRS is an option for lesions under 3 cm and an alternative when surgical risk is high, but it is an alternative to surgery once treatment is warranted, not a substitute for observing an asymptomatic non-progressive tumour.",
+    "d": "Embolization is used for highly vascularized, likely bloody tumours to facilitate a planned surgery, so it presupposes an operative indication that is absent here.",
+    "e": "Whole brain radiotherapy is used for consolidation and palliation in other intracranial tumours and is not the management of a stable asymptomatic meningioma."
+   },
+   "topic": "Meningioma",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "NS",
+    "name": "Neurosurgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 949,
+    "reference": "NS17 — Meningioma"
    }
   }
  ]
