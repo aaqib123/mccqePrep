@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 14,
+ "count": 16,
  "questions": [
   {
    "id": "TN-GM-001",
@@ -652,6 +652,98 @@
     "document": "Toronto Notes 2025",
     "page": 588,
     "reference": "GM16 — Adverse Drug Reactions"
+   }
+  },
+  {
+   "id": "TN-GM-015",
+   "type": "single-best-answer",
+   "question": "A 79-year-old woman is brought to clinic by her daughter, who is concerned that her mother has been coping poorly at home since her husband died 6 mo ago. He had run the household. The patient lives alone, has no new medical complaints, and is documented to be independent in all basic activities of daily living. Which ability is most appropriate to assess next as an instrumental activity of daily living?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Transferring from bed to chair"
+    },
+    {
+     "id": "b",
+     "text": "Bathing"
+    },
+    {
+     "id": "c",
+     "text": "Managing her finances"
+    },
+    {
+     "id": "d",
+     "text": "Maintaining continence"
+    },
+    {
+     "id": "e",
+     "text": "Toileting"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "Toronto Notes divides functional assessment into basic activities of daily living, remembered as ABCDE-TT (ambulating, bathing, continence, dressing, eating, transferring, toileting), and instrumental activities of daily living, remembered as SHAFT-TT (shopping, housework, accounting/managing finances, food preparation, transportation, telephone, taking medications). Of the abilities listed, only accounting/managing finances appears on the instrumental list. Since her basic ADLs are already documented as intact, the instrumental domains are what remain to be assessed in a woman whose late husband had run the household.",
+   "optionExplanations": {
+    "a": "Transferring is the first T of ABCDE-TT, a basic activity of daily living, and is already documented as intact.",
+    "b": "Bathing is the B of ABCDE-TT, a basic activity of daily living rather than an instrumental one.",
+    "d": "Continence is the C of ABCDE-TT and belongs to the basic, not the instrumental, list.",
+    "e": "Toileting is the second T of ABCDE-TT, a basic activity of daily living already covered by the assessment described."
+   },
+   "topic": "Functional Assessment",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "GM",
+    "name": "Geriatric Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 574,
+    "reference": "GM2 — Functional Assessment (ADLs and IADLs)"
+   }
+  },
+  {
+   "id": "TN-GM-016",
+   "type": "single-best-answer",
+   "question": "A 78-year-old woman attends her family physician for a focused geriatric assessment. She lives independently and has had no falls. She describes generalized joint stiffness that has developed gradually over several years. Today her measured height is 155 cm; a chart entry from 9 years ago records 161 cm. Cardiac, respiratory, and neurologic examinations are unremarkable. What does the reduction in her height most likely indicate?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Sarcopenia"
+    },
+    {
+     "id": "b",
+     "text": "Bursitis"
+    },
+    {
+     "id": "c",
+     "text": "Vertebral compression fractures related to osteoporosis"
+    },
+    {
+     "id": "d",
+     "text": "Polymyalgia rheumatica"
+    },
+    {
+     "id": "e",
+     "text": "Arthritis"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "In the focused geriatric physical exam, Toronto Notes directs the examiner to measure height and states that a reduction in height may indicate vertebral compression fractures or osteoporosis. A 6 cm loss documented over 9 years is therefore best explained by osteoporotic vertebral compression fractures. Her gradual joint stiffness is separately accounted for as an expected impact of aging on the musculoskeletal system, namely joint stiffness and reduced joint capsule flexibility.",
+   "optionExplanations": {
+    "a": "Decreased muscle mass/sarcopenia is listed as a physiological change of aging whose impact is decreased strength, not shortening of the axial skeleton.",
+    "b": "Bursitis is listed among the musculoskeletal conditions occurring more frequently in older adults, but the text links height reduction to vertebral compression fractures or osteoporosis, not to bursitis.",
+    "d": "Polymyalgia rheumatica is listed as a musculoskeletal condition seen more often in older adults, yet it is not the change the text attributes measured height loss to.",
+    "e": "Arthritis is listed among the musculoskeletal pathologies of aging, but reduced measured height is attributed in the text to vertebral compression fractures or osteoporosis."
+   },
+   "topic": "Focused Geriatric Physical Exam",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "GM",
+    "name": "Geriatric Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 575,
+    "reference": "GM3 — Focused Geriatric Physical Exam"
    }
   }
  ]

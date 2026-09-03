@@ -1,12 +1,12 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-09-03T15:41:19Z",
+ "generatedAt": "2026-09-03T16:09:08Z",
  "document": {
   "id": "toronto-notes-2025",
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "totalQuestions": 872,
+ "totalQuestions": 876,
  "chapters": [
   {
    "code": "ELOM",
@@ -131,23 +131,25 @@
    "code": "CP",
    "name": "Clinical Pharmacology",
    "file": "questions/cp.json",
-   "count": 11,
+   "count": 13,
    "topics": [
     "Absorption and Bioavailability",
     "Clinically Relevant Drug Interactions",
+    "Dangerous Abbreviations and Dose Designations",
     "Drug Biotransformation and Toxic Metabolites",
     "Drug Interactions and CYP Metabolism",
     "Opioid Therapy in Chronic Non-Cancer Pain",
     "Pharmacodynamics: Agonists and Antagonists",
     "Pharmacogenetics and Drug Biotransformation",
     "Pharmacokinetics: Half-Life and Loading Doses",
+    "Phases of Clinical Drug Testing",
     "Routes of Drug Administration",
     "Therapeutic Drug Monitoring",
     "Therapeutic Index and Drug Safety"
    ],
    "difficulty": {
     "easy": 2,
-    "medium": 7,
+    "medium": 9,
     "hard": 2
    }
   },
@@ -421,7 +423,7 @@
    "code": "GM",
    "name": "Geriatric Medicine",
    "file": "questions/gm.json",
-   "count": 14,
+   "count": 16,
    "topics": [
     "Adverse Drug Reactions",
     "Constipation",
@@ -431,7 +433,9 @@
     "Elder Abuse",
     "Falls",
     "Fecal Incontinence",
+    "Focused Geriatric Physical Exam",
     "Frailty",
+    "Functional Assessment",
     "Levels of Care and Healthcare Institutions",
     "Malnutrition and Weight Loss",
     "Polypharmacy and Prescribing Cascade",
@@ -440,7 +444,7 @@
    ],
    "difficulty": {
     "easy": 3,
-    "medium": 8,
+    "medium": 10,
     "hard": 3
    }
   },
@@ -1276,7 +1280,7 @@
    "chapters": null,
    "defaultCount": 40,
    "accent": "teal",
-   "poolSize": 872
+   "poolSize": 876
   },
   {
    "id": "medicine",
@@ -1297,7 +1301,7 @@
    ],
    "defaultCount": 30,
    "accent": "indigo",
-   "poolSize": 296
+   "poolSize": 298
   },
   {
    "id": "surgery",
@@ -1349,7 +1353,7 @@
    ],
    "defaultCount": 30,
    "accent": "violet",
-   "poolSize": 155
+   "poolSize": 157
   },
   {
    "id": "acute-care",

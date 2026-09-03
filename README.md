@@ -1,6 +1,6 @@
 # MCCQE Part I Practice Exam
 
-A static, self-contained mock exam for MCCQE Part I preparation. **872 single-best-answer clinical vignettes** across 32 specialties, each with a worked explanation grounded in *Toronto Notes 2025* (41st edition).
+A static, self-contained mock exam for MCCQE Part I preparation. **876 single-best-answer clinical vignettes** across 32 specialties, each with a worked explanation grounded in *Toronto Notes 2025* (41st edition).
 
 **→ [Take an exam](https://aaqib123.github.io/mccqePrep/)**
 
@@ -14,11 +14,11 @@ Pick a preset, choose how many questions you want, and sit it. Questions are sam
 
 | Preset | Focus | Default | Pool |
 |---|---|---:|---:|
-| **Full mock exam** | Mixed questions from every chapter | 40 | 872 |
-| **Internal medicine** | Cardio, resp, GI, endo, nephro, heme, ID, neuro, rheum, geri | 30 | 296 |
+| **Full mock exam** | Mixed questions from every chapter | 40 | 876 |
+| **Internal medicine** | Cardio, resp, GI, endo, nephro, heme, ID, neuro, rheum, geri | 30 | 298 |
 | **Surgery** | General/thoracic, ortho, neurosurg, plastics, uro, vascular, ENT, ophtho, anesthesia | 30 | 242 |
 | **Acute and emergency care** | The unwell patient in front of you | 25 | 182 |
-| **Primary care and population health** | FM, psych, derm, public health, palliative, ethics | 30 | 155 |
+| **Primary care and population health** | FM, psych, derm, public health, palliative, ethics | 30 | 157 |
 | **Women's and children's health** | Obstetrics, gynecology, pediatrics | 25 | 114 |
 
 You can also build a custom paper by selecting individual chapters.
@@ -37,10 +37,10 @@ Progress is held in memory for the sitting. Closing the tab ends the attempt.
 
 | | |
 |---|---:|
-| Questions | 872 |
+| Questions | 876 |
 | Chapters | 32 |
-| Distinct topics | ~840 |
-| Difficulty | ~21% easy, ~52% medium, ~28% hard |
+| Distinct topics | ~850 |
+| Difficulty | ~20% easy, ~52% medium, ~28% hard |
 
 Every question carries a chapter, topic, difficulty rating, and an explanation that states the reasoning rather than just naming the answer. Chapter weighting roughly tracks each specialty's footprint on the exam — Pediatrics carries 53 questions and Cardiology 44; Medical Genetics carries 7.
 
@@ -51,14 +51,14 @@ Every question carries a chapter, topic, difficulty rating, and an explanation t
 |---|---|---:|
 | A | Anesthesia | 21 |
 | C | Cardiology and Cardiac Surgery | 44 |
-| CP | Clinical Pharmacology | 11 |
+| CP | Clinical Pharmacology | 13 |
 | D | Dermatology | 34 |
 | E | Endocrinology | 36 |
 | ELOM | Ethical, Legal, and Organizational Medicine | 20 |
 | ER | Emergency Medicine | 40 |
 | FM | Family Medicine | 29 |
 | G | Gastroenterology | 29 |
-| GM | Geriatric Medicine | 14 |
+| GM | Geriatric Medicine | 16 |
 | GS | General and Thoracic Surgery | 40 |
 | GY | Gynecology | 30 |
 | H | Hematology | 38 |
@@ -143,7 +143,7 @@ Questions were authored against the full text of *Toronto Notes 2025*, extracted
 
 Worth knowing before you rely on it:
 
-- 872 questions is a study aid, not exam-scale coverage. A real MCCQE Part I sitting draws on far more material.
+- 876 questions is a study aid, not exam-scale coverage. A real MCCQE Part I sitting draws on far more material.
 - Explanations reflect *Toronto Notes 2025*. Guidelines move; verify anything clinically important against a current primary source.
 - Text-only. There are no images, ECGs, or radiographs, which are a real part of the exam.
 - A score here is a rough signal about recall of this reference, not a predicted exam result.

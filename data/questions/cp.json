@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 11,
+ "count": 13,
  "questions": [
   {
    "id": "TN-CP-001",
@@ -514,6 +514,98 @@
     "document": "Toronto Notes 2025",
     "page": 183,
     "reference": "CP9 — Effectiveness and Safety: Therapeutic Indices"
+   }
+  },
+  {
+   "id": "TN-CP-012",
+   "type": "single-best-answer",
+   "question": "A pharmaceutical company has completed laboratory studies of a new angiotensin receptor blocker in cells, tissues, and animals, characterizing its pharmacokinetic and pharmacodynamic properties and screening for potential toxicities. The company now plans the first human study and asks a clinical pharmacologist to advise on its design. Which of the following is the most appropriate next step in this drug's clinical development?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Administration to a small number of healthy volunteers to explore pharmacokinetics and safety"
+    },
+    {
+     "id": "b",
+     "text": "Administration to a small number of patients with the target condition to determine efficacy, dose range, and pharmacokinetics"
+    },
+    {
+     "id": "c",
+     "text": "A double-blinded randomized controlled trial comparing the drug with standard of care in a large group of patients"
+    },
+    {
+     "id": "d",
+     "text": "Post-marketing surveillance with wider distribution to monitor long-term effects and detect previously unappreciated adverse drug reactions"
+    },
+    {
+     "id": "e",
+     "text": "Further study in animal organs and tissues to re-examine potential toxicities before any human exposure"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes defines phase I as the first administration of a drug to a small number of healthy volunteers, following pre-clinical studies, undertaken to explore pharmacokinetics and safety. The pre-clinical assessment in cells, tissues, and animals is already complete in this case, so the appropriate first-in-human study is a small phase I safety and pharmacokinetic study in healthy volunteers. Efficacy is not addressed until the drug is first given to patients in phase II.",
+   "optionExplanations": {
+    "b": "This describes phase II, the first administration of the drug to patients in small sample sizes to determine efficacy, safety, dose range, and pharmacokinetics; it follows phase I rather than preceding it.",
+    "c": "Comparative double-blinded randomized controlled trials against placebo or standard of care in a larger group of patients are phase III studies, undertaken only after phase I and phase II.",
+    "d": "Post-marketing surveillance to determine effectiveness, monitor long-term drug effects, and detect previously unappreciated adverse drug reactions is phase IV, which occurs after the drug is marketed.",
+    "e": "Pre-clinical assessment in cells, tissues, organs, and animals examining pharmacokinetic and pharmacodynamic properties and potential toxicities has already been completed, so repeating it does not advance development."
+   },
+   "topic": "Phases of Clinical Drug Testing",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "CP",
+    "name": "Clinical Pharmacology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 176,
+    "reference": "CP2 — General Principles: Phases of Clinical Drug Testing"
+   }
+  },
+  {
+   "id": "TN-CP-013",
+   "type": "single-best-answer",
+   "question": "A 29-year-old woman at 34 weeks' gestation is admitted with severe preeclampsia and is to receive intravenous magnesium sulphate for seizure prophylaxis. The resident writes a handwritten order reading \"MgSO4 4 g IV now\". The nurse transcribing the order prepares morphine sulphate instead, and the error is intercepted before anything is given. Which change to the way the order was written would most likely have prevented this error?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Writing the drug name out in full rather than using an abbreviation"
+    },
+    {
+     "id": "b",
+     "text": "Writing the dose as \"4.0 g\" rather than \"4 g\""
+    },
+    {
+     "id": "c",
+     "text": "Adding a leading zero before the decimal point in the dose"
+    },
+    {
+     "id": "d",
+     "text": "Writing \"unit\" in full rather than using the abbreviation \"U\""
+    },
+    {
+     "id": "e",
+     "text": "Using \"mcg\" rather than the symbol \"µg\" in the dose"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes lists abbreviations for drug names among the dangerous abbreviations, symbols, and dose designations that should never be used when communicating medication information, because similar abbreviations for multiple drugs are misinterpreted: MS and MSO4 (morphine sulphate) and MgSO4 (magnesium sulphate) may be confused for one another. The stated correction is simply not to abbreviate drug names. The transcription error here arose from exactly that confusion, so writing \"magnesium sulphate\" in full would most likely have prevented it.",
+   "optionExplanations": {
+    "b": "A trailing zero is itself listed as a dangerous dose designation: the decimal point is overlooked and a 10-fold dose error results, so \"4.0 g\" would add risk rather than remove it.",
+    "c": "A zero should always be placed before a decimal point when the dose is less than one, but this dose contains no decimal point and the misinterpretation involved the drug name.",
+    "d": "\"U\" is mistaken for \"0\", \"4\", or cc and should be written as \"unit\", but no units were used in this order.",
+    "e": "\"µg\" is mistaken for \"mg\" and should be written as \"mcg\", but this dose was written in grams and the confusion concerned the drug name."
+   },
+   "topic": "Dangerous Abbreviations and Dose Designations",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "CP",
+    "name": "Clinical Pharmacology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 187,
+    "reference": "CP13 — Dangerous Abbreviations, Symbols, and Dose Designations"
    }
   }
  ]
