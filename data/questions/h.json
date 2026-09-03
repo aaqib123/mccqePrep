@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 36,
+ "count": 38,
  "questions": [
   {
    "id": "TN-H-001",
@@ -1664,6 +1664,98 @@
     "document": "Toronto Notes 2025",
     "page": 707,
     "reference": "H53 — Lymphoplasmacytic Lymphoma"
+   }
+  },
+  {
+   "id": "TN-H-037",
+   "type": "single-best-answer",
+   "question": "A 68-year-old woman taking dabigatran 150 mg PO BID for stroke prophylaxis in non-valvular atrial fibrillation presents with a large-volume upper gastrointestinal hemorrhage and hypotension. Her last dose was three hours ago and her creatinine clearance is 45 mL/min. Resuscitation and urgent endoscopy are under way. Which agent is most appropriate to reverse her anticoagulation?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Idarucizumab"
+    },
+    {
+     "id": "b",
+     "text": "Andexanet alfa"
+    },
+    {
+     "id": "c",
+     "text": "Protamine sulfate"
+    },
+    {
+     "id": "d",
+     "text": "Vitamin K"
+    },
+    {
+     "id": "e",
+     "text": "Prothrombin complex concentrate"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes pairs each anticoagulant with a specific reversing agent, and the agent listed for dabigatran, a direct thrombin inhibitor, is idarucizumab. This woman is hemorrhaging on dabigatran, so idarucizumab is the reversal agent indicated. The dilute thrombin time and TT are sensitive only for detecting the presence of drug, so reversal is decided on the clinical bleed rather than on a coagulation level.",
+   "optionExplanations": {
+    "b": "Andexanet alfa is the reversing agent listed for the direct factor Xa inhibitors rivaroxaban, apixaban, and edoxaban, not for a direct thrombin inhibitor.",
+    "c": "Protamine sulfate reverses heparin and gives only partial reversibility with LMWH; it does not reverse dabigatran.",
+    "d": "Vitamin K is a reversing agent for warfarin, which acts as a vitamin K antagonist inhibiting production of factors II, VII, IX, X and proteins C and S.",
+    "e": "Prothrombin complex concentrate is listed alongside vitamin K and frozen plasma as a reversing agent for warfarin."
+   },
+   "topic": "Anticoagulant Reversal",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "H",
+    "name": "Hematology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 713,
+    "reference": "H59 — Anticoagulant Therapy"
+   }
+  },
+  {
+   "id": "TN-H-038",
+   "type": "single-best-answer",
+   "question": "A 63-year-old man with chronic renal failure on hemodialysis reports three weeks of gum bleeding, recurrent epistaxis, and easy bruising, with petechiae and ecchymoses over both shins. He takes no ASA or NSAIDs and drinks no alcohol. Platelet count is 245 x 10^9/L, PT and aPTT are normal, and hemoglobin is 118 g/L. He has no family history of bleeding. What is the most likely cause of his bleeding?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Acquired platelet dysfunction of uremia"
+    },
+    {
+     "id": "b",
+     "text": "Bernard-Soulier syndrome"
+    },
+    {
+     "id": "c",
+     "text": "Glanzmann's syndrome"
+    },
+    {
+     "id": "d",
+     "text": "Immune thrombocytopenia"
+    },
+    {
+     "id": "e",
+     "text": "von Willebrand disease"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes sorts disorders of primary hemostasis by platelet count: when the count is normal the defect is platelet dysfunction, whose acquired causes are drugs (ASA, EtOH, NSAIDs), uremia/chronic renal failure, and myeloproliferative disorders. This man shows the immediate mucocutaneous pattern of a primary hemostatic defect - gum bleeding, epistaxis, petechiae, and ecchymoses - with a normal platelet count and normal PT and aPTT, and dialysis-dependent chronic renal failure is the acquired cause present.",
+   "optionExplanations": {
+    "b": "Bernard-Soulier syndrome (GPIb deficiency) is a hereditary platelet function disorder and would have caused bleeding long before age 63 in a man with no family history.",
+    "c": "Glanzmann's syndrome (GPIIb/IIIa deficiency) is likewise a hereditary platelet function disorder rather than a newly acquired one.",
+    "d": "The table of lab values in disorders of hemostasis gives ITP a decreased platelet count with normal PT and PTT; his platelet count is normal.",
+    "e": "vWD is listed with a prolonged PTT and normal PT, and it is inherited rather than acquired in late adulthood; his aPTT is normal."
+   },
+   "topic": "Disorders of Primary Hemostasis",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "H",
+    "name": "Hematology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 682,
+    "reference": "H28 — Disorders of Primary Hemostasis"
    }
   }
  ]

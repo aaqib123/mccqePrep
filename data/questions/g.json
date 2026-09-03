@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 27,
+ "count": 29,
  "questions": [
   {
    "id": "TN-G-001",
@@ -1250,6 +1250,98 @@
     "document": "Toronto Notes 2025",
     "page": 466,
     "reference": "G32 — Investigations of Hepatobiliary Disease"
+   }
+  },
+  {
+   "id": "TN-G-028",
+   "type": "single-best-answer",
+   "question": "A 71-year-old man reports 8 months of dysphagia, regurgitation of undigested food, and halitosis that his family has noticed. He has no reflux symptoms and is not anemic. A barium study shows a large posterior pharyngeal outpouching on the left side, arising above the cricopharyngeal muscle and below the inferior pharyngeal constrictor muscle. What is the most appropriate treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Myotomy of the cricopharyngeal muscle with excision of the sac"
+    },
+    {
+     "id": "b",
+     "text": "Endoscopic dilatation and indefinite proton pump inhibitor"
+    },
+    {
+     "id": "c",
+     "text": "Endoscopic dilatation to disrupt a mucosal ring at the squamo-columnar junction"
+    },
+    {
+     "id": "d",
+     "text": "Swallowed topical corticosteroid (fluticasone or orodispersible budesonide)"
+    },
+    {
+     "id": "e",
+     "text": "Oral iron replacement with esophageal dilatation"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes classifies a posterior pharyngeal outpouching arising on the left above the cricopharyngeal muscle as a pharyngoesophageal (Zenker's) diverticulum, whose symptoms are dysphagia, regurgitation of undigested food, and halitosis. The stated rule is that a small, asymptomatic diverticulum needs no treatment, while one that is large and symptomatic is treated with endoscopic or surgical myotomy of the cricopharyngeal muscle with or without surgical excision of the sac. This man's diverticulum is both large and symptomatic, so myotomy is indicated.",
+   "optionExplanations": {
+    "b": "Endoscopic dilatation with indefinite PPI is the treatment for a peptic stricture from esophagitis, which presents as dysphagia on a long background of reflux symptoms — absent here.",
+    "c": "Disrupting a mucosal ring with endoscopic dilation treats a Schatzki ring at the squamo-columnar junction, which causes intermittent dysphagia to solids rather than regurgitation of undigested food and halitosis.",
+    "d": "Swallowed topical corticosteroid is a treatment option for eosinophilic esophagitis, which most characteristically occurs in young men and is suggested by mucosal rings at endoscopy, not a pharyngeal outpouching.",
+    "e": "Iron and esophageal dilatation treat Plummer-Vinson syndrome, which requires the triad of iron deficiency anemia, dysphagia, and esophageal webs; this patient is not anemic and has no web."
+   },
+   "topic": "Esophageal Diverticula",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "G",
+    "name": "Gastroenterology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 443,
+    "reference": "G9 — Esophageal Diverticula"
+   }
+  },
+  {
+   "id": "TN-G-029",
+   "type": "single-best-answer",
+   "question": "A 72-year-old woman presents with fever, right upper quadrant pain, and jaundice. She is hypotensive at 84/50 mmHg and has altered mental status. WBC and CRP are increased, ALP and bilirubin are elevated, and abdominal ultrasound shows common bile duct dilation with a stone. Blood cultures are drawn and broad-spectrum antibiotics are given. What is the most appropriate next step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Urgent ERCP for biliary drainage"
+    },
+    {
+     "id": "b",
+     "text": "Percutaneous biliary drainage"
+    },
+    {
+     "id": "c",
+     "text": "Surgical biliary drainage"
+    },
+    {
+     "id": "d",
+     "text": "Add metronidazole to a third-generation cephalosporin and continue medical therapy alone"
+    },
+    {
+     "id": "e",
+     "text": "Switch to carbapenem monotherapy and continue medical therapy alone"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes states that in cholangitis the most important treatment is drainage, ideally via ERCP, with percutaneous biliary or surgical routes used only if ERCP is not possible. This woman has Reynolds' pentad — fever, RUQ pain, jaundice, hypotension, and altered mental status — which marks suppurative cholangitis and carries roughly 50% mortality, so antibiotics alone are inadequate. Broad-spectrum antibiotic therapy is adjunctive; urgent ERCP provides the drainage on which the good prognosis depends.",
+   "optionExplanations": {
+    "b": "Percutaneous biliary drainage is reserved for when ERCP is not possible; nothing here precludes ERCP, which is the preferred route.",
+    "c": "Surgical drainage is the least often used route and is a fallback when ERCP cannot be performed.",
+    "d": "Metronidazole plus a third-generation cephalosporin is an acceptable antibiotic regimen, but antibiotics without drainage do not address the obstructed, infected duct.",
+    "e": "Carbapenem monotherapy is a listed antibiotic option, yet changing the regimen does not substitute for the drainage that determines outcome."
+   },
+   "topic": "Acute Cholangitis",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "G",
+    "name": "Gastroenterology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 482,
+    "reference": "G48 — Cholangitis"
    }
   }
  ]

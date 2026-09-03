@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 32,
+ "count": 34,
  "questions": [
   {
    "id": "TN-PS-001",
@@ -1480,6 +1480,98 @@
     "document": "Toronto Notes 2025",
     "page": 1385,
     "reference": "PS31 — Cocaine"
+   }
+  },
+  {
+   "id": "TN-PS-033",
+   "type": "single-best-answer",
+   "question": "A 41-year-old woman reports depressed mood for most of the day, more days than not, for the past three years. Throughout that time she has had poor appetite, low energy, low self-esteem, and feelings of hopelessness, and has never been without these symptoms for more than a few weeks at a time. She has never had a manic or hypomanic episode, and she has no hallucinations or delusions. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Persistent depressive disorder"
+    },
+    {
+     "id": "b",
+     "text": "Major depressive disorder"
+    },
+    {
+     "id": "c",
+     "text": "Cyclothymic disorder"
+    },
+    {
+     "id": "d",
+     "text": "Schizoaffective disorder"
+    },
+    {
+     "id": "e",
+     "text": "Depressive disorder due to another medical condition"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Persistent depressive disorder requires depressed mood for most of the day, for more days than not, for at least 2 yr, with at least two of poor appetite or overeating, insomnia or hypersomnia, low energy or fatigue, low self-esteem, poor concentration, and feelings of hopelessness, and the person must never have been without the criteria A and B symptoms for more than 2 mo at a time. This woman has met that pattern for three years with four of the listed symptoms and no symptom-free interval approaching 2 mo. Criterion E is also satisfied, as she has never had a manic or hypomanic episode and has never met criteria for cyclothymic disorder.",
+   "optionExplanations": {
+    "b": "Criterion D allows full major depressive disorder criteria to be continuously present within the 2 yr period, but the defining feature here is the chronic 3 yr course without a 2 mo symptom-free interval, which is what persistent depressive disorder captures.",
+    "c": "Cyclothymic disorder is excluded by criterion E, since she has never had hypomanic periods alternating with her depressive symptoms.",
+    "d": "Criterion F excludes a diagnosis better explained by a persistent schizoaffective disorder, schizophrenia, or delusional disorder; she has no psychotic symptoms.",
+    "e": "Criterion G requires that the symptoms not be due to the direct physiological effects of a substance or another medical condition, and nothing here points to one."
+   },
+   "topic": "Persistent Depressive Disorder",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "PS",
+    "name": "Psychiatry"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1367,
+    "reference": "PS13 — Persistent Depressive Disorder"
+   }
+  },
+  {
+   "id": "TN-PS-034",
+   "type": "single-best-answer",
+   "question": "A 20-year-old man is brought to the emergency department 2 h after taking psilocybin mushrooms at a concert. He is frightened by intense distortions of the shapes and colours around him but knows where he is and who brought him. Heart rate is 112 beats/min, blood pressure 148/88 mmHg, temperature 37.2 degrees Celsius, with mydriasis and a fine tremor. What is the next best step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Support and reassurance in a setting of diminished stimulation"
+    },
+    {
+     "id": "b",
+     "text": "Intramuscular haloperidol at a standard adult dose"
+    },
+    {
+     "id": "c",
+     "text": "Application of four-point physical restraints"
+    },
+    {
+     "id": "d",
+     "text": "A scheduled tapering benzodiazepine course for the expected withdrawal syndrome"
+    },
+    {
+     "id": "e",
+     "text": "Active external cooling and intravenous hydration for hyperpyrexia"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes describes intoxication with 5-HT2A agonists such as LSD, mescaline, and psilocybin as tachycardia, HTN, mydriasis, tremor, hyperpyrexia, and a variety of perceptual, mood, and cognitive changes that are rarely, if ever, deadly, with vitals treated symptomatically. Management of acute intoxication is support, reassurance, and diminished stimulation; benzodiazepines such as lorazepam or high potency antipsychotics such as haloperidol are seldom required, and restraints should be minimized. This man is oriented and haemodynamically stable with only mild autonomic signs, so supportive care in a low-stimulation setting is what is needed.",
+   "optionExplanations": {
+    "b": "High potency antipsychotics such as haloperidol are seldom required in hallucinogen intoxication, and small doses are advised if they are used at all.",
+    "c": "The source states that use of restraints should be minimized; he is oriented and cooperative, so restraint is not indicated.",
+    "d": "No specific withdrawal syndrome is characterized for hallucinogens, so a withdrawal taper has nothing to treat.",
+    "e": "Hyperpyrexia can occur with 5-HT2A agonist intoxication and would be treated symptomatically, but his temperature is normal."
+   },
+   "topic": "Hallucinogen Intoxication",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "PS",
+    "name": "Psychiatry"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1386,
+    "reference": "PS32 — Hallucinogens"
    }
   }
  ]

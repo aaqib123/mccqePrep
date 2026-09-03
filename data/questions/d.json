@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 32,
+ "count": 34,
  "questions": [
   {
    "id": "TN-D-001",
@@ -1480,6 +1480,98 @@
     "document": "Toronto Notes 2025",
     "page": 236,
     "reference": "D48 — Primary Hyperhidrosis"
+   }
+  },
+  {
+   "id": "TN-D-033",
+   "type": "single-best-answer",
+   "question": "A 34-year-old woman has had a lesion on her left lower leg for about a year. Examination shows a solitary 6 mm firm dermal papule, skin-coloured to red-brown, that is mildly pruritic and tender when knocked. It has not enlarged. Lateral compression of the adjacent skin makes the lesion dimple inward. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Dermatofibroma"
+    },
+    {
+     "id": "b",
+     "text": "Epidermal cyst"
+    },
+    {
+     "id": "c",
+     "text": "Pilar (trichilemmal) cyst"
+    },
+    {
+     "id": "d",
+     "text": "Dermoid cyst"
+    },
+    {
+     "id": "e",
+     "text": "Milium"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "A dermatofibroma is a firm dermal papule or nodule, skin-coloured to red-brown, that is usually asymptomatic but may be pruritic and/or tender, with legs the most common site (legs > arms > trunk). Its characteristic finding is the dimple sign (Fitzpatrick's sign): lateral compression causes dimpling of the lesion, reflecting a benign fibroblast proliferation in the dermis. The leg site, firm red-brown dermal papule and positive dimple sign identify it here.",
+   "optionExplanations": {
+    "b": "An epidermal cyst is a round, yellow or flesh-coloured, slow growing, mobile, firm, fluctuant nodule with a central punctum that may rupture; it does not dimple on lateral compression.",
+    "c": "Pilar (trichilemmal) cysts are multiple hard nodules of variable size under the scalp and lack a central punctum.",
+    "d": "A dermoid cyst is a firm nodule most commonly found at the lateral third of the eyebrow or in the midline under the nose, not on the leg.",
+    "e": "Milia are 1-2 mm superficial, white to yellow subepidermal papules occurring on the eyelids, cheeks, and forehead."
+   },
+   "topic": "Common Skin Lesions",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "D",
+    "name": "Dermatology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 196,
+    "reference": "D8 — Common Skin Lesions"
+   }
+  },
+  {
+   "id": "TN-D-034",
+   "type": "single-best-answer",
+   "question": "A 54-year-old woman reports 3 months of difficulty climbing stairs and lifting her arms overhead. Examination shows violaceous erythema with edema of both upper eyelids, violaceous flat-topped papules with atrophy over the knuckles, violaceous erythema over the extensor elbows and knees, and periungual erythema with telangiectasia. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Dermatomyositis"
+    },
+    {
+     "id": "b",
+     "text": "Systemic lupus erythematosus"
+    },
+    {
+     "id": "c",
+     "text": "Scleroderma"
+    },
+    {
+     "id": "d",
+     "text": "Sarcoidosis"
+    },
+    {
+     "id": "e",
+     "text": "Polyarteritis nodosa"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes lists the cutaneous markers of dermatomyositis as periorbital and extensor violaceous erythema, heliotrope with edema, Gottron's papules (violaceous flat-topped papules with atrophy), periungual erythema, telangiectasia, and calcinosis cutis. This woman has the heliotrope eyelid erythema with edema, Gottron's papules over the knuckles, extensor violaceous erythema and periungual changes, alongside proximal muscle weakness, which together fit no other entry in the table.",
+   "optionExplanations": {
+    "b": "SLE gives malar erythema and a discoid rash of erythematous papules or plaques with keratotic scale, follicular plugging and atrophic scarring, plus hemorrhagic bullae, palpable purpura, alopecia, mucosal ulcers and photosensitivity — not heliotrope erythema or Gottron's papules.",
+    "c": "Scleroderma also causes periungual telangiectasia, but its hallmarks are Raynaud's, non-pitting edema, ulcers, cutaneous calcification, acrosclerosis and salt-and-pepper pigmentation rather than violaceous eyelid and knuckle changes.",
+    "d": "Sarcoidosis produces heterogeneous plaques, erythema nodosum, and pink, brownish to violaceous nodules or plaques (lupus pernio), without a photodistributed heliotrope or Gottron's papules.",
+    "e": "Polyarteritis nodosa presents with subcutaneous nodules, stellate purpura, gangrene, splinter hemorrhages, livedo reticularis and ulceration."
+   },
+   "topic": "Skin Manifestations of Systemic Disease",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "D",
+    "name": "Dermatology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 237,
+    "reference": "D49 — Skin Manifestations of Systemic Disease"
    }
   }
  ]

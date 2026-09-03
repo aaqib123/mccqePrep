@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 27,
+ "count": 29,
  "questions": [
   {
    "id": "TN-FM-001",
@@ -1250,6 +1250,98 @@
     "document": "Toronto Notes 2025",
     "page": 424,
     "reference": "FM48 — Diagnosis and Management of Sinusitis"
+   }
+  },
+  {
+   "id": "TN-FM-028",
+   "type": "single-best-answer",
+   "question": "A 34-year-old woman has 2 days of sore throat. She has no cough, a documented temperature of 38.4°C, tonsillar exudate, and swollen, tender anterior cervical nodes. She lives in a community where 10-20% of sore throats are caused by strep infection. What is the next best step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Perform a rapid antigen detection test and treat with antibiotics if it is positive"
+    },
+    {
+     "id": "b",
+     "text": "Give symptomatic therapy with acetaminophen and do no further testing"
+    },
+    {
+     "id": "c",
+     "text": "Send a throat swab for culture and start antibiotics immediately while awaiting the result"
+    },
+    {
+     "id": "d",
+     "text": "Order a heterophile antibody test and a peripheral blood smear"
+    },
+    {
+     "id": "e",
+     "text": "Prescribe a 10 d course of antibiotics without further testing"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The modified Centor score gives one point each for cough absent, history of fever >38°C, tonsillar exudate, and swollen tender anterior nodes, with no point added for ages 15-44, so this woman scores 4. In communities with moderate levels of strep infection (10-20% of sore throats), a score of 3 or more carries a 28-53% risk of GABHS, and the suggested action is to perform a rapid antigen detection test and treat with antibiotics if it is positive.",
+   "optionExplanations": {
+    "b": "No further testing or antibiotics is the suggested action only for a score of 0-2, where the risk of GABHS is 1-17%.",
+    "c": "Throat culture is the gold standard for diagnosis, but the source advises delaying antibiotic treatment until culture confirms the diagnosis, since a 48 h delay does not increase the incidence of rheumatic fever.",
+    "d": "The heterophile antibody test and peripheral blood smear are investigations for suspected EBV infectious mononucleosis, not for a Centor score of 4.",
+    "e": "Ten days of treatment is required once GABHS is established, but the score alone does not justify antibiotics without a positive test."
+   },
+   "topic": "Pharyngitis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "FM",
+    "name": "Family Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 427,
+    "reference": "FM51 — Pharyngitis"
+   }
+  },
+  {
+   "id": "TN-FM-029",
+   "type": "single-best-answer",
+   "question": "A 71-year-old man reports 6 months of urinary urgency, frequency and urge incontinence that he finds bothersome. DRE shows a symmetrically enlarged, smooth, rubbery prostate. Urinalysis is normal. PVR volume by U/S is 220 mL. Bladder retraining and fluid restriction have not helped. What is the most appropriate treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "α-receptor antagonist (e.g. tamsulosin)"
+    },
+    {
+     "id": "b",
+     "text": "Antimuscarinic agent"
+    },
+    {
+     "id": "c",
+     "text": "β-3 agonist"
+    },
+    {
+     "id": "d",
+     "text": "Desmopressin"
+    },
+    {
+     "id": "e",
+     "text": "Long-acting phosphodiesterase inhibitor"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes recommends pharmacological therapy for moderate/severe BPH symptoms once conservative measures such as bladder retraining and fluid restriction fail, and lists α-receptor antagonists, which relax smooth muscle around the prostate and bladder neck. Antimuscarinic and β-3 agents are recommended for storage symptoms but are to be avoided in patients with bladder outlet obstruction and/or elevated PVR, which this man's residual volume of 220 mL demonstrates.",
+   "optionExplanations": {
+    "b": "Antimuscarinics target storage symptoms but the source says to avoid them when there is bladder outlet obstruction and/or an elevated post-void residual.",
+    "c": "β-3 agonists carry the same caution as antimuscarinics and are avoided with an elevated post-void residual.",
+    "d": "Desmopressin is recommended for nocturia resulting from nocturnal polyuria, not for daytime urgency and frequency, and risks hyponatremia in older adults.",
+    "e": "A long-acting phosphodiesterase inhibitor is recommended in patients with erectile dysfunction, which is not described here."
+   },
+   "topic": "Benign Prostatic Hyperplasia",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "FM",
+    "name": "Family Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 396,
+    "reference": "FM20 — Benign Prostatic Hyperplasia"
    }
   }
  ]

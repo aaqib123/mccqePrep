@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 33,
+ "count": 35,
  "questions": [
   {
    "id": "TN-ID-001",
@@ -1526,6 +1526,98 @@
     "document": "Toronto Notes 2025",
     "page": 758,
     "reference": "ID40 — Schistosoma spp."
+   }
+  },
+  {
+   "id": "TN-ID-034",
+   "type": "single-best-answer",
+   "question": "A 68-year-old woman with type 2 diabetes tests positive for COVID-19 on day 3 of fever, fatigue, dry cough, myalgia, and loss of appetite. She is assessed as high risk of hospitalization. She is not dyspneic, her oxygen saturation is 97% on room air, and she needs no supplemental oxygen. She has no liver impairment and no interacting medications. What is the best initial treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Nirmatrelvir/ritonavir orally"
+    },
+    {
+     "id": "b",
+     "text": "Remdesivir IV for 5 d"
+    },
+    {
+     "id": "c",
+     "text": "Dexamethasone PO for 10 d"
+    },
+    {
+     "id": "d",
+     "text": "Tocilizumab IV"
+    },
+    {
+     "id": "e",
+     "text": "Supportive care alone"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "For mild-moderate COVID-19 in adults >18 yr who do not require supplemental O2, treatment is stratified by risk of hospitalization: low-risk patients get supportive care, while high-risk patients receive nirmatrelvir/ritonavir (Paxlovid) if presenting within 5 d of symptom onset, or remdesivir if presenting within 7 d. Nirmatrelvir/ritonavir is the preferred first-line option once drug-drug interactions can be safely mitigated and there is no severe liver impairment or hypersensitivity. This woman is high risk, needs no oxygen, and is within 5 d of symptom onset, so nirmatrelvir/ritonavir applies.",
+   "optionExplanations": {
+    "b": "Remdesivir is assessed when nirmatrelvir/ritonavir is deemed inappropriate, or when it has been more than 5 d but 7 d or less since symptom onset.",
+    "c": "Dexamethasone PO or IV for 10 d is for hospitalized adults requiring low-flow supplemental O2 or ventilatory and/or circulatory support, not for outpatients on room air.",
+    "d": "Tocilizumab is reserved for hospitalized patients: critically ill adults, or those on low-flow O2 with CRP 75 mg/L or more progressing despite recommended steroid dosing.",
+    "e": "Supportive care alone is the option for patients at low risk of hospitalization; this patient is stratified as high risk."
+   },
+   "topic": "COVID-19",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "ID",
+    "name": "Infectious Diseases"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 728,
+    "reference": "ID10 — COVID-19"
+   }
+  },
+  {
+   "id": "TN-ID-035",
+   "type": "single-best-answer",
+   "question": "A 7-month-old boy who attends a daycare centre has three weeks of watery diarrhea, steatorrhea, bloating, flatulence, and abdominal cramps, with poor weight gain. There is no hematochezia and no mucous in the stool. A single stool sent for multiplex enteric parasite PCR is positive for Giardia lamblia. What is the best initial treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Single dose tinidazole"
+    },
+    {
+     "id": "b",
+     "text": "Three-day course of nitazoxanide"
+    },
+    {
+     "id": "c",
+     "text": "Metronidazole"
+    },
+    {
+     "id": "d",
+     "text": "Paromomycin"
+    },
+    {
+     "id": "e",
+     "text": "Iodoquinol"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "Symptomatic giardiasis is treated with single dose tinidazole or a three-day course of nitazoxanide, but metronidazole is the agent indicated for children <12 mo. This infant has symptomatic acute giardiasis — diarrhea, steatorrhea, bloating, flatulence, and cramps without hematochezia or mucous, consistent with the absence of invasion into the intestinal wall — confirmed on stool PCR, and at 7 months falls within the age exception, so metronidazole is used.",
+   "optionExplanations": {
+    "a": "Single dose tinidazole is the usual choice for symptomatic individuals, but the source directs treatment to metronidazole in children under 12 months.",
+    "b": "A three-day course of nitazoxanide is the listed alternative for symptomatic individuals; it does not carry the under-12-month indication that metronidazole does.",
+    "d": "Paromomycin is used for cyst elimination after invasive disease, or alone for asymptomatic cyst shedding, not for symptomatic giardiasis in an infant.",
+    "e": "Iodoquinol is likewise reserved for invasive disease or cyst elimination and for asymptomatic cyst shedding."
+   },
+   "topic": "Giardiasis",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "ID",
+    "name": "Infectious Diseases"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 754,
+    "reference": "ID36 — Giardia lamblia"
    }
   }
  ]

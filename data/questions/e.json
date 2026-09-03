@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 34,
+ "count": 36,
  "questions": [
   {
    "id": "TN-E-001",
@@ -1572,6 +1572,98 @@
     "document": "Toronto Notes 2025",
     "page": 361,
     "reference": "E53 — Hypogonadism and Infertility"
+   }
+  },
+  {
+   "id": "TN-E-035",
+   "type": "single-best-answer",
+   "question": "A 47-year-old man is referred for fatigue and diffuse bronze discolouration of the skin. Examination shows hepatomegaly, no facial plethora or purple striae, and no enlargement of the hands or feet. He is not overweight and takes no medications. Fasting plasma glucose is 9.8 mmol/L on two occasions. Which of the following is the most likely cause of his diabetes?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Hemochromatosis"
+    },
+    {
+     "id": "b",
+     "text": "Acromegaly"
+    },
+    {
+     "id": "c",
+     "text": "Cushing's syndrome"
+    },
+    {
+     "id": "d",
+     "text": "Glucocorticoid therapy"
+    },
+    {
+     "id": "e",
+     "text": "Klinefelter's syndrome"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The source classifies diabetes caused by diseases of the exocrine pancreas separately from type 1 and type 2 disease, and lists pancreatitis, pancreatectomy, neoplasia, cystic fibrosis, and hemochromatosis (\"bronze diabetes\") in that group. Bronze skin discolouration with hepatomegaly in a man who is not overweight and has new hyperglycemia fits hemochromatosis. The absence of cushingoid features, acral enlargement, and any drug exposure argues against the endocrinopathies and drug-induced causes on the same list.",
+   "optionExplanations": {
+    "b": "Acromegaly is listed as an endocrinopathy that can cause diabetes, but there is no enlargement of the hands or feet.",
+    "c": "Cushing's syndrome is also on the endocrinopathy list, yet he has no facial plethora or purple striae.",
+    "d": "Glucocorticoids head the drug-induced causes of diabetes, and he takes no medications.",
+    "e": "Klinefelter's syndrome is among the genetic syndromes associated with diabetes but does not produce bronze skin and hepatomegaly."
+   },
+   "topic": "Secondary Causes of Diabetes",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "E",
+    "name": "Endocrinology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 316,
+    "reference": "E8 — Etiologic Classification of Diabetes Mellitus"
+   }
+  },
+  {
+   "id": "TN-E-036",
+   "type": "single-best-answer",
+   "question": "A 63-year-old woman with minimal sun exposure has several months of diffuse skeletal pain, bone tenderness, and a waddling gait with proximal muscle weakness. Radiographs show narrow radiolucent lines traversing both femoral necks. Serum calcium is 2.05 mmol/L, serum phosphate is decreased, and serum alkaline phosphatase is increased. Serum creatinine and bicarbonate are normal. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Osteomalacia due to vitamin D deficiency"
+    },
+    {
+     "id": "b",
+     "text": "Osteomalacia due to hypophosphatemia"
+    },
+    {
+     "id": "c",
+     "text": "Osteomalacia due to proximal renal tubular acidosis"
+    },
+    {
+     "id": "d",
+     "text": "Renal osteodystrophy"
+    },
+    {
+     "id": "e",
+     "text": "Fibrogenesis imperfecta ossium"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The source gives diffuse skeletal pain, bone tenderness, fractures, waddling gait, and proximal muscle weakness as the clinical features of osteomalacia, and describes pseudofractures (Looser zones) as narrow radiolucent lines on x-ray. Among the causes, only vitamin D deficiency shows decreased serum phosphate with decreased-to-normal serum calcium and increased ALP; hypophosphatemia and proximal renal tubular acidosis both leave serum calcium normal. A frankly low calcium with normal creatinine and no acidosis therefore points to vitamin D deficiency.",
+   "optionExplanations": {
+    "b": "Hypophosphatemia gives decreased phosphate and increased ALP, but serum calcium remains normal.",
+    "c": "Proximal renal tubular acidosis shows decreased phosphate with normal calcium and normal ALP, and is associated with hyperchloremic metabolic acidosis, which she does not have.",
+    "d": "Renal osteodystrophy is bone disease secondary to chronic kidney disease, and her serum creatinine is normal.",
+    "e": "Conditions associated with abnormal matrix formation, such as fibrogenesis imperfecta ossium, have normal phosphate, calcium, and ALP."
+   },
+   "topic": "Osteomalacia",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "E",
+    "name": "Endocrinology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 357,
+    "reference": "E49 — Rickets and Osteomalacia"
    }
   }
  ]

@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 24,
+ "count": 25,
  "questions": [
   {
    "id": "TN-PL-001",
@@ -1112,6 +1112,52 @@
     "document": "Toronto Notes 2025",
     "page": 1347,
     "reference": "PL37 — Breast Augmentation"
+   }
+  },
+  {
+   "id": "TN-PL-025",
+   "type": "single-best-answer",
+   "question": "A 58-year-old man with diabetes has a rapidly spreading erythematous swelling of the left thigh over 12 hours. He reports pain out of proportion to the clinical findings that extends beyond the border of the erythema. There are scattered blisters and ecchymoses, and crepitus is palpable over the medial thigh. His temperature is 38.9°C and heart rate 122 beats/min. What is the next best step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "CT scan of the thigh to assess for gas in the subcutaneous tissues"
+    },
+    {
+     "id": "b",
+     "text": "Calculate the LRINEC score and admit for serial observation"
+    },
+    {
+     "id": "c",
+     "text": "Emergent surgical debridement of all necrotic tissue"
+    },
+    {
+     "id": "d",
+     "text": "IV cefazolin with the area of erythema outlined to monitor progression"
+    },
+    {
+     "id": "e",
+     "text": "Bedside incision with fascial biopsy and STAT Gram stain"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "Necrotizing fasciitis is an aggressive infection of a fascial plane allowing diffuse and rapid spread with secondary necrosis, and it is a life/limb-threatening infection that requires emergent surgical debridement. Toronto Notes states that if there is high clinical suspicion of necrotizing fasciitis, surgical treatment should not be delayed for imaging. Pain disproportionate to clinical findings and beyond the border of erythema, with blistering, ecchymoses and crepitus in a diabetic patient, is the classic picture, so this patient goes emergently to the operating room for removal of all necrotic tissue and copious irrigation, with plans for repeat surgery in 24-48 h alongside vigorous resuscitation and IV antibiotics.",
+   "optionExplanations": {
+    "a": "XR or CT can show gas in the subcutaneous tissues, but with high clinical suspicion surgical treatment should not be delayed for imaging.",
+    "b": "Necrotizing fasciitis is a clinical diagnosis and the LRINEC score is only a supportive tool; observation permits the diffuse, rapid spread and secondary necrosis that make this infection limb-threatening.",
+    "d": "Outlining the erythema and giving cefazolin is the approach to cellulitis; it does not address necrosis within the fascial plane, which needs debridement.",
+    "e": "Bedside incision with fascial biopsy and STAT Gram stain is diagnostic but is used in equivocal cases where clinical features are not supportive or the exam is difficult, not when suspicion is already high."
+   },
+   "topic": "Necrotizing Fasciitis",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "PL",
+    "name": "Plastic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1326,
+    "reference": "PL16 — Necrotizing Fasciitis"
    }
   }
  ]

@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 30,
+ "count": 32,
  "questions": [
   {
    "id": "TN-OR-001",
@@ -1388,6 +1388,98 @@
     "document": "Toronto Notes 2025",
     "page": 1126,
     "reference": "OR38 — Patellar Fracture"
+   }
+  },
+  {
+   "id": "TN-OR-031",
+   "type": "single-best-answer",
+   "question": "A 47-year-old female recreational runner describes 3 months of insidious right heel pain. It is most intense when she gets out of bed and subsides as she keeps walking, and it is worse at the end of the day after prolonged standing. There is tenderness to palpation at the medial tuberosity of the calcaneus and pain with toe dorsiflexion. X-ray shows a plantar heel spur and no fracture. What is the best initial treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Rest, ice, NSAIDs and a plantar fascia stretching program"
+    },
+    {
+     "id": "b",
+     "text": "Extracorporeal shockwave therapy"
+    },
+    {
+     "id": "c",
+     "text": "Steroid injection at the medial calcaneal tuberosity"
+    },
+    {
+     "id": "d",
+     "text": "Endoscopic release of the plantar fascia"
+    },
+    {
+     "id": "e",
+     "text": "Orthotics with a heel cup"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Plantar fasciitis is inflammation of the plantar aponeurosis at its calcaneal origin, presenting with insidious heel pain on getting out of bed that subsides with ambulation, tenderness at the medial tuberosity of the calcaneus, and pain with toe dorsiflexion. For this condition pain control and stretching programs are first-line, with rest, ice and NSAIDs. The heel spur seen on x-ray is secondary to the inflammation and is not the cause of the pain, so it does not change management.",
+   "optionExplanations": {
+    "b": "Extracorporeal shockwave therapy is part of the physiotherapy options, not the first-line measure offered before a stretching and pain control program has been tried.",
+    "c": "Steroid injection is a listed non-operative adjunct alongside rest, ice and NSAIDs, but it is not the initial step ahead of pain control and stretching.",
+    "d": "Endoscopic release of the fascia is very rarely indicated and is reserved for failure of non-operative care.",
+    "e": "Heel cup orthotics counteract pronation and disperse heel strike forces, but they supplement rather than replace the first-line stretching and pain control program."
+   },
+   "topic": "Plantar Fasciitis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "OR",
+    "name": "Orthopedic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1132,
+    "reference": "OR44 — Plantar Fasciitis"
+   }
+  },
+  {
+   "id": "TN-OR-032",
+   "type": "single-best-answer",
+   "question": "A 58-year-old woman with osteoporosis falls down three stairs, taking a valgus load on the left knee. She has a tense knee effusion and cannot bear weight. Pulses are symmetric in both extremities and the knee is stable to varus and valgus stress. CT shows a lateral tibial plateau fracture with 2 mm of articular depression, no condylar widening, and no comminution. The skin is intact. What is the best initial treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Protected weight bearing with immobilization in a splint for 6-12 weeks with early progressive range of motion"
+    },
+    {
+     "id": "b",
+     "text": "ORIF with bone grafting to elevate the depressed fragment"
+    },
+    {
+     "id": "c",
+     "text": "ORIF delayed by 1-2 weeks to allow the soft tissue envelope to settle"
+    },
+    {
+     "id": "d",
+     "text": "Intramedullary nailing of the proximal tibia"
+    },
+    {
+     "id": "e",
+     "text": "Arthroscopic debridement of the knee"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Tibial plateau fractures are treated non-operatively when the depression is less than 3 mm, using protected weight bearing with immobilization in a splint for 6-12 wk with early progressive ROM. Operative treatment is indicated for articular step-off greater than 3 mm, condylar widening greater than 5 mm, open fractures, neurovascular injury, or significant varus/valgus instability greater than 15 degrees. This woman has only 2 mm of depression with no condylar widening, symmetric pulses, a stable knee and intact skin, so she meets none of the operative indications even though minor trauma produced the fracture in osteoporotic bone.",
+   "optionExplanations": {
+    "b": "ORIF with bone grafting to elevate the depressed fragment is reserved for articular step-off greater than 3 mm or condylar widening greater than 5 mm, neither of which is present.",
+    "c": "Delaying ORIF for 1-2 wk applies when severe soft tissue injury accompanies a fracture that already needs fixation; this fracture does not meet operative criteria and the skin is intact.",
+    "d": "Intramedullary nailing addresses tibial shaft fractures, not a depressed articular fracture of the proximal tibial plateau.",
+    "e": "Arthroscopic debridement is an option for failed non-operative treatment of patellofemoral syndrome, not for an acute tibial plateau fracture."
+   },
+   "topic": "Tibial Plateau Fracture",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "OR",
+    "name": "Orthopedic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1128,
+    "reference": "OR40 — Tibial Plateau Fracture"
    }
   }
  ]

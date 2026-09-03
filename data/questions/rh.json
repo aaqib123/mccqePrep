@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 19,
+ "count": 20,
  "questions": [
   {
    "id": "TN-RH-001",
@@ -882,6 +882,52 @@
     "document": "Toronto Notes 2025",
     "page": 1523,
     "reference": "RH29 — Non-Articular Rheumatism: Polymyalgia Rheumatica"
+   }
+  },
+  {
+   "id": "TN-RH-020",
+   "type": "single-best-answer",
+   "question": "A 34-year-old woman presents with five days of progressive confusion, dyspnea, and falling urine output. Over that week she has developed oliguric renal failure, an acute cerebral infarct, and hypoxemic respiratory failure. Examination shows livedo reticularis. Platelets are 54. Lupus anticoagulant and anti-cardiolipin antibodies are positive. She has no known connective tissue disease, malignancy, or recent drug exposure. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Primary antiphospholipid antibody syndrome"
+    },
+    {
+     "id": "b",
+     "text": "Secondary antiphospholipid antibody syndrome"
+    },
+    {
+     "id": "c",
+     "text": "Catastrophic antiphospholipid antibody syndrome"
+    },
+    {
+     "id": "d",
+     "text": "Lupus nephritis"
+    },
+    {
+     "id": "e",
+     "text": "Lupus cerebritis"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "The source defines catastrophic APS as the development within 1 wk of small vessel thrombotic occlusion in three or more organ systems with positive APLA, and notes its high mortality. This woman has occlusive disease of the kidneys, brain, and lungs arising within a single week alongside a positive lupus anticoagulant and anti-cardiolipin antibody, together with the thrombocytopenia and livedo reticularis the source lists among APS manifestations. That one-week multi-organ pattern is what separates catastrophic APS from the other forms.",
+   "optionExplanations": {
+    "a": "Primary APS occurs in the absence of other disease and is manifested by recurrent thromboembolic events, spontaneous abortions, and thrombocytopenia, not by small vessel occlusion in three organ systems within one week.",
+    "b": "Secondary APS occurs in the setting of a connective tissue disease, malignancy, drugs, or infection, none of which she has, and it would still not account for the one-week multi-organ occlusive course.",
+    "d": "Lupus nephritis is an organ-threatening manifestation of SLE treated with cyclophosphamide or mycophenolate; it does not explain simultaneous cerebral and pulmonary thrombotic occlusion with positive antiphospholipid antibodies.",
+    "e": "Lupus cerebritis is listed as serious organ involvement in SLE requiring cyclophosphamide, but it would not produce the concurrent renal and pulmonary occlusion or the positive antiphospholipid antibodies."
+   },
+   "topic": "Antiphospholipid Antibody Syndrome",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "RH",
+    "name": "Rheumatology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1507,
+    "reference": "RH13 — Antiphospholipid Antibody Syndrome"
    }
   }
  ]

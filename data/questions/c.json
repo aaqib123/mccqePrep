@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 42,
+ "count": 44,
  "questions": [
   {
    "id": "TN-C-001",
@@ -1940,6 +1940,98 @@
     "document": "Toronto Notes 2025",
     "page": 153,
     "reference": "C63 — Acute Pericarditis: Prognosis and Treatment"
+   }
+  },
+  {
+   "id": "TN-C-043",
+   "type": "single-best-answer",
+   "question": "A 58-year-old man collapses at home. A bystander begins chest compressions and paramedics defibrillate a shockable rhythm, restoring circulation after 12 minutes of resuscitation. He remains unresponsive on arrival in the emergency department. Blood pressure is 105/65 mmHg and the 12-lead ECG shows no ST elevation. What is the most appropriate next step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Emergent coronary angiography and revascularization"
+    },
+    {
+     "id": "b",
+     "text": "Initiate targeted temperature management"
+    },
+    {
+     "id": "c",
+     "text": "Implant an ICD for secondary prevention before discharge"
+    },
+    {
+     "id": "d",
+     "text": "Electrophysiologic study to assess inducibility of VT"
+    },
+    {
+     "id": "e",
+     "text": "Start an amiodarone infusion"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "After resuscitation from sudden cardiac arrest, Toronto Notes directs that targeted temperature management be initiated to optimize neurologic recovery regardless of the presenting rhythm. Emergent coronary angiography and revascularization are reserved for patients with ST elevation; those without ST elevation may still have clinically relevant coronary lesions but benefit from angiography on a non-emergent basis. This unresponsive survivor has no ST elevation, so temperature management is the immediate priority.",
+   "optionExplanations": {
+    "a": "Emergent angiography is required for post-arrest patients with ST elevation; without it, angiography is done on a non-emergent basis.",
+    "c": "An ICD is used for secondary prevention, but only after the underlying cause is investigated and neurologic recovery is assessed.",
+    "d": "Electrophysiologic studies map arrhythmias and assess inducibility of VT prior to ICD implant, not in the immediate post-arrest phase.",
+    "e": "Antiarrhythmic drug therapy such as amiodarone is part of post-arrest care but does not substitute for targeted temperature management."
+   },
+   "topic": "Sudden Cardiac Arrest",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "C",
+    "name": "Cardiology and Cardiac Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 118,
+    "reference": "C28 — Sudden Cardiac Arrest"
+   }
+  },
+  {
+   "id": "TN-C-044",
+   "type": "single-best-answer",
+   "question": "A 61-year-old man has advanced heart failure that remains medically refractory despite maximal therapy. He is dyspneic at rest with very poor quality of life and cannot be weaned from continuous inotropic support. He is not a candidate for cardiac transplantation. Echocardiography shows severe left ventricular dysfunction with no right ventricular dysfunction. What is the next best step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "IABP counterpulsation"
+    },
+    {
+     "id": "b",
+     "text": "Venoatrial (VA) ECMO"
+    },
+    {
+     "id": "c",
+     "text": "Implantation of a continuous-flow LVAD as destination therapy"
+    },
+    {
+     "id": "d",
+     "text": "RVAD support"
+    },
+    {
+     "id": "e",
+     "text": "Listing for cardiac transplantation"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "Ventricular assist devices unload the ventricle while maintaining output, and their indications are bridge to transplantation, bridge to decision, or long-term permanent therapy (\"destination therapy\"). This patient has advanced medically-refractory heart failure and is not a transplant candidate, so an implanted LVAD as destination therapy is indicated; continuous-flow devices improved stroke-free survival and quality of life compared with pulsatile-flow devices.",
+   "optionExplanations": {
+    "a": "The IABP is a catheter-based device advanced to the descending aorta that decreases afterload and increases coronary blood flow, but it is temporary support, not long-term therapy.",
+    "b": "VA ECMO is treatment for cardiogenic shock such as postcardiotomy shock, allograft failure, or fulminant myocarditis, and its outcomes are poor with 35% survival.",
+    "d": "An RVAD supports the right ventricle; this patient's right ventricular function is preserved and the failing chamber is the left ventricle.",
+    "e": "Transplantation has already been excluded, which is precisely why the device is used as destination therapy rather than as a bridge to transplantation."
+   },
+   "topic": "Ventricular Assist Devices",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "C",
+    "name": "Cardiology and Cardiac Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 142,
+    "reference": "C52 — Ventricular Assist Devices"
    }
   }
  ]

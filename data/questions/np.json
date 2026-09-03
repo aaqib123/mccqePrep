@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 23,
+ "count": 25,
  "questions": [
   {
    "id": "TN-NP-001",
@@ -1066,6 +1066,98 @@
     "document": "Toronto Notes 2025",
     "page": 840,
     "reference": "NP20 — Metabolic Alkalosis: Treatment"
+   }
+  },
+  {
+   "id": "TN-NP-024",
+   "type": "single-best-answer",
+   "question": "A 43-year-old woman reports two weeks of fatigue, generalized weakness, muscle cramps, and constipation. She takes no diuretics and denies vomiting or diarrhea. Blood pressure is 118/74 mmHg. Serum potassium is 2.9 mmol/L, and her ECG shows low amplitude U waves following the T waves. Transcellular shifts and inadequate dietary potassium intake have already been excluded. What is the most appropriate next investigation?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Spot urine potassium to creatinine ratio (urine K:Cr)"
+    },
+    {
+     "id": "b",
+     "text": "Plasma renin and aldosterone levels"
+    },
+    {
+     "id": "c",
+     "text": "Serum magnesium level"
+    },
+    {
+     "id": "d",
+     "text": "24 h urine potassium excretion"
+    },
+    {
+     "id": "e",
+     "text": "Venous blood gas to assess acid-base status"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The approach to hypokalemia is stepwise: emergency measures with an ECG if K+ is <2.5 mEq/L, rule out transcellular shifts, assess dietary K+ intake, then obtain a spot urine K:Cr, where <1.5 mEq/mmol suggests GI loss and >1.5 mEq/mmol suggests a renal loss. With shifts and intake already excluded and no vomiting or diarrhea, the spot urine K:Cr is the step that separates renal from extrarenal potassium loss. Her U waves confirm hypokalemia but do not localize the loss.",
+   "optionExplanations": {
+    "b": "Plasma renin and aldosterone levels come at the end of the approach, only after a renal potassium loss has been identified.",
+    "c": "Hypomagnesemia increases renal K+ loss and makes arrhythmias more likely, but serum Mg is a late adjunctive test, not the step that distinguishes GI from renal loss.",
+    "d": "A 24 h K+ excretion is considered after the spot urine K:Cr, not before it.",
+    "e": "Checking BP and acid-base status is the step that follows once renal K+ loss has been established by the urine K:Cr."
+   },
+   "topic": "Hypokalemia",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "NP",
+    "name": "Nephrology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 833,
+    "reference": "NP13 — Hypokalemia"
+   }
+  },
+  {
+   "id": "TN-NP-025",
+   "type": "single-best-answer",
+   "question": "A 71-year-old man with diffuse atherosclerosis undergoes percutaneous angioplasty of a renal artery. Over the next three weeks his renal insufficiency is progressive rather than transient. Bloodwork shows eosinophilia and hypocomplementemia, and urine microscopy shows eosinophiluria without red blood cell casts. Renal biopsy shows needle-shaped clefts in small and medium-sized vessels. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Atheroembolic renal disease"
+    },
+    {
+     "id": "b",
+     "text": "Contrast nephropathy"
+    },
+    {
+     "id": "c",
+     "text": "Renal vein thrombosis"
+    },
+    {
+     "id": "d",
+     "text": "Polyarteritis nodosa"
+    },
+    {
+     "id": "e",
+     "text": "Hypertensive nephrosclerosis"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Atheroembolic renal disease is progressive renal insufficiency due to embolic obstruction of small- and medium-sized renal vessels by atheromatous emboli, arising spontaneously or after renal artery manipulation such as surgery, angiography, or percutaneous angioplasty. Its investigations show eosinophilia, eosinophiluria, and hypocomplementemia, and renal biopsy shows needle-shaped cholesterol clefts with surrounding tissue reaction in small- and medium-sized vessels. This man's recent angioplasty and that combination of findings fit atheroemboli; there is no effective treatment and at least one third of patients develop ESRD.",
+   "optionExplanations": {
+    "b": "Contrast nephropathy is a recognized risk of angiography, but it does not produce eosinophilia, eosinophiluria, hypocomplementemia, or cholesterol clefts on biopsy.",
+    "c": "Renal vein thrombosis presents acutely with nausea and vomiting, flank pain, hematuria, elevated LDH, and a sudden rise in proteinuria.",
+    "d": "Polyarteritis nodosa causes glomerular ischemia manifesting as mild proteinuria and hypertension, not post-procedural embolic occlusion with eosinophiluria.",
+    "e": "Hypertensive nephrosclerosis is small vessel injury from longstanding hypertension and would not begin after angioplasty or produce these findings."
+   },
+   "topic": "Atheroembolic Renal Disease",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "NP",
+    "name": "Nephrology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 852,
+    "reference": "NP32 — Small Vessel Disease: Atheroembolic Renal Disease"
    }
   }
  ]

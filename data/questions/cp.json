@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 10,
+ "count": 11,
  "questions": [
   {
    "id": "TN-CP-001",
@@ -468,6 +468,52 @@
     "document": "Toronto Notes 2025",
     "page": 186,
     "reference": "CP12 — Opioid Therapy and Chronic Non-Cancer Pain: General Management Principles"
+   }
+  },
+  {
+   "id": "TN-CP-011",
+   "type": "single-best-answer",
+   "question": "A 58-year-old man with a chronic illness requiring lifelong daily therapy is about to begin treatment. He has moderate renal impairment and takes several interacting medications, so the team wants the agent least likely to cause serious toxicity at a therapeutic dose. Five agents of the same class are equally effective. Preclinical ED50 and TD50 values are given with each option. Which is the most appropriate initial treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Agent V (ED50 2 mg, TD50 30 mg)"
+    },
+    {
+     "id": "b",
+     "text": "Agent W (ED50 10 mg, TD50 120 mg)"
+    },
+    {
+     "id": "c",
+     "text": "Agent X (ED50 25 mg, TD50 500 mg)"
+    },
+    {
+     "id": "d",
+     "text": "Agent Y (ED50 1 mg, TD50 18 mg)"
+    },
+    {
+     "id": "e",
+     "text": "Agent Z (ED50 50 mg, TD50 600 mg)"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "The therapeutic index is TD50/ED50, a measure of relative drug safety used when comparing drugs to examine the likelihood of a therapeutic dose to cause serious toxicity or death; the larger the TI, the safer the drug. Agent X has the largest therapeutic index of the five (500/25 = 20), so at an effective dose it carries the smallest relative risk of toxicity. This matters most in this patient because interacting drugs, altered ADME and patient characteristics such as age and organ impairment can all narrow the therapeutic index further.",
+   "optionExplanations": {
+    "a": "Agent V has a therapeutic index of 15 (30/2), lower than agent X, so it offers a smaller margin between the effective and toxic dose.",
+    "b": "Agent W has a therapeutic index of 12 (120/10), one of the lowest of the five options.",
+    "d": "Agent Y has the smallest ED50, but potency is not safety: its therapeutic index is 18 (18/1), still below that of agent X.",
+    "e": "Agent Z has the largest TD50, but because its ED50 is also high its therapeutic index is only 12 (600/50)."
+   },
+   "topic": "Therapeutic Index and Drug Safety",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "CP",
+    "name": "Clinical Pharmacology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 183,
+    "reference": "CP9 — Effectiveness and Safety: Therapeutic Indices"
    }
   }
  ]

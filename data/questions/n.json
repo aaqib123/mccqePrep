@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 34,
+ "count": 36,
  "questions": [
   {
    "id": "TN-N-001",
@@ -1572,6 +1572,98 @@
     "document": "Toronto Notes 2025",
     "page": 906,
     "reference": "N36 — Cerebellar Ataxias"
+   }
+  },
+  {
+   "id": "TN-N-035",
+   "type": "single-best-answer",
+   "question": "A 62-year-old woman describes six weeks of recurrent episodes of sudden onset, excruciating, unilateral shooting \"electric\" pain in the right cheek and lower jaw. Each episode lasts seconds, and attacks are triggered by touching her face, eating, and cold wind. Sensory examination of the face is normal. MRI brain shows no intracranial mass or demyelinating lesion. What is the most appropriate first-line treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Carbamazepine"
+    },
+    {
+     "id": "b",
+     "text": "Baclofen"
+    },
+    {
+     "id": "c",
+     "text": "Lamotrigine"
+    },
+    {
+     "id": "d",
+     "text": "Amitriptyline"
+    },
+    {
+     "id": "e",
+     "text": "Pregabalin"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes gives carbamazepine or oxcarbazepine as first line for trigeminal neuralgia, with baclofen or lamotrigine as second line and microvascular decompression reserved for medically refractory classical disease. This woman has the classical picture: recurrent sudden onset, excruciating, unilateral, paroxysmal shooting \"electric\" pain in trigeminal root territory (V3>V2>>V1) lasting seconds, triggered by touching the face, eating and cold wind. The normal sensory exam and an MRI excluding mass or MS argue against a secondary structural cause, so first-line medical therapy is appropriate.",
+   "optionExplanations": {
+    "b": "Baclofen is listed as second line, used after carbamazepine or oxcarbazepine fails.",
+    "c": "Lamotrigine is the other second-line agent, not the initial choice.",
+    "d": "Amitriptyline is a TCA used for postherpetic neuralgia, not first line for trigeminal neuralgia.",
+    "e": "Pregabalin is an anticonvulsant used for postherpetic neuralgia; the first-line agent here is carbamazepine."
+   },
+   "topic": "Trigeminal Neuralgia",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "N",
+    "name": "Neurology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 914,
+    "reference": "N44 — Trigeminal Neuralgia"
+   }
+  },
+  {
+   "id": "TN-N-036",
+   "type": "single-best-answer",
+   "question": "A 58-year-old right-handed woman is assessed three days after a stroke because of abnormal language. Her spontaneous speech is fluent and effortless but contains frequent phonemic paraphasias such as \"cable\" for \"table\". Comprehension of spoken and written material is good, naming is poor, and she cannot repeat phrases said to her. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Conduction aphasia"
+    },
+    {
+     "id": "b",
+     "text": "Motor (Broca's) aphasia"
+    },
+    {
+     "id": "c",
+     "text": "Wernicke's aphasia"
+    },
+    {
+     "id": "d",
+     "text": "Sensory transcortical aphasia"
+    },
+    {
+     "id": "e",
+     "text": "Anomic aphasia"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The Toronto Notes aphasia classification sorts an aphasia by fluency, then comprehension, then repetition, with naming poor in all types. Fluent speech with good comprehension but poor repetition is conduction aphasia, localized to the arcuate fasciculus, the association bundle connecting Wernicke's and Broca's areas. Her fluent output with phonemic paraphasias, preserved comprehension and failed repetition fits that combination; aphasia also localizes the lesion to the dominant cerebral hemisphere, the left in a right-handed patient.",
+   "optionExplanations": {
+    "b": "Motor (Broca's) aphasia is non-fluent and localizes to the posterior inferior frontal lobe; her speech is fluent.",
+    "c": "Wernicke's aphasia is fluent but comprehension is poor; she understands spoken and written material.",
+    "d": "Sensory transcortical aphasia is fluent with poor comprehension and, unlike this case, preserved repetition.",
+    "e": "Anomic aphasia is fluent with good comprehension and good repetition; her repetition is impaired."
+   },
+   "topic": "Aphasia Classification",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "N",
+    "name": "Neurology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 898,
+    "reference": "N28 — Aphasia"
    }
   }
  ]

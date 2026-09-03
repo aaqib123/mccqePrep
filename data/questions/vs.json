@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 8,
+ "count": 9,
  "questions": [
   {
    "id": "TN-VS-001",
@@ -376,6 +376,52 @@
     "document": "Toronto Notes 2025",
     "page": 1592,
     "reference": "VS12 — Lymphedema, Clinical Features and Investigations"
+   }
+  },
+  {
+   "id": "TN-VS-009",
+   "type": "single-best-answer",
+   "question": "A 72-year-old man has 6 weeks of constant left foot pain at rest and a spreading area of gangrene over the forefoot with persistent infection despite antibiotics. Ankle pulses are absent. Imaging shows occlusion of the femoropopliteal segment extending into all three calf vessels, leaving no distal target vessel suitable for a bypass graft. He is otherwise medically fit for surgery. What is the most appropriate management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Aortofemoral bypass"
+    },
+    {
+     "id": "b",
+     "text": "Axillofemoral bypass"
+    },
+    {
+     "id": "c",
+     "text": "Femoropopliteal bypass"
+    },
+    {
+     "id": "d",
+     "text": "Amputation of the limb"
+    },
+    {
+     "id": "e",
+     "text": "Referral to a chronic pain clinic for analgesic control"
+    }
+   ],
+   "correctAnswer": "d",
+   "explanation": "Toronto Notes lists amputation in chronic limb threatening ischemia when the limb is not anatomically suitable for revascularization, when there is persistent infection or gangrene, when rest pain is unremitting and poorly controlled with analgesics, or when the patient is medically unfit for revascularization. This man satisfies two of those indications: the occluded femoropopliteal segment and calf vessels leave no target for a bypass, so he is not anatomically suitable for revascularization, and he has persistent infection with gangrene. Amputation is therefore the appropriate operation rather than any reconstruction.",
+   "optionExplanations": {
+    "a": "Aortofemoral bypass is a reconstruction for aortoiliac occlusive disease; this man's occlusion is femoropopliteal and infrapopliteal, and no inflow procedure will perfuse a foot with no patent runoff.",
+    "b": "Axillofemoral bypass is an extra-anatomic inflow option when the aorta cannot be used; like aortofemoral bypass it delivers flow to the groin and does nothing for occluded calf vessels.",
+    "c": "Femoropopliteal bypass requires a patent distal target, and imaging shows the popliteal and all three calf vessels are occluded, so the graft has nowhere to land.",
+    "e": "Chronic pain clinic referral is reserved for the patient who is not anatomically suitable or clinically fit for revascularization but whose problem is persistent unremitting rest or night pain; it leaves the gangrene and persistent infection untreated."
+   },
+   "topic": "Chronic Limb Threatening Ischemia",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "VS",
+    "name": "Vascular Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1586,
+    "reference": "VS6 — Chronic Limb Threatening Ischemia, Treatment"
    }
   }
  ]

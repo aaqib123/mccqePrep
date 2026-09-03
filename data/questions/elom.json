@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 19,
+ "count": 20,
  "questions": [
   {
    "id": "TN-ELOM-001",
@@ -882,6 +882,52 @@
     "document": "Toronto Notes 2025",
     "page": 33,
     "reference": "ELOM13 — Obtaining Legal Consent"
+   }
+  },
+  {
+   "id": "TN-ELOM-020",
+   "type": "single-best-answer",
+   "question": "A 24-year-old woman at 23 weeks gestation learns that detailed ultrasound shows the fetus has anencephaly. She is capable, has discussed the finding with her partner, and asks you to arrange termination of the pregnancy. A colleague tells you this cannot be done in Canada because the fetus is past 20 weeks and termination now would be a criminal offence. What is the most appropriate next step?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Arrange the termination of pregnancy she has requested"
+    },
+    {
+     "id": "b",
+     "text": "Decline the request because termination after 20 weeks gestation is prohibited in Canada"
+    },
+    {
+     "id": "c",
+     "text": "Apply to court for authorization to terminate a pregnancy beyond fetal viability"
+    },
+    {
+     "id": "d",
+     "text": "Arrange termination only once her partner has also given written consent"
+    },
+    {
+     "id": "e",
+     "text": "Refer the request to the hospital ethics committee for a decision before proceeding"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "The source states that in Canada there is no criminal prohibition regarding abortion, and that termination of pregnancy is a medical and personal decision to be made in consultation with a healthcare provider, alongside anyone else the patient wishes. Second and third trimester abortions are legal in Canada and are usually pursued when there are risks to the person's health, if the fetus died in utero, and/or if the fetus has a known major irreversible condition such as anencephaly; in any of these cases, however, it is the choice of the pregnant individual whether or not they will maintain or terminate the pregnancy. This capable patient's request therefore proceeds on her decision alone, without legal, judicial, or third-party authorization.",
+   "optionExplanations": {
+    "b": "There is no criminal prohibition regarding abortion in Canada and 2nd and 3rd trimester abortions are legal, so gestational age past 20 weeks does not bar the procedure.",
+    "c": "No court authorization is described for termination of pregnancy; the decision rests with the pregnant individual in consultation with their healthcare provider.",
+    "d": "The patient decides in consultation with a healthcare provider alongside anyone else she wishes; a partner's consent is not required for her to terminate the pregnancy.",
+    "e": "An ethics committee ruling is not a precondition for a legal procedure that the capable pregnant individual has chosen; it would only delay care she is entitled to."
+   },
+   "topic": "Induced Abortion",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "ELOM",
+    "name": "Ethical, Legal, and Organizational Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 38,
+    "reference": "ELOM18 — Induced Abortion"
    }
   }
  ]

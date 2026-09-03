@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 19,
+ "count": 20,
  "questions": [
   {
    "id": "TN-PH-001",
@@ -882,6 +882,52 @@
     "document": "Toronto Notes 2025",
     "page": 1439,
     "reference": "PH21 — Common Statistical Tests"
+   }
+  },
+  {
+   "id": "TN-PH-020",
+   "type": "single-best-answer",
+   "question": "A 47-year-old female physician leading a hospital quality improvement committee is asked to reduce nosocomial infections on her ward. Her team has already tallied how often each of 14 different defects occurred over three months. She now wants to display the defect categories against their frequency so the committee can see which few of them contribute most to the poor quality. Which of the following systems analysis tools is most appropriate?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Pareto chart"
+    },
+    {
+     "id": "b",
+     "text": "Ishikawa (fishbone) diagram"
+    },
+    {
+     "id": "c",
+     "text": "Defect check sheet"
+    },
+    {
+     "id": "d",
+     "text": "5 Whys"
+    },
+    {
+     "id": "e",
+     "text": "PDSA (Plan, Do, Study, Act) cycle"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "A Pareto chart is an x vs. y chart with defect categories on the x-axis and frequency on the y-axis, with cumulative frequency plotted on the right y-axis; its purpose is to highlight the most important among a large set of factors contributing to defects or poor quality. The committee already has the tally of each defect and now needs to rank many categories by their contribution, which is exactly what the Pareto chart displays.",
+   "optionExplanations": {
+    "b": "An Ishikawa (fishbone) diagram identifies generic categories of problems contributing to an overall effect, but it does not plot the measured frequency of each defect.",
+    "c": "A defect check sheet considers all defects and tallies the number of times each occurs — the step this team has already completed.",
+    "d": "5 Whys is brainstorming that keeps asking 'why' until the root of one problem is discovered; it does not rank many factors against each other.",
+    "e": "The PDSA cycle is a planning cycle (Plan, Do, Study, Act) for carrying out a change, not a tool for displaying which defects matter most."
+   },
+   "topic": "Quality Improvement Tools",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "PH",
+    "name": "Public Health and Preventive Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1441,
+    "reference": "PH23 — Systems Analysis Tools"
    }
   }
  ]

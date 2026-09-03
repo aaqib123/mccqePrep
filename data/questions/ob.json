@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 29,
+ "count": 31,
  "questions": [
   {
    "id": "TN-OB-001",
@@ -1342,6 +1342,98 @@
     "document": "Toronto Notes 2025",
     "page": 1008,
     "reference": "OB22 — Polyhydramnios/Oligohydramnios"
+   }
+  },
+  {
+   "id": "TN-OB-030",
+   "type": "single-best-answer",
+   "question": "A 27-year-old woman develops fever and lower abdominal pain on postpartum day 3, following a caesarean delivery performed after prolonged labour and prolonged rupture of membranes. Her temperature is 38.6°C and she has chills. The uterus is tender on palpation and the lochia is foul-smelling. The caesarean wound is clean and dry, the breasts are soft and non-tender, and there is no calf tenderness. What is the most appropriate treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Clindamycin plus gentamicin IV"
+    },
+    {
+     "id": "b",
+     "text": "Cloxacillin PO"
+    },
+    {
+     "id": "c",
+     "text": "Cephalexin PO with frequent sitz baths"
+    },
+    {
+     "id": "d",
+     "text": "Cefazolin 2 g IV as a single dose 30 min before skin incision"
+    },
+    {
+     "id": "e",
+     "text": "Therapeutic anticoagulation"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes defines postpartum fever as a temperature >38°C on any two of the first 10 d postpartum, except the 1st day, and lists endometritis, wound infection, mastitis, UTI, atelectasis, pneumonia, and DVT as the causes; treatment depends on etiology. Endometritis presents with fever, chills, abdominal pain, uterine tenderness, and foul-smelling vaginal discharge or lochia, and its risk factors are CD, intrapartum chorioamnionitis, prolonged labour, prolonged ROM, and multiple vaginal examinations. This patient has all of those features with a clean wound, soft breasts, and no calf tenderness, so the source is the womb and the recommended regimen is clindamycin + gentamicin/tobramycin IV.",
+   "optionExplanations": {
+    "b": "Cloxacillin is the listed treatment for mastitis, but her breasts are soft and non-tender.",
+    "c": "Cephalexin with frequent sitz baths is the listed treatment for wound and episiotomy site infection; her caesarean wound is clean and dry.",
+    "d": "Cefazolin 2-4 g IV 30 min before skin incision is prophylaxis against post-CD endometritis, not treatment of established infection three days later.",
+    "e": "Anticoagulation treats DVT, which is not suggested here as there is no calf tenderness."
+   },
+   "topic": "Postpartum Fever and Endometritis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "OB",
+    "name": "Obstetrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1034,
+    "reference": "OB48 — Postpartum Fever"
+   }
+  },
+  {
+   "id": "TN-OB-031",
+   "type": "single-best-answer",
+   "question": "A 34-year-old G4P3 at 39 weeks gestation, whose labour was induced and progressed rapidly, becomes acutely short of breath minutes after delivery. She is hypotensive and hypoxic and then has a brief seizure. Oozing begins from her IV sites and heavy vaginal bleeding follows, with a coagulopathic profile on bloodwork. Her uterus is firm and well contracted. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Amniotic fluid embolism"
+    },
+    {
+     "id": "b",
+     "text": "Pulmonary embolus"
+    },
+    {
+     "id": "c",
+     "text": "Eclampsia"
+    },
+    {
+     "id": "d",
+     "text": "Septic shock"
+    },
+    {
+     "id": "e",
+     "text": "Placental abruption"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes describes amniotic fluid embolism as amniotic fluid debris in the maternal circulation triggering an anaphylactoid immunologic response, presenting with sudden onset of respiratory distress, cardiovascular collapse (hypotension, hypoxia), and coagulopathy, with seizure in 10% of cases. It is a rare intrapartum or immediate postpartum complication whose risk factors include rapid labour, multiparity, and induction medication and procedures. This patient's abrupt collapse with coagulopathy in the immediate postpartum period, in the setting of an induced rapid labour and multiparity, fits AFE rather than the other entities on its differential diagnosis.",
+   "optionExplanations": {
+    "b": "Pulmonary embolus is on the differential but does not itself produce the accompanying coagulopathy and bleeding from IV sites.",
+    "c": "Eclampsia is a convulsion in the setting of preeclampsia; here the seizure follows, rather than precedes, the respiratory and cardiovascular collapse and there is no hypertensive disorder.",
+    "d": "Septic shock is on the differential but develops with an infectious source rather than as an abrupt anaphylactoid collapse at delivery.",
+    "e": "Placental abruption can cause coagulopathy, but the placenta is delivered and the uterus is firm and well contracted."
+   },
+   "topic": "Amniotic Fluid Embolism",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "OB",
+    "name": "Obstetrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1028,
+    "reference": "OB42 — Amniotic Fluid Embolism"
    }
   }
  ]

@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 32,
+ "count": 34,
  "questions": [
   {
    "id": "TN-NS-001",
@@ -1480,6 +1480,98 @@
     "document": "Toronto Notes 2025",
     "page": 949,
     "reference": "NS17 — Meningioma"
+   }
+  },
+  {
+   "id": "TN-NS-125",
+   "type": "single-best-answer",
+   "question": "A 5-month-old boy is brought in because his head looks unusually long and narrow from front to back. He was born at term, feeds well and is developmentally normal. The anterior fontanelle is soft, there is no papilledema, and a firm bony ridge is palpable along the midline vertex. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Sagittal synostosis (scaphocephaly)"
+    },
+    {
+     "id": "b",
+     "text": "Coronal synostosis (brachycephaly)"
+    },
+    {
+     "id": "c",
+     "text": "Metopic synostosis (trigonocephaly)"
+    },
+    {
+     "id": "d",
+     "text": "Lambdoid synostosis"
+    },
+    {
+     "id": "e",
+     "text": "Positional plagiocephaly"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Craniosynostosis is premature closure of a cranial suture, and sagittal synostosis is the most common form, producing a long narrow head with a ridging sagittal suture (scaphocephaly). This infant has exactly that shape with a palpable ridge along the midline vertex, and no skull deformity of the positional type. He has no features of raised ICP, so surgery here would be for cosmetic purposes rather than for elevated ICP.",
+   "optionExplanations": {
+    "b": "Coronal synostosis causes expansion in a superior and lateral direction (brachycephaly), not a long narrow skull with a midline ridge.",
+    "c": "Metopic synostosis produces trigonocephaly, a keel-shaped forehead from the frontal midline suture, not a ridged sagittal suture.",
+    "d": "Lambdoid synostosis is the least common form and does not produce ridging of the sagittal suture or scaphocephaly.",
+    "e": "Positional plagiocephaly is secondary to persistently or exclusively sleeping on the back and must be differentiated from true synostosis; it does not give a fused, palpably ridged suture."
+   },
+   "topic": "Craniosynostosis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "NS",
+    "name": "Neurosurgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 976,
+    "reference": "NS44 — Craniosynostosis"
+   }
+  },
+  {
+   "id": "TN-NS-126",
+   "type": "single-best-answer",
+   "question": "A 7-month-old girl who had an MMC repaired at birth and a VP shunt placed for hydrocephalus presents with two weeks of stridor, neurogenic dysphagia with aspiration during feeds, and apnea. Earlier MRI showed part of the cerebellar vermis, medulla and 4th ventricle extending through the foramen magnum to the midcervical region. What is the next best step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Check the VP shunt"
+    },
+    {
+     "id": "b",
+     "text": "Surgical decompression with cervical laminectomy and duraplasty"
+    },
+    {
+     "id": "c",
+     "text": "Suboccipital craniectomy with duraplasty"
+    },
+    {
+     "id": "d",
+     "text": "Insertion of a cystoperitoneal shunt"
+    },
+    {
+     "id": "e",
+     "text": "Observation with serial clinical monitoring"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "This is Chiari type II: part of the cerebellar vermis, medulla and 4th ventricle extend through the foramen magnum, often to the midcervical region, it presents in infancy, and it is usually associated with MMC and hydrocephalus. Findings are due to brainstem and lower cranial nerve dysfunction — neurogenic dysphagia, apnea, stridor and aspiration — and respiratory arrest is the most common cause of mortality. When a Chiari II patient becomes symptomatic, check the shunt first, then consider surgical decompression.",
+   "optionExplanations": {
+    "b": "Cervical laminectomy with duraplasty is part of the surgical decompression considered only after the shunt is checked, and decompression does not reverse intrinsic brainstem abnormalities.",
+    "c": "Suboccipital craniectomy with duraplasty is the treatment for symptomatic Chiari type I, in which the cerebellar tonsils lie below the foramen magnum.",
+    "d": "A cystoperitoneal shunt treats the posterior fossa cyst of Dandy-Walker malformation, not the hindbrain herniation described here.",
+    "e": "Serial monitoring suits asymptomatic patients; with stridor and apnea from brainstem dysfunction, waiting risks the respiratory arrest that causes most Chiari II deaths."
+   },
+   "topic": "Chiari Malformations",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "NS",
+    "name": "Neurosurgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 975,
+    "reference": "NS43 — Chiari Malformations"
    }
   }
  ]

@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 51,
+ "count": 53,
  "questions": [
   {
    "id": "TN-P-001",
@@ -2354,6 +2354,98 @@
     "document": "Toronto Notes 2025",
     "page": 1293,
     "reference": "P97 — Limp"
+   }
+  },
+  {
+   "id": "TN-P-052",
+   "type": "single-best-answer",
+   "question": "A 5-year-old boy is brought in because of loud snoring every night with gasping and witnessed apneas. He is irritable and tired during the day, and his teacher reports hyperactivity. His BMI is at the 50th percentile. Examination shows markedly enlarged tonsils; there is no cleft palate, bleeding disorder or acute tonsillitis. Which of the following is the best initial treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Adenotonsillectomy"
+    },
+    {
+     "id": "b",
+     "text": "Trial of intranasal corticosteroids"
+    },
+    {
+     "id": "c",
+     "text": "Continuous positive airway pressure"
+    },
+    {
+     "id": "d",
+     "text": "Weight management and dietary counselling"
+    },
+    {
+     "id": "e",
+     "text": "Watchful waiting with reassessment in 6 months"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Adenotonsillectomy and weight management are the first-line treatments for obstructive sleep apnea in children, and treatment can be initiated on clinical judgement without polysomnography. This boy has the classic features of snoring, gasping and witnessed apneas during sleep with daytime irritability and hyperactivity, and his obstruction is due to adenotonsillar hypertrophy rather than obesity. Removing the obstructing tissue is therefore the first-line treatment, with follow-up for residual OSA.",
+   "optionExplanations": {
+    "b": "Intranasal corticosteroids are only a temporizing measure in mild OSA, not definitive treatment when adenotonsillar hypertrophy is producing witnessed apneas.",
+    "c": "CPAP is reserved for children in whom adenotonsillectomy is contraindicated (cleft palate, bleeding disorder, acute tonsillitis), for OSA with minimal adenotonsillar tissue, or for residual OSA — none of which applies here.",
+    "d": "Weight management is first-line where obesity is the driver, but his BMI is at the 50th percentile and the obstruction is adenotonsillar.",
+    "e": "Watchful waiting is acceptable in mild-moderate cases, not with nightly witnessed apneas plus daytime behavioural symptoms."
+   },
+   "topic": "Obstructive Sleep Apnea in Children",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "P",
+    "name": "Pediatrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1211,
+    "reference": "P15 — Sleep Disturbances"
+   }
+  },
+  {
+   "id": "TN-P-053",
+   "type": "single-best-answer",
+   "question": "A 2-month-old formula-fed boy has effortless reflux of small amounts of milk after most feeds since 3 weeks of age. He feeds eagerly and is settled between feeds, with no bilious or bloody vomiting, fever, lethargy or abdominal distension. His weight has tracked along the 50th percentile. Abdominal examination is normal. Which of the following is the best initial treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Thickened, smaller and more frequent feeds with elevation of the head"
+    },
+    {
+     "id": "b",
+     "text": "Start a proton pump inhibitor"
+    },
+    {
+     "id": "c",
+     "text": "Start domperidone"
+    },
+    {
+     "id": "d",
+     "text": "Start an H2-blocker"
+    },
+    {
+     "id": "e",
+     "text": "Nissen fundoplication"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Conservative measures — thickened feeds, frequent and smaller feeds and elevation of the head — are the initial management of gastroesophageal reflux in an infant, and acid-suppressants or motility agents are not recommended for infants with uncomplicated reflux. This thriving baby is growing along the 50th percentile and has none of the warning signs that require further investigation, such as bilious vomiting, GI tract bleeding, fever, lethargy or abdominal distension. Conservative management is therefore the best initial treatment.",
+   "optionExplanations": {
+    "b": "A PPI is recommended only after failure of conservative measures, or for moderate to severe disease or biopsy-proven esophagitis.",
+    "c": "D2 antagonists such as domperidone are generally not recommended for GERD and are reserved for concurrent gastroparesis.",
+    "d": "H2-blockers are acid-suppressants, which are not recommended for infants with uncomplicated reflux.",
+    "e": "Nissen fundoplication is an interventional option indicated for failure of medical therapy or when GERD is not an isolated diagnosis."
+   },
+   "topic": "Gastroesophageal Reflux in Infants",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "P",
+    "name": "Pediatrics"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1239,
+    "reference": "P43 — Gastroesophageal Reflux"
    }
   }
  ]

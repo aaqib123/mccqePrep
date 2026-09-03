@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 20,
+ "count": 21,
  "questions": [
   {
    "id": "TN-A-001",
@@ -928,6 +928,52 @@
     "document": "Toronto Notes 2025",
     "page": 63,
     "reference": "A9 — Tube Insertion / Confirmation of Tracheal Placement of Endotracheal Tube"
+   }
+  },
+  {
+   "id": "TN-A-021",
+   "type": "single-best-answer",
+   "question": "A 68-year-old man has been on mechanical ventilation for three days after an emergency laparotomy. He is now awake, hemodynamically stable off vasopressors, and initiating every breath above the set rate, with adequate oxygenation and regular arterial blood gases that are normal. The team wants to begin weaning him off the ventilator. Which mode of ventilation is most appropriate?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Pressure support ventilation"
+    },
+    {
+     "id": "b",
+     "text": "Assist-control ventilation"
+    },
+    {
+     "id": "c",
+     "text": "Pressure control ventilation"
+    },
+    {
+     "id": "d",
+     "text": "Synchronous intermittent mandatory ventilation"
+    },
+    {
+     "id": "e",
+     "text": "High-frequency oscillatory ventilation"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "In pressure support ventilation the patient initiates all breaths and the ventilator supports each breath with a pre-set inspiratory pressure, and the source lists it as useful for weaning off the ventilator. This man is awake, stable and already triggering every breath, so the mode that supports his own spontaneous efforts rather than delivering mandatory breaths is the one to choose.",
+   "optionExplanations": {
+    "b": "In assist-control (volume control) ventilation every breath is delivered with a pre-set tidal volume and rate, and the ventilator initiates a breath if no patient effort is detected, so it takes over rather than unloads the work of breathing.",
+    "c": "Pressure control ventilation sets a minimum frequency with all breaths delivered at a pre-set constant inspiratory pressure; tidal volume is not guaranteed and changes in compliance and resistance will alter it.",
+    "d": "Synchronous intermittent mandatory ventilation still provides controlled breaths at a set volume or pressure, with spontaneous breaths only in between them.",
+    "e": "High-frequency oscillatory ventilation uses very low tidal volumes at rates up to 900 breaths/min and is used commonly in neonatal and pediatric respiratory failure, or occasionally in adults when conventional mechanical ventilation is failing."
+   },
+   "topic": "Modes of Mechanical Ventilation",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "A",
+    "name": "Anesthesia"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 65,
+    "reference": "A11 — Modes of Ventilation"
    }
   }
  ]

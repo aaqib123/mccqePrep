@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 13,
+ "count": 14,
  "questions": [
   {
    "id": "TN-GM-001",
@@ -606,6 +606,52 @@
     "document": "Toronto Notes 2025",
     "page": 587,
     "reference": "GM15 — Healthcare Institutions"
+   }
+  },
+  {
+   "id": "TN-GM-014",
+   "type": "single-best-answer",
+   "question": "An 86-year-old woman with six chronic conditions is seen after two new diagnoses are made, each requiring drug therapy. She takes ten medications, her BMI is 18 kg/m2, her CrCl is 38 mL/min, and she had an adverse drug reaction to a previous prescription. What is the next best step in starting her new therapy?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Start both medications today at usual adult doses and reduce the dose if adverse effects appear"
+    },
+    {
+     "id": "b",
+     "text": "Start both medications today at low doses and titrate each one weekly"
+    },
+    {
+     "id": "c",
+     "text": "Start one medication at a low dose and titrate slowly before adding the second"
+    },
+    {
+     "id": "d",
+     "text": "Start both medications at usual adult doses but halve the dosing frequency of each"
+    },
+    {
+     "id": "e",
+     "text": "Start one medication at the usual adult dose and add the second once the first is at target"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "Toronto Notes gives two rules for new medications in older adults: start low, go slow, and avoid starting 2 drugs at the same time. This patient carries almost every listed risk factor for an adverse drug reaction, intrinsic (comorbidities >5, age >85, low BMI, CrCl <50 mL/min) and extrinsic (>9 medications, prior ADR), and aging reduces renal blood flow, glomerular filtration rate, and tubular secretion for an overall reduction in renal function of 30-50%, so lower doses may be therapeutic. Introducing a single low-dose agent and titrating it slowly also keeps any new symptom attributable to one drug, which matters because any new symptom in an older adult could be medication related until proven otherwise.",
+   "optionExplanations": {
+    "a": "Usual adult doses ignore the 30-50% overall reduction in renal function with aging, at which lower doses may already be therapeutic, and starting two drugs together is specifically to be avoided.",
+    "b": "Low starting doses are correct, but two drugs begun simultaneously make it impossible to attribute a new symptom such as delirium, a fall, or urinary retention to either agent.",
+    "d": "Halving the frequency still delivers a full adult dose rather than a low starting dose, and it still starts two drugs at once.",
+    "e": "A usual adult starting dose disregards start low, go slow in a patient whose CrCl is under 50 mL/min and whose BMI is low, both intrinsic risk factors for an adverse drug reaction."
+   },
+   "topic": "Adverse Drug Reactions",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "GM",
+    "name": "Geriatric Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 588,
+    "reference": "GM16 — Adverse Drug Reactions"
    }
   }
  ]

@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 28,
+ "count": 30,
  "questions": [
   {
    "id": "TN-GY-001",
@@ -1296,6 +1296,98 @@
     "document": "Toronto Notes 2025",
     "page": 639,
     "reference": "GY45 — Ovarian Tumours"
+   }
+  },
+  {
+   "id": "TN-GY-029",
+   "type": "single-best-answer",
+   "question": "A 41-year-old woman reports 8 months of deep pelvic pain during intercourse. She has no genital ulcers and no abnormal vaginal discharge, no visible lesions on inspection, and no suprapubic tenderness. Pelvic examination suggests a right-sided pelvic mass, and she reports no back pain. Which investigation is most appropriate?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Transvaginal ultrasound (TVUS)"
+    },
+    {
+     "id": "b",
+     "text": "MRI for spinal-origin neuropathy"
+    },
+    {
+     "id": "c",
+     "text": "STI evaluation with cervical swabs"
+    },
+    {
+     "id": "d",
+     "text": "Tissue biopsy of a visible lesion"
+    },
+    {
+     "id": "e",
+     "text": "U/A and urine culture"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Investigations for dyspareunia are guided by history and physical exam: TVUS is indicated if there is pelvic pain, deep dyspareunia, or a pelvic mass, while MRI is used only if spinal-origin neuropathy-related sexual dysfunction is suspected. STI evaluation is for genital ulcers or abnormal discharge, tissue biopsy for visible lesions, and U/A and urine culture for suprapubic tenderness. This patient has deep dyspareunia with a pelvic mass and none of those other triggers, and deep dyspareunia is produced by endometriosis, adenomyosis, leiomyomata, hydrosalpinx, tubo-ovarian abscess, uterine retroversion, or an ovarian cyst, all of which TVUS can show.",
+   "optionExplanations": {
+    "b": "MRI is reserved for suspected spinal-origin neuropathy-related sexual dysfunction, and she has no back pain.",
+    "c": "STI evaluation is indicated for genital ulcers or abnormal discharge, and she has neither.",
+    "d": "Tissue biopsy is done when visible lesions are present; inspection shows none.",
+    "e": "U/A and urine culture are indicated for suprapubic tenderness, which is absent here."
+   },
+   "topic": "Dyspareunia",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "GY",
+    "name": "Gynecology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 629,
+    "reference": "GY35 — Sexuality and Sexual Dysfunction"
+   }
+  },
+  {
+   "id": "TN-GY-030",
+   "type": "single-best-answer",
+   "question": "A 68-year-old woman has 4 months of localized pruritus and a 2 cm white, raised lesion on the labia majora that has not settled with topical treatment. There is no ulcer, bleeding, or dysuria, and no palpable groin lymph nodes. What is the most appropriate next step?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Punch biopsy that samples the lesion and leaves the rest in place"
+    },
+    {
+     "id": "b",
+     "text": "Excisional biopsy removing the entire lesion"
+    },
+    {
+     "id": "c",
+     "text": "Radical local excision"
+    },
+    {
+     "id": "d",
+     "text": "Modified radical vulvectomy"
+    },
+    {
+     "id": "e",
+     "text": "Sentinel lymph node biopsy of the groin"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Any suspicious vulvar lesion should be biopsied, and the entire lesion should not be removed during the biopsy, because leaving it in place allows site identification through sentinel LN injection if the lesion proves malignant. A persistent white lesion with localized pruritus on the labia majora is the most common presentation of vulvar carcinoma, so a biopsy that samples the lesion without excising it is the correct next step. Radical local excision, modified radical vulvectomy, and sentinel lymph node biopsy with surgical resection are stage-directed treatments that follow once the FIGO stage is known.",
+   "optionExplanations": {
+    "b": "Removing the entire lesion at biopsy destroys the site needed for sentinel LN injection should the lesion be malignant.",
+    "c": "Radical local excision is the treatment for FIGO stage I disease, which cannot be assigned before biopsy confirms carcinoma.",
+    "d": "Modified radical vulvectomy is the treatment for FIGO stage II disease, not a diagnostic manoeuvre for an undiagnosed lesion.",
+    "e": "Sentinel lymph node biopsy belongs to treatment of FIGO stage III-IV disease; the groin lymph nodes are not enlarged and no tissue diagnosis exists yet."
+   },
+   "topic": "Vulvar Carcinoma",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "GY",
+    "name": "Gynecology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 646,
+    "reference": "GY52 — Vulva: Malignant Vulvar Lesions"
    }
   }
  ]

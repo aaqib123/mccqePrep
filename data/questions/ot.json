@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 25,
+ "count": 27,
  "questions": [
   {
    "id": "TN-OT-001",
@@ -1158,6 +1158,98 @@
     "document": "Toronto Notes 2025",
     "page": 1155,
     "reference": "OT11 — Impedance Audiometry"
+   }
+  },
+  {
+   "id": "TN-OT-026",
+   "type": "single-best-answer",
+   "question": "A 58-year-old woman has profound bilateral sensorineural hearing loss that developed after meningitis two years ago, long after she had acquired speech and language. She has worn well-fitted behind-the-ear hearing aids for the past year with no useful benefit, and her speech discrimination remains poor. Her ear canals and tympanic membranes are normal. What is the most appropriate next step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Bone-anchored hearing aid (BAHA)"
+    },
+    {
+     "id": "b",
+     "text": "Cochlear implantation"
+    },
+    {
+     "id": "c",
+     "text": "Contralateral routing of signals (CROS) aid"
+    },
+    {
+     "id": "d",
+     "text": "In-the-canal (ITC) hearing aid"
+    },
+    {
+     "id": "e",
+     "text": "FM radio assistive listening device"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "In a cochlear implant an electrode is inserted into the cochlea to allow direct stimulation of the auditory nerve, and the source gives the indication as profound bilateral SNHL refractory to conventional hearing aids, with postlingually deafened adults an established indication. This woman lost her hearing after speech and language were acquired and has gained nothing from properly fitted conventional amplification, so she meets that indication exactly.",
+   "optionExplanations": {
+    "a": "BAHAs function on bone conduction and are indicated primarily for patients with CHL, unilateral HL, and mixed HL who cannot wear conventional hearing aids, not for profound bilateral SNHL.",
+    "c": "CROS routes signal from the poorer ear across to a better-hearing ear, which requires one usable cochlea; her loss is profound bilaterally.",
+    "d": "An ITC aid placed entirely in the ear canal is simply another conventional air-conduction hearing aid, and conventional amplification has already failed.",
+    "e": "Assistive listening devices such as FM radio or induction loop systems supplement amplification; they do not substitute for it once conventional aids give no benefit at profound levels."
+   },
+   "topic": "Aural Rehabilitation",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "OT",
+    "name": "Otolaryngology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1156,
+    "reference": "OT12 — Aural Rehabilitation"
+   }
+  },
+  {
+   "id": "TN-OT-027",
+   "type": "single-best-answer",
+   "question": "A 34-year-old boilermaker is struck on the occiput by debris during an industrial explosion. He now has sudden severe vertigo with spontaneous nystagmus, complete left facial paralysis, and clear rhinorrhea. Audiometry shows profound left sensorineural hearing loss with no air-bone gap. The external auditory meatus is intact and the left tympanic membrane is blue-black from hemotympanum. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Otic capsule-sparing temporal bone fracture"
+    },
+    {
+     "id": "b",
+     "text": "Otic capsule-involving temporal bone fracture"
+    },
+    {
+     "id": "c",
+     "text": "Noise-induced sensorineural hearing loss with permanent threshold shift"
+    },
+    {
+     "id": "d",
+     "text": "Temporary threshold shift from the blast"
+    },
+    {
+     "id": "e",
+     "text": "Aminoglycoside ototoxicity"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "The source separates temporal bone fractures by otic capsule involvement: otic capsule-involving fractures follow frontal or occipital trauma, extend into the bony labyrinth and internal auditory meatus, and produce SNHL from direct cochlear injury, sudden vestibular symptoms with spontaneous nystagmus from direct semicircular canal injury, CN VII palsy in about 50%, an intact external auditory meatus with hemotympanum, and CSF leak into the Eustachian tube presenting as rhinorrhea. Every one of those features is present after this man's occipital blow.",
+   "optionExplanations": {
+    "a": "Otic capsule-sparing fractures follow lateral skull trauma and extend into the middle ear, giving conductive loss from ossicular injury, bleeding and step formation in the EAC, and CN VII palsy in only 10-20%; vestibular symptoms are rare.",
+    "c": "Noise-induced loss is bilateral and most prominent at 4000 Hz, developing over months to years or after repeated impulses; it does not cause unilateral profound loss with facial palsy, nystagmus and hemotympanum.",
+    "d": "A temporary threshold shift is decreased sensitivity with aural fullness and tinnitus that returns to normal once the noise is removed, and it explains none of the facial, vestibular or CSF findings.",
+    "e": "Aminoglycoside ototoxicity relates to duration of treatment rather than trauma and would not produce hemotympanum, facial paralysis or CSF rhinorrhea."
+   },
+   "topic": "Temporal Bone Fractures",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "OT",
+    "name": "Otolaryngology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1165,
+    "reference": "OT21 — Temporal Bone Fractures"
    }
   }
  ]

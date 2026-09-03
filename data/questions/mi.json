@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 17,
+ "count": 18,
  "questions": [
   {
    "id": "TN-MI-001",
@@ -790,6 +790,52 @@
     "document": "Toronto Notes 2025",
     "page": 799,
     "reference": "MI9 — Pleural Abnormalities: Pneumothorax"
+   }
+  },
+  {
+   "id": "TN-MI-018",
+   "type": "single-best-answer",
+   "question": "A 54-year-old woman is recalled after an abnormal screening mammogram. Diagnostic mammography with special views and ultrasound show a 9 mm solid mass in the left breast, which the radiologist reports as a suspicious abnormality, BI-RADS 4A, low suspicion for malignancy, with a 3-10% likelihood of malignancy. What is the most appropriate next step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Return to routine screening"
+    },
+    {
+     "id": "b",
+     "text": "Unilateral mammogram at 6 mo"
+    },
+    {
+     "id": "c",
+     "text": "Additional imaging and comparison to prior films"
+    },
+    {
+     "id": "d",
+     "text": "Biopsy of the lesion"
+    },
+    {
+     "id": "e",
+     "text": "Definitive therapy"
+    }
+   ],
+   "correctAnswer": "d",
+   "explanation": "In the Breast Imaging Reporting and Data System (BI-RADS), the follow-up recommendation is set by the assessment category rather than by the absolute percentage quoted: BI-RADS 4, a suspicious abnormality with a 3-94% likelihood of malignancy, is followed by biopsy, and that applies to subcategory 4A (low suspicion for malignancy, 3-10%) as much as to 4B and 4C. Short-interval surveillance with a unilateral mammogram at 6 mo is reserved for BI-RADS 3, probably benign, where the likelihood of malignancy is <2%. Because this mass has been assessed as 4A and not 3, the 'low suspicion' label does not permit surveillance and biopsy is required.",
+   "optionExplanations": {
+    "a": "Routine screening is the recommendation for BI-RADS 1 (negative) and BI-RADS 2 (benign findings), not for a lesion assessed as a suspicious abnormality.",
+    "b": "A unilateral mammogram at 6 mo is the follow-up for BI-RADS 3, probably benign, where the likelihood of malignancy is <2%; at 3-10% this lesion exceeds that threshold.",
+    "c": "Additional imaging and comparison to prior films is the recommendation for BI-RADS 0, an incomplete assessment; here the diagnostic mammogram and ultrasound workup is already complete and has yielded a final category.",
+    "e": "Definitive therapy follows BI-RADS 6, malignancy already confirmed by biopsy; this lesion has not yet been sampled."
+   },
+   "topic": "Breast Imaging — BI-RADS Assessment",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "MI",
+    "name": "Medical Imaging"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 818,
+    "reference": "MI28 — Breast Imaging: Table 19, BI-RADS Mammography Categories"
    }
   }
  ]

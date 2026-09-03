@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 18,
+ "count": 19,
  "questions": [
   {
    "id": "TN-R-001",
@@ -836,6 +836,52 @@
     "document": "Toronto Notes 2025",
     "page": 1474,
     "reference": "R20 — Pulmonary Hypertension"
+   }
+  },
+  {
+   "id": "TN-R-019",
+   "type": "single-best-answer",
+   "question": "A 71-year-old man who insulated pipes with asbestos for 20 years, ending four decades ago, has three months of right-sided chest pain, dyspnea, cough and 8 kg weight loss. Thoracentesis yields bloody pleural fluid, and serum calcium is elevated. CT thorax shows irregular pleural thickening. He is a lifelong non-smoker. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Benign asbestos pleural effusion"
+    },
+    {
+     "id": "b",
+     "text": "Malignant mesothelioma"
+    },
+    {
+     "id": "c",
+     "text": "Round atelectasis"
+    },
+    {
+     "id": "d",
+     "text": "Asbestosis"
+    },
+    {
+     "id": "e",
+     "text": "Pleural metastases from a bronchogenic carcinoma"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Toronto Notes describes mesothelioma as a primary malignancy of the pleura arising decades after asbestos exposure, even with limited exposure, presenting with chest pain, dyspnea, cough, bloody pleural effusion and weight loss, and with associated paraneoplastic syndromes such as hypercalcemia. Smoking is not a risk factor for mesothelioma, whereas asbestos exposure and smoking synergistically increase the risk of lung cancer, so a lifelong non-smoker with remote asbestos exposure and this constellation fits mesothelioma. CT thorax and pleuroscopic or open biopsy are the investigations used to establish it.",
+   "optionExplanations": {
+    "a": "Benign asbestos pleural effusion is an exudative effusion appearing typically ~10 yr after exposure that often resolves on its own; pleural cytology is precisely what is used to distinguish it from mesothelioma.",
+    "c": "Round atelectasis is a peripheral finding of asbestos-pleural disease, often with calcified pleural plaques or pleural thickening, and is usually an asymptomatic radiologic finding rather than a cause of weight loss and a bloody effusion.",
+    "d": "Asbestosis is a parenchymal rather than pleural finding — lower lobe ILD that appears the same as IPF — and does not produce a bloody pleural effusion or hypercalcemia.",
+    "e": "Pleural metastases from another malignancy are in the differential of an asbestos-related effusion, but asbestos and smoking act synergistically to raise lung cancer risk, and this patient has never smoked, favouring a primary pleural malignancy."
+   },
+   "topic": "Mesothelioma",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "R",
+    "name": "Respirology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1480,
+    "reference": "R26 — Mesothelioma"
    }
   }
  ]

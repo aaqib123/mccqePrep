@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 24,
+ "count": 26,
  "questions": [
   {
    "id": "TN-U-001",
@@ -1112,6 +1112,98 @@
     "document": "Toronto Notes 2025",
     "page": 1572,
     "reference": "U42 — Wilms' Tumour (Nephroblastoma)"
+   }
+  },
+  {
+   "id": "TN-U-025",
+   "type": "single-best-answer",
+   "question": "A 68-year-old woman reports 10 months of urinary urgency, voiding more than 8 times in a 24 h period, and awakening twice each night to void. She has no leakage with coughing or lifting. Urinalysis rules out hematuria and infection, and post-void residual is normal. She drinks six cups of coffee daily. What is the best initial treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Bladder training, fluid management, and avoidance of caffeine and alcohol"
+    },
+    {
+     "id": "b",
+     "text": "Oral solifenacin"
+    },
+    {
+     "id": "c",
+     "text": "Oral mirabegron"
+    },
+    {
+     "id": "d",
+     "text": "Botulinum toxin bladder injection"
+    },
+    {
+     "id": "e",
+     "text": "Sacral neuromodulation"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Toronto Notes lists non-pharmacological behaviour therapies — bladder training, bladder control strategies, pelvic floor muscle training, fluid management, weight reduction, and avoidance of caffeine and alcohol — first in the treatment of overactive bladder, ahead of pharmacological agents, with botulinum toxin and neuromodulation reserved for refractory patients. This woman has the defining symptom complex of urgency, frequency of more than 8 voids in 24 h and nocturia, with urinalysis excluding hematuria and infection, so behavioural measures and reducing her caffeine intake are the appropriate first step.",
+   "optionExplanations": {
+    "b": "Solifenacin is one of the antimuscarinics listed under pharmacological treatment, which follows rather than replaces behaviour therapy.",
+    "c": "Mirabegron, a β3-adrenoceptor agonist, is also a pharmacological option rather than the initial treatment offered.",
+    "d": "Botulinum toxin bladder injection is listed for refractory patients, not for a newly assessed patient.",
+    "e": "Sacral neuromodulation is likewise reserved for refractory overactive bladder."
+   },
+   "topic": "Overactive Bladder",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "U",
+    "name": "Urology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1542,
+    "reference": "U12 — Overactive Bladder"
+   }
+  },
+  {
+   "id": "TN-U-026",
+   "type": "single-best-answer",
+   "question": "A 41-year-old woman reports 9 months of pelvic pain with suprapubic tenderness, together with urinary frequency, urgency, and nocturia. She has had no pelvic radiation and takes no ketamine or tiaprofenic acid. Urinalysis, urine culture, and urine cytology are all negative. Cystoscopy shows scattered submucosal petechiae without ulcerative lesions. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Overactive bladder"
+    },
+    {
+     "id": "b",
+     "text": "Interstitial cystitis (bladder pain syndrome)"
+    },
+    {
+     "id": "c",
+     "text": "Bladder calculi"
+    },
+    {
+     "id": "d",
+     "text": "Radiation cystitis"
+    },
+    {
+     "id": "e",
+     "text": "Pudendal nerve entrapment"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "Toronto Notes defines interstitial cystitis, or painful bladder/bladder pain syndrome, as bladder pain with chronic urgency and frequency without other identifiable causation, whose clinical features are pelvic pain with supra-pubic tenderness, storage symptoms, negative U/A, urine C&S and urine cytology, and cystoscopy showing glomerulations (submucosal petechiae) or Hunner's lesions. This 41-year-old woman fits the described epidemiology of a median age of 40 with 90% of cases in females, and the drug, radiation, and infectious entries on the differential have been excluded, leaving the non-ulcerative form.",
+   "optionExplanations": {
+    "a": "Overactive bladder appears on the urological differential and gives storage symptoms, but not the pelvic pain or the cystoscopic glomerulations.",
+    "c": "Bladder calculi are also on the urological differential, but cystoscopy showed submucosal petechiae rather than a stone.",
+    "d": "Radiation cystitis is one of the non-infectious cystitides listed, and is excluded by the absence of radiation exposure.",
+    "e": "Pudendal nerve entrapment is the neurological entry on the differential and would not produce glomerulations at cystoscopy."
+   },
+   "topic": "Interstitial Cystitis",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "U",
+    "name": "Urology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1545,
+    "reference": "U15 — Interstitial Cystitis (Painful Bladder or Bladder Pain Syndrome)"
    }
   }
  ]

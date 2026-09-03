@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 38,
+ "count": 40,
  "questions": [
   {
    "id": "TN-ER-001",
@@ -1756,6 +1756,98 @@
     "document": "Toronto Notes 2025",
     "page": 290,
     "reference": "ER44 — Discrete Lesions: Disseminated Gonococcal Infection"
+   }
+  },
+  {
+   "id": "TN-ER-039",
+   "type": "single-best-answer",
+   "question": "A 74-year-old woman with type 2 diabetes taking a sulfonylurea is found drowsy and confused at home after two days of poor oral intake. In the emergency department she is diaphoretic and tremulous, and she cannot swallow safely. Capillary blood glucose is 1.9 mmol/L. Two nurses have attempted intravenous access without success. What is the best initial treatment?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Oral juice or sugar tablets"
+    },
+    {
+     "id": "b",
+     "text": "D50W 50 mL IV push"
+    },
+    {
+     "id": "c",
+     "text": "Glucagon 1-2 mg IM, repeated in 10-20 min"
+    },
+    {
+     "id": "d",
+     "text": "Thiamine 300 mg IM"
+    },
+    {
+     "id": "e",
+     "text": "D10W 10 mL/kg IV"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "The source manages hypoglycemia in a fixed order: oral sugar if possible, IV access if the oral route is not possible with D50W 50 mL IV push, and if IV access and oral replacement are not possible, glucagon 1-2 mg IM, repeat in 10-20 min. This patient has Whipple's triad with a capillary glucose of 1.9 mmol/L but can neither swallow safely nor be cannulated, so intramuscular glucagon is the route that remains. Sulfonylurea-induced hypoglycemia can be prolonged because of the long half-life and may require admission for monitoring.",
+   "optionExplanations": {
+    "a": "Oral sugar is first line only when the patient can take it; she cannot swallow safely.",
+    "b": "D50W 50 mL IV push is the preferred parenteral option but requires the IV access that cannot be obtained.",
+    "d": "Thiamine 300 mg IM is given when alcohol use disorder is suspected; it does not raise the blood glucose.",
+    "e": "The lower-concentration dextrose solutions of the rule of 50's are still given intravenously, so they are equally unavailable here."
+   },
+   "topic": "Hypoglycemia",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "ER",
+    "name": "Emergency Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 281,
+    "reference": "ER35 — Hypoglycemia"
+   }
+  },
+  {
+   "id": "TN-ER-040",
+   "type": "single-best-answer",
+   "question": "A 71-year-old man is brought in with dense right hemiparesis and global aphasia. He was last seen normal 7 h ago when he went to bed. Blood pressure is 158/88 mmHg, capillary blood glucose is 6.4 mmol/L, and he protects his airway. Non-contrast CT of the head shows no hemorrhage. What is the next best step in management?",
+   "options": [
+    {
+     "id": "a",
+     "text": "IV alteplase now"
+    },
+    {
+     "id": "b",
+     "text": "Urgent assessment for endovascular thrombectomy"
+    },
+    {
+     "id": "c",
+     "text": "Dual antiplatelet therapy for 21 d"
+    },
+    {
+     "id": "d",
+     "text": "IV labetalol to lower the blood pressure"
+    },
+    {
+     "id": "e",
+     "text": "Outpatient carotid Doppler and CT angiography of the neck"
+    }
+   ],
+   "correctAnswer": "b",
+   "explanation": "For ischaemic CVA, thrombolysis requires acute onset less than 4.5 h from last seen normal with compatible physical findings and no evidence of hemorrhage on CT, whereas thrombectomy may be an option as an alternative to thrombolysis in the first 4.5 to 6 h and in some instances up to 24 h after symptom onset or last seen normal. This man was last seen normal 7 h ago, so he is outside the thrombolysis window but still inside the window in which thrombectomy can be offered, making urgent assessment for thrombectomy the next step.",
+   "optionExplanations": {
+    "a": "Thrombolysis needs onset less than 4.5 h from last seen normal; at 7 h he no longer meets the eligibility criterion.",
+    "c": "Dual antiplatelet therapy for 21 d is initiated in the ED for high-risk TIA, not instead of reperfusion for a disabling established deficit.",
+    "d": "Only severe hypertension (sBP >200 mmHg, dBP >120 mmHg, MAP >140 mmHg) or hypertension with specified complications is treated; 158/88 mmHg does not qualify.",
+    "e": "Carotid Doppler and outpatient CT angiography of the neck are arranged when a TIA is suspected, not for an acute disabling deficit needing reperfusion assessment."
+   },
+   "topic": "Acute Ischemic Stroke",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "ER",
+    "name": "Emergency Medicine"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 285,
+    "reference": "ER39 — Stroke and TIA: Management"
    }
   }
  ]

@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 26,
+ "count": 28,
  "questions": [
   {
    "id": "TN-OP-001",
@@ -1204,6 +1204,98 @@
     "document": "Toronto Notes 2025",
     "page": 1082,
     "reference": "OP42 — Blow-Out Fracture"
+   }
+  },
+  {
+   "id": "TN-OP-027",
+   "type": "single-best-answer",
+   "question": "A 68-year-old woman has 3 days of pain, swelling and redness below the medial canthus of the left eye, with constant tearing, crusting of the lashes and a low-grade fever. Digital pressure over the swelling expresses pus through the punctum. Visual acuity is 20/25, the cornea is clear, the conjunctiva is only mildly injected, and extraocular movements are full and painless. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Acute dacryocystitis"
+    },
+    {
+     "id": "b",
+     "text": "Dacryoadenitis"
+    },
+    {
+     "id": "c",
+     "text": "Chronic nasolacrimal duct obstruction"
+    },
+    {
+     "id": "d",
+     "text": "Bacterial conjunctivitis"
+    },
+    {
+     "id": "e",
+     "text": "Keratitis"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Dacryocystitis is acute or chronic infection of the lacrimal sac, most commonly due to obstruction of the nasolacrimal duct, and gram-positive bacteria such as S. aureus and S. pneumoniae are the usual cause in adults. The source describes pain, swelling and redness over the lacrimal sac below the medial canthus, with epiphora, crusting and possible fever, and notes that digital pressure on the lacrimal sac may express pus through the punctum. This patient has every one of those features with a clear cornea and quiet globe, so the infection is localized to the lacrimal sac.",
+   "optionExplanations": {
+    "b": "Dacryoadenitis is inflammation of the lacrimal gland in the outer third of the upper eyelid, so the pain, swelling and redness are in the outer region of the upper lid rather than below the medial canthus.",
+    "c": "In the chronic form epiphora may be the only symptom of nasolacrimal duct obstruction; uncomplicated obstruction does not produce a tender red swelling with fever and reflux of pus.",
+    "d": "Conjunctivitis is an inflammatory cause of epiphora, but it produces diffuse conjunctival injection and discharge rather than a localized tender swelling over the lacrimal sac that expresses pus through the punctum.",
+    "e": "Keratitis is another inflammatory cause of reflexive tearing, but it involves the cornea, which is clear here, and would not cause purulent reflux from the punctum."
+   },
+   "topic": "Dacryocystitis",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "OP",
+    "name": "Ophthalmology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1051,
+    "reference": "OP11 — Dacryocystitis"
+   }
+  },
+  {
+   "id": "TN-OP-028",
+   "type": "single-best-answer",
+   "question": "A 47-year-old woman who has been nearsighted since her teens reports 6 months of increasing difficulty reading small print. She has found that she can read comfortably only by removing her distance glasses. Distance vision with those glasses is unchanged at 20/20, the eyes are white and quiet, the lenses are clear, and fundoscopy is normal. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Presbyopia"
+    },
+    {
+     "id": "b",
+     "text": "Hyperopia"
+    },
+    {
+     "id": "c",
+     "text": "Anisometropia"
+    },
+    {
+     "id": "d",
+     "text": "Regular astigmatism"
+    },
+    {
+     "id": "e",
+     "text": "Progression of her myopia"
+    }
+   ],
+   "correctAnswer": "a",
+   "explanation": "Presbyopia is the normal aging process from about age 40 in which hardening and reduced deformability of the lens decrease accommodative ability, so near images cannot be focused onto the retina and accommodative power falls from about 14 D at age 10 to 3.5 D by age 40. The source states that a person who is initially myopic removes their distance glasses to read, which is precisely this patient's adaptation, and her distance vision is unaffected. Correction is with positive diopter, convex, \"plus\" lenses for reading.",
+   "optionExplanations": {
+    "b": "Hyperopia is a globe too short relative to its refractive mechanisms; it makes symptoms of presbyopia occur earlier rather than explaining them, and this patient is myopic with unchanged distance acuity.",
+    "c": "Anisometropia is a difference in refractive error between the eyes; her complaint is symmetric and confined to near vision, and her distance correction still gives 20/20.",
+    "d": "Regular astigmatism is non-uniform refraction from a non-spherical cornea or lens and causes blurry vision, squinting, asthenopia or headaches at distance as well as near, not isolated loss of near focus.",
+    "e": "Myopia usually presents in the 1st or 2nd decade and stabilizes in the 2nd and 3rd, rarely beginning after age 25 except with DM hyperglycemia or early nuclear sclerotic cataracts; her lenses are clear and her distance vision has not changed."
+   },
+   "topic": "Presbyopia",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "OP",
+    "name": "Ophthalmology"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 1048,
+    "reference": "OP8 — Optics"
    }
   }
  ]

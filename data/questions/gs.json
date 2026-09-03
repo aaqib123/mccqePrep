@@ -8,7 +8,7 @@
   "title": "Toronto Notes 2025",
   "subtitle": "Comprehensive Medical Reference and Review for the MCCQE, 41st edition"
  },
- "count": 38,
+ "count": 40,
  "questions": [
   {
    "id": "TN-GS-001",
@@ -1756,6 +1756,98 @@
     "document": "Toronto Notes 2025",
     "page": 541,
     "reference": "GS49 — Fistula-In-Ano"
+   }
+  },
+  {
+   "id": "TN-GS-039",
+   "type": "single-best-answer",
+   "question": "A 68-year-old malnourished man who smokes underwent an open midline laparotomy for bowel obstruction 8 days ago. Nursing staff report copious salmon-coloured serosanguinous drainage soaking the dressing. On palpation of the wound edge the expected healing ridge cannot be felt, though nothing is protruding through the incision and the surrounding skin is not erythematous. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Seroma"
+    },
+    {
+     "id": "b",
+     "text": "Wound hematoma"
+    },
+    {
+     "id": "c",
+     "text": "Wound dehiscence"
+    },
+    {
+     "id": "d",
+     "text": "Incisional hernia"
+    },
+    {
+     "id": "e",
+     "text": "Surgical site infection"
+    }
+   ],
+   "correctAnswer": "c",
+   "explanation": "Wound dehiscence is disruption of a wound that was primarily closed, typically presenting on POD #1-3 or #7-10, and its most common presenting sign is serosanguinous (salmon-coloured) drainage from the wound; palpation of the wound edge should normally feel a healing ridge from the abdominal wall closure. Smoking, malnutrition, and increased intra-abdominal pressure from bowel obstruction are listed risk factors. This man's POD #8 salmon-coloured drainage with an absent healing ridge fits fascial dehiscence, which is managed with a moist dressing and abdominal binder and transfer to the OR.",
+   "optionExplanations": {
+    "a": "A seroma is a fluid collection from serous lymph drainage after transection of lymph vessels; it is managed by observation and does not abolish the healing ridge.",
+    "b": "Wound hematoma presents with pain, swelling, discolouration of the wound edges, and leakage, and is more common with transverse incisions through vascular muscle.",
+    "d": "Incisional hernia is a late complication of fascial dehiscence, developing 6-8 wk postoperatively with symptoms aggravated by coughing or straining, not acute salmon-coloured drainage on POD #8.",
+    "e": "Surgical site infection presents with localized pain, blanchable erythema, induration, warmth, and purulent rather than serosanguinous discharge."
+   },
+   "topic": "Wound Dehiscence",
+   "difficulty": "medium",
+   "chapter": {
+    "code": "GS",
+    "name": "General and Thoracic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 502,
+    "reference": "GS10 — Wound Dehiscence"
+   }
+  },
+  {
+   "id": "TN-GS-040",
+   "type": "single-best-answer",
+   "question": "A 54-year-old woman reports several months of chronic dull right upper quadrant pain with intermittent nausea. She emigrated from rural southern Europe, where she raised sheep and kept dogs. Examination reveals a palpable right upper quadrant mass. CT of the abdomen shows a large hepatic cystic lesion with calcified cystic walls. What is the most likely diagnosis?",
+   "options": [
+    {
+     "id": "a",
+     "text": "Simple hepatic cyst"
+    },
+    {
+     "id": "b",
+     "text": "Polycystic liver disease"
+    },
+    {
+     "id": "c",
+     "text": "Choledochal cyst"
+    },
+    {
+     "id": "d",
+     "text": "Hydatid cyst (cystic echinococcosis)"
+    },
+    {
+     "id": "e",
+     "text": "Biliary cystadenoma"
+    }
+   ],
+   "correctAnswer": "d",
+   "explanation": "Hydatid disease is infection with the parasite Echinococcus granulosus and is associated with exposure to dogs, sheep, horses, pigs, goats, camels, and cattle in Southern Europe, the Middle East, Australasia, and South America. It is usually asymptomatic but may produce a palpable RUQ mass or hepatomegaly with chronic RUQ pain, and CT characteristically shows calcified cystic walls, with anti-Echinococcus antibodies confirming the diagnosis. This woman's sheep and dog exposure in Southern Europe, palpable RUQ mass, and calcified-walled hepatic cyst fit that pattern.",
+   "optionExplanations": {
+    "a": "Simple cysts form from biliary ducts that do not communicate with the intrahepatic biliary tree, contain clear fluid, are always benign, and appear on CT as well-demarcated lesions that do not enhance with contrast.",
+    "b": "Polycystic liver disease is defined by several (>20) cysts replacing much of the liver parenchyma, most commonly as an extra-renal manifestation of autosomal-dominant polycystic kidney disease.",
+    "c": "Choledochal cysts are congenital malformations of the bile ducts that mostly present before age 10 with recurrent abdominal pain, intermittent jaundice, and cholangitis.",
+    "e": "Cystadenoma is a rare cystic neoplasm arising from the bile ducts, seen on U/S as an anechoic mass with internal septations and sometimes elevated CEA or CA 19-9."
+   },
+   "topic": "Liver Cysts",
+   "difficulty": "hard",
+   "chapter": {
+    "code": "GS",
+    "name": "General and Thoracic Surgery"
+   },
+   "source": {
+    "document": "Toronto Notes 2025",
+    "page": 543,
+    "reference": "GS51 — Liver Cysts"
    }
   }
  ]
